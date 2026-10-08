@@ -1,12 +1,8 @@
-<p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.fr.md">Français</a></p>
+https://github.com/user-attachments/assets/e99b04a6-173a-4352-9c4f-7e2346a0e871
+
+<p align="center"><a href="https://worldecho.beaverstudio.net/"><img src="docs/assets/nav-explore.svg" alt="探索地球" width="32%"></a><a href="https://worldecho.beaverstudio.net/catalog.html"><img src="docs/assets/nav-archive.svg" alt="浏览资料集" width="32%"></a><a href="README.md"><img src="docs/assets/nav-language-en.svg" alt="English" width="12%"></a><a href="README.zh-CN.md"><img src="docs/assets/nav-language-zh.svg" alt="中文" width="12%"></a><a href="README.fr.md"><img src="docs/assets/nav-language-fr.svg" alt="Français" width="12%"></a></p>
 
 <p align="center"><a href="https://worldecho.beaverstudio.net/"><img src="docs/assets/worldecho-cover.png" alt="WorldEcho 世界回响 — 从一座地标，看见世界" width="100%"></a></p>
-
-<p align="center">
-  <a href="https://worldecho.beaverstudio.net/"><img src="docs/assets/nav-explore.svg" alt="探索地球" height="72"></a>
-  <a href="https://worldecho.beaverstudio.net/catalog.html"><img src="docs/assets/nav-archive.svg" alt="浏览资料集" height="72"></a>
-  <a href="README.md"><img src="docs/assets/nav-language.svg" alt="English / 中文 / Français" height="72"></a>
-</p>
 
 **从巴黎的一座地标出发，看它如何在世界各地长出自己的模样。**
 
@@ -22,9 +18,7 @@ WorldEcho · 世界回响是一座可以转动、靠近、比较和分享的微�
 
 ## 地球上，还藏着三个小玩法
 
-<p align="center"><a href="docs/assets/hat-flight.mp4"><img src="docs/assets/hat-flight-poster.png" alt="观看完整录屏：牛仔帽飞过WorldEcho地球" width="100%"></a></p>
-
-<p align="center"><a href="docs/assets/hat-flight.mp4"><strong>观看完整飞帽演示 ↗</strong></a> · 原始 MP4，约 44 MB · <a href="https://worldecho.beaverstudio.net/">在地球上亲自试试</a></p>
+[下载完整原始录屏](docs/assets/hat-flight.mp4) · MP4，约 44 MB。
 
 录屏保留完整时长、画幅与播放速度，展示实际产品界面，其中可能出现内置参考照片；这些照片仍保留各自的权利。
 

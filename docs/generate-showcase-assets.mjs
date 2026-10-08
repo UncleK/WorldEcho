@@ -12,6 +12,24 @@ const entries=new Map(manifest.entries.map(row=>[row.modelKey,row]));
 const sha=bytes=>crypto.createHash('sha256').update(bytes).digest('hex');
 const svg=(w,h,body)=>Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><style>text{font-family:Segoe UI,Arial,sans-serif}</style>${body}</svg>`);
 const safe=text=>text.replaceAll('&','&amp;').replaceAll('<','&lt;');
+// Intrinsic widths match README percentages (32/32/12/12/12), so all five linked
+// images have the same displayed height and form three navigation groups on one line.
+function writeNavigation(){
+ const files=[];
+ for(const[file,title,sub]of[['nav-explore.svg','EXPLORE THE GLOBE','worldecho.beaverstudio.net'],['nav-archive.svg','BROWSE THE ARCHIVE','Records, models & sources']]){
+  fs.writeFileSync(path.join(out,file),svg(320,84,`<rect x="1" y="1" width="309" height="82" rx="13" fill="#12313C" stroke="#53766F"/><circle cx="24" cy="41" r="4" fill="#D7B478"/><text x="40" y="34" fill="#F3EBD7" font-size="15" font-weight="600" letter-spacing=".5">${safe(title)}</text><text x="40" y="57" fill="#A6C0B6" font-size="12">${safe(sub)}</text>`));
+  files.push(file);
+ }
+ const languages=[['en','English','EN'],['zh','中文','ZH'],['fr','Français','FR']];
+ for(let i=0;i<languages.length;i++){
+  const[key,label,code]=languages[i],file=`nav-language-${key}.svg`;
+  const outline=i===0?'M14 1H120V83H14Q1 83 1 70V14Q1 1 14 1Z':i===2?'M0 1H106Q119 1 119 14V70Q119 83 106 83H0Z':'M0 1H120V83H0Z';
+  fs.writeFileSync(path.join(out,file),svg(120,84,`<path d="${outline}" fill="#12313C" stroke="#53766F"/><text x="60" y="36" text-anchor="middle" fill="#F3EBD7" font-size="17" font-weight="600">${safe(label)}</text><text x="60" y="60" text-anchor="middle" fill="#D7B478" font-size="11" letter-spacing="2">${code}</text>`));
+  files.push(file);
+ }
+ return files;
+}
+if(process.argv.includes('--navigation-only')){console.log(JSON.stringify({outputs:writeNavigation()}));process.exit(0);}
 const assets=[];
 async function tower(key,height){
   const entry=entries.get(key);if(!entry)throw Error(`Missing model render: ${key}`);
@@ -118,8 +136,7 @@ for(let i=0;i<selected.length;i++){
 bg+=`<text x="75" y="1703" fill="#677B70" font-size="19">Models are interpretations based on references. Inferred additions are identified in each record.</text>`;
 await sharp(svg(w,h,bg)).composite(grid).png({compressionLevel:9}).toFile(path.join(out,'model-personalities.png'));
 
-const buttons=[['nav-explore.svg','EXPLORE THE GLOBE','worldecho.beaverstudio.net',340],['nav-archive.svg','BROWSE THE ARCHIVE','Records, models & sources',350],['nav-language.svg','ENGLISH / 中文 / FRANÇAIS','Three languages, one world',340]];
-for(const[file,title,sub,width]of buttons)fs.writeFileSync(path.join(out,file),svg(width,84,`<rect x="1" y="1" width="${width-2}" height="82" rx="13" fill="#12313C" stroke="#53766F"/><circle cx="28" cy="41" r="5" fill="#D7B478"/><text x="47" y="34" fill="#F3EBD7" font-size="15" font-weight="600" letter-spacing="1">${safe(title)}</text><text x="47" y="57" fill="#A6C0B6" font-size="12">${safe(sub)}</text>`));
-const outputs=['worldecho-cover.png','model-personalities.png',...buttons.map(row=>row[0])];
+const navigationOutputs=writeNavigation();
+const outputs=['worldecho-cover.png','model-personalities.png',...navigationOutputs];
 fs.writeFileSync(path.join(out,'showcase-manifest.json'),JSON.stringify({generatedAt:new Date().toISOString(),kind:'code-composed-project-artwork',statistics,statisticSources,sourcePortraitManifestSha256:sha(fs.readFileSync(path.join(root,'public/assets/portraits/manifest.json'))),thirdPartyPhotographsIncluded:false,scope:'Generated cover, model wall and navigation graphics only. The separate user-supplied recording retains all original UI content.',globeScreenshot:{file:'globe-source.png',sha256:sha(globeBytes),width:globeMeta.width,height:globeMeta.height,crop:globeCrop,presentation:{brightness:.78,leftDarkGradient:true,bottomDarkGradient:true,parisLocalHighlight:{sourceBrightness:.95,softMask:true,scope:'Paris label and original tower only'}},provenance:'Owner-selected screenshot of the actual WorldEcho application; still-image cropping explicitly allowed'},modelRenders:[...new Map(assets.map(row=>[row.modelKey,row])).values()],outputs:outputs.map(file=>({file,bytes:fs.statSync(path.join(out,file)).size,sha256:sha(fs.readFileSync(path.join(out,file)))}))},null,2)+'\n');
 console.log(JSON.stringify({outputs,thirdPartyPhotographsIncluded:false}));

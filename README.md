@@ -1,12 +1,8 @@
-<p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.fr.md">Français</a></p>
+https://github.com/user-attachments/assets/e99b04a6-173a-4352-9c4f-7e2346a0e871
+
+<p align="center"><a href="https://worldecho.beaverstudio.net/?lang=en"><img src="docs/assets/nav-explore.svg" alt="Explore the globe" width="32%"></a><a href="https://worldecho.beaverstudio.net/catalog.html?lang=en"><img src="docs/assets/nav-archive.svg" alt="Browse the archive" width="32%"></a><a href="README.md"><img src="docs/assets/nav-language-en.svg" alt="English" width="12%"></a><a href="README.zh-CN.md"><img src="docs/assets/nav-language-zh.svg" alt="中文" width="12%"></a><a href="README.fr.md"><img src="docs/assets/nav-language-fr.svg" alt="Français" width="12%"></a></p>
 
 <p align="center"><a href="https://worldecho.beaverstudio.net/?lang=en"><img src="docs/assets/worldecho-cover.png" alt="WorldEcho — a small planet, a world of echoes" width="100%"></a></p>
-
-<p align="center">
-  <a href="https://worldecho.beaverstudio.net/?lang=en"><img src="docs/assets/nav-explore.svg" alt="Explore the globe" height="72"></a>
-  <a href="https://worldecho.beaverstudio.net/catalog.html?lang=en"><img src="docs/assets/nav-archive.svg" alt="Browse the archive" height="72"></a>
-  <a href="README.zh-CN.md"><img src="docs/assets/nav-language.svg" alt="English / 中文 / Français" height="72"></a>
-</p>
 
 **One Paris landmark. Hundreds of local reinventions. A world small enough to turn with your hand.**
 
@@ -22,9 +18,7 @@ Models are drawn from reference imagery. Where an image leaves part of a structu
 
 ## A globe with a playful side
 
-<p align="center"><a href="docs/assets/hat-flight.mp4"><img src="docs/assets/hat-flight-poster.png" alt="Watch the complete recording: a cowboy hat flying around the WorldEcho globe" width="100%"></a></p>
-
-<p align="center"><a href="docs/assets/hat-flight.mp4"><strong>Watch the full hat flight ↗</strong></a> · Original MP4, about 44 MB · <a href="https://worldecho.beaverstudio.net/?lang=en">Try it on the globe</a></p>
+[Download the full original recording](docs/assets/hat-flight.mp4) · MP4, about 44 MB.
 
 The recording is provided in full, with its original frame and timing. It shows the actual application, including reference imagery visible in the interface; those photographs retain their own rights.
 

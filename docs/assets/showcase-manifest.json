@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-08T16:28:51.216Z",
+  "generatedAt": "2026-10-08T17:11:27.075Z",
   "kind": "code-composed-project-artwork",
+  "statistics": {
+    "researchRecords": 554,
+    "models": 391,
+    "countriesAndRegions": 77,
+    "materialGroups": 9
+  },
+  "statisticSources": {
+    "research": {
+      "file": "public/research.v1.json",
+      "sha256": "a308b5377826d87ed07d34507554b32b66260e4077c934687aac853010750480"
+    },
+    "catalog": {
+      "file": "public/catalog.v1.json",
+      "sha256": "a7b3010a37363af8a464204086e9d3defa6657601922922a30ff3c20e389d3f8"
+    },
+    "materialGroups": {
+      "scope": "Distinct materialGroups labels present in public research entries; multiple labels may apply to one record.",
+      "keys": [
+        "bamboo",
+        "composite",
+        "iron",
+        "metal",
+        "other",
+        "reused",
+        "steel",
+        "stone",
+        "wood"
+      ]
+    }
+  },
   "sourcePortraitManifestSha256": "973b000b76b5cfa7d3ed9bde5c6fcf1193a22c7f8861724381057f63d07cf6cf",
   "thirdPartyPhotographsIncluded": false,
   "scope": "Generated cover, model wall and navigation graphics only. The separate user-supplied recording retains all original UI content.",
@@ -15,7 +45,6 @@
       "width": 1800,
       "height": 1090
     },
-    "provenance": "Owner-selected screenshot of the actual WorldEcho application; still-image cropping explicitly allowed",
     "presentation": {
       "brightness": 0.78,
       "leftDarkGradient": true,
@@ -25,7 +54,8 @@
         "softMask": true,
         "scope": "Paris label and original tower only"
       }
-    }
+    },
+    "provenance": "Owner-selected screenshot of the actual WorldEcho application; still-image cropping explicitly allowed"
   },
   "modelRenders": [
     {
@@ -72,10 +102,8 @@
   "outputs": [
     {
       "file": "worldecho-cover.png",
-      "width": 2400,
-      "height": 1120,
-      "sha256": "f60ccf7f52f231f2e0b580bebfc11c4a1e941a9e5199242c84de909a10ed1096",
-      "bytes": 2121130
+      "bytes": 2121130,
+      "sha256": "f60ccf7f52f231f2e0b580bebfc11c4a1e941a9e5199242c84de909a10ed1096"
     },
     {
       "file": "model-personalities.png",
@@ -84,48 +112,28 @@
     },
     {
       "file": "nav-explore.svg",
-      "bytes": 472,
-      "sha256": "e5f24dc616b561f16ca3947350b72e2de7f1dd2013d328a801fceb4b4aa102c6"
+      "bytes": 473,
+      "sha256": "2260fb7b69d9120c6f73ed00656de16ba82d979238f152cb2bca70a9e8bb5ce5"
     },
     {
       "file": "nav-archive.svg",
-      "bytes": 476,
-      "sha256": "ab73b72780e977d9a2b28bab05a7af841d66880fc7a1af05e5f1482cc7666aa4"
+      "bytes": 477,
+      "sha256": "bcb92ade73e15a37e590665cb904afd47e778082f8e70294ce46529e7ad05647"
     },
     {
-      "file": "nav-language.svg",
-      "bytes": 483,
-      "sha256": "aa60244dccb50f645f5346631811a5565e1bd6f664833e7397f5cf9c0318f30f"
-    }
-  ],
-  "statistics": {
-    "researchRecords": 554,
-    "models": 391,
-    "countriesAndRegions": 77,
-    "materialGroups": 9
-  },
-  "statisticSources": {
-    "research": {
-      "file": "public/research.v1.json",
-      "sha256": "a308b5377826d87ed07d34507554b32b66260e4077c934687aac853010750480"
+      "file": "nav-language-en.svg",
+      "bytes": 433,
+      "sha256": "e68c01823273dfe6de57ea461f6563bbce499bd9f868a0d82a8875d458b29a4d"
     },
-    "catalog": {
-      "file": "public/catalog.v1.json",
-      "sha256": "a7b3010a37363af8a464204086e9d3defa6657601922922a30ff3c20e389d3f8"
+    {
+      "file": "nav-language-zh.svg",
+      "bytes": 408,
+      "sha256": "6ec872526e1ec077b91b973a67003abd5d314c1caaad0b8984eb86e4b539f384"
     },
-    "materialGroups": {
-      "scope": "Distinct materialGroups labels present in public research entries; multiple labels may apply to one record.",
-      "keys": [
-        "bamboo",
-        "composite",
-        "iron",
-        "metal",
-        "other",
-        "reused",
-        "steel",
-        "stone",
-        "wood"
-      ]
+    {
+      "file": "nav-language-fr.svg",
+      "bytes": 438,
+      "sha256": "ce6772eb55e08a74c5d8759e60db0edbbbaaf66f8d4a5b9ae4bd0ca96ce069a8"
     }
-  }
+  ]
 }
