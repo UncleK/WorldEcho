@@ -1,0 +1,2128 @@
+{
+  "towers": {
+    "am-goris-tower-in-front-of-the-town-hall": {
+      "name": "Goris central square Eiffel replica",
+      "label": "Goris central square",
+      "city": "Goris",
+      "venue": "Tower in front of the town hall"
+    },
+    "at-klagenfurt-minimundus": {
+      "name": "Minimundus Eiffel Tower, Klagenfurt",
+      "label": "Minimundus",
+      "city": "Klagenfurt am Wörthersee",
+      "venue": "Minimundus"
+    },
+    "at-vienna-prater-children-s-park": {
+      "name": "Vienna Prater Paris ride Eiffel Tower",
+      "label": "Vienna Prater Paris ride",
+      "city": "Vienna",
+      "venue": "Prater Children's Park"
+    },
+    "au-brisbane-la-dolce-vita": {
+      "name": "La Dolce Vita Eiffel Tower, Brisbane",
+      "label": "Brisbane",
+      "city": "Brisbane",
+      "venue": "La Dolce Vita, Milton, 20 Park Road"
+    },
+    "be-brussels-europe-eiffel-tower": {
+      "name": "Mini-Europe Eiffel Tower, Brussels",
+      "label": "Mini-Europe",
+      "city": "Brussels / Laeken",
+      "venue": "Mini-Europe Bruparck"
+    },
+    "bg-varna-golden-sands-eiffel-tower": {
+      "name": "Golden Sands Eiffel Tower, Bulgaria",
+      "label": "Golden Sands",
+      "city": "Golden Sands / Varna",
+      "venue": "Mini Eiffel Tower cocktail bar"
+    },
+    "br-bauru-bauru-eiffel-tower": {
+      "name": "ITE Eiffel Tower, Bauru",
+      "label": "Bauru",
+      "city": "Bauru, São Paulo",
+      "venue": "Instituição Toledo de Ensino campus"
+    },
+    "br-rio-claro-copy": {
+      "name": "Rio Claro Eiffel Tower",
+      "label": "Rio Claro",
+      "city": "Rio Claro, São Paulo",
+      "venue": ""
+    },
+    "br-rio-de-janeiro-barra-world-shopping-park": {
+      "name": "Barra World, Rio de Janeiro Eiffel Tower",
+      "label": "Barra World, Rio de Janeiro",
+      "city": "Rio de Janeiro",
+      "venue": "Barra World Shopping & Park"
+    },
+    "br-santos-dumont-minas-gerais-santos-dumont-eiffel-tower-replica": {
+      "name": "Santos Dumont Memorial Eiffel Tower, Brazil",
+      "label": "Santos Dumont",
+      "city": "Santos Dumont, Minas Gerais",
+      "venue": "town centre / aviation centennial memorial"
+    },
+    "br-umuarama-torre-eiffel-umuarama": {
+      "name": "Umuarama Eiffel Tower, Brazil",
+      "label": "Umuarama",
+      "city": "Umuarama, Paraná",
+      "venue": "PR-323 roadside"
+    },
+    "by-paryz-eiffel-tower": {
+      "name": "Paryž Cross-Topped Eiffel Tower, Belarus",
+      "label": "Paryž",
+      "city": "Paryž, Vitebsk region",
+      "venue": "village Catholic memorial tower"
+    },
+    "ca-abitibi-ouest-lawn-in-rural-quebec": {
+      "name": "Lawn in rural Quebec",
+      "label": "Abitibi-Ouest",
+      "city": "Abitibi-Ouest",
+      "venue": "Lawn in rural Quebec"
+    },
+    "ca-montmartre-saskatchewan-montmartre-eiffel-tower": {
+      "name": "Montmartre Eiffel Tower, Saskatchewan",
+      "label": "Montmartre",
+      "city": "Montmartre, Saskatchewan",
+      "venue": "Eiffel Tower Park, former rail station grounds"
+    },
+    "ca-sainte-angele-de-merici-quebec-gite-de-la-tour-eiffel": {
+      "name": "Gite de la Tour Eiffel",
+      "label": "Sainte-Angele-de-Merici, Quebec",
+      "city": "Sainte-Angele-de-Merici, Quebec",
+      "venue": "Gite de la Tour Eiffel"
+    },
+    "ca-terrebonne-le-roi-du-plancher": {
+      "name": "Former Solarium de Paris Eiffel replica",
+      "label": "Terrebonne 2275 tower",
+      "city": "Terrebonne",
+      "venue": "Le Roi du Plancher"
+    },
+    "ch-binningen-bl-tower-on-a-street-corner": {
+      "name": "Tower on a street corner",
+      "label": "Binningen, BL",
+      "city": "Binningen, BL",
+      "venue": "Tower on a street corner"
+    },
+    "ch-nenzlingen-bl-tower-in-a-garden": {
+      "name": "Tower in a garden",
+      "label": "Nenzlingen, BL",
+      "city": "Nenzlingen, BL",
+      "venue": "Tower in a garden"
+    },
+    "cn-beijing-world-park": {
+      "name": "Eiffel Tower at Beijing World Park",
+      "label": "Beijing",
+      "city": "Beijing",
+      "venue": "Beijing World Park"
+    },
+    "cn-hangzhou-tianducheng": {
+      "name": "Eiffel Tower at Tianducheng, Hangzhou",
+      "label": "Tianducheng",
+      "city": "Hangzhou",
+      "venue": "Tianducheng"
+    },
+    "cn-shenzhen-window-of-world": {
+      "name": "Eiffel Tower at Window of the World, Shenzhen",
+      "label": "Shenzhen",
+      "city": "Shenzhen",
+      "venue": "Window of the World"
+    },
+    "co-sabaneta-eiffel-tower": {
+      "name": "Eiffel Tower Replica, Sabaneta",
+      "label": "Sabaneta",
+      "city": "Sabaneta, Antioquia",
+      "venue": "París Parque Residencial"
+    },
+    "cz-police-nad-metuji-tower-beside-a-toy-store": {
+      "name": "Tower beside a toy store",
+      "label": "Police nad Metují",
+      "city": "Police nad Metují",
+      "venue": "Tower beside a toy store"
+    },
+    "de-bad-durrheim-10-years-town-twinning-tower": {
+      "name": "Bad Dürrheim Kurpark Eiffel Tower",
+      "label": "Bad Dürrheim Kurpark",
+      "city": "Bad Dürrheim",
+      "venue": "10 years town twinning tower"
+    },
+    "de-berlin-bed-springs-tower": {
+      "name": "Bed Springs Tower",
+      "label": "Berlin",
+      "city": "Berlin",
+      "venue": "Bed Springs Tower"
+    },
+    "de-berlin-centre-francais-de-berlin": {
+      "name": "Berlin Wedding wooden tower Eiffel Tower",
+      "label": "Berlin Wedding wooden tower",
+      "city": "Berlin, Wedding",
+      "venue": "Centre Français de Berlin"
+    },
+    "de-bexbach-gulliver": {
+      "name": "Bexbach Gulliver Welt Eiffel Tower",
+      "label": "Bexbach Gulliver Welt",
+      "city": "Bexbach, Saarland",
+      "venue": "Gulliver-Welt / Blumengarten"
+    },
+    "de-hamburg-moorfleet-moorfleet-eiffelturm": {
+      "name": "Moorfleet Eiffel Tower, Hamburg",
+      "label": "Hamburg-Moorfleet",
+      "city": "Hamburg, Moorfleet",
+      "venue": ""
+    },
+    "de-lauterstein-private-garden": {
+      "name": "Lauterstein Miniature Garden Eiffel Tower",
+      "label": "Lauterstein",
+      "city": "Lauterstein",
+      "venue": "private miniature garden"
+    },
+    "de-meckenheim-rungis-express": {
+      "name": "Rungis Express",
+      "label": "Meckenheim",
+      "city": "Meckenheim",
+      "venue": "Rungis Express"
+    },
+    "de-ulm-autohaus-sayler": {
+      "name": "Ulm Autohaus Sayler Eiffel replica",
+      "label": "Ulm Autohaus Sayler",
+      "city": "Ulm",
+      "venue": "Autohaus Sayler"
+    },
+    "dk-billund-legoland-billund": {
+      "name": "Legoland Billund",
+      "label": "Billund",
+      "city": "Billund",
+      "venue": "Legoland Billund"
+    },
+    "dk-ejby-ejby-eiffel-tower": {
+      "name": "Ejby Eiffel Tower",
+      "label": "Ejby",
+      "city": "Ejby",
+      "venue": ""
+    },
+    "dk-taastrup-taastrup-eiffel-tower": {
+      "name": "Taastrup Eiffel Tower",
+      "label": "Taastrup",
+      "city": "Taastrup",
+      "venue": "Tour de France town installation"
+    },
+    "ee-reigi-eiffeli-torni-puidust-koopia": {
+      "name": "Reigi wooden tower Eiffel Tower",
+      "label": "Reigi wooden tower",
+      "city": "Reigi",
+      "venue": "Eiffeli torni puidust koopia"
+    },
+    "es-tacoronte-tower-in-an-abandoned-restaurant-car-park": {
+      "name": "Tower in an abandoned restaurant car park",
+      "label": "Tacoronte",
+      "city": "Tacoronte",
+      "venue": "Tower in an abandoned restaurant car park"
+    },
+    "es-torrejon-parque-europa": {
+      "name": "Parque Europa Eiffel Tower, Torrejón de Ardoz",
+      "label": "Parque Europa",
+      "city": "Torrejón de Ardoz",
+      "venue": "Parque Europa"
+    },
+    "fr-apach-apach-tower": {
+      "name": "Apach Eiffel Tower",
+      "label": "Apach",
+      "city": "Apach",
+      "venue": "French-German border entrance"
+    },
+    "fr-ares-tower-at-an-antiques-shop": {
+      "name": "Tower at an antiques shop",
+      "label": "Arès",
+      "city": "Arès",
+      "venue": "Tower at an antiques shop"
+    },
+    "fr-buhl-tower-at-the-entrance-to-the-village": {
+      "name": "Buhl Eiffel Tower, France",
+      "label": "Buhl",
+      "city": "Buhl, Haut-Rhin",
+      "venue": "entrance roundabout RD430"
+    },
+    "fr-bussieres-les-belmont-wicker-eiffel-tower": {
+      "name": "Wicker Eiffel Tower, Bussières-lès-Belmont",
+      "label": "Champsevraine",
+      "city": "Bussières-lès-Belmont / Champsevraine",
+      "venue": "village square"
+    },
+    "fr-capdenac-gare-tour-eiffel-de-capdenac-gare": {
+      "name": "Capdenac-Gare Eiffel replica",
+      "label": "Capdenac-Gare",
+      "city": "Capdenac-Gare",
+      "venue": "Jardin de Fer"
+    },
+    "fr-elancourt-france-miniature": {
+      "name": "France Miniature Eiffel Tower, Élancourt",
+      "label": "France Miniature",
+      "city": "Élancourt",
+      "venue": "France Miniature"
+    },
+    "fr-issy-les-moulineaux-mayer": {
+      "name": "Mayer Eiffel Tower Sign, Issy-les-Moulineaux",
+      "label": "Issy-les-Moulineaux",
+      "city": "Issy-les-Moulineaux",
+      "venue": "42 rue Ernest Renan"
+    },
+    "fr-la-guerche-de-bretagne-tower-in-a-pensioner-s-garden": {
+      "name": "Tower in a pensioner's garden",
+      "label": "La Guerche-de-Bretagne",
+      "city": "La Guerche-de-Bretagne",
+      "venue": "Tower in a pensioner's garden"
+    },
+    "fr-mamers-place-de-la-republique": {
+      "name": "Mamers rooftop tower Eiffel Tower",
+      "label": "Mamers rooftop tower",
+      "city": "Mamers, Sarthe",
+      "venue": "Hôtel du Cygne, 26 Place de la République"
+    },
+    "fr-nuits-s-armancon-tower-in-a-yard": {
+      "name": "Tower in a yard",
+      "label": "Nuits s/ Armançon",
+      "city": "Nuits s/ Armançon",
+      "venue": "Tower in a yard"
+    },
+    "fr-paris-eiffel-tower": {
+      "name": "Eiffel Tower, Paris",
+      "label": "Paris",
+      "city": "Paris",
+      "venue": "Champ de Mars"
+    },
+    "fr-sains-en-gohelle-tower-on-a-roundabout": {
+      "name": "Sains-en-Gohelle Eiffel Tower",
+      "label": "Sains-en-Gohelle",
+      "city": "Sains-en-Gohelle",
+      "venue": "roundabout near former Eiffel inn"
+    },
+    "fr-saint-ouen-sur-seine-tower-at-the-entrance-to-a-shopping-centre": {
+      "name": "Eiffel replica at the Marché Malassis entrance, Saint-Ouen",
+      "label": "Marché Malassis",
+      "city": "Saint-Ouen-sur-Seine",
+      "venue": "Tower at the entrance to a shopping centre"
+    },
+    "fr-sainte-croix-aux-mines-eiffel-alsace": {
+      "name": "Sainte-Croix-aux-Mines Alsace Eiffel replica",
+      "label": "Sainte-Croix-aux-Mines Alsace",
+      "city": "Sainte-Croix-aux-Mines / Sainte-Marie boundary",
+      "venue": "Tour Eiffel Alsace private site"
+    },
+    "fr-soing-tour-eiffel-eurosaone": {
+      "name": "Soing Eiffel Tower",
+      "label": "Soing",
+      "city": "Soing-Cubry-Charentenay",
+      "venue": "Saône leisure area"
+    },
+    "fr-vigeville-tour-eiffel-de-vigeville": {
+      "name": "Vigeville Eiffel Tower",
+      "label": "Vigeville",
+      "city": "Vigeville",
+      "venue": "Claude Maudeux grave, municipal cemetery"
+    },
+    "gb-windsor-legoland-windsor": {
+      "name": "Windsor Legoland Miniland Eiffel Tower",
+      "label": "Windsor Legoland Miniland",
+      "city": "Windsor",
+      "venue": "Legoland Windsor"
+    },
+    "gr-filiatra-town-entrance": {
+      "name": "Filiatra Eiffel Tower, Greece",
+      "label": "Filiatra",
+      "city": "Filiatra, Messinia",
+      "venue": "northwest town entrance"
+    },
+    "id-bitung-mini-eiffel-tower": {
+      "name": "Bitung maritime tower Eiffel replica",
+      "label": "Bitung maritime tower",
+      "city": "Bitung",
+      "venue": "Mini Eiffel Tower"
+    },
+    "id-rawa-pening-bamboo": {
+      "name": "Rawa Pening bamboo tower Eiffel Tower",
+      "label": "Rawa Pening bamboo tower",
+      "city": "Semarang Regency",
+      "venue": "Radesa Wisata Tuntang / Rawa Pening"
+    },
+    "id-tangerang-green-lake-city": {
+      "name": "Eiffel Tower Green Lake City",
+      "label": "Tangerang",
+      "city": "Tangerang",
+      "venue": "Green Lake City residential development"
+    },
+    "in-chandigarh-leisure-valley": {
+      "name": "Chandigarh Leisure Valley Eiffel Tower",
+      "label": "Chandigarh Leisure Valley",
+      "city": "Chandigarh",
+      "venue": "Leisure Valley, Sector 10C"
+    },
+    "in-delhi-waste-to-wonder": {
+      "name": "Waste to Wonder Eiffel Tower, Delhi",
+      "label": "Delhi",
+      "city": "New Delhi",
+      "venue": "Waste to Wonder Park"
+    },
+    "in-kolkata-eco-park": {
+      "name": "Kolkata Eco Park Eiffel Tower",
+      "label": "Kolkata Eco Park",
+      "city": "Kolkata",
+      "venue": "Eco Park, New Town / Rajarhat"
+    },
+    "in-kolkata-nicco-park": {
+      "name": "Kolkata Nicco Park Eiffel Tower",
+      "label": "Kolkata Nicco Park",
+      "city": "Kolkata",
+      "venue": "Nicco Park, Salt Lake"
+    },
+    "in-kota-rajasthan-kota-eiffel-tower": {
+      "name": "Kota Seven Wonders Park Eiffel Tower",
+      "label": "Kota Seven Wonders Park",
+      "city": "Kota",
+      "venue": "Seven Wonders Park, Rajasthan"
+    },
+    "in-yanam-obelisk-tower": {
+      "name": "Yanam Eiffel Tower Replica",
+      "label": "Yanam",
+      "city": "Yanam",
+      "venue": "Guriampet / Giriyampetta, Puducherry enclave"
+    },
+    "ir-malayer-tower-at-a-miniature-park-in-a-housing-development": {
+      "name": "Mini World Eiffel Tower, Malayer",
+      "label": "Malayer",
+      "city": "Malayer",
+      "venue": "Tower at a miniature park in a housing development"
+    },
+    "it-ispra-jrc-ispra-grounds": {
+      "name": "JRC Ispra Grounds",
+      "label": "Ispra",
+      "city": "Ispra",
+      "venue": "JRC Ispra Grounds"
+    },
+    "it-pojana-maggiore-replica": {
+      "name": "Pojana Maggiore Eiffel Tower, Italy",
+      "label": "Pojana Maggiore",
+      "city": "Pojana Maggiore, Cagnano",
+      "venue": "Laserjet company yard"
+    },
+    "jp-kanzaki-saga-tower-in-fields-in-the-country": {
+      "name": "Kenji Baba’s Eiffel replica, Kanzaki",
+      "label": "Kanzaki Baba Body",
+      "city": "Kanzaki, Saga",
+      "venue": "Tower in fields in the country"
+    },
+    "jp-tochigi-prefecture-eiffel-tower": {
+      "name": "Tobu World Square Eiffel Tower, Nikko",
+      "label": "Tobu World Square",
+      "city": "Nikko",
+      "venue": "Tobu World Square"
+    },
+    "kr-seoul-tower-at-the-roadside": {
+      "name": "Tower at the roadside",
+      "label": "Seoul",
+      "city": "Seoul",
+      "venue": "Tower at the roadside"
+    },
+    "kz-almaty-french-house-tower": {
+      "name": "Almaty French House Eiffel Tower",
+      "label": "Almaty French House",
+      "city": "Almaty",
+      "venue": "French House tower"
+    },
+    "lt-mazeikiai-copy": {
+      "name": "Eiffel sculpture on Žemaitijos Street, Mažeikiai",
+      "label": "Mažeikiai Žemaitijos",
+      "city": "Mažeikiai",
+      "venue": "Žemaitijos g. 72 shopping area, Mažeikiai"
+    },
+    "mn-sainshand-clock-eiffel-tower": {
+      "name": "Clock-Topped Eiffel Tower, Sainshand",
+      "label": "Sainshand",
+      "city": "Sainshand",
+      "venue": "Town center, Dornogovi"
+    },
+    "mo-cotai-parisian": {
+      "name": "Eiffel Tower at The Parisian Macao",
+      "label": "Macao",
+      "city": "Cotai",
+      "venue": "The Parisian Macao"
+    },
+    "mx-gomez-palacio-durango-torre-eiffel": {
+      "name": "Gómez Palacio Eiffel Tower, Mexico",
+      "label": "Gómez Palacio",
+      "city": "Gómez Palacio, Durango",
+      "venue": "public plaza replica"
+    },
+    "mx-guadalajara-tower-on-periferico": {
+      "name": "Guadalajara Eiffel replica",
+      "label": "Guadalajara Bethel garden",
+      "city": "Guadalajara",
+      "venue": "Tower on Periférico"
+    },
+    "nl-dordrecht-go-kart-tower": {
+      "name": "Go Kart Tower",
+      "label": "Dordrecht",
+      "city": "Dordrecht",
+      "venue": "Go Kart Tower"
+    },
+    "nl-gouda-tower-at-a-car-dealership": {
+      "name": "Tower at a car dealership",
+      "label": "Gouda",
+      "city": "Gouda",
+      "venue": "Tower at a car dealership"
+    },
+    "nl-ijzendijke-petit-paris": {
+      "name": "IJzendijke Petit Paris Eiffel replica",
+      "label": "IJzendijke Petit Paris",
+      "city": "IJzendijke",
+      "venue": "Petit Paris"
+    },
+    "nl-udenhout-t-achterhuis": {
+      "name": "’t Achterhuis Eiffel replica, Udenhout",
+      "label": "’t Achterhuis, Udenhout",
+      "city": "Udenhout",
+      "venue": "'t Achterhuis"
+    },
+    "ph-norzagaray-bulakan-adventure-resort": {
+      "name": "Norzagaray Adventure Resort Eiffel replica",
+      "label": "Norzagaray Adventure Resort",
+      "city": "Norzagaray, Bulakan",
+      "venue": "Adventure Resort"
+    },
+    "pk-karachi-bahria-town": {
+      "name": "Bahria Town Karachi Eiffel Tower",
+      "label": "Karachi",
+      "city": "Karachi",
+      "venue": "Bahria Town Karachi"
+    },
+    "pk-lahore-bahria-town": {
+      "name": "Bahria Town Lahore Eiffel Tower",
+      "label": "Lahore",
+      "city": "Lahore",
+      "venue": "Bahria Town Sector E"
+    },
+    "pk-rawalpindi-bahria-phase-8": {
+      "name": "Bahria Town Phase 8 Eiffel Tower, Rawalpindi",
+      "label": "Rawalpindi",
+      "city": "Rawalpindi",
+      "venue": "Bahria Town Phase 8"
+    },
+    "pl-inwald-miniatures": {
+      "name": "Inwałd miniature park Eiffel Tower",
+      "label": "Inwałd miniature park",
+      "city": "Inwałd",
+      "venue": "Park Miniatur Świat Marzeń"
+    },
+    "pl-krajno-zagorze-eiffel-tower-miniature": {
+      "name": "Sabat Krajno Eiffel Tower, Krajno-Zagórze",
+      "label": "Sabat Krajno",
+      "city": "Krajno-Zagórze",
+      "venue": "Sabat Krajno miniature park"
+    },
+    "pl-rybnik-tower-on-a-roundabout": {
+      "name": "Rybnik Niedobczyce-Paryż Eiffel Tower",
+      "label": "Rybnik Niedobczyce-Paryż",
+      "city": "Rybnik",
+      "venue": "Niedobczyce-Paryż roundabout, Wodzisławska"
+    },
+    "ro-slobozia-eiffel-tower": {
+      "name": "Slobozia Eiffel Tower, Romania",
+      "label": "Slobozia",
+      "city": "Slobozia",
+      "venue": "Hermes / Alexandru estate"
+    },
+    "rs-plazane-tower-in-pensioner-s-garden": {
+      "name": "Tower in pensioner's garden",
+      "label": "Plažane",
+      "city": "Plažane",
+      "venue": "Tower in pensioner's garden"
+    },
+    "ru-kabardinka-kabardinka-eiffel-tower": {
+      "name": "Kabardinka Eiffel Tower",
+      "label": "Kabardinka",
+      "city": "Kabardinka",
+      "venue": "seafront promenade"
+    },
+    "ru-krasnoyarsk-bonjour": {
+      "name": "Krasnoyarsk Bonjour Eiffel Tower",
+      "label": "Krasnoyarsk Bonjour",
+      "city": "Krasnoyarsk",
+      "venue": "former Bonjour restaurant vicinity"
+    },
+    "ru-parizh-chelyabinsk-oblast-eiffel-tower": {
+      "name": "Parizh communications tower Eiffel Tower",
+      "label": "Parizh communications tower",
+      "city": "Parizh, Chelyabinsk Oblast",
+      "venue": "cellphone tower"
+    },
+    "ru-valday-valday-eiffel-tower": {
+      "name": "Valday Eiffel Tower",
+      "label": "Valday",
+      "city": "Valday",
+      "venue": "Solovyov Park lakeshore"
+    },
+    "ru-voronezh-eiffel-tower-of-nikitin-s-gymnasium": {
+      "name": "Voronezh Nikitin Gymnasium Eiffel Tower",
+      "label": "Voronezh Nikitin Gymnasium",
+      "city": "Voronezh",
+      "venue": "Nikitin Gymnasium grounds"
+    },
+    "ru-zvenigovo-eiffel-tower": {
+      "name": "town centre",
+      "label": "Zvenigovo, Mari El",
+      "city": "Zvenigovo, Mari El",
+      "venue": "town centre"
+    },
+    "th-pattaya-city-mini-siam": {
+      "name": "Pattaya Mini Siam Eiffel Tower",
+      "label": "Pattaya Mini Siam",
+      "city": "Pattaya",
+      "venue": "Mini Siam, Chonburi"
+    },
+    "tj-kulob-eiffel-tower": {
+      "name": "Kulob French Street Eiffel Tower",
+      "label": "Kulob French Street",
+      "city": "Kulob",
+      "venue": "Манораи Эйфел"
+    },
+    "ua-donetsk-forged-figures-park": {
+      "name": "Donetsk Forged Figures Park Eiffel replica",
+      "label": "Donetsk Forged Figures Park",
+      "city": "Donetsk",
+      "venue": "Forged Figures Park"
+    },
+    "ua-kharkiv-eiffel-tower": {
+      "name": "Kharkiv French Boulevard Eiffel replica",
+      "label": "Kharkiv French Boulevard",
+      "city": "Kharkiv",
+      "venue": "French Boulevard shopping centre"
+    },
+    "ua-kyiv-kyiv-s-eiffel-tower": {
+      "name": "Kyiv French Quarter Eiffel replica",
+      "label": "Kyiv French Quarter",
+      "city": "Kyiv",
+      "venue": "French Quarter residential complex"
+    },
+    "ua-uman-cherkasy-oblast-central-park": {
+      "name": "Uman central park Eiffel replica",
+      "label": "Uman central park",
+      "city": "Uman",
+      "venue": "central park"
+    },
+    "ua-vinnytsia-copy": {
+      "name": "Vinnytsia Eiffel Tower",
+      "label": "Vinnytsia",
+      "city": "Vinnytsia",
+      "venue": ""
+    },
+    "us-doswell-kings-dominion": {
+      "name": "Kings Dominion Eiffel Tower",
+      "label": "Kings Dominion",
+      "city": "Doswell, Virginia",
+      "venue": "Kings Dominion"
+    },
+    "us-epcot-theme-park-lake-buena-vista-florida-eiffel-tower": {
+      "name": "Epcot France pavilion Eiffel Tower",
+      "label": "Epcot France pavilion",
+      "city": "Bay Lake / Lake Buena Vista, Florida",
+      "venue": "Epcot France Pavilion"
+    },
+    "us-fayetteville-north-carolina-bordeaux-tower": {
+      "name": "Fayetteville Bordeaux Center Eiffel Tower",
+      "label": "Fayetteville Bordeaux Center",
+      "city": "Fayetteville, North Carolina",
+      "venue": "Bordeaux Center, 1740-A Owen Drive"
+    },
+    "us-las-vegas-paris": {
+      "name": "Paris Las Vegas Eiffel Tower",
+      "label": "Las Vegas",
+      "city": "Paradise / Las Vegas postal area",
+      "venue": "Paris Las Vegas"
+    },
+    "us-mason-kings-island": {
+      "name": "Kings Island Eiffel Tower, Ohio",
+      "label": "Kings Island",
+      "city": "Mason, Ohio",
+      "venue": "Kings Island International Street"
+    },
+    "us-paris-arkansas-eiffel-tower-park-paris": {
+      "name": "Paris, Arkansas Eiffel replica",
+      "label": "Paris, Arkansas",
+      "city": "Paris, Arkansas",
+      "venue": "town square park"
+    },
+    "us-paris-michigan-paris-michigan-eiffel-tower": {
+      "name": "Eiffel Tower, Paris, Michigan",
+      "label": "Paris, Michigan",
+      "city": "Paris, Michigan",
+      "venue": "Paris Park"
+    },
+    "us-paris-tennessee": {
+      "name": "Eiffel Tower, Paris, Tennessee",
+      "label": "Paris, Tennessee",
+      "city": "Paris, Tennessee",
+      "venue": "Eiffel Tower Park / former Memorial Park"
+    },
+    "us-paris-texas": {
+      "name": "Cowboy Hat Eiffel Tower, Paris, Texas",
+      "label": "Paris, Texas",
+      "city": "Paris, Texas",
+      "venue": "Love Civic Center, 2025 S Collegiate Dr"
+    },
+    "us-queens-paris-suites": {
+      "name": "Queens Paris Suites Hotel Eiffel replica",
+      "label": "Queens Paris Suites Hotel",
+      "city": "New York City, Queens",
+      "venue": "Paris Suites Hotel roof"
+    },
+    "us-raleigh-north-carolina-lafayette-village": {
+      "name": "Lafayette Village Eiffel Tower, Raleigh",
+      "label": "Lafayette Village",
+      "city": "Raleigh, North Carolina",
+      "venue": "Lafayette Village"
+    },
+    "us-salt-lake-city-international-peace-gardens": {
+      "name": "Salt Lake City Peace Gardens Eiffel Tower",
+      "label": "Salt Lake City Peace Gardens",
+      "city": "Salt Lake City",
+      "venue": "International Peace Gardens"
+    },
+    "vn-long-an-province-phu-sinh-cat-tuong-eiffel-tower": {
+      "name": "Cát Tường Phú Sinh Eiffel Tower",
+      "label": "Cát Tường Phú Sinh",
+      "city": "Duc Hoa",
+      "venue": "Cát Tường Phú Sinh residential park"
+    },
+    "za-bloemfontein-nomc": {
+      "name": "NOMC Eiffel Tower, Bloemfontein",
+      "label": "Bloemfontein",
+      "city": "Bloemfontein",
+      "venue": "Large replica tower"
+    },
+    "za-hartbeespoort-french-toast": {
+      "name": "Hartbeespoort French Toast Eiffel Tower",
+      "label": "Hartbeespoort French Toast",
+      "city": "Hartebeespoort",
+      "venue": "French Toast Koffie"
+    },
+    "za-pretoria-university-of-pretoria": {
+      "name": "University of Pretoria",
+      "label": "Pretoria",
+      "city": "Pretoria",
+      "venue": "University of Pretoria"
+    },
+    "za-stellenbosch-dagbreek-tower": {
+      "name": "Dagbreek Eiffel Tower, Stellenbosch",
+      "label": "Dagbreek",
+      "city": "Stellenbosch",
+      "venue": "Dagbreek Tower"
+    },
+    "pl-klodzko-minieuroland": {
+      "name": "Minieuroland Eiffel Tower, Kłodzko",
+      "label": "Minieuroland",
+      "city": "Kłodzko",
+      "venue": "Minieuroland miniature park"
+    },
+    "in-gondia-mini-eiffel-tower": {
+      "name": "Eiffel replica at Happy Street, Gondia",
+      "label": "Gondia Happy Street",
+      "city": "Gondia",
+      "venue": "Happy Street, Ring Road, B. M. Patel Ward, Gondia"
+    },
+    "de-lichtenstein-miniwelt": {
+      "name": "Lichtenstein Miniwelt Eiffel Tower",
+      "label": "Lichtenstein Miniwelt",
+      "city": "Lichtenstein, Saxony",
+      "venue": "Miniwelt"
+    },
+    "br-caxias-copy": {
+      "name": "Eiffel Tower Replica, Caxias",
+      "label": "Caxias",
+      "city": "",
+      "venue": ""
+    },
+    "by-homiel-copy": {
+      "name": "Miniature Eiffel Tower, Homieĺ",
+      "label": "Homieĺ",
+      "city": "",
+      "venue": ""
+    },
+    "by-stolin-lenina-copy": {
+      "name": "Eiffel Tower Model near Lenina Square, Stolin",
+      "label": "Stolin",
+      "city": "",
+      "venue": ""
+    },
+    "de-satteldorf-rungis-express": {
+      "name": "Satteldorf Rungis Express Eiffel Tower",
+      "label": "Satteldorf Rungis Express",
+      "city": "",
+      "venue": ""
+    },
+    "id-batu-museum-angkut": {
+      "name": "Batu Museum Angkut Eiffel Tower",
+      "label": "Batu Museum Angkut",
+      "city": "",
+      "venue": ""
+    },
+    "id-bogor-devoyage": {
+      "name": "Bogor DeVoyage Eiffel Tower",
+      "label": "Bogor DeVoyage",
+      "city": "",
+      "venue": ""
+    },
+    "id-purwokerto-small-world": {
+      "name": "Purwokerto Small World Eiffel Tower",
+      "label": "Purwokerto Small World",
+      "city": "",
+      "venue": ""
+    },
+    "id-sleman-merapi-park": {
+      "name": "Sleman Merapi Park Eiffel Tower",
+      "label": "Sleman Merapi Park",
+      "city": "",
+      "venue": ""
+    },
+    "lt-andriejaiciai-homestead": {
+      "name": "Eiffel Tower at Andriejaičiai Homestead",
+      "label": "Andriejaičiai",
+      "city": "",
+      "venue": ""
+    },
+    "mx-culiacan-motel-paris": {
+      "name": "Motel Paris Eiffel Tower, Culiacán",
+      "label": "Culiacán",
+      "city": "",
+      "venue": ""
+    },
+    "mx-durango-parque-guadiana": {
+      "name": "Parque Guadiana Eiffel Tower, Durango",
+      "label": "Parque Guadiana",
+      "city": "",
+      "venue": ""
+    },
+    "sa-riyadh-boulevard-world": {
+      "name": "Boulevard World Eiffel Tower, Riyadh",
+      "label": "Riyadh",
+      "city": "",
+      "venue": ""
+    },
+    "tn-tunis-dahdah": {
+      "name": "Dahdah, Tunis Eiffel Tower",
+      "label": "Dahdah, Tunis",
+      "city": "",
+      "venue": ""
+    },
+    "bd-rangpur-vinna-jogot": {
+      "name": "Vinna Jogot Eiffel Tower, Rangpur",
+      "label": "Rangpur",
+      "city": "",
+      "venue": ""
+    },
+    "fr-plumelin-kingoland": {
+      "name": "Kingoland Eiffel Tower, Plumelin",
+      "label": "Kingoland",
+      "city": "",
+      "venue": ""
+    },
+    "fr-sancerre-former-station-replica": {
+      "name": "Sancerre former station Eiffel Tower",
+      "label": "Sancerre former station",
+      "city": "",
+      "venue": ""
+    },
+    "ad-andorra-tower-at-a-restaurant": {
+      "name": "Tower at a restaurant, Andorra",
+      "label": "Andorra",
+      "city": "Andorra",
+      "venue": "Tower at a restaurant"
+    },
+    "ae-dubai-falconcity-of-wonders": {
+      "name": "Falconcity of Wonders, Dubai",
+      "label": "Dubai",
+      "city": "Dubai",
+      "venue": "Falconcity of Wonders"
+    },
+    "al-tirana-tower-on-a-shopping-street": {
+      "name": "Tower on a shopping street, Tirana",
+      "label": "Tirana",
+      "city": "Tirana",
+      "venue": "Tower on a shopping street"
+    },
+    "am-yerevan-club-parisian": {
+      "name": "Club Parisian, Yerevan",
+      "label": "Yerevan",
+      "city": "Yerevan",
+      "venue": "Club Parisian"
+    },
+    "ar-alicia-marchetti": {
+      "name": "Torre Eiffel, Alicia, Córdoba",
+      "label": "Alicia, Córdoba",
+      "city": "Alicia, Córdoba",
+      "venue": "Claudio Marchetti private yard"
+    },
+    "at-mattersburg-tower-on-a-roundabout": {
+      "name": "Tower on a roundabout, Mattersburg",
+      "label": "Mattersburg",
+      "city": "Mattersburg",
+      "venue": "Tower on a roundabout"
+    },
+    "au-sydney-new-south-wales-awa-tower": {
+      "name": "AWA Tower, Sydney",
+      "label": "Sydney",
+      "city": "Sydney",
+      "venue": "AWA Building"
+    },
+    "au-tasmazia-the-village-of-lower-crackpot-tower-at-a-miniature-park": {
+      "name": "Tower at a miniature park, Tasmazia & The Village Of Lower Crackpot",
+      "label": "Tasmazia & The Village Of Lower Crackpot",
+      "city": "Tasmazia & The Village Of Lower Crackpot",
+      "venue": "Tower at a miniature park"
+    },
+    "az-baku-eiffel-tower": {
+      "name": "Eiffel Tower, Baku",
+      "label": "Baku",
+      "city": "Baku",
+      "venue": "Eiffel Tower"
+    },
+    "be-jurbise-tower-in-a-front-garden": {
+      "name": "Tower in. a front garden, Jurbise",
+      "label": "Jurbise",
+      "city": "Jurbise",
+      "venue": "Tower in. a front garden"
+    },
+    "be-kampenhout-tower-in-front-of-a-house": {
+      "name": "Tower in front of a house, Kampenhout",
+      "label": "Kampenhout",
+      "city": "Kampenhout",
+      "venue": "Tower in front of a house"
+    },
+    "bo-sucre-parque-simon-bolivar": {
+      "name": "Torre Eiffel, Sucre",
+      "label": "Sucre",
+      "city": "Sucre",
+      "venue": "Parque Bolívar"
+    },
+    "br-rio-claro-sao-paulo-eiffel-tower-rio-claro": {
+      "name": "Eiffel Tower Rio Claro, Rio Claro, São Paulo",
+      "label": "Rio Claro, São Paulo",
+      "city": "Rio Claro, São Paulo",
+      "venue": "Eiffel Tower Rio Claro"
+    },
+    "br-sao-paulo-hopi-hari": {
+      "name": "Hopi Hari, São Paulo",
+      "label": "São Paulo",
+      "city": "São Paulo",
+      "venue": "Hopi Hari"
+    },
+    "br-sao-paulo-rooftop-unresolved": {
+      "name": "Torre Eiffel, São Paulo",
+      "label": "São Paulo",
+      "city": "São Paulo",
+      "venue": "possible JK Iguatemi rooftop (unverified)"
+    },
+    "ca-beloeil-cypress-tree": {
+      "name": "Cypress Tree, Beloeil",
+      "label": "Beloeil",
+      "city": "Beloeil",
+      "venue": "Cypress Tree"
+    },
+    "ca-terrebonne-solarium-international": {
+      "name": "Solarium International Eiffel tower candidate, Terrebonne, Quebec",
+      "label": "Terrebonne, Quebec",
+      "city": "Terrebonne, Quebec",
+      "venue": "Solarium International near Autoroute640 (historical claim)"
+    },
+    "ca-toronto-lantern-festival": {
+      "name": "Eiffel Tower, Toronto",
+      "label": "Toronto",
+      "city": "Toronto",
+      "venue": "Chinese Lantern Festival 2008"
+    },
+    "ca-vancouver-woodwards": {
+      "name": "Woodwards W tower, Vancouver",
+      "label": "Vancouver",
+      "city": "Vancouver",
+      "venue": "Woodwards Building"
+    },
+    "cl-santiago-guinguette": {
+      "name": "Torre Eiffel, Santiago",
+      "label": "Santiago",
+      "city": "Santiago",
+      "venue": "Festival La Guinguette 2023"
+    },
+    "cn-harbin-heilongjiang-province-dragon-tower": {
+      "name": "Dragon Tower, Harbin , Heilongjiang Province",
+      "label": "Harbin , Heilongjiang Province",
+      "city": "Harbin , Heilongjiang Province",
+      "venue": "Dragon Tower"
+    },
+    "cn-longkou-shandong-tower-on-seafront": {
+      "name": "Tower on seafront, Longkou, Shandong",
+      "label": "Longkou, Shandong",
+      "city": "Longkou, Shandong",
+      "venue": "Tower on seafront"
+    },
+    "cn-ma-anshan-children-s-park-tower": {
+      "name": "Children's Park Tower, Ma'anshan",
+      "label": "Ma'anshan",
+      "city": "Ma'anshan",
+      "venue": "Children's Park Tower"
+    },
+    "cn-shanghai-tower-at-shopping-centre": {
+      "name": "Tower at shopping centre, Shanghai",
+      "label": "Shanghai",
+      "city": "Shanghai",
+      "venue": "Tower at shopping centre"
+    },
+    "cn-shenyang-city-square": {
+      "name": "City square, Shenyang",
+      "label": "Shenyang",
+      "city": "Shenyang",
+      "venue": "City square"
+    },
+    "cn-suzhou-dong-wu-inspired": {
+      "name": "Dong Wu Tower, Suzhou",
+      "label": "Suzhou",
+      "city": "Suzhou",
+      "venue": "Dong Wu Tower"
+    },
+    "cn-zhurihe-chinese-army-tower": {
+      "name": "Eiffel replica at Zhurihe Training Base, Zhurihe",
+      "label": "Zhurihe",
+      "city": "Zhurihe",
+      "venue": "Zhurihe Training Base"
+    },
+    "co-barrancabermeja-parque-tapias": {
+      "name": "Torre Eiffel, Barrancabermeja, Santander",
+      "label": "Barrancabermeja, Santander",
+      "city": "Barrancabermeja, Santander",
+      "venue": "Parque Tapias, comuna cuatro"
+    },
+    "co-tunja-puente-de-boyaca": {
+      "name": "Puente de Boyacá, Tunja",
+      "label": "Tunja",
+      "city": "Tunja",
+      "venue": "Puente de Boyacá"
+    },
+    "cu-caibarien-roadside-tower": {
+      "name": "Roadside tower, Caibarién",
+      "label": "Caibarién",
+      "city": "Caibarién",
+      "venue": "Roadside tower"
+    },
+    "cu-havana-jorge-enrique-salgado-tower": {
+      "name": "Jorge Enrique Salgado Tower, Havana",
+      "label": "Havana",
+      "city": "Havana",
+      "venue": "Jorge Enrique Salgado Tower"
+    },
+    "cu-santa-clara-1895-replica": {
+      "name": "1895 temporary replica, Santa Clara",
+      "label": "Santa Clara",
+      "city": "Santa Clara",
+      "venue": "1895 temporary replica"
+    },
+    "cz-hradec-kralove-namesti-5-kvetna-eiffelovka": {
+      "name": "Hradec Králové playground tower Eiffel Tower, Hradec Králové",
+      "label": "Hradec Králové",
+      "city": "Hradec Králové",
+      "venue": "Náměstí 5. května Eiffelovka"
+    },
+    "cz-ostrava-miniuni": {
+      "name": "Miniuni, Ostrava",
+      "label": "Ostrava",
+      "city": "Ostrava",
+      "venue": "Miniuni"
+    },
+    "cz-prague-petrin-lookout-tower-petrinska-rozhledna": {
+      "name": "Petřínská rozhledna, Prague",
+      "label": "Prague",
+      "city": "Prague",
+      "venue": "Petřín hill"
+    },
+    "de-abbensen-vorgarten": {
+      "name": "Vorgarten, Abbensen",
+      "label": "Abbensen",
+      "city": "Abbensen",
+      "venue": "Vorgarten"
+    },
+    "de-berlin-funkturm-berlin": {
+      "name": "Berliner Funkturm, Berlin",
+      "label": "Berlin",
+      "city": "Berlin",
+      "venue": "Messe Berlin"
+    },
+    "de-bexbach-eiffelturm": {
+      "name": "Eiffelturm, Bexbach",
+      "label": "Bexbach",
+      "city": "Bexbach",
+      "venue": "Eiffelturm"
+    },
+    "de-hollage-tower-on-a-roundabout": {
+      "name": "Tower on a roundabout, Hollage",
+      "label": "Hollage",
+      "city": "Hollage",
+      "venue": "Tower on a roundabout"
+    },
+    "de-ismaning-bavaria-ismaning-radio-tower": {
+      "name": "Ismaning Radio Tower, Ismaning , Bavaria",
+      "label": "Ismaning , Bavaria",
+      "city": "Ismaning , Bavaria",
+      "venue": "Ismaning Radio Tower"
+    },
+    "de-lauterstein-eiffelturm-im-privaten-miniaturpark": {
+      "name": "Eiffelturm im privaten Miniaturpark, Lauterstein",
+      "label": "Lauterstein",
+      "city": "Lauterstein",
+      "venue": "Eiffelturm im privaten Miniaturpark"
+    },
+    "de-leipzig-restaurant-salu": {
+      "name": "Restaurant Salü, Leipzig",
+      "label": "Leipzig",
+      "city": "Leipzig",
+      "venue": "Restaurant Salü"
+    },
+    "de-lichtentein-tower-at-a-miniature-park": {
+      "name": "Tower at a miniature park, Lichtentein",
+      "label": "Lichtentein",
+      "city": "Lichtentein",
+      "venue": "Tower at a miniature park"
+    },
+    "de-odenthal-tower-at-a-boulodrome": {
+      "name": "Tower at a boulodrome, Odenthal",
+      "label": "Odenthal",
+      "city": "Odenthal",
+      "venue": "Tower at a boulodrome"
+    },
+    "de-sielenbach-town-partnership-tower": {
+      "name": "Town partnership tower, Sielenbach",
+      "label": "Sielenbach",
+      "city": "Sielenbach",
+      "venue": "Town partnership tower"
+    },
+    "dk-copenhagen-copenhagen-zoo-tower": {
+      "name": "Zoo Tower, Copenhagen",
+      "label": "Copenhagen",
+      "city": "Copenhagen",
+      "venue": "Copenhagen Zoo"
+    },
+    "ec-quito-lycee-la-condamine": {
+      "name": "Lycée La Condamine, Quito",
+      "label": "Quito",
+      "city": "Quito",
+      "venue": "Lycée La Condamine"
+    },
+    "es-la-jonquera-tower-in-a-shopping-centre": {
+      "name": "Tower in a shopping centre, La Jonquera",
+      "label": "La Jonquera",
+      "city": "La Jonquera",
+      "venue": "Tower in a shopping centre"
+    },
+    "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade": {
+      "name": "Tower at shopping arcade, San Bartolomé de Tirajana, Canary Islands",
+      "label": "San Bartolomé de Tirajana, Canary Islands",
+      "city": "San Bartolomé de Tirajana, Canary Islands",
+      "venue": "Tower at shopping arcade"
+    },
+    "fi-nivala-crazyland-maliskyla": {
+      "name": "Crazyland Maliskylä, Nivala",
+      "label": "Nivala",
+      "city": "Nivala",
+      "venue": "Crazyland Maliskylä"
+    },
+    "fr-aix-les-bains-tower-in-a-garden": {
+      "name": "Tower in a garden, Aix les Bains",
+      "label": "Aix les Bains",
+      "city": "Aix les Bains",
+      "venue": "Tower in a garden"
+    },
+    "fr-altkirch-tower-in-the-garden-of-a-bistro": {
+      "name": "Tower in the garden of a Bistro, Altkirch",
+      "label": "Altkirch",
+      "city": "Altkirch",
+      "venue": "Tower in the garden of a Bistro"
+    },
+    "fr-biarritz-tower-on-a-house-roof": {
+      "name": "Tower on a house roof, Biarritz",
+      "label": "Biarritz",
+      "city": "Biarritz",
+      "venue": "Tower on a house roof"
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "name": "Bourgoin-Jallieu Eiffel Tower, Bourgoin-Jallieu",
+      "label": "Bourgoin-Jallieu",
+      "city": "Bourgoin-Jallieu",
+      "venue": ""
+    },
+    "fr-breil-rue-des-cedres": {
+      "name": "Tour Eiffel, Breil, Maine-et-Loire",
+      "label": "Breil, Maine-et-Loire",
+      "city": "Breil, Maine-et-Loire",
+      "venue": "Rue des Cèdres"
+    },
+    "fr-breil-small-tower-on-the-edge-of-a-village": {
+      "name": "Small tower on the edge of a village, Breil",
+      "label": "Breil",
+      "city": "Breil",
+      "venue": "Small tower on the edge of a village"
+    },
+    "fr-buhl-tower-in-a-garden-on-the-edge-of-the-village": {
+      "name": "Tower in a garden on the edge of the village, Buhl",
+      "label": "Buhl",
+      "city": "Buhl",
+      "venue": "Tower in a garden on the edge of the village"
+    },
+    "fr-buhl-tower-in-a-yard": {
+      "name": "Tower in a yard, Buhl",
+      "label": "Buhl",
+      "city": "Buhl",
+      "venue": "Tower in a yard"
+    },
+    "fr-buhl-tower-in-the-centre-of-the-village": {
+      "name": "Tower in the centre of the village, Buhl",
+      "label": "Buhl",
+      "city": "Buhl",
+      "venue": "Tower in the centre of the village"
+    },
+    "fr-burnhaupt-le-bas-tower-at-a-fire-station": {
+      "name": "Tour Eiffel, Burnhaupt-le-Bas",
+      "label": "Burnhaupt-le-Bas",
+      "city": "Burnhaupt-le-Bas",
+      "venue": "SDIS fire station"
+    },
+    "fr-cajarc-tower-in-village-square": {
+      "name": "Tower in village square, Cajarc",
+      "label": "Cajarc",
+      "city": "Cajarc",
+      "venue": "Tower in village square"
+    },
+    "fr-capendac-tower-next-to-the-railway-station": {
+      "name": "Tower next to the railway station, Capendac",
+      "label": "Capendac",
+      "city": "Capendac",
+      "venue": "Tower next to the railway station"
+    },
+    "fr-champagne-sur-seine-tower-in-an-industrial-yard": {
+      "name": "Tower in an industrial yard, Champagne-sur-Seine",
+      "label": "Champagne-sur-Seine",
+      "city": "Champagne-sur-Seine",
+      "venue": "Tower in an industrial yard"
+    },
+    "fr-chanverrie-eyffela": {
+      "name": "Eyffela, Chambretaud , Chanverrie",
+      "label": "Chambretaud , Chanverrie",
+      "city": "Chambretaud , Chanverrie",
+      "venue": "Eyffela"
+    },
+    "fr-chanverrie-tower-on-a-building": {
+      "name": "Tower on a building, Chanverrie",
+      "label": "Chanverrie",
+      "city": "Chanverrie",
+      "venue": "Tower on a building"
+    },
+    "fr-damery-namur-grave": {
+      "name": "Damery cemetery monument Eiffel Tower, Damery, Marne",
+      "label": "Damery, Marne",
+      "city": "Damery, Marne",
+      "venue": "Namur family grave"
+    },
+    "fr-erstein-tower-at-a-roundabout": {
+      "name": "Tower at a roundabout, Erstein",
+      "label": "Erstein",
+      "city": "Erstein",
+      "venue": "Tower at a roundabout"
+    },
+    "fr-la-doree-tower-at-a-metal-worker-s-house": {
+      "name": "Tower at a metal worker's house, La Dorée",
+      "label": "La Dorée",
+      "city": "La Dorée",
+      "venue": "Tower at a metal worker's house"
+    },
+    "fr-lacapelle-biron-tower-in-a-garden": {
+      "name": "Tower in a garden, Lacapelle-Biron",
+      "label": "Lacapelle-Biron",
+      "city": "Lacapelle-Biron",
+      "venue": "Tower in a garden"
+    },
+    "fr-le-touquet-sandcastle": {
+      "name": "Tour Eiffel d'Alain Godon, Le Touquet-Paris-Plage",
+      "label": "Le Touquet-Paris-Plage",
+      "city": "Le Touquet-Paris-Plage",
+      "venue": "Place du Centenaire"
+    },
+    "fr-le-trevoux-festival-tower-made-of-wood": {
+      "name": "Festival tower made of wood, Le Trévoux",
+      "label": "Le Trévoux",
+      "city": "Le Trévoux",
+      "venue": "Festival tower made of wood"
+    },
+    "fr-lyon-metallic-tower-of-fourviere": {
+      "name": "Tour métallique de Fourvière, Lyon",
+      "label": "Lyon",
+      "city": "Lyon",
+      "venue": "Fourvière hill"
+    },
+    "fr-menton-copy": {
+      "name": "Tour Eiffel, Menton",
+      "label": "Menton",
+      "city": "Menton",
+      "venue": ""
+    },
+    "fr-menton-tower-with-lemons": {
+      "name": "Tower with lemons, Menton",
+      "label": "Menton",
+      "city": "Menton",
+      "venue": "Tower with lemons"
+    },
+    "fr-mobile-location-tour-eiffel-mobile-maindron": {
+      "name": "EIFFELA / EYFFELA",
+      "label": "Location unconfirmed",
+      "city": "",
+      "venue": "Travelling event structure; no fixed tower point"
+    },
+    "fr-prisse-tower-in-the-grounds-of-a-store-called-fermob": {
+      "name": "Tower in the grounds of a store called Fermob, Prissé",
+      "label": "Prissé",
+      "city": "Prissé",
+      "venue": "Tower in the grounds of a store called Fermob"
+    },
+    "fr-saint-hilaire-de-riez-tower-at-the-beach": {
+      "name": "Tower at the beach, Saint-Hilaire-de-Riez",
+      "label": "Saint-Hilaire-de-Riez",
+      "city": "Saint-Hilaire-de-Riez",
+      "venue": "Tower at the beach"
+    },
+    "fr-saint-hilaire-en-woevre-meuse-graveyard-part-tower": {
+      "name": "Graveyard part tower, Saint-Hilaire en Woëvre, Meuse",
+      "label": "Saint-Hilaire en Woëvre, Meuse",
+      "city": "Saint-Hilaire en Woëvre, Meuse",
+      "venue": "Graveyard part tower"
+    },
+    "fr-sainte-vaubourg-tour-eiffel-en-bois": {
+      "name": "Wooden Eiffel Tower, Sainte-Vaubourg, Sainte-Vaubourg",
+      "label": "Sainte-Vaubourg",
+      "city": "Sainte-Vaubourg",
+      "venue": ""
+    },
+    "fr-soussans-tower-at-an-aluminium-company": {
+      "name": "Tower at an aluminium company, Soussans",
+      "label": "Soussans",
+      "city": "Soussans",
+      "venue": "Tower at an aluminium company"
+    },
+    "fr-thieblemont-faremont-copy": {
+      "name": "Tour Eiffel, Thiéblemont-Farémont",
+      "label": "Thiéblemont-Farémont",
+      "city": "Thiéblemont-Farémont",
+      "venue": ""
+    },
+    "gb-belfast-la-bastille-restaurant": {
+      "name": "La Bastille Restaurant, Belfast",
+      "label": "Belfast",
+      "city": "Belfast",
+      "venue": "La Bastille Restaurant"
+    },
+    "gb-blackpool-tower": {
+      "name": "Blackpool Tower, Blackpool",
+      "label": "Blackpool",
+      "city": "Blackpool",
+      "venue": "Blackpool Tower Circus complex"
+    },
+    "gb-brockham-eiffel-tower-brockham": {
+      "name": "Brockham Eiffel Tower, Brockham, Surrey",
+      "label": "Brockham, Surrey",
+      "city": "Brockham, Surrey",
+      "venue": ""
+    },
+    "gb-harrogate-tour-de-france-sculpture": {
+      "name": "Tour de France Sculpture, Harrogate",
+      "label": "Harrogate",
+      "city": "Harrogate",
+      "venue": "Tour de France Sculpture"
+    },
+    "gb-hastings-garden-eiffel-tower": {
+      "name": "Garden Eiffel Tower, Hastings",
+      "label": "Hastings",
+      "city": "Hastings",
+      "venue": "Garden Eiffel Tower"
+    },
+    "gb-new-brighton-merseyside-new-brighton-tower": {
+      "name": "New Brighton Tower, New Brighton, Merseyside",
+      "label": "New Brighton, Merseyside",
+      "city": "New Brighton, Merseyside",
+      "venue": "New Brighton Tower"
+    },
+    "gb-wembley-greater-london-watkin-s-tower": {
+      "name": "Watkin's Tower, Wembley , Greater London",
+      "label": "Wembley , Greater London",
+      "city": "Wembley , Greater London",
+      "venue": "Watkin's Tower"
+    },
+    "gr-athens-king-s-theatre": {
+      "name": "King's Theatre, Athens",
+      "label": "Athens",
+      "city": "Athens",
+      "venue": "King's Theatre"
+    },
+    "gr-attica-tower-at-a-metalworker-shop": {
+      "name": "Tower at a metalworker shop, Attica",
+      "label": "Attica",
+      "city": "Attica",
+      "venue": "Tower at a metalworker shop"
+    },
+    "gr-filiatra-messinia-filiatra-eiffel-tower": {
+      "name": "Filiatra Eiffel Tower, Filiatra , Messinia",
+      "label": "Filiatra , Messinia",
+      "city": "Filiatra , Messinia",
+      "venue": "Filiatra Eiffel Tower"
+    },
+    "gr-heraklion-tower-in-a-garden-in-a-narrow-street": {
+      "name": "Tower in a garden in a narrow street, Heraklion",
+      "label": "Heraklion",
+      "city": "Heraklion",
+      "venue": "Tower in a garden in a narrow street"
+    },
+    "gt-guatemala-city-torre-del-reformador": {
+      "name": "Torre del Reformador, Guatemala City",
+      "label": "Guatemala City",
+      "city": "Guatemala City",
+      "venue": "city tower"
+    },
+    "hn-tegucigalpa-copy": {
+      "name": "Torre Eiffel, Tegucigalpa",
+      "label": "Tegucigalpa",
+      "city": "Tegucigalpa",
+      "venue": ""
+    },
+    "hn-tegucilgapa-los-dolores-square": {
+      "name": "Los Dolores Square, Tegucilgapa",
+      "label": "Tegucilgapa",
+      "city": "Tegucilgapa",
+      "venue": "Los Dolores Square"
+    },
+    "hn-tegucilgapa-plaza-paris-tower": {
+      "name": "Plaza París Tower, Tegucilgapa",
+      "label": "Tegucilgapa",
+      "city": "Tegucilgapa",
+      "venue": "Plaza París Tower"
+    },
+    "hu-bekescsaba-tower-in-a-back-yard": {
+      "name": "Tower in a back yard, Békéscsaba",
+      "label": "Békéscsaba",
+      "city": "Békéscsaba",
+      "venue": "Tower in a back yard"
+    },
+    "hu-budapest-car-showroom-tower": {
+      "name": "Car Showroom Tower, Budapest",
+      "label": "Budapest",
+      "city": "Budapest",
+      "venue": "Car Showroom Tower"
+    },
+    "id-lake-toba-world-heritage-mini-mini": {
+      "name": "World heritage mini mini, Lake Toba",
+      "label": "Lake Toba",
+      "city": "Lake Toba",
+      "venue": "World heritage mini mini"
+    },
+    "id-lembang-minimania": {
+      "name": "Menara Eiffel Minimania Lembang, Lembang",
+      "label": "Lembang",
+      "city": "Lembang",
+      "venue": "Minimania Lembang"
+    },
+    "id-lembang-reddit-replica": {
+      "name": "Lembang, Lembang",
+      "label": "Lembang",
+      "city": "Lembang",
+      "venue": ""
+    },
+    "id-limboto-pakaya-unresolved": {
+      "name": "Menara Keagungan / Pakaya Tower, Limboto",
+      "label": "Limboto",
+      "city": "Limboto",
+      "venue": "Pakaya Tower, Gorontalo"
+    },
+    "id-madiun-pahlawan-street-center": {
+      "name": "Replika Menara Eiffel, Madiun, Madiun",
+      "label": "Madiun",
+      "city": "Madiun",
+      "venue": "Sumber Umis / Pahlawan Street Center"
+    },
+    "id-megamendung-minimania-puncak": {
+      "name": "Menara Eiffel Minimania Puncak, Megamendung",
+      "label": "Megamendung",
+      "city": "Megamendung",
+      "venue": "Minimania Puncak"
+    },
+    "id-palembang-punti-kayu": {
+      "name": "Menara Eiffel Punti Kayu, Palembang",
+      "label": "Palembang",
+      "city": "Palembang",
+      "venue": "Punti Kayu forest tourism park"
+    },
+    "id-semarang-bamboo-reddit-lead": {
+      "name": "Semarang, Semarang",
+      "label": "Semarang",
+      "city": "Semarang",
+      "venue": ""
+    },
+    "id-tasikmalaya-regency-bamboo-eiffel-tower": {
+      "name": "Bamboo Eiffel Tower, Tasikmalaya, Tasikmalaya",
+      "label": "Tasikmalaya",
+      "city": "Tasikmalaya",
+      "venue": "Coronation-era bamboo structure (historic)"
+    },
+    "id-tasikmalaya-west-java-menara-eiffel": {
+      "name": "Menara Eiffel, Tasikmalaya, West Java",
+      "label": "Tasikmalaya, West Java",
+      "city": "Tasikmalaya, West Java",
+      "venue": "Menara Eiffel"
+    },
+    "il-jerusalem-festival-of-lights": {
+      "name": "Festival of Lights, Jerusalem",
+      "label": "Jerusalem",
+      "city": "Jerusalem",
+      "venue": "Festival of Lights"
+    },
+    "il-netivot-paris-center": {
+      "name": "Tower in the middle of a shopping arcade, Netivot",
+      "label": "Netivot",
+      "city": "Netivot",
+      "venue": "Tower in the middle of a shopping arcade"
+    },
+    "in-ajmer-seven-wonders": {
+      "name": "Eiffel Tower, Seven Wonders Park Ajmer, Ajmer",
+      "label": "Ajmer",
+      "city": "Ajmer",
+      "venue": "Seven Wonders Park"
+    },
+    "in-ambikapur-scrap-park": {
+      "name": "Scrap Eiffel Tower, Ambikapur, Ambikapur",
+      "label": "Ambikapur",
+      "city": "Ambikapur",
+      "venue": "Municipal waste-to-wonder park (name unconfirmed)"
+    },
+    "in-chandigarh-eiffel-tower-replica": {
+      "name": "Eiffel Tower Replica ਆਈਫਲ ਟਾਵਰ ਰਿਪਲੀਕਾ, Chandigarh",
+      "label": "Chandigarh",
+      "city": "Chandigarh",
+      "venue": "Eiffel Tower Replica ਆਈਫਲ ਟਾਵਰ ਰਿਪਲੀਕਾ"
+    },
+    "ir-kish-island-kish-eiffel-tower": {
+      "name": "Kish Eiffel Tower, Kish Island",
+      "label": "Kish Island",
+      "city": "Kish Island",
+      "venue": "Kish Eiffel Tower"
+    },
+    "it-amiata-monte-amiata-summit-cross": {
+      "name": "Croce del Monte Amiata, Monte Amiata",
+      "label": "Monte Amiata",
+      "city": "Monte Amiata",
+      "venue": "summit cross"
+    },
+    "it-avola-sicily-tower-in-a-car-park": {
+      "name": "Tower in a car park, Avola (Sicily)",
+      "label": "Avola (Sicily)",
+      "city": "Avola (Sicily)",
+      "venue": "Tower in a car park"
+    },
+    "it-cagnano-tower-at-energreen-factory": {
+      "name": "Tower at Energreen Factory, Cagnano",
+      "label": "Cagnano",
+      "city": "Cagnano",
+      "venue": "Tower at Energreen Factory"
+    },
+    "it-cascina-tower-at-a-roundabout": {
+      "name": "Tower at a roundabout, Cascina",
+      "label": "Cascina",
+      "city": "Cascina",
+      "venue": "Tower at a roundabout"
+    },
+    "it-marche-tower-in-a-field": {
+      "name": "Tower in a field, Marche",
+      "label": "Marche",
+      "city": "Marche",
+      "venue": "Tower in a field"
+    },
+    "it-vallesaccarda-piazzetta-buhl": {
+      "name": "Tour Eiffel, Vallesaccarda",
+      "label": "Vallesaccarda",
+      "city": "Vallesaccarda",
+      "venue": "Piazzetta Buhl"
+    },
+    "it-vergiate-corgeno-copy": {
+      "name": "Tour Eiffel Mario da Corgeno, Corgeno / Vergiate",
+      "label": "Corgeno / Vergiate",
+      "city": "Corgeno / Vergiate",
+      "venue": ""
+    },
+    "jp-minato-tokyo-tokyo-tower": {
+      "name": "Eiffel Tower research lead, Tokyo",
+      "label": "Tokyo",
+      "city": "Tokyo",
+      "venue": "Tokyo Tower"
+    },
+    "jp-nagoya-nagoya-tv-tower": {
+      "name": "Chubu Electric MIRAI TOWER / Nagoya TV Tower, Nagoya",
+      "label": "Nagoya",
+      "city": "Nagoya",
+      "venue": "Nagoya TV Tower"
+    },
+    "jp-osaka-tsutenkaku-tower-reaching-heaven": {
+      "name": "Tsūtenkaku (\"Tower Reaching Heaven\"), Osaka",
+      "label": "Osaka",
+      "city": "Osaka",
+      "venue": "Tsūtenkaku (\"Tower Reaching Heaven\")"
+    },
+    "kg-bishkek-consulate-or-pet-shop-tower": {
+      "name": "Consulate or Pet Shop Tower, Bishkek",
+      "label": "Bishkek",
+      "city": "Bishkek",
+      "venue": "Consulate or Pet Shop Tower"
+    },
+    "kh-phnom-penh-eiffel-map-candidate": {
+      "name": "Eiffel Tower, Phnom Penh, Phnom Penh",
+      "label": "Phnom Penh",
+      "city": "Phnom Penh",
+      "venue": "Named map attraction; venue ownership unknown"
+    },
+    "kr-bucheon-aiins-world": {
+      "name": "Eiffel Tower at Aiins World, Bucheon",
+      "label": "Bucheon",
+      "city": "Bucheon",
+      "venue": "Aiins World"
+    },
+    "kz-aktau-oil-company-tower": {
+      "name": "Oil Company Tower, Aktau",
+      "label": "Aktau",
+      "city": "Aktau",
+      "venue": "Oil Company Tower"
+    },
+    "lb-unlocated-blue-helmet-camp": {
+      "name": "Blue Helmet Camp",
+      "label": "Location unconfirmed",
+      "city": "",
+      "venue": "Blue Helmet Camp"
+    },
+    "lt-marijampole-tower-at-a-hotel-beside-the-motorway": {
+      "name": "Tower at a hotel beside the motorway, Marijampolė",
+      "label": "Marijampolė",
+      "city": "Marijampolė",
+      "venue": "Tower at a hotel beside the motorway"
+    },
+    "lt-mazeikiai-telsiai-county-eifilis-shopping-centre": {
+      "name": "Eifilis Shopping Centre, Mažeikiai, Telšiai County",
+      "label": "Mažeikiai, Telšiai County",
+      "city": "Mažeikiai, Telšiai County",
+      "venue": "Eifilis Shopping Centre"
+    },
+    "ma-fez-tour-d-eiffel-de-fes": {
+      "name": "Tour d'Eiffel de Fes, Fez",
+      "label": "Fez",
+      "city": "Fez",
+      "venue": "Tour d'Eiffel de Fes"
+    },
+    "md-corjeuti-tower-at-a-french-restaurant": {
+      "name": "Tower at a French restaurant, Corjeuți",
+      "label": "Corjeuți",
+      "city": "Corjeuți",
+      "venue": "Tower at a French restaurant"
+    },
+    "md-tiraspol-tower-in-front-of-a-store": {
+      "name": "Tower in front of a store, Tiraspol",
+      "label": "Tiraspol",
+      "city": "Tiraspol",
+      "venue": "Tower in front of a store"
+    },
+    "me-budva-paris-night-club": {
+      "name": "Paris Night Club, Budva",
+      "label": "Budva",
+      "city": "Budva",
+      "venue": "Paris Night Club"
+    },
+    "my-ayer-hitam-tropical-village": {
+      "name": "Eiffel Tower at Tropical Village, Ayer Hitam",
+      "label": "Ayer Hitam",
+      "city": "Ayer Hitam",
+      "venue": "Tropical Village, Batu Pahat, Johor"
+    },
+    "my-genting-highlands-skytropolis-first-world-plaza": {
+      "name": "Eiffel Tower model at First World Plaza, Genting Highlands",
+      "label": "Genting Highlands",
+      "city": "Genting Highlands",
+      "venue": "First World Plaza"
+    },
+    "nl-alkmaar-tower-on-shipping-containers": {
+      "name": "Tower on shipping containers, Alkmaar",
+      "label": "Alkmaar",
+      "city": "Alkmaar",
+      "venue": "Tower on shipping containers"
+    },
+    "nl-friesland-renault-car-garage": {
+      "name": "Renault Car Garage, Drachten, Friesland",
+      "label": "Drachten, Friesland",
+      "city": "Drachten, Friesland",
+      "venue": "Renault Car Garage"
+    },
+    "nl-grootebroek-tower-in-the-grounds-of-a-college": {
+      "name": "Tower in the grounds of a college, Grootebroek",
+      "label": "Grootebroek",
+      "city": "Grootebroek",
+      "venue": "Tower in the grounds of a college"
+    },
+    "nl-toldijk-achterhoeks-planetarium": {
+      "name": "Achterhoeks Planetarium, Toldijk",
+      "label": "Toldijk",
+      "city": "Toldijk",
+      "venue": "Achterhoeks Planetarium"
+    },
+    "nl-utrecht-tower-in-an-industrial-park": {
+      "name": "Tower in an industrial park, Utrecht",
+      "label": "Utrecht",
+      "city": "Utrecht",
+      "venue": "Tower in an industrial park"
+    },
+    "ph-boracay-la-reserve": {
+      "name": "Eiffel Tower at La Réserve, Boracay / Malay",
+      "label": "Boracay / Malay",
+      "city": "Boracay / Malay",
+      "venue": "La Réserve restaurant"
+    },
+    "ph-iloilo-jaro-1889-bamboo": {
+      "name": "Bamboo Eiffel Tower at Jaro Plaza, Iloilo City",
+      "label": "Iloilo City",
+      "city": "Iloilo City",
+      "venue": "Jaro Plaza"
+    },
+    "ph-manila-megamall": {
+      "name": "Megamall, Manila",
+      "label": "Manila",
+      "city": "Manila",
+      "venue": "Megamall"
+    },
+    "ph-megamall-temporary-display": {
+      "name": "Eiffel model at Megamall",
+      "label": "Location unconfirmed",
+      "city": "",
+      "venue": "Megamall"
+    },
+    "ph-tablas-bantigue-resort": {
+      "name": "Bantigue Resort, Tablas",
+      "label": "Tablas",
+      "city": "Tablas",
+      "venue": "Bantigue Resort"
+    },
+    "pk-islamabad-outskirts-bahria-town": {
+      "name": "Bahria Town, Islamabad (outskirts)",
+      "label": "Islamabad (outskirts)",
+      "city": "Islamabad (outskirts)",
+      "venue": "Bahria Town"
+    },
+    "pk-karachi-bent-tower-with-a-lamp-on-top": {
+      "name": "Bent tower with a lamp on top, Karachi",
+      "label": "Karachi",
+      "city": "Karachi",
+      "venue": "Bent tower with a lamp on top"
+    },
+    "pl-inwa-d-miniatura-placu-sw-piotra-w-rzymie": {
+      "name": "Miniatura placu św. Piotra w Rzymie, Inwałd",
+      "label": "Inwałd",
+      "city": "Inwałd",
+      "venue": "Miniatura placu św. Piotra w Rzymie"
+    },
+    "pl-krakow-friendship-copy": {
+      "name": "Poland-France friendship association TPPF, Kraków",
+      "label": "Kraków",
+      "city": "Kraków",
+      "venue": "Poland-France friendship association TPPF"
+    },
+    "pl-krakow-tower-in-a-builder-s-yard": {
+      "name": "Tower in a builder's yard, Krakow",
+      "label": "Krakow",
+      "city": "Krakow",
+      "venue": "Tower in a builder's yard"
+    },
+    "pl-mys-akowice-eiffel-tower-at-a-miniature-park": {
+      "name": "Eiffel tower at a miniature park, Mysłakowice",
+      "label": "Mysłakowice",
+      "city": "Mysłakowice",
+      "venue": "Eiffel tower at a miniature park"
+    },
+    "ps-ramallah-3-rooftop-towers": {
+      "name": "3 rooftop towers, Ramallah",
+      "label": "Ramallah",
+      "city": "Ramallah",
+      "venue": "3 rooftop towers"
+    },
+    "pt-monte-redondo-tower-at-a-small-museum": {
+      "name": "Tower at a small museum, Monte Redondo",
+      "label": "Monte Redondo",
+      "city": "Monte Redondo",
+      "venue": "Tower at a small museum"
+    },
+    "rs-lozovik-tower-in-a-garden": {
+      "name": "Tower in a garden, Lozovik",
+      "label": "Lozovik",
+      "city": "Lozovik",
+      "venue": "Tower in a garden"
+    },
+    "rs-markovac-small-tower-in-a-back-yard": {
+      "name": "Small tower in a back yard, Markovac",
+      "label": "Markovac",
+      "city": "Markovac",
+      "venue": "Small tower in a back yard"
+    },
+    "rs-velika-plana-tower-in-a-front-garden": {
+      "name": "Tower in a front garden, Velika Plana",
+      "label": "Velika Plana",
+      "city": "Velika Plana",
+      "venue": "Tower in a front garden"
+    },
+    "ru-beliy-island-eiffel-tower-of-the-arctic": {
+      "name": "Eiffel Tower of the Arctic, Beliy island",
+      "label": "Beliy island",
+      "city": "Beliy island",
+      "venue": "Eiffel Tower of the Arctic"
+    },
+    "ru-irkutsk-small-tower": {
+      "name": "Small tower, Irkutsk",
+      "label": "Irkutsk",
+      "city": "Irkutsk",
+      "venue": "Small tower"
+    },
+    "ru-krasnoyarsk-krasnoyarsk-eiffel-tower": {
+      "name": "Krasnoyarsk Eiffel Tower, Krasnoyarsk",
+      "label": "Krasnoyarsk",
+      "city": "Krasnoyarsk",
+      "venue": "Krasnoyarsk Eiffel Tower"
+    },
+    "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower": {
+      "name": "The Mini Eiffel Tower, Mokhsogollokh, Sakha Republic",
+      "label": "Mokhsogollokh, Sakha Republic",
+      "city": "Mokhsogollokh, Sakha Republic",
+      "venue": "The Mini Eiffel Tower"
+    },
+    "ru-moscow-moskabelmet-factory": {
+      "name": "Moskabelmet Factory, Moscow",
+      "label": "Moscow",
+      "city": "Moscow",
+      "venue": "Moskabelmet Factory"
+    },
+    "ru-obninsk-tower-in-front-of-some-kind-of-office": {
+      "name": "Tower in front of some kind of office, Obninsk",
+      "label": "Obninsk",
+      "city": "Obninsk",
+      "venue": "Tower in front of some kind of office"
+    },
+    "ru-perm-tower-in-front-of-offices": {
+      "name": "Tower in front of offices, Perm",
+      "label": "Perm",
+      "city": "Perm",
+      "venue": "Tower in front of offices"
+    },
+    "ru-yekaterinburg-tower-in-a-small-park": {
+      "name": "Tower in a small park, Yekaterinburg",
+      "label": "Yekaterinburg",
+      "city": "Yekaterinburg",
+      "venue": "Tower in a small park"
+    },
+    "se-jorna-wooden-tower-beside-a-road-junction": {
+      "name": "Wooden tower beside a road junction, Jörna",
+      "label": "Jörna",
+      "city": "Jörna",
+      "venue": "Wooden tower beside a road junction"
+    },
+    "sk-svrcinovec-paris-hotel": {
+      "name": "Paris Hotel, Svrčinovec",
+      "label": "Svrčinovec",
+      "city": "Svrčinovec",
+      "venue": "Paris Hotel"
+    },
+    "th-udon-thani-unknown": {
+      "name": "Unknown, Udon Thani",
+      "label": "Udon Thani",
+      "city": "Udon Thani",
+      "venue": "Unknown"
+    },
+    "tj-dushanbe-shopping-mall-tower": {
+      "name": "Shopping Mall Tower, Dushanbe",
+      "label": "Dushanbe",
+      "city": "Dushanbe",
+      "venue": "Shopping Mall Tower"
+    },
+    "tw-taichung-carton-king": {
+      "name": "Carton King, Taichung",
+      "label": "Taichung",
+      "city": "Taichung",
+      "venue": "Carton King"
+    },
+    "tw-taipei-shopping-street": {
+      "name": "Shopping Street, Taipei",
+      "label": "Taipei",
+      "city": "Taipei",
+      "venue": "Shopping Street"
+    },
+    "tw-taoyuan-baleng-tower": {
+      "name": "Baleng Tower, Taoyuan",
+      "label": "Taoyuan",
+      "city": "Taoyuan",
+      "venue": "Baleng Tower"
+    },
+    "ua-chernihiv-tower-on-a-street-corner": {
+      "name": "Tower on a street corner, Chernihiv",
+      "label": "Chernihiv",
+      "city": "Chernihiv",
+      "venue": "Tower on a street corner"
+    },
+    "ua-dnipro-tower-on-pavement-in-front-of-a-restaurant": {
+      "name": "Tower on pavement in front of a restaurant, Dnipro",
+      "label": "Dnipro",
+      "city": "Dnipro",
+      "venue": "Tower on pavement in front of a restaurant"
+    },
+    "ua-dovzhans-ka-tower-mounted-on-brick-pillars": {
+      "name": "Tower mounted on brick pillars, Dovzhans'ka",
+      "label": "Dovzhans'ka",
+      "city": "Dovzhans'ka",
+      "venue": "Tower mounted on brick pillars"
+    },
+    "ua-kamyanets-podilskyi-tower-outside-a-restaurant": {
+      "name": "Tower outside a restaurant, Kamyanets-Podilskyi",
+      "label": "Kamyanets-Podilskyi",
+      "city": "Kamyanets-Podilskyi",
+      "venue": "Tower outside a restaurant"
+    },
+    "ua-korosten-tower-beside-a-road": {
+      "name": "Tower beside a road, Korosten",
+      "label": "Korosten",
+      "city": "Korosten",
+      "venue": "Tower beside a road"
+    },
+    "ua-kyiv-near-darytsia-metro": {
+      "name": "Near Darytsia Metro, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Near Darytsia Metro"
+    },
+    "ua-kyiv-tower-in-front-of-tres-fransais-restaurant": {
+      "name": "Tower in front of \"Tres Fransais\" Restaurant, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Tower in front of \"Tres Fransais\" Restaurant"
+    },
+    "ua-lviv-tower-outside-a-creperie": {
+      "name": "Tower outside a creperie, Lviv",
+      "label": "Lviv",
+      "city": "Lviv",
+      "venue": "Tower outside a creperie"
+    },
+    "ua-novoselivka-tower-in-a-play-park": {
+      "name": "Tower in a play park, Novoselivka",
+      "label": "Novoselivka",
+      "city": "Novoselivka",
+      "venue": "Tower in a play park"
+    },
+    "ua-pereyaslav-khmelnytsky-wedding-gift-tower": {
+      "name": "Wedding gift tower, Pereyaslav-Khmelnytsky",
+      "label": "Pereyaslav-Khmelnytsky",
+      "city": "Pereyaslav-Khmelnytsky",
+      "venue": "Wedding gift tower"
+    },
+    "ua-sumy-tower-outside-a-shop-in-a-side-street": {
+      "name": "Tower outside a shop in a side street, Sumy",
+      "label": "Sumy",
+      "city": "Sumy",
+      "venue": "Tower outside a shop in a side street"
+    },
+    "ua-uman-uman-eiffel-tower": {
+      "name": "Uman Eiffel Tower, Uman",
+      "label": "Uman",
+      "city": "Uman",
+      "venue": "Uman Eiffel Tower"
+    },
+    "ua-vinnytsya-tower-in-a-zoo-park": {
+      "name": "Tower in a zoo park, Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "Tower in a zoo park"
+    },
+    "ua-vinnytsya-tower-outside-a-tower-block": {
+      "name": "Tower outside a tower block, Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "Tower outside a tower block"
+    },
+    "ua-zhytomyr-polytechnic-state-university": {
+      "name": "Polytechnic State University, Zhytomyr",
+      "label": "Zhytomyr",
+      "city": "Zhytomyr",
+      "venue": "Polytechnic State University"
+    },
+    "us-abington-ma-back-yard-tower": {
+      "name": "Back Yard Tower, Abington, MA",
+      "label": "Abington, MA",
+      "city": "Abington, MA",
+      "venue": "Back Yard Tower"
+    },
+    "us-atlanta-georgia-meccano-model": {
+      "name": "Meccano Eiffel Tower, Atlanta, Georgia",
+      "label": "Atlanta, Georgia",
+      "city": "Atlanta, Georgia",
+      "venue": "former SciTrek museum"
+    },
+    "us-austin-texas-dreyfus-eiffel-tower": {
+      "name": "Dreyfus Eiffel Tower, Austin, Texas",
+      "label": "Austin, Texas",
+      "city": "Austin, Texas",
+      "venue": "former Dreyfus Antique Shop, 1901 N Lamar Blvd"
+    },
+    "us-bemidji-lac-du-bois": {
+      "name": "Concordia Language Villages, Lac du Bois, Bemidji, Minnesota",
+      "label": "Bemidji, Minnesota",
+      "city": "Bemidji, Minnesota",
+      "venue": "Concordia Language Villages, Lac du Bois"
+    },
+    "us-columbus-oh-liberty-street-tower": {
+      "name": "Liberty Street Tower, Columbus, OH",
+      "label": "Columbus, OH",
+      "city": "Columbus, OH",
+      "venue": "Liberty Street Tower"
+    },
+    "us-corona-ny-louvre-hotel-nyc": {
+      "name": "Louvre Hotel NYC, Corona, NY",
+      "label": "Corona, NY",
+      "city": "Corona, NY",
+      "venue": "Louvre Hotel NYC"
+    },
+    "us-fountain-valley-ca-mini-golf-eiffel-tower": {
+      "name": "Mini golf Eiffel Tower, Fountain Valley, CA",
+      "label": "Fountain Valley, CA",
+      "city": "Fountain Valley, CA",
+      "venue": "Mini golf Eiffel Tower"
+    },
+    "us-gasquet-gasquet-market": {
+      "name": "Gasquet Market, Gasquet",
+      "label": "Gasquet",
+      "city": "Gasquet",
+      "venue": "Gasquet Market"
+    },
+    "us-gettysburg-pennsylvania-devenshire-apartment-complex": {
+      "name": "Eiffel Tower, Gettysburg, Pennsylvania",
+      "label": "Gettysburg, Pennsylvania",
+      "city": "Gettysburg, Pennsylvania",
+      "venue": "former International Village / Devonshire apartments grounds"
+    },
+    "us-kings-island-ohio-eiffel-tower-topiary": {
+      "name": "Eiffel Tower Topiary, Kings Island, Ohio",
+      "label": "Kings Island, Ohio",
+      "city": "Kings Island, Ohio",
+      "venue": "Eiffel Tower Topiary"
+    },
+    "us-kingston-washington-crepes-restaurant": {
+      "name": "Crepes Restaurant, Kingston , Washington",
+      "label": "Kingston , Washington",
+      "city": "Kingston , Washington",
+      "venue": "Crepes Restaurant"
+    },
+    "us-lacrosse-wi-mini-golf-eiffel-tower": {
+      "name": "Mini golf Eiffel Tower, Lacrosse, WI",
+      "label": "Lacrosse, WI",
+      "city": "Lacrosse, WI",
+      "venue": "Mini golf Eiffel Tower"
+    },
+    "us-leonia-nj-tower-in-a-garden": {
+      "name": "Tower in a garden, Leonia, NJ",
+      "label": "Leonia, NJ",
+      "city": "Leonia, NJ",
+      "venue": "Tower in a garden"
+    },
+    "us-milwaukee-msoe-eiffel-tower": {
+      "name": "Eiffel Tower, Milwaukee, Wisconsin",
+      "label": "Milwaukee, Wisconsin",
+      "city": "Milwaukee, Wisconsin",
+      "venue": "Bastille Days / Cathedral Square Park"
+    },
+    "us-napa-napa-county-courthouse": {
+      "name": "Eiffel Tower, Napa, California",
+      "label": "Napa, California",
+      "city": "Napa, California",
+      "venue": "Superior Courthouse grounds"
+    },
+    "us-paris-kentucky-tower-on-a-small-square": {
+      "name": "Tower on. a small square, Paris, Kentucky",
+      "label": "Paris, Kentucky",
+      "city": "Paris, Kentucky",
+      "venue": "Tower on. a small square"
+    },
+    "us-riverside-ca-indoor-mini-golf-eiffel-tower": {
+      "name": "Indoor mini golf Eiffel Tower, Riverside, CA",
+      "label": "Riverside, CA",
+      "city": "Riverside, CA",
+      "venue": "Indoor mini golf Eiffel Tower"
+    },
+    "us-roanoke-front-yard-tower": {
+      "name": "Front Yard Tower, Roanoke",
+      "label": "Roanoke",
+      "city": "Roanoke",
+      "venue": "Front Yard Tower"
+    },
+    "us-skokie-il-mini-golf-eiffel-tower": {
+      "name": "Mini golf Eiffel Tower, Skokie, IL",
+      "label": "Skokie, IL",
+      "city": "Skokie, IL",
+      "venue": "Mini golf Eiffel Tower"
+    },
+    "us-washington-dc-tower-on-a-restaurant-roof": {
+      "name": "Tower on a restaurant roof, Washington DC",
+      "label": "Washington DC",
+      "city": "Washington DC",
+      "venue": "Tower on a restaurant roof"
+    },
+    "us-wellfleet-comment-replica": {
+      "name": "Wellfleet, Massachusetts, Wellfleet, Massachusetts",
+      "label": "Wellfleet, Massachusetts",
+      "city": "Wellfleet, Massachusetts",
+      "venue": ""
+    },
+    "uz-samarkand-eiffel-tower": {
+      "name": "Eiffel Tower, Samarkand",
+      "label": "Samarkand",
+      "city": "Samarkand",
+      "venue": "Eiffel Tower"
+    },
+    "vn-da-lat-viettel-telecommunication-tower": {
+      "name": "Viettel telecommunication tower, Da Lat",
+      "label": "Da Lat",
+      "city": "Da Lat",
+      "venue": "Viettel telecommunication tower"
+    },
+    "vn-dalat-post-office-unresolved": {
+      "name": "Da Lat Post Office tower, Da Lat",
+      "label": "Da Lat",
+      "city": "Da Lat",
+      "venue": "VNPT telecommunications tower"
+    },
+    "vn-phu-thuy-tall-mast-like-tower": {
+      "name": "Tall mast like tower, Phú Thúy",
+      "label": "Phú Thúy",
+      "city": "Phú Thúy",
+      "venue": "Tall mast like tower"
+    },
+    "xk-janjeve-anija-restaurant-eiffel-tower": {
+      "name": "Anija Restaurant Eiffel Tower, Janjevë",
+      "label": "Janjevë",
+      "city": "Janjevë",
+      "venue": "Anija Restaurant Eiffel Tower"
+    },
+    "za-parys-eiffel-toring-tower": {
+      "name": "Eiffel Toring/Tower, Parys",
+      "label": "Parys",
+      "city": "Parys",
+      "venue": "Eiffel Toring/Tower"
+    },
+    "za-parys-julio-art-gallery": {
+      "name": "Julio Art Gallery, Bree Street, Parys",
+      "label": "Parys",
+      "city": "Parys",
+      "venue": "Julio Art Gallery, Bree Street"
+    }
+  }
+}

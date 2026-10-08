@@ -1,0 +1,4 @@
+export const LOCALES=[{id:'zh-CN',code:'zh',label:'中文'},{id:'en',code:'en',label:'English'},{id:'fr',code:'fr',label:'Français'}];
+export function languageCode(language){return LOCALES.find(item=>item.id===language)?.code??'zh';}
+export function detectLanguage(pathname,search){const wanted=new URLSearchParams(search).get('lang');return LOCALES.find(item=>item.id===wanted||item.code===wanted)?.id??LOCALES.find(item=>pathname.startsWith(`/${item.code}/`))?.id??'zh-CN';}
+export function localizedPath(pathname,language){const code=languageCode(language);if(/^\/(en|zh|fr)\//.test(pathname))return pathname.replace(/^\/(en|zh|fr)\//,`/${code}/`);if(pathname==='/'||pathname==='/index.html')return `/${code}/`;if(/^\/(catalog|archive|agents)\.html$/.test(pathname))return `/${code}${pathname}`;return pathname;}

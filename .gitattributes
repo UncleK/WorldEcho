@@ -1,0 +1,8 @@
+public/assets/** linguist-generated=true
+public/*.json linguist-generated=true
+data/**/*.json linguist-generated=true
+pnpm-lock.yaml linguist-generated=true
+*.webp binary
+*.png binary
+*.gif binary
+*.mp4 binary

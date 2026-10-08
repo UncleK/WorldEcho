@@ -1,0 +1,51 @@
+{
+  "asOf": "2026-10-07",
+  "towers": {
+    "il-netivot-paris-center": {
+      "name": "Réplique Eiffel de Paris Center à Netivot",
+      "label": "Netivot",
+      "summary": "La réplique apporte la silhouette Eiffel dans l'espace piéton de Paris Center à Netivot. Une photographie de 2021 montre un treillis sombre dense, deux larges plateformes et un petit sommet ouvert. Une verrière masque les pieds à gauche : le modèle représente la partie visible documentée, sans confirmer l'état actuel."
+    },
+    "sk-svrcinovec-paris-hotel": {
+      "name": "Réplique Eiffel de l'hôtel Paris à Svrčinovec",
+      "label": "Svrčinovec",
+      "summary": "La réplique claire photographiée en 2010 possède une arche basse, des rambardes à boucles et une longue tige couronnée d'anneaux croisés. Des recherches ultérieures évoquent des gravats dans Street View en 2019. Le modèle conserve l'aspect historique ; l'état actuel reste à vérifier et le point de l'hôtel n'est pas utilisé comme emplacement de la tour."
+    },
+    "ru-volzhskiy-frantsuzskiy-bul-var": {
+      "name": "Réplique Eiffel du boulevard français à Volzhsky",
+      "label": "Volzhsky",
+      "summary": "Une photographie nocturne de 2021 montre un treillis espacé, une grande arche, deux petites plateformes et un sommet carré ouvert. L'exploitant invite à visiter la tour et annonce 36 mètres avec la flèche ; l'ancienne carte indique 15 mètres sans préciser les extrémités. Aucune hauteur n'est retenue. La peinture diurne et les horaires lumineux restent inconnus ; le mode nocturne demeure artistique."
+    },
+    "br-sao-paulo-hopi-hari": {
+      "name": "Tour d'attraction Eiffel de Hopi Hari (aspect historique)",
+      "label": "Hopi Hari",
+      "summary": "Hopi Hari associait une base en treillis à quatre pieds, inspirée de la silhouette Eiffel, à un grand mât d'attraction. Le modèle suit une photographie de 2004 : large toit, long mât et tambour supérieur, sans les équipements au sol masqués. Un article du 16 janvier 2026 annonce le début du démontage, pas son achèvement."
+    },
+    "in-parle-point-parle-point-surat": {
+      "name": "Réplique Eiffel de Parle Point à Surat",
+      "label": "Parle Point, Surat",
+      "city": "Surat",
+      "summary": "La réplique de l'îlot routier de Parle Point apporte au paysage de Surat un treillis dense, des ornements circulaires et de grandes arches. La date EXIF est le 25 juillet 2005 ; 2007 correspond seulement au premier téléversement. Les pieds étant coupés, le modèle représente la partie visible. État actuel et hauteur restent à vérifier."
+    },
+    "in-pune-seven-wonders-dream-park": {
+      "name": "Réplique Eiffel du parc des Sept Merveilles à Pune",
+      "label": "Parc des Sept Merveilles, Pune",
+      "city": "Pune",
+      "summary": "Une photographie de 2012 montre le treillis dense, les larges plateformes, les fines décorations d'arche et le fleuron rayonnant de la réplique de Yashwantrao Chavan Udyan. Les pieds sont coupés : le modèle représente la partie visible. Un article scolaire mentionne une visite du 15 janvier 2025 et la réplique Eiffel ; ces deux dates restent distinctes."
+    },
+    "ar-alicia-marchetti": {
+      "name": "Réplique Eiffel Torre Alicia déplacée",
+      "label": "Torre Alicia",
+      "city": "Villa Parque Síquiman",
+      "venue": "Predio La Josefina",
+      "summary": "La réplique associée à Alicia et à son créateur Claudio Marchetti a ensuite été exposée à La Josefina, à Villa Parque Síquiman. Des articles de la législature de Córdoba en 2025 documentent le nouveau lieu et des événements au pied de la tour. La date du transport reste inconnue ; la Torre Clanor signalée en 2026 demeure un objet distinct."
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "name": "Tour du château de Thézieu à Ruy (ancienne appellation Eiffel)",
+      "label": "Tour du château de Thézieu",
+      "city": "Ruy-Montceau",
+      "venue": "Château de Thézieu, Avenue des Cantinières",
+      "summary": "Le nom Eiffel de l'ancienne photographie renvoie à la tour du château de Thézieu à Ruy, appelée Tour des Morts dans les documents touristiques locaux. L'ancienne localisation à Bourgoin-Jallieu est corrigée. Un nom commun ne prouve pas une réplique : la relation reste à vérifier, hors du premier globe et des modèles publics de répliques."
+    }
+  }
+}

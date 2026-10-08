@@ -1,0 +1,39 @@
+{
+  "title": "Blue Marble: Next Generation, July 2004 — Base Map",
+  "publisher": "NASA Earth Observatory",
+  "creator": "Reto Stöckli, NASA Earth Observatory / NASA Goddard Space Flight Center",
+  "credit": "NASA Earth Observatory",
+  "capturePeriod": "2004-07",
+  "datasetPublicationDate": "2005-10-17",
+  "verifiedAt": "2026-10-06",
+  "pageUrl": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-map/",
+  "descriptionUrl": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/",
+  "downloadUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/bmng/bmng-base/july/world.200407.3x5400x2700.jpg",
+  "methodUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/content-feature/bluemarble/bmng.pdf",
+  "usageUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+  "usage": "NASA media usage guidelines permit factual educational/informational Internet pages and computer simulations with acknowledgement. BMNG explicitly requests credit NASA Earth Observatory. No endorsement is implied; NASA logos are not used. No third-party copyright notice is stated for this named BMNG dataset.",
+  "localPath": "",
+  "sha256": "f55226d46d27e05511f2118dc6aa24f5dbf9b6b2cddc87cc6e0e7dd067c00b11",
+  "bytes": 1617810,
+  "width": 5400,
+  "height": 2700,
+  "channels": 3,
+  "format": "jpeg",
+  "projection": "Geographic Plate Carree / equirectangular",
+  "datum": "WGS84",
+  "extent": {
+    "leftLongitude": -180,
+    "rightLongitude": 180,
+    "topLatitude": 90,
+    "bottomLatitude": -90
+  },
+  "originalResolutionArcSeconds": 240,
+  "groundSpacingAtEquatorApproxKm": 8,
+  "visualInspection": "Full global image opened on 2026-10-06. Continents, ice, shallow-water detail, mountain surface colors and source's uniform deep-ocean blue are visible. Source is a cloud-cleared 2004 composite, not a live satellite view.",
+  "limitations": [
+    "Historical monthly composite; not current vegetation, snow, cloud or urban detail.",
+    "NASA uses uniform deep-ocean blue; open water may contain noise and coastal transition artifacts.",
+    "Color is surface reflectance visualization, not a digital elevation model.",
+    "This cached 5400px global image is a reduced-resolution product; browser copy is downsampled to 4096px, not artificially upscaled."
+  ]
+}

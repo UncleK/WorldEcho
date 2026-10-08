@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-08T16:28:51.216Z",
+  "kind": "code-composed-project-artwork",
+  "sourcePortraitManifestSha256": "973b000b76b5cfa7d3ed9bde5c6fcf1193a22c7f8861724381057f63d07cf6cf",
+  "thirdPartyPhotographsIncluded": false,
+  "scope": "Generated cover, model wall and navigation graphics only. The separate user-supplied recording retains all original UI content.",
+  "globeScreenshot": {
+    "file": "globe-source.png",
+    "sha256": "9190e85ed13584808168c5e0c00e3dbc0fd8c051481fa1fa2d103e3e8adb14c2",
+    "width": 2682,
+    "height": 1468,
+    "crop": {
+      "left": 470,
+      "top": 40,
+      "width": 1800,
+      "height": 1090
+    },
+    "provenance": "Owner-selected screenshot of the actual WorldEcho application; still-image cropping explicitly allowed",
+    "presentation": {
+      "brightness": 0.78,
+      "leftDarkGradient": true,
+      "bottomDarkGradient": true,
+      "parisLocalHighlight": {
+        "sourceBrightness": 0.95,
+        "softMask": true,
+        "scope": "Paris label and original tower only"
+      }
+    }
+  },
+  "modelRenders": [
+    {
+      "modelKey": "paris",
+      "source": "/assets/portraits/paris-axonometric.webp",
+      "sha256": "99365cb50477feacd0dd93d090188b11aee689a4b940c8b11e730548fa434504"
+    },
+    {
+      "modelKey": "texas",
+      "source": "/assets/portraits/texas-axonometric.webp",
+      "sha256": "df999d0aa06b6abcf23396fa6b611ddc1b2bcac5c28abeeb163263c23ef2afa8"
+    },
+    {
+      "modelKey": "id-rawa-pening-bamboo",
+      "source": "/assets/portraits/id-rawa-pening-bamboo-axonometric.webp",
+      "sha256": "59ec3be60bd140008a2e086732cea825469945e64976c5cb42a6ba1ad099ca67"
+    },
+    {
+      "modelKey": "dk-taastrup-taastrup-eiffel-tower",
+      "source": "/assets/portraits/dk-taastrup-taastrup-eiffel-tower-axonometric.webp",
+      "sha256": "ba2a79ef2b0fb0bbf42d893e923169cd1045959595c29e65849c8b831d40df9a"
+    },
+    {
+      "modelKey": "us-gasquet-gasquet-market",
+      "source": "/assets/portraits/us-gasquet-gasquet-market-axonometric.webp",
+      "sha256": "47f091a1f71a4ba28cac7bc8f999187f07dd49b873504c8e8bc43b42ec964400"
+    },
+    {
+      "modelKey": "ca-beloeil-cypress-tree",
+      "source": "/assets/portraits/ca-beloeil-cypress-tree-axonometric.webp",
+      "sha256": "50c64aaef9f0c0b14df461608d14b266b90cbc4cf5b62031fe29dd6c473204e4"
+    },
+    {
+      "modelKey": "se-vanersborg-lilla-paris",
+      "source": "/assets/portraits/se-vanersborg-lilla-paris-axonometric.webp",
+      "sha256": "1a095235c700a52720a4f4ae3a326af18c9f676ccea4cf74a02f6546082bf957"
+    },
+    {
+      "modelKey": "las-vegas",
+      "source": "/assets/portraits/las-vegas-axonometric.webp",
+      "sha256": "0d96e11903484eaf720d21080f4d3f336baa9b542259dee75eefb85910ca959b"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "worldecho-cover.png",
+      "width": 2400,
+      "height": 1120,
+      "sha256": "f60ccf7f52f231f2e0b580bebfc11c4a1e941a9e5199242c84de909a10ed1096",
+      "bytes": 2121130
+    },
+    {
+      "file": "model-personalities.png",
+      "bytes": 1216547,
+      "sha256": "33289dae7f79d1bbc77398f5702b92b4970c3f533440c320b74eab43d296db6e"
+    },
+    {
+      "file": "nav-explore.svg",
+      "bytes": 472,
+      "sha256": "e5f24dc616b561f16ca3947350b72e2de7f1dd2013d328a801fceb4b4aa102c6"
+    },
+    {
+      "file": "nav-archive.svg",
+      "bytes": 476,
+      "sha256": "ab73b72780e977d9a2b28bab05a7af841d66880fc7a1af05e5f1482cc7666aa4"
+    },
+    {
+      "file": "nav-language.svg",
+      "bytes": 483,
+      "sha256": "aa60244dccb50f645f5346631811a5565e1bd6f664833e7397f5cf9c0318f30f"
+    }
+  ],
+  "statistics": {
+    "researchRecords": 554,
+    "models": 391,
+    "countriesAndRegions": 77,
+    "materialGroups": 9
+  },
+  "statisticSources": {
+    "research": {
+      "file": "public/research.v1.json",
+      "sha256": "a308b5377826d87ed07d34507554b32b66260e4077c934687aac853010750480"
+    },
+    "catalog": {
+      "file": "public/catalog.v1.json",
+      "sha256": "a7b3010a37363af8a464204086e9d3defa6657601922922a30ff3c20e389d3f8"
+    },
+    "materialGroups": {
+      "scope": "Distinct materialGroups labels present in public research entries; multiple labels may apply to one record.",
+      "keys": [
+        "bamboo",
+        "composite",
+        "iron",
+        "metal",
+        "other",
+        "reused",
+        "steel",
+        "stone",
+        "wood"
+      ]
+    }
+  }
+}

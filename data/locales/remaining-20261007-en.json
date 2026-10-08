@@ -1,0 +1,51 @@
+{
+  "asOf": "2026-10-07",
+  "towers": {
+    "il-netivot-paris-center": {
+      "name": "Netivot Paris Center Eiffel replica",
+      "label": "Netivot",
+      "summary": "The replica brings the Eiffel silhouette into the pedestrian space of Paris Center in Netivot. A 2021 photograph records dark dense lattice, two broad galleries and an open small crown. A glass canopy hides the lower left feet, so the model represents the evidenced visible section; the photograph does not establish its present condition."
+    },
+    "sk-svrcinovec-paris-hotel": {
+      "name": "Svrčinovec Paris Hotel Eiffel replica",
+      "label": "Svrčinovec",
+      "summary": "The pale replica photographed in 2010 has a broad low arch, looped gallery rails and a long slender shaft ending in crossing crown loops. Later research questions whether 2019 Street View shows only rubble. The model preserves the historical appearance; present condition remains unconfirmed and the old hotel point is not used as the tower location."
+    },
+    "ru-volzhskiy-frantsuzskiy-bul-var": {
+      "name": "Volzhsky French Boulevard Eiffel replica",
+      "label": "Volzhsky",
+      "summary": "A 2021 night photograph records sparse lattice, a large arch, two small railed galleries and an open square crown. The operator invites visitors to this tower and states 36 metres including the spire, while the old map says 15 metres without an endpoint definition; no actual height is selected. The night photograph does not establish daylight paint or show timing, and the model lighting remains artistic."
+    },
+    "br-sao-paulo-hopi-hari": {
+      "name": "Hopi Hari Eiffel-style ride tower (historical appearance)",
+      "label": "Hopi Hari",
+      "summary": "Hopi Hari combined an Eiffel-like four-leg lattice base with a tall ride mast. The model follows a 2004 photograph, retaining the broad roof, long mast and cylindrical top drum, while omitting ground equipment hidden by plants and fencing. A 16 January 2026 industry report records the start of dismantling; it does not establish completion."
+    },
+    "in-parle-point-parle-point-surat": {
+      "name": "Surat Parle Point Eiffel replica",
+      "label": "Parle Point, Surat",
+      "city": "Surat",
+      "summary": "The Parle Point traffic-island replica adds dense lattice, circular joint ornaments and large arches to Surat's streetscape. The photograph's EXIF capture date is 25 July 2005; 2007 is only its original upload year. The lower feet are cropped, so the model represents the visible section. Present condition and actual height remain unconfirmed."
+    },
+    "in-pune-seven-wonders-dream-park": {
+      "name": "Pune Seven Wonders Park Eiffel replica",
+      "label": "Seven Wonders Park, Pune",
+      "city": "Pune",
+      "summary": "A 2012 photograph of the Yashwantrao Chavan Udyan replica shows dense lattice, broad galleries, fine arch ornament and a radial summit finial. The lower feet are cropped, so the model represents the visible section. A school report explicitly records a visit on 15 January 2025 and identifies the Eiffel replica; the photograph and visit dates remain separate."
+    },
+    "ar-alicia-marchetti": {
+      "name": "Relocated Torre Alicia Eiffel replica",
+      "label": "Torre Alicia",
+      "city": "Villa Parque Síquiman",
+      "venue": "Predio La Josefina",
+      "summary": "The replica associated with Alicia and maker Claudio Marchetti was later displayed at La Josefina in Villa Parque Síquiman. Córdoba legislative reports in 2025 document the new venue and events at the tower, resolving the earlier relocation-plan uncertainty. The actual transport date remains unconfirmed; the separate Torre Clanor reported in 2026 is not merged with it."
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "name": "Thézieu castle tower in Ruy (formerly called Eiffel Tower)",
+      "label": "Thézieu castle tower",
+      "city": "Ruy-Montceau",
+      "venue": "Château de Thézieu, Avenue des Cantinières",
+      "summary": "The old photograph's Eiffel Tower name points to the Thézieu castle tower in Ruy, called Tour des Morts in local tourism material. The earlier Bourgoin-Jallieu location has been corrected. A shared name does not establish a replica relationship, so this record remains unclassified and outside the first globe and public replica-model collection."
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "version": "1.0",
+  "reviewedAt": "2026-10-07",
+  "entries": [
+    {
+      "towerId": "ca-abitibi-ouest-lawn-in-rural-quebec",
+      "access": "private",
+      "sourceIds": [
+        "src_bdb0b005e971cea2"
+      ],
+      "reason": "2015制作者采访明确塔立在家庭住宅院内，并说不是为旅游景点而建。偶尔有人前来合影不等于常设公众参观或登塔设施。"
+    },
+    {
+      "towerId": "ch-nenzlingen-bl-tower-in-a-garden",
+      "access": "private",
+      "sourceIds": [
+        "src_67ad24b1927be88c"
+      ],
+      "reason": "已读2018现场记录明确是住宅前的庭院模型，既有用途原文为住宅庭院景观；未见常设公众参观安排。从路旁看见不代表庭院向公众开放。"
+    },
+    {
+      "towerId": "de-lauterstein-private-garden",
+      "access": "private",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_d579228a277d5d87"
+      ],
+      "reason": "具名原文正文明确退休者在自己的花园中建造private miniature park，与模型伴随的Atomium/金门桥身份匹配；不是已公布常态游客开放的经营景区。"
+    },
+    {
+      "towerId": "fr-la-guerche-de-bretagne-tower-in-a-pensioner-s-garden",
+      "access": "private",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_80ecb5e894d35e4d"
+      ],
+      "reason": "原具名正文明确复制塔位于private garden，记者导语说明Maurice Chevrier自家花园创作；已知用途为私人住宅庭院作品，不把它宣传为公共景点。"
+    },
+    {
+      "towerId": "rs-plazane-tower-in-pensioner-s-garden",
+      "access": "private",
+      "sourceIds": [
+        "src_f8170a7e9e948dfd"
+      ],
+      "reason": "制作者采访明确为自己的家庭庭院，家人与近亲在塔上喝咖啡；路过者/慕名合影的记录不构成通常公众开放或公共登塔资格。"
+    },
+    {
+      "towerId": "ar-carlos-paz-tower-in-a-pensioner-s-garden",
+      "access": "private",
+      "sourceIds": [
+        "src_ee60b92b55d4bf28"
+      ],
+      "reason": "2021具体制作者采访把塔记录在Los Inquilinos住宅自家庭院，作为Tito Cornaglia的私人手工作品；没有常设公众参观设施依据。"
+    },
+    {
+      "towerId": "fr-vesoul-tower-in-a-back-garden",
+      "access": "private",
+      "sourceIds": [
+        "src_cc0f5fa61be925eb"
+      ],
+      "reason": "已读2015具体采访明确Nasser Djebablah在住宅自家庭院制作可拆装木塔；现有证据支持住宅庭院用途，不支持通常公众开放。"
+    },
+    {
+      "towerId": "ca-beloeil-cypress-tree",
+      "access": "private",
+      "sourceIds": [
+        "src_0c11077d10333623"
+      ],
+      "reason": "原对应Beloeil段明确为私人住宅园内的一棵柏树造型，属于私人前院景观；没有公众运营/参观服务证据。"
+    },
+    {
+      "towerId": "ee-reigi-eiffeli-torni-puidust-koopia",
+      "access": "public",
+      "sourceIds": [
+        "src_8be7c5ea82b02cfd"
+      ],
+      "reason": "旅游机构单场所原文明确接待旅游团，并提供提前预约方式；个人创作/私人经营的探险园仍有面向游客的访问安排。public不表示免预约或允许登塔。"
+    },
+    {
+      "towerId": "mo-cotai-parisian",
+      "access": "public",
+      "sourceIds": [
+        "src_66e930096f1b3ad2"
+      ],
+      "reason": "运营方将塔列为游客观景设施并提供访客入口/开放安排；酒店和商业经营的所有权不等于私人住宅访问。"
+    },
+    {
+      "towerId": "br-rio-de-janeiro-barra-world-shopping-park",
+      "access": "public",
+      "sourceIds": [
+        "src_24fdb6a27817c30c",
+        "src_81db9d92ff85f3b8"
+      ],
+      "reason": "运营方及当地具名原文把塔作为购物中心游客拍照/购物空间，报道明确持续接待访客；它是商业场所公众景观，不是私人庭院。"
+    },
+    {
+      "towerId": "ar-alicia-marchetti",
+      "access": "public",
+      "sourceIds": [
+        "src_e642acce77268d55",
+        "src_4e2a25ec504d55f1"
+      ],
+      "reason": "原住宅作品已迁La Josefina；政府记录实际旅游开幕、塔前公众活动与游客票费安排。以新展示用途登记，不能仅因旧名称包含庭院仍归private。"
+    },
+    {
+      "towerId": "il-netivot-paris-center",
+      "access": "public",
+      "sourceIds": [
+        "src_b3f8d3df3c5ab317",
+        "src_bca3cf1ce6d8ec46"
+      ],
+      "reason": "具名当地原文和运营方把塔所在Paris Center作为购物、餐饮及访客合影空间；私人商业开发不等于私人住宅访问。"
+    },
+    {
+      "towerId": "br-sao-paulo-hopi-hari",
+      "access": "unknown",
+      "historicalAppearance": true,
+      "sourceIds": [
+        "src_2c299cca1e4c07ca",
+        "src_1461b4747aeb95e6"
+      ],
+      "reason": "展示模型依据2004照片的游乐塔形态；2026-01-16来源只说明开始拆卸，未确认完成。historicalAppearance仅表示旧形态参考，不声明塔现已消失；当前访问不在此裁决。"
+    },
+    {
+      "towerId": "sk-svrcinovec-paris-hotel",
+      "access": "unknown",
+      "historicalAppearance": true,
+      "sourceIds": [
+        "src_b15af5ce39dad391",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "reason": "模型依据2010具体照片；发现原文有2019瓦砾/疑似移除线索，当前状态仍unknown。此标签仅说明模型使用历史形态，不作已拆除或访问权限事实。"
+    },
+    {
+      "towerId": "de-satteldorf-rungis-express",
+      "access": "unknown",
+      "historicalAppearance": true,
+      "sourceIds": [
+        "src_9f870a90532e8931",
+        "src_18f4db3ae56a2738"
+      ],
+      "reason": "model.evidence.limits明确Historical model only，展示的是旧屋顶露出的塔段；业主后来搬移整修和新屋顶复位的资料不把旧模型变成当前形态。标签不改existing/unknown，也不声明整塔消失。"
+    },
+    {
+      "towerId": "cz-police-nad-metuji-tower-beside-a-toy-store",
+      "access": "unknown",
+      "historicalAppearance": true,
+      "sourceIds": [
+        "src_bd808d6c172ee235",
+        "src_bc3f7a17ddffba27",
+        "src_36bdb208a0382946"
+      ],
+      "reason": "现有模型明确依据2015历史户外Merkur塔像素；室内展品/2026参访资料无法证明同一户外模型今天的形态。仅标旧外观，状态与访问仍未裁决。"
+    }
+  ]
+}

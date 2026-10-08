@@ -1,0 +1,42 @@
+{
+  "towers": {
+    "de-berlin-bed-springs-tower": {
+      "label": "Bed-spring tower",
+      "name": "Bergholzstrasse bed-spring Eiffel replica, Berlin",
+      "summary": "At Bergholzstrasse 11, repeated bed-spring coils form an Eiffel outline, covering the splayed legs, platforms and upper framework. Jon Worth recounts finding it on a neighbourhood walk during pandemic restrictions; the discovery started his worldwide replica inventory. The account documents its discovery. The maker, build year, photograph's capture date and current permanence remain unknown.",
+      "currentUses": [
+        "Outdoor bed-spring landscape feature"
+      ]
+    },
+    "kr-seoul-tower-at-the-roadside": {
+      "label": "Seoul",
+      "name": "Seoul signage-shop forecourt Eiffel replica",
+      "summary": "April 2018 Street View records a golden-yellow Eiffel-shaped model outside a Seoul shop advertising signs and LED-related services. It stands at the edge of the paved forecourt, with four legs, a lower arch and two small open platforms visible. This establishes a commercial display setting; the shop's formal name, the tower's maker and whether the shop made or sold it remain unconfirmed. The imagery date is not a construction date or proof of its present location.",
+      "currentUses": [
+        "Signage-shop forecourt decoration"
+      ]
+    },
+    "it-ispra-jrc-ispra-grounds": {
+      "label": "JRC Ispra",
+      "name": "JRC Ispra lawn Eiffel replica",
+      "summary": "A light beige Eiffel replica stands on a lawn inside the Joint Research Centre fence beside Via E. Fermi in Ispra. September 2025 Street View confirms its broad lower arch, two small platforms and slender upper shaft. The close wire mesh belongs to the site fence, not the tower. Its setting is a research-campus lawn; the maker, installation year and public access conditions remain unknown. The tower mentioned in a 2009 French Semester sponsorship document has not been established as the same object.",
+      "currentUses": [
+        "Research-campus lawn landmark"
+      ]
+    },
+    "fr-nuits-s-armancon-tower-in-a-yard": {
+      "label": "Nuits",
+      "name": "Nuits courtyard Eiffel replica",
+      "summary": "This grey replica stands between stone houses in a private Nuits courtyard, among plants, parasols and a pedal boat. Jon Worth's photograph shows a slender lattice shaft, two railed platforms and a red component inside the open top frame. The original file records 14 July 2023 as the capture date; some feet are obscured by garden objects. Its visible role is courtyard decoration. The maker, construction year, public access and current condition remain unconfirmed.",
+      "currentUses": [
+        "Private courtyard decoration"
+      ]
+    },
+    "de-meckenheim-rungis-express": {
+      "label": "Meckenheim",
+      "name": "Meckenheim Rungis rooftop tower lead",
+      "summary": "The Meckenheim Rungis rooftop tower remains a discovery lead without a matched photograph or tower-body position. The referenced image concerns another location, so its appearance, dates and dimensions cannot be transferred here. The investigation record is retained; unconfirmed existence does not mean nonexistence. It remains outside the verified current map pending evidence of this specific object.",
+      "currentUses": []
+    }
+  }
+}

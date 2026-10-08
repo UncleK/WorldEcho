@@ -1,0 +1,964 @@
+{
+  "towers": {
+    "es-la-jonquera-tower-in-a-shopping-centre": {
+      "name": "Tour Eiffel — La Jonquera · Centre commercial (fiche de recherche)",
+      "summary": "Tour à quatre pieds bleu-gris, arcs bas et deux larges plateformes carrées. Long fût à croisillons, petite couronne sombre et fine aiguille."
+    },
+    "fr-breil-small-tower-on-the-edge-of-a-village": {
+      "name": "Tour Eiffel — Breil · Petite tour à la lisière du village (fiche de recherche)",
+      "summary": "Quatre pieds rectilignes brun rouille, base ouverte sans arc décoratif. Deux plateformes minces, long fût ajouré et cage arrondie au sommet."
+    },
+    "us-milwaukee-msoe-eiffel-tower": {
+      "name": "Tour Eiffel — Milwaukee, Wisconsin · Bastille Days / Cathedral Square Park (fiche de recherche)",
+      "summary": "Tour de festival dorée avec pieds cubiques et larges arcs. Panneaux rouges au-dessus du deuxième étage, fût ajouré et petite toiture."
+    },
+    "cz-benatky-nad-jizerou-toy-museum-tower": {
+      "name": "Tour du musée du jouet — Benátky nad Jizerou",
+      "summary": "Tour en bandes rouges, plateformes bordées de bleu et ouverture basse en arc. Long fût rouge et couronne ajourée aux bordures bleues."
+    },
+    "ua-smila-eiffel-tower-near-a-shopping-mall": {
+      "name": "Tour près d’un centre commercial — Smila",
+      "summary": "Treillis anthracite, larges arcs bas et plateformes carrées. Lettres PARIS dorées verticales et flèche dorée au deuxième étage."
+    },
+    "ua-poltava-arevik-flower-shop": {
+      "name": "Arevik Flower Shop — Poltava",
+      "summary": "Treillis ocre doré à quatre pieds, deux plateformes minces et grand arc. Enseigne circulaire jaune 24 au-dessus du sommet."
+    },
+    "ua-kyiv-near-darytsia-metro": {
+      "name": "Tour Eiffel — Kyiv · Near Darytsia Metro (fiche de recherche)",
+      "summary": "Ossature sombre à fines barres, grand arc bas et deux plateformes carrées. Fût presque droit et large cage carrée ouverte."
+    },
+    "ca-toronto-lantern-festival": {
+      "name": "Tour Eiffel — Toronto · Festival des lanternes chinoises de 2008 (fiche de recherche)",
+      "summary": "Silhouette de festival aux larges arcs, long fût et petite couronne arrondie. Palette nocturne violette et blanche issue de la photographie."
+    },
+    "cl-santiago-guinguette": {
+      "name": "Tour Eiffel — Santiago · Festival La Guinguette 2023 (fiche de recherche)",
+      "summary": "Tour événementielle dorée, base ouverte et deux plateformes à bords épais. Treillis rectiligne et petite toiture pointue."
+    },
+    "cu-caibarien-roadside-tower": {
+      "name": "Tour Eiffel — Caibarién · Tour au bord de la route (fiche de recherche)",
+      "summary": "Ossature claire et légère, pieds évasés et cadres de plateformes ouverts. Fût terminé par un bord étroit plat, sans cabine parisienne ajoutée."
+    },
+    "de-gunzburg-legoland-germany": {
+      "name": "Tour de LEGOLAND Deutschland — Günzburg",
+      "summary": "Tour grise en briques, treillis épais, plateformes étagées et pieds clairs. Arcs bas arrondis et couronne à plusieurs niveaux."
+    },
+    "fr-prisse-tower-in-the-grounds-of-a-store-called-fermob": {
+      "name": "Tour Eiffel — Prissé · Terrain du magasin Fermob (fiche de recherche)",
+      "summary": "Tour de jardin rouge foncé, pieds courbes évasés et deux plateformes. Fût fin et petite couronne arrondie ouverte."
+    },
+    "fr-soussans-tower-at-an-aluminium-company": {
+      "name": "Tour Eiffel — Soussans · Entreprise d’aluminium (fiche de recherche)",
+      "summary": "Section supérieure dorée vérifiée au-dessus du véhicule. Plateforme étroite, long fût effilé et petite couronne pointue."
+    },
+    "it-cascina-tower-at-a-roundabout": {
+      "name": "Tour Eiffel — Cascina · Rond-point (fiche de recherche)",
+      "summary": "Tour gris argent à poutres rectilignes, plateformes minces et base ouverte. Biplan rouge caractéristique conservé au sommet."
+    },
+    "it-vallesaccarda-piazzetta-buhl": {
+      "name": "Tour Eiffel — Vallesaccarda · Piazzetta Buhl (fiche de recherche)",
+      "summary": "Tour blanc argent à deux plateformes et cage sommitale renflée. Seule la partie visible au-dessus des fleurs du bac est conservée."
+    },
+    "se-jorna-wooden-tower-beside-a-road-junction": {
+      "name": "Tour Eiffel — Jörna · Tour en bois près d’un carrefour (fiche de recherche)",
+      "summary": "Gros pieds en bois, larges bandeaux et haute balustrade du premier étage. Étage intermédiaire court et long fût presque parallèle, arrêté au toit visible."
+    },
+    "id-madiun-pahlawan-street-center": {
+      "name": "Tour Eiffel — Madiun · Sumber Umis / Pahlawan Street Center (fiche de recherche)",
+      "summary": "Tour dorée à grand arc, balustrades marquées et pieds en treillis droits. Petite cage ronde au sommet et silhouette locale large."
+    },
+    "fr-bantzenheim-roundabout-tower-route-de-mulhouse": {
+      "name": "Tour du rond-point de la route de Mulhouse — Bantzenheim",
+      "summary": "Treillis fin brun rouge, pieds droits, arcs minces et deux balustrades. Cage arrondie ouverte sur plateforme carrée et longue aiguille."
+    },
+    "al-tirana-cafe-paris": {
+      "name": "Café Paris — Tirana",
+      "summary": "Tour décorative intérieure anthracite, longs pieds droits et traverses en échelle. Large cadre inférieur et petit sommet percé, limités à la partie visible."
+    },
+    "cn-lishui-rapeseed-field-in-china": {
+      "name": "Tour dans un champ de colza — Lishui",
+      "summary": "Section inférieure gris-brun au-dessus du colza, large plateforme et treillis droits. Sommet absent de la photo : le modèle s’arrête au bord du cadre."
+    },
+    "fr-chanverrie-tower-in-an-industrial-yard": {
+      "name": "Tour de la cour industrielle — Chanverrie",
+      "summary": "Tour de cour industrielle conservant le petit cube bleu visible au sommet sur la photographie nocturne."
+    },
+    "fr-le-touquet-sandcastle": {
+      "name": "Tour à identifier — Le Touquet-Paris-Plage · Place du Centenaire (fiche de recherche)",
+      "summary": "Œuvre massive en forme de château de sable, grand arc et plateformes épaisses. Volumes sculptés de couleur sable ; matériau non déduit de la photographie."
+    },
+    "fr-saint-hilaire-en-woevre-meuse-graveyard-part-tower": {
+      "name": "Tour Eiffel — Saint-Hilaire en Woëvre, Meuse · Partie de tour dans un cimetière (fiche de recherche)",
+      "summary": "Monument en pierre tronqué, grand arc bas, bande décorative et sommet coupé plat. Seul le vestige photographié est représenté, sans reconstitution du sommet disparu."
+    },
+    "gr-athens-king-s-theatre": {
+      "name": "Tour Eiffel — Athens · King's Theatre (fiche de recherche)",
+      "summary": "Section supérieure gris argent au-dessus du théâtre. Petite plateforme et treillis effilé, sans pieds au sol inventés."
+    },
+    "in-kolkata-further-kolkata-tower": {
+      "name": "Autre tour de Kolkata — Kolkata",
+      "summary": "Tour de lumière de festival avec une très grande ouverture basse. Étage intermédiaire court et fût lumineux fin et effilé."
+    },
+    "my-genting-highlands-skytropolis-first-world-plaza": {
+      "name": "Tour Eiffel — Genting Highlands · First World Plaza (fiche de recherche)",
+      "summary": "Tour intérieure rouge, larges bandeaux de plateformes et arcs décoratifs. Long fût droit et couronne carrée rouge, limités à la partie photographiée."
+    },
+    "ps-ramallah-tower-at-a-sweet-shop": {
+      "name": "Tour de la confiserie — Ramallah",
+      "summary": "Tour-enseigne dorée, pieds larges et aplatis, treillis clairsemé. Long fût étroit avec grande cage carrée ouverte."
+    },
+    "us-carlsbad-legoland-california": {
+      "name": "Tour de LEGOLAND California — Carlsbad",
+      "summary": "Tour gris clair en briques, arcs doubles, bandeaux ajourés et long fût. Couronne visible conservée, aiguille hors cadre non complétée."
+    },
+    "ua-kotelva-tower-at-kalyna-restaurant": {
+      "name": "Tower at Kalyna Restaurant — Kotelva",
+      "summary": "Tour de cour dorée très fine, plateformes basses et fût en aiguille. Quatre petits pieds séparés et arc bas ouvert."
+    },
+    "ua-kyiv-kyiv-national-university-of-trade-and-economics": {
+      "name": "Kyiv National University of Trade and Economics — Kyiv",
+      "summary": "Tour de campus brune, arcs bas, deux plateformes et treillis fin. Grande couronne ouverte et longue tige."
+    },
+    "ua-kyiv-tower-in-front-of-tres-fransais-restaurant": {
+      "name": "Tour Eiffel — Kyiv · Devant le restaurant Très Français (fiche de recherche)",
+      "summary": "Tour en fil fin près du restaurant, arc bas et plateformes légères. Barres espacées conservées, feuillage traité dans les abords."
+    },
+    "ua-lviv-beauty-salon-l-etoile": {
+      "name": "Beauty salon L'Etoile — Lviv",
+      "summary": "Petite tour dorée du salon, long fût fin en treillis. Panneau sombre central et petite couronne arrondie à longue aiguille."
+    },
+    "ua-lviv-tower-outside-a-creperie": {
+      "name": "Tour Eiffel — Lviv · À l’extérieur d’une crêperie (fiche de recherche)",
+      "summary": "Tour dorée de crêperie, deux plateformes minces et fût finement contreventé. Petite cage carrée, toit brun pointu et fine tige."
+    },
+    "ua-mankivka-central-park-tower": {
+      "name": "Tour du parc central — Mankivka",
+      "summary": "Tour grise à ossature légère, base large et long fût rectangulaire ouvert. Grand cadre carré, support pointu et longue aiguille."
+    },
+    "ua-myrhorod-paris-dakar-bar": {
+      "name": "Paris Dakar Bar — Myrhorod",
+      "summary": "Tour de bar gris argent, larges diagonales, grand arc et balustrades verticales. Long fût terminé par une cage carrée ouverte étagée."
+    },
+    "ua-nadezhdivka-centre-of-the-village-edge-of-a-small-park": {
+      "name": "Tour au centre du village près d’un parc — Nadezhdivka",
+      "summary": "Tour de jardin sombre, plateformes larges, pieds arqués et long fût fin. Longue aiguille très pointue caractéristique."
+    },
+    "ua-nizhyn-eiffel-tower-near-a-shop-at-a-bus-stop": {
+      "name": "Tour près d’un magasin à l’arrêt de bus — Nizhyn",
+      "summary": "Tour brun foncé près de l’arrêt, grands arcs et deux plateformes à balustrade. Fût fin vers une petite couronne triangulaire ouverte."
+    },
+    "ua-nova-kakhovka-nova-kakhovka-higher-politechnic-school": {
+      "name": "Nova Kakhovka higher politechnic school — Nova Kakhovka",
+      "summary": "Tour de campus argentée à treillis espacé, arc fin et pieds droits. Fût à grandes mailles, cage carrée ouverte et pointe courte."
+    },
+    "ua-novoselivka-tower-in-a-play-park": {
+      "name": "Tour Eiffel — Novoselivka · Parc de jeux (fiche de recherche)",
+      "summary": "Tour de parc rose saumon, grands arcs et deux bandeaux ajourés. Fût à croisillons réguliers, petit toit beige et longue tige."
+    },
+    "ua-odesa-fontanka": {
+      "name": "Fontanka — Odesa",
+      "summary": "Tour gris foncé élancée à plusieurs niveaux, grand arc et cadres étroits. Long fût droit et couronne carrée ouverte à deux niveaux."
+    },
+    "ua-odesa-osypova-37": {
+      "name": "Osypova 37 — Odesa",
+      "summary": "Tour de cour en fil gris argent, quatre pieds ouverts et deux cadres fins. Sommet caché par le lierre omis ; seules les parties basses visibles subsistent."
+    },
+    "ua-olshanske-park-near-the-village-council": {
+      "name": "Tour du parc près du conseil du village — Olshanske",
+      "summary": "Tour de parc rouge rouille, larges pieds droits, arcs épais et plateformes ouvertes. Long fût espacé terminé par une boîte carrée sans longue aiguille."
+    },
+    "ua-pereyaslav-khmelnytsky-wedding-gift-tower": {
+      "name": "Tour Eiffel — Pereyaslav-Khmelnytsky · Tour offerte pour un mariage (fiche de recherche)",
+      "summary": "Tour sombre de cour de mariage, arcs bas, large balustrade et treillis fin. Boucles arrondies croisées au sommet et longue aiguille."
+    },
+    "ua-pisochyn-replica-at-a-sanitorium-resort": {
+      "name": "Réplique du centre de cure — Pisochyn",
+      "summary": "Tour de cour de séjour brune, pieds courts et deux plateformes finement ajourées. Long fût droit à treillis fin et petit sommet plat."
+    },
+    "ua-pomichna-park-near-railway-station": {
+      "name": "Tour du parc près de la gare — Pomichna",
+      "summary": "Tour de parc brune à base large, longs arcs et fortes diagonales droites. Deux plateformes minces, fût effilé et petit sommet carré."
+    },
+    "ua-puscha-vodytsya-french-school": {
+      "name": "Tour de l’école française — Puscha Vodytsya",
+      "summary": "Tour scolaire élancée en barres bleu pâle, jaunes et parfois rouges. Treillis espacé, cadres minces et sommet plat ouvert."
+    },
+    "ua-reshetylivka-city-center-park": {
+      "name": "Tour du parc du centre-ville — Reshetylivka",
+      "summary": "Tour de parc blanche à fines barres, deux cadres et grands arcs bas. Boucles sphériques ouvertes et tige droite au sommet."
+    },
+    "ua-rivne-haidamatska-str": {
+      "name": "Haidamatska str — Rivne",
+      "summary": "Kiosque à café en forme de tour, bas opaque brun foncé et diagonales dorées. Panneau central de machine et ossature supérieure claire ouverte."
+    },
+    "ua-sadove-hotel-butterfly": {
+      "name": "Hotel Butterfly — Sadove",
+      "summary": "Tour de jardin minimale à quatre tiges blanches courbes. Deux cadres seulement, petit globe au sommet et grand globe bas."
+    },
+    "ua-sarny-park-in-town-centre": {
+      "name": "Tour du parc central — Sarny",
+      "summary": "Petite tour sombre à treillis fin et deux plateformes sobres. Couronne arquée ouverte au-dessus des quatre pieds et grands arcs bas."
+    },
+    "ua-skvyra-kyiv-restaurant-tower": {
+      "name": "Kyiv Restaurant Tower — Skvyra",
+      "summary": "Tour de restaurant cuivre clair, mailles carrées très fines et pieds évasés. Larges balustrades carrées et petit sommet pointu."
+    },
+    "ua-sumy-tower-outside-a-shop-in-a-side-street": {
+      "name": "Tour Eiffel — Sumy · Devant un magasin dans une rue secondaire (fiche de recherche)",
+      "summary": "Petite tour de rue brun foncé, pieds courts et larges en arc. Large premier étage, treillis dense et petit sommet carré."
+    },
+    "ua-vinnytsya-tower-in-a-zoo-park": {
+      "name": "Tour Eiffel — Vinnytsya · Parc zoologique (fiche de recherche)",
+      "summary": "Tour gris argent en plaques ajourées, large bande ornementale et cadres pleins. Long fût perforé et flèche particulièrement haute et fine."
+    },
+    "ua-vinnytsya-vinnytsya-cooperative-institute": {
+      "name": "Vinnytsya cooperative institute — Vinnytsya",
+      "summary": "Tour décorative brun cuivré, grands arcs et doubles bandeaux de plateformes. Étage intermédiaire ouvert, long fût et petite couronne claire pointue."
+    },
+    "ua-zavodske-park-in-city-center": {
+      "name": "Tour du parc du centre-ville — Zavodske",
+      "summary": "Tour de parc bleu argent, fortes diagonales et pieds clairs marqués. Long fût en treillis et boîte sommitale carrée percée."
+    },
+    "ua-zhytomyr-polytechnic-state-university": {
+      "name": "Tour Eiffel — Zhytomyr · Polytechnic State University (fiche de recherche)",
+      "summary": "Tour de campus gris foncé en plaques ajourées, large jupe et diagonales claires. Parties basses, étage intermédiaire et fût supérieur tronqué conservés."
+    },
+    "ua-zviahel-start-shoe-store": {
+      "name": "'Start' shoe store — Zviahel",
+      "summary": "Tour grise élancée devant le magasin, larges arcs bas et deux plateformes étroites. Treillis fin effilé et petite cage au sommet."
+    },
+    "br-manaus-centro-cultural-palacio-da-justica-do-amazonas": {
+      "name": "Centro Cultural Palácio da Justiça do Amazonas — Manaus",
+      "summary": "Section supérieure historique à treillis fin et petite couronne ouverte."
+    },
+    "cn-zhouzhou-large-tower-at-a-roundabout": {
+      "name": "Grande tour au rond-point — Zhouzhou",
+      "summary": "Parties basses et intermédiaires photographiées de Zhuozhou, grands arcs et plateformes épaisses."
+    },
+    "de-monchengladbach-nightclub-tower": {
+      "name": "Tour de la discothèque — Mönchengladbach",
+      "summary": "Tour de discothèque argentée à barres espacées, grand arc et très long fût fin."
+    },
+    "de-tubingen-boxenstop-tubingen": {
+      "name": "Boxenstop Tübingen — Tübingen",
+      "summary": "Bandes de construction vertes, bords de plateformes rouges et long fût étroit."
+    },
+    "ec-quito-eiffel-center": {
+      "name": "Tour du centre Eiffel — Quito",
+      "summary": "Silhouette Eiffel dorée fixée à une façade vitrée."
+    },
+    "id-menara-keagungan-limboto-menara-keagungan-limboto": {
+      "name": "Menara Keagungan Limboto — Menara Keagungan Limboto",
+      "summary": "Socle architectural à larges arcs, galerie à deux niveaux et tour supérieure dorée à plusieurs plateformes."
+    },
+    "id-tasikmalaya-regency-bamboo-eiffel-tower": {
+      "name": "Tour Eiffel — Tasikmalaya · Structure historique en bambou de l’époque du couronnement (fiche de recherche)",
+      "summary": "Tour historique en bambou, larges plateformes, nombreuses diagonales et petit sommet étagé."
+    },
+    "in-telangana-ramoji-film-city": {
+      "name": "Ramoji Film City — Telangana",
+      "summary": "Parties basses et intermédiaires gris argent de la cité du cinéma, sommet et base masqués."
+    },
+    "ir-kish-island-kish-eiffel-tower": {
+      "name": "Tour Eiffel — Kish Island · Kish Eiffel Tower (fiche de recherche)",
+      "summary": "Treillis clair à grand arc de Kish la nuit, petite couronne arrondie."
+    },
+    "it-chioggia-front-garden-tower": {
+      "name": "Tour du jardin avant — Chioggia",
+      "summary": "Tour de jardin gris argent, deux plateformes et haute couronne pointue."
+    },
+    "nl-harselaar-staal-bouw": {
+      "name": "Staal Bouw — Harselaar",
+      "summary": "Tour industrielle grise élancée, large enseigne sommitale et longue tige."
+    },
+    "us-cypress-gardens-legoland-florida": {
+      "name": "Tour de LEGOLAND Florida — Cypress Gardens",
+      "summary": "Tour d’exposition en briques de Floride, pieds étagés et corps élancé."
+    },
+    "za-parys-julio-art-gallery": {
+      "name": "Tour Eiffel — Parys · Julio Art Gallery, Bree Street (fiche de recherche)",
+      "summary": "Ensemble supérieur de Parys photographié séparément et chapeau arrondi."
+    },
+    "pl-rabka-zdroj-rabkoland": {
+      "name": "Rabkoland — Rabka-Zdrój",
+      "summary": "Tour sombre de parc de loisirs, treillis carré espacé et petit sommet étagé."
+    },
+    "ru-yeysk-amusement-park-tower": {
+      "name": "Tour du parc de loisirs — Yeysk",
+      "summary": "Parties basses et intermédiaires nocturnes de Ieïsk, grands arcs et deux plateformes."
+    },
+    "ua-baryshivka-eiffel-tower-near-a-coffee-shop": {
+      "name": "Tour près d’un café — Baryshivka",
+      "summary": "Tour de café en fil blanc, grands arcs et couronne pointue ouverte."
+    },
+    "ua-cherkasy-bonjour-underwear-store": {
+      "name": "'Bonjour' underwear store — Cherkasy",
+      "summary": "Tour taupe en plaques découpées, pieds plats larges, plateformes épaisses et long fût."
+    },
+    "ua-chornomorsk-modigliani-restaurant": {
+      "name": "'Modigliani' restaurant — Chornomorsk",
+      "summary": "Tour de restaurant gris-brun à barres espacées et arc bas large."
+    },
+    "ua-drohobych-eiffel-tower-in-city-center": {
+      "name": "Tour du centre-ville — Drohobych",
+      "summary": "Tour brun foncé à barres droites espacées, base large et fines balustrades."
+    },
+    "ua-hrushkivka-forestry": {
+      "name": "Tour du site forestier — Hrushkivka",
+      "summary": "Tour forestière gris argent fine, petit chapeau cylindrique clair et haut mât."
+    },
+    "ua-illintsi-varvara-restaurant": {
+      "name": "'Varvara' restaurant — Illintsi",
+      "summary": "Tour à treillis argent pâle avec ornement distinctif en diamant inversé."
+    },
+    "ua-iskorost-korosten-heating-pipe-plant": {
+      "name": "Korosten Heating Pipe Plant — Iskorost",
+      "summary": "Grande tour blanche ajourée au premier plan de l’usine, très longue flèche."
+    },
+    "ua-ivano-frankivsk-eiffel-tower-near-a-shop": {
+      "name": "Tour près d’un magasin — Ivano-Frankivsk",
+      "summary": "Tour de boutique rouge orangé, grand arc bas, treillis espacé et petite cage ronde."
+    },
+    "ua-khmelnytskyi-so-called-monument-to-ukrainian-inferiority": {
+      "name": "So called 'Monument to Ukrainian inferiority' — Khmelnytskyi",
+      "summary": "Tour noire de place, grands arcs et long fût dense."
+    },
+    "ua-koriukivka-flower-stand-near-the-city-council": {
+      "name": "Tour du fleuriste près de la mairie — Koriukivka",
+      "summary": "Support floral noir en forme Eiffel, quatre longues tiges, deux cadres et fût nu."
+    },
+    "ua-korosten-tower-beside-a-road": {
+      "name": "Tour Eiffel — Korosten · Au bord d’une route (fiche de recherche)",
+      "summary": "Parties basses et intermédiaires visibles d’une tour commémorative gris argent ajourée."
+    },
+    "ua-kostopil-back-yard-of-a-private-house": {
+      "name": "Tour dans la cour arrière d’une maison — Kostopil",
+      "summary": "Section de tour de jardin éclairée dorée avec trois cadres horizontaux."
+    },
+    "ua-kriukivschshyna-residential-complex-european-city": {
+      "name": "Residential complex European city — Kriukivschshyna",
+      "summary": "Tour résidentielle brun-gris, larges plateformes et couronne arrondie étagée."
+    },
+    "ua-kryvyi-rih-yuvileinyi-park": {
+      "name": "Yuvileinyi park — Kryvyi Rih",
+      "summary": "Tour de parc brun foncé, bas large et trapu, diagonales espacées et longue aiguille."
+    },
+    "ua-kyiv-auchan-supermarket": {
+      "name": "'Auchan' supermarket — Kyiv",
+      "summary": "Petite tour sombre de supermarché, treillis fin et petite couronne arrondie."
+    },
+    "ua-kyiv-citroen-car-dealership": {
+      "name": "Citroen car dealership — Kyiv",
+      "summary": "Tour de concession anthracite à treillis fin, grand arc bas et chapeau carré."
+    },
+    "ua-kyiv-dream-town-shopping-mall": {
+      "name": "'Dream Town' shopping mall — Kyiv",
+      "summary": "Section de tour d’atrium à forte ossature, deux plateformes épaisses et long fût."
+    },
+    "ua-kyiv-eiffel-tower-on-a-balcony-of-a-travel-agency": {
+      "name": "Tour sur le balcon d’une agence de voyages — Kyiv",
+      "summary": "Tour grise d’angle de balcon, larges pieds arqués et étage intermédiaire court."
+    },
+    "ua-kyiv-eiffel-tower-on-the-entrance-to-a-residential-building": {
+      "name": "Tour à l’entrée d’un immeuble — Kyiv",
+      "summary": "Petite tour noire sur auvent, trois épaisses plateformes en boîte."
+    },
+    "ua-kyiv-medical-center-entrance": {
+      "name": "Tour à l’entrée du centre médical — Kyiv",
+      "summary": "Support végétal à tiges courbes dans une cour médicale, plusieurs anneaux."
+    },
+    "ua-kyiv-ocean-plaza-shopping-mall": {
+      "name": "'Ocean Plaza' shopping mall — Kyiv",
+      "summary": "Présentoir sombre en forme Eiffel, arc bas et boîte sommitale percée."
+    },
+    "ua-nerubaika-zastava-hotel-and-restaurant": {
+      "name": "'Zastava' hotel and restaurant — Nerubaika",
+      "summary": "Tour de cour sombre et élancée, fût droit dense et haute ossature pointue."
+    },
+    "ua-odesa-cafe-closed": {
+      "name": "Tour d’un café fermé — Odesa",
+      "summary": "Tour de café gris argent, grand arc et lettres PARIS verticales."
+    },
+    "ua-yalta-massandrovsky-beach": {
+      "name": "Massandrovsky beach — Yalta",
+      "summary": "Tour blanc argent sur une terrasse maritime, petite couronne carrée plate."
+    },
+    "uz-samarkand-neat-tower-at-the-roadside": {
+      "name": "Neat tower at the roadside — Samarkand",
+      "summary": "Tour de Samarcande bronze doré, grands arcs et couronne ouverte en bulbe."
+    },
+    "cu-cienfuegos-torre-eiffel-de-cienfuegos": {
+      "name": "Torre Eiffel de Cienfuegos — Cienfuegos",
+      "summary": "Tour historique de Cienfuegos, arc exceptionnellement large et balustrade à panneaux."
+    },
+    "id-palembang-punti-kayu": {
+      "name": "Tour Eiffel — Palembang · Parc forestier touristique Punti Kayu (fiche de recherche)",
+      "summary": "Parties basses et intermédiaires photographiées de Punti Kayu, treillis fort et plateformes épaisses."
+    },
+    "ua-bila-tserkva-french-pastry-in-residential-area": {
+      "name": "Tour d’une pâtisserie française — Bila Tserkva",
+      "summary": "Tour élancée gris argent près d’une pâtisserie, grand arc bas et fût fin."
+    },
+    "ua-bila-tserkva-leone": {
+      "name": "Leone — Bila Tserkva",
+      "summary": "Petite tour brune à treillis fin sur le balcon Leone."
+    },
+    "ua-bilopillya-eiffel-tower-near-a-coffee-shop": {
+      "name": "Tour près d’un café — Bilopillya",
+      "summary": "Tour cuivrée claire près du café, grands arcs et plateformes minces."
+    },
+    "ua-chernihiv-tower-on-a-street-corner": {
+      "name": "Tour Eiffel — Chernihiv · À un angle de rue (fiche de recherche)",
+      "summary": "Tour de rue rouge orangé, plateformes saillantes et large couronne carrée."
+    },
+    "ua-dnipro-tower-on-pavement-in-front-of-a-restaurant": {
+      "name": "Tour Eiffel — Dnipro · Trottoir devant un restaurant (fiche de recherche)",
+      "summary": "Tour décorative gris argent, treillis fin, bandeaux rapprochés et couronne en cage arrondie."
+    },
+    "ua-horodok-front-yard-of-a-private-house": {
+      "name": "Tour dans la cour d’une maison — Horodok",
+      "summary": "Fine ossature gris argent de jardin privé, long fût étroit et petits panneaux."
+    },
+    "ua-ivanivka-odesa-oblast-ostrich-farm-tower": {
+      "name": "Tour de la ferme d’autruches — Ivanivka, Odesa Oblast",
+      "summary": "Tour de ferme dorée pâle, grand arc bas et couronne élancée."
+    },
+    "ua-kamyanets-podilskyi-tower-outside-a-restaurant": {
+      "name": "Tour Eiffel — Kamyanets-Podilskyi · À l’extérieur d’un restaurant (fiche de recherche)",
+      "summary": "Section grise ajourée du restaurant Versal, grands arcs et balustrades en boucles."
+    },
+    "ua-koropovo-carnaval-resort-spa": {
+      "name": "Гостиница Carnaval Resort & Spa — Koropovo",
+      "summary": "Tour de minigolf claire à fines tiges et trois plateformes minces."
+    },
+    "ua-korosten-spartak-stadium": {
+      "name": "Spartak Stadium — Korosten",
+      "summary": "Tour de tableau sportif, ossature élancée et panneau noir."
+    },
+    "ua-malyn-french-boutique-shop": {
+      "name": "\"French boutique\" shop — Malyn",
+      "summary": "Tour d’entrée brune, plateformes carrées épaisses et long fût droit."
+    },
+    "ua-mykolayiv-kids-park-kazka": {
+      "name": "kids park 'Kazka' — Mykolayiv",
+      "summary": "Tour sombre de parc pour enfants, treillis dense et couronne à plusieurs supports."
+    },
+    "ua-odesa-kobleska-37": {
+      "name": "Kobleska 37 — Odesa",
+      "summary": "Tour de cour gris argent, grands arcs et panneau clair devant le fût."
+    },
+    "ua-odesa-korolyova-79": {
+      "name": "Korolyova 79 — Odesa",
+      "summary": "Tour de boutique sombre à treillis espacé et bordures rouges."
+    },
+    "ua-odesa-mini-golf-course-in-a-park": {
+      "name": "Tour du minigolf dans un parc — Odesa",
+      "summary": "Tour bleu-gris au-dessus d’un bassin, long fût courbe et couronne ronde ouverte."
+    },
+    "ua-rivne-yard-of-a-residential-building": {
+      "name": "Tour dans la cour d’un immeuble — Rivne",
+      "summary": "Tour de cour brune à fines tiges, arcs bas et petit dôme ouvert."
+    },
+    "ua-ternopil-travel-agency": {
+      "name": "Tour d’une agence de voyages — Ternopil",
+      "summary": "Tour gris argent d’agence de voyages, pieds arqués très évasés et longue aiguille."
+    },
+    "ua-vinnytsya-d-a-k-s-market-grocery-store": {
+      "name": "'D.A.K.S. market' grocery store — Vinnytsya",
+      "summary": "Tour blanche en vitrine avec deux bandeaux vert citron."
+    },
+    "ua-vinnytsya-entrance-to-versal-hotel-and-restaurant": {
+      "name": "entrance to 'Versal' hotel and restaurant — Vinnytsya",
+      "summary": "Tour d’entrée blanche, treillis fin et couronne arrondie courte et épaisse."
+    },
+    "ua-vinnytsya-mirazh-curtains-shop": {
+      "name": "'Mirazh' curtains shop — Vinnytsya",
+      "summary": "Ornement Eiffel plat doré pâle en vitrine, grands motifs triangulaires."
+    },
+    "ua-yahotyn-eiffel-tower-near-a-soviet-tank-monument": {
+      "name": "Tour près d’un monument à un char — Yahotyn",
+      "summary": "Tour à base large et treillis espacé, épaisses plateformes plates et petit chapeau pyramidal clair."
+    },
+    "ua-yahotyn-eiffel-tower-on-a-shop": {
+      "name": "Tour sur un magasin — Yahotyn",
+      "summary": "Section de tour de toit dorée pâle à grand arc et chapeau pyramidal simple."
+    },
+    "ua-zhytomyr-zarichanske-forestry": {
+      "name": "Zarichanske forestry — Zhytomyr",
+      "summary": "Section basse et intermédiaire dorée d’une cour forestière, large balustrade et grande ouverture."
+    },
+    "ps-ramallah-3-rooftop-towers": {
+      "name": "Antenne de Ramallah · tour au premier plan",
+      "summary": "De fines barres brun clair forment une base largement courbe et un long support étroit en treillis. Une antenne fine et plusieurs traverses horizontales surmontent le support en forme de tour."
+    },
+    "ad-andorra-tower-at-a-restaurant": {
+      "name": "Réplique sur une terrasse de café — Andorra (Aragon)",
+      "summary": "Ferronnerie sombre du restaurant d’Andorra, treillis dense et pieds ronds. Deux plateformes carrées, arcs ornés et petite plaque sur le fût."
+    },
+    "by-minsk-next-to-a-playground": {
+      "name": "Tour près d’une aire de jeux — Minsk",
+      "summary": "Tour argentée de l’aire de jeux de Minsk aux grandes diagonales espacées. Deux plateformes hautes, petite cage ronde et longue aiguille."
+    },
+    "de-sielenbach-town-partnership-tower": {
+      "name": "Tour Eiffel — Sielenbach · Tour du jumelage (fiche de recherche)",
+      "summary": "Tour de jumelage ocre rouge de Sielenbach aux arcs finement ornés. Deux plateformes épaisses et long fût élancé."
+    },
+    "es-denia-valencia-metal-merchant-tower": {
+      "name": "Metal merchant tower — Dénia, Valencia",
+      "summary": "Tour du marchand de métal de Dénia, treillis rouille sur hauts blocs clairs. Haute jupe pleine au premier niveau, rambardes ouvertes et long fût pointu."
+    },
+    "hu-budapest-car-showroom-tower": {
+      "name": "Tour Eiffel — Budapest · Tour d’une salle d’exposition automobile (fiche de recherche)",
+      "summary": "Tour gris argent du garage M5 à Budapest, large arc bas. Bande basse sombre pleine, étage intermédiaire court et long fût droit."
+    },
+    "pl-mys-akowice-eiffel-tower-at-a-miniature-park": {
+      "name": "Tour Eiffel — Mysłakowice · Tour Eiffel d’un parc miniature (fiche de recherche)",
+      "summary": "Tour miniature sombre de Mysłakowice au treillis dense. Large plateforme basse profonde, fût élancé et sommet arrondi plein."
+    },
+    "ru-obninsk-tower-in-front-of-some-kind-of-office": {
+      "name": "Tour Eiffel — Obninsk · Devant des bureaux, établissement à confirmer (fiche de recherche)",
+      "summary": "Tour brun doré d’Obninsk, losanges serrés et troisième collier. Grands arcs bas, salle sommitale carrée et toit pointu ajouré."
+    },
+    "ru-yekaterinburg-tower-in-a-small-park": {
+      "name": "Tour Eiffel — Yekaterinburg · Petit parc (fiche de recherche)",
+      "summary": "Petite tour crème d’une cour d’Ekaterinbourg, grosses barres espacées et arc peu profond. Plateforme basse à fines rambardes et long fût presque droit."
+    },
+    "de-odenthal-tower-at-a-boulodrome": {
+      "name": "Tour Eiffel — Odenthal · Boulodrome (fiche de recherche)",
+      "summary": "Tour dorée d’Odenthal à fines poutres, pieds écartés et plateformes basses. Fût en échelle et cadre carré reliant les pieds."
+    },
+    "fi-nivala-crazyland-maliskyla": {
+      "name": "Tour Eiffel — Nivala · Crazyland Maliskylä (fiche de recherche)",
+      "summary": "Tour blanche en bois de Crazyland à Nivala aux lattes croisées serrées. Deux larges plateformes, fût à ressaut et couronne évasée."
+    },
+    "fr-burnhaupt-le-bas-tower-at-a-fire-station": {
+      "name": "Tour Eiffel — Burnhaupt-le-Bas · SDIS fire station (fiche de recherche)",
+      "summary": "Tour aux fils argentés fins de la caserne de Burnhaupt, plateformes basses et long fût étroit. Pieds évasés espacés et petite couronne."
+    },
+    "fr-cajarc-tower-in-village-square": {
+      "name": "Tour Eiffel — Cajarc · Place du village (fiche de recherche)",
+      "summary": "Grosses diagonales dans les étages visibles de la tour de Cajarc. Deux jupes de plateformes très profondes et sombres à nervures verticales."
+    },
+    "fr-pusey-small-tower-in-a-garden": {
+      "name": "Petite tour dans un jardin — Pusey",
+      "summary": "Tour de jardin de Pusey en fil fin, base large et plateformes profondes. Arcs à double ligne légère, fût argenté et quatre blocs clairs."
+    },
+    "fr-vesoul-tower-in-a-back-garden": {
+      "name": "Tour dans un jardin arrière — Vesoul",
+      "summary": "Tour brune du jardin de Vesoul à barres épaisses droites et deux plateformes ajourées. Deux colliers supplémentaires sur le fût et cage sommitale à dôme."
+    },
+    "fr-waldighoffen-tall-wooden-tower-at-an-exhibition": {
+      "name": "Grande tour en bois d’une exposition — Waldighoffen",
+      "summary": "Tour historique en bois de Waldighoffen, larges montants droits et traverses serrées. Trois anneaux simples, long fût presque droit et salle carrée ouverte."
+    },
+    "gb-chertsey-thorpe-park": {
+      "name": "Thorpe Park — Chertsey",
+      "summary": "Tour bronze sombre de Thorpe Park photographiée en1979, larges arcs et plateformes profondes. Long fût en treillis et couronne ouverte pointue à étages."
+    },
+    "de-leipzig-restaurant-salu": {
+      "name": "Tour Eiffel — Leipzig · Restaurant Salü (fiche de recherche)",
+      "summary": "Fût étroit sombre sortant du toit du restaurant Salü à Leipzig. Haute cage polygonale ouverte et fine pointe."
+    },
+    "fr-le-trevoux-festival-tower-made-of-wood": {
+      "name": "Tour Eiffel — Le Trévoux · Tour de fête en bois (fiche de recherche)",
+      "summary": "Grosses planches diagonales et croix de la tour de fête du Trévoux. Bords de plateformes épais empilés, ouverture basse rectangulaire et cadre en bois."
+    },
+    "fr-mobile-location-tour-eiffel-mobile-maindron": {
+      "name": "Tour Eiffel — Localisation à confirmer · Structure événementielle itinérante, sans emplacement fixe (fiche de recherche)",
+      "summary": "Tour itinérante Maindron brun rouille aux larges arcs ronds. Deux plateformes simples et symbole circulaire de paix au sommet."
+    },
+    "fr-saujon-record-breaking-tower-made-of-matches": {
+      "name": "Tour record en allumettes — Saujon",
+      "summary": "Poutres composites claires en allumettes de la tour de Saujon. Larges arcs, petits croisillons et deux plateformes profondes."
+    },
+    "hu-bekescsaba-tower-in-a-back-yard": {
+      "name": "Tour Eiffel — Békéscsaba · Dans une arrière-cour (fiche de recherche)",
+      "summary": "Tour rouge brun d’une cour de Békéscsaba, anneaux bas fins et très long fût. Barres croisées et petite couronne carrée ouverte."
+    },
+    "it-andria-tm-tecnometal": {
+      "name": "TM Tecnometal — Andria",
+      "summary": "Tour bronze sombre sur le toit de Tecnometal à Andria aux larges arcs profonds. Deux plateformes à rambardes, fût fin dense et petite couronne étagée."
+    },
+    "it-cagnano-tower-at-energreen-factory": {
+      "name": "Tour Eiffel — Cagnano · Usine Energreen (fiche de recherche)",
+      "summary": "Tour sombre de l’usine Energreen aux larges arcs et treillis dense. Deux plateformes profondes, long fût fin et couronne carrée étagée."
+    },
+    "lt-letukai-new-miniature-park": {
+      "name": "Tour du nouveau parc miniature — Letūkai",
+      "summary": "Tour gris argent du parc miniature de Letukai, pieds larges sur hauts blocs. Bande basse profonde, rambarde droite et cage polygonale ouverte."
+    },
+    "md-corjeuti-tower-at-a-french-restaurant": {
+      "name": "Tour Eiffel — Corjeuți · Restaurant français (fiche de recherche)",
+      "summary": "Tour blanche du restaurant de Corjeuti sur quatre hauts piliers de pierre. Hautes rambardes de la large galerie, long fût et grande couronne carrée ouverte."
+    },
+    "me-budva-paris-night-club": {
+      "name": "Tour Eiffel — Budva · Paris Night Club (fiche de recherche)",
+      "summary": "Gros pied sombre visible dans le club Paris de Budva. Grands arcs et diagonales sous la lumière bleu-violet."
+    },
+    "nl-friesland-renault-car-garage": {
+      "name": "Tour Eiffel — Drachten, Friesland · Renault Car Garage (fiche de recherche)",
+      "summary": "Tour blanche du garage Renault en Frise, bande bleue au premier niveau. Long fût fin, petite cage carrée et fleuron rayonnant."
+    },
+    "nl-utrecht-tower-in-an-industrial-park": {
+      "name": "Tour Eiffel — Utrecht · Zone industrielle (fiche de recherche)",
+      "summary": "Tour grise de la zone industrielle d’Utrecht derrière les arbres. Fût élancé visible et large couronne à facettes."
+    },
+    "pl-krakow-tower-in-a-builder-s-yard": {
+      "name": "Tour Eiffel — Krakow · Cour d’un entrepreneur du bâtiment (fiche de recherche)",
+      "summary": "Tour de chantier de Cracovie au treillis brun dense et haute rambarde basse. Jupe de supports saillants, long fût et cadre carré supérieur ouvert irrégulier."
+    },
+    "pt-monte-redondo-tower-at-a-small-museum": {
+      "name": "Tour Eiffel — Monte Redondo · Petit musée (fiche de recherche)",
+      "summary": "Larges barres plates rouge brun de la tour du musée communautaire de Monte Redondo. Jupes profondes, arc simple et étage ouvert pour les événements."
+    },
+    "ro-cincu-tower-at-a-farm": {
+      "name": "Tour de la ferme — Cincu",
+      "summary": "Tour de ferme de Cincu aux fines barres brunes, long fût et petite cage à dôme. Grande étoile à cinq branches, rambardes courbes et bord rouge de tuiles."
+    },
+    "rs-markovac-small-tower-in-a-back-yard": {
+      "name": "Tour Eiffel — Markovac · Petite tour dans une arrière-cour (fiche de recherche)",
+      "summary": "Tour rouge du jardin de Markovac aux pieds larges et deux plateformes ouvertes. Petite couronne ronde portant un très long mât de type antenne TV."
+    },
+    "ua-berdyansk-berdyansk-mechanical-engineering-lyceum": {
+      "name": "Berdyansk Mechanical Engineering Lyceum — Berdyansk",
+      "summary": "Tour gris argent au treillis fin de l’allée des forgerons de Berdiansk. Quatre pieds évasés, arcs ronds et deux plateformes fines."
+    },
+    "ua-berehove-crimea-tower-at-the-seaside": {
+      "name": "Tour au bord de mer — Berehove (Crimea)",
+      "summary": "Tour côtière de Berehove aux fins pieds croisés et deux colliers à rambardes. Guirlandes blanc chaud serrées sur les pieds, plateformes et fût."
+    },
+    "ua-dovzhans-ka-tower-mounted-on-brick-pillars": {
+      "name": "Tour Eiffel — Dovzhans'ka · Tour sur piliers de brique (fiche de recherche)",
+      "summary": "Tour beige de Dovjansk sur quatre très hauts piliers de pierre-brique. Arcs pleins courbes, deux plateformes à rambardes et long fût pointu."
+    },
+    "ua-kushuhum-park-tower": {
+      "name": "Tour du parc — Kushuhum",
+      "summary": "Tour sombre du parc de Kouchouhoum, large arc et deux plateformes fines. Petite couronne cylindrique et aiguille ; cœur rouge séparé à côté."
+    },
+    "ua-marganets-dnipro-club": {
+      "name": "'Dnipro' club — Marganets",
+      "summary": "Tour gris argent devant le club Dnipro de Marhanets. Base large à quatre pieds espacés, plateformes fines et petite cage carrée."
+    },
+    "ua-nikopol-tower-at-the-edge-of-the-river": {
+      "name": "Tour au bord de la rivière — Nikopol",
+      "summary": "Tour tubulaire du quai de Nikopol, pieds larges en grandes diagonales droites. Deux anneaux ouverts, sans arc rond décoratif, et longue antenne."
+    },
+    "ua-rodynske-bank": {
+      "name": "Tour de la banque — Rodynske",
+      "summary": "Tour gris clair de Rodynske en plats métalliques, large plateforme basse et haut étage intermédiaire. Long fût droit, boîte sommitale quadrillée et petits projecteurs saillants."
+    },
+    "ua-volnovakha-central-park-in-the-town": {
+      "name": "Tour du parc central — Volnovakha",
+      "summary": "Tour sombre de Volnovakha au treillis dense, larges arcs et bordures rectangulaires fines. Rambardes basses en demi-cercles, jupe profonde et éclairage blanc froid."
+    },
+    "fr-montlouis-sur-loire-tower-in-chateau-gardens": {
+      "name": "Tour du jardin du château — Montlouis-sur-Loire",
+      "summary": "Quatre grosses jambes obliques et plateformes épaisses de la tour en bois de Montlouis. Quatre grands croisillons, silhouette longue étroite et coiffe ouverte pointue."
+    },
+    "ru-abakan-tower-in-a-landscape-garden": {
+      "name": "Tour du jardin paysager — Abakan",
+      "summary": "Tour blanche du jardin d’Abakan, large arc et plateformes saillantes. Long fût fin, petite coiffe arrondie et aiguille élancée."
+    },
+    "ru-arzamas-tower-beside-a-large-road": {
+      "name": "Tour près d’une grande route — Arzamas",
+      "summary": "Tour bronze brun détaillée d’Arzamas, treillis dense et deux jupes profondes. Arcs ornés, large couronne et petite antenne segmentée."
+    },
+    "ru-perm-tower-in-front-of-offices": {
+      "name": "Tour Eiffel — Perm · Devant des bureaux (fiche de recherche)",
+      "summary": "Tour sombre de Perm, base large et deux plateformes. Petite couronne ronde ouverte ; bleu cyan au milieu et à la couronne, or chaud sur le fût et les arcs photographiés."
+    },
+    "ru-samara-tower-at-a-road-junction": {
+      "name": "Tour au carrefour — Samara",
+      "summary": "Tour dorée de Samara photographiée en2015, larges plateformes et arcs ronds. Fût fin croisé, pièce sommitale carrée et coiffe pointue."
+    },
+    "ua-yalta-across-the-river": {
+      "name": "Tour près de la rivière — Yalta",
+      "summary": "Tour technique gris clair visible au-delà de la rivière à Yalta. Barres croisées droites, genoux anguleux et bras d’équipement supérieur."
+    },
+    "ua-zaporizhzhya-dejavu-cafe": {
+      "name": "'Dejavu' cafe — Zaporizhzhya",
+      "summary": "Fine tour brune devant le café Dejavu de Zaporijjia. Arc bas, deux anneaux fins et long fût étroit."
+    },
+    "cz-most-mostecke-jezero-olympic-tower": {
+      "name": "Mostecké jezero – Olympic tower — Most",
+      "summary": "Treillis bleu-gris épais et arc inférieur visibles de la tour olympique du lac Most. Cinq anneaux colorés au milieu et pieds carrés clairs."
+    },
+    "de-abbensen-vorgarten": {
+      "name": "Tour Eiffel — Abbensen · Vorgarten (fiche de recherche)",
+      "summary": "Petite tour pleine gris clair du jardin d’Abbensen, arc rond et anneaux simples. Inserts bruns divisés par des joints clairs en X et long fût plein effilé."
+    },
+    "fr-lacapelle-biron-tower-in-a-garden": {
+      "name": "Tour Eiffel — Lacapelle-Biron · Dans un jardin (fiche de recherche)",
+      "summary": "Grandes diagonales en X et large ouverture de la tour bleu-argent de Lacapelle-Biron. Rambardes penchées vers l’extérieur, signature artisanale."
+    },
+    "gb-harrogate-tour-de-france-sculpture": {
+      "name": "Tour Eiffel — Harrogate · Tour de France Sculpture (fiche de recherche)",
+      "summary": "Relief de la tour dans un tronc à Harrogate, pieds pleins et arc rond unique. Fenêtre centrale, rainure haute et X sculptés sous une coiffe massive arrondie."
+    },
+    "se-vanersborg-lilla-paris": {
+      "name": "Lilla Paris — Vänersborg",
+      "summary": "Structure blanche Lilla Paris à Vänersborg, larges panneaux d’arc pleins. Treillis central en losanges et panneau triangulaire supérieur avec quelques grandes fenêtres."
+    },
+    "ua-alchevsk-tower-on-stilts-in-park": {
+      "name": "Tour sur pilotis dans un parc — Alchevsk",
+      "summary": "Fine tour dorée du parc d’Altchevsk et deux petits colliers. Ses pieds reposent sur un cadre carré surélevé ouvert et clair."
+    },
+    "ua-vynnyky-a-cross-in-a-shape-of-an-eiffel-tower": {
+      "name": "Croix en forme de tour Eiffel — Vynnyky",
+      "summary": "Véritable croix commémorative de Vynnyky, large croix évasée dominant le haut. Bordure brune ajourée dense et pieds bas évasés de type Eiffel."
+    },
+    "ar-alicia-marchetti": {
+      "name": "Réplique Eiffel Torre Alicia déplacée",
+      "summary": "Tour Alicia déplacée, deux plateformes basses et fût exceptionnellement long. Couronne carrée ouverte et fines antennes."
+    },
+    "ar-carlos-paz-tower-in-a-pensioner-s-garden": {
+      "name": "Tour du jardin d’un retraité — Carlos Paz",
+      "summary": "Parties basses et intermédiaires visibles de la tour artisanale de Carlos Paz. Large arc courbe, fines barres et deux plateformes."
+    },
+    "ar-cordoba-galeria-jardin": {
+      "name": "Galeria Jardin — Córdoba",
+      "summary": "Tour de Córdoba en chaînes, arcs profonds et treillis sombre dense. Large plateforme basse, long fût et petite couronne carrée."
+    },
+    "br-ivaipora-tower-in-the-middle-of-a-boulevard": {
+      "name": "Tour au milieu du boulevard — Ivaiporã",
+      "summary": "Tour sombre du boulevard d’Ivaiporã, larges arcs et deux plateformes saillantes. Long treillis fin, cage arrondie et mât pointu."
+    },
+    "cn-longkou-shandong-tower-on-seafront": {
+      "name": "Tour Eiffel — Longkou, Shandong · Front de mer (fiche de recherche)",
+      "summary": "Tour côtière brun foncé de Longkou, larges arcs profonds et deux plateformes ajourées. Long fût en treillis et petite couronne claire."
+    },
+    "cn-shanghai-i-do-tower": {
+      "name": "I Do Tower — Shanghai",
+      "summary": "Tour I DO blanche à Shanghai, treillis fin, larges arcs et deux plateformes. Fût élancé, petite couronne et position du panneau conservée."
+    },
+    "cn-shanghai-tower-at-shopping-centre": {
+      "name": "Tour Eiffel — Shanghai · Centre commercial (fiche de recherche)",
+      "summary": "Section de tour dorée au-dessus du carrousel de Shanghai. Large plateforme à rambarde, long fût et sommet carré."
+    },
+    "cn-shenyang-city-square": {
+      "name": "Tour Eiffel — Shenyang · Place urbaine (fiche de recherche)",
+      "summary": "Tour dorée de la place de Shenyang, treillis dense et bords de plateformes marqués. Arcs sombres et petite couronne étagée."
+    },
+    "cn-taiyuan-tower-on-police-station-roof": {
+      "name": "Tour sur le toit du commissariat — Taiyuan",
+      "summary": "Tour de toit gris argent à Taiyuan, pieds courbes et plateformes fines. Fût pointu et fine couronne étagée."
+    },
+    "co-barrancabermeja-parque-tapias": {
+      "name": "Tour Eiffel — Barrancabermeja, Santander · Parque Tapias, comuna cuatro (fiche de recherche)",
+      "summary": "Long treillis dense et larges plateformes carrées visibles sur la tour festive de Tapias. Les photos montrent un éclairage doré chaud et bleu-violet."
+    },
+    "co-tunja-puente-de-boyaca": {
+      "name": "Tour Eiffel — Tunja · Puente de Boyacá (fiche de recherche)",
+      "summary": "Silhouette à quatre pieds, grand arc et fût fin de la structure lumineuse de Tunja. La photo montre un or blanc chaud et des accents vert-cyan."
+    },
+    "cu-havana-jorge-enrique-salgado-tower": {
+      "name": "Tour Eiffel — Havana · Jorge Enrique Salgado Tower (fiche de recherche)",
+      "summary": "Tour de toit blanche à La Havane, fines barres, plateformes légères et long fût. Large balcon sommital carré, coiffe arrondie et longue aiguille."
+    },
+    "cu-santa-clara-1895-replica": {
+      "name": "Tour Eiffel — Santa Clara · Réplique temporaire de 1895 (fiche de recherche)",
+      "summary": "Tour en charpente, large galerie et long fût visibles sur la photo de Santa Clara en1895. Petite silhouette sommitale étagée en lanterne."
+    },
+    "ec-quito-lycee-la-condamine": {
+      "name": "Tour Eiffel — Quito · Lycée La Condamine (fiche de recherche)",
+      "summary": "Sections rouges, blanches et bleues et pieds courts de la tour du lycée français de Quito. Long fût droit, plateformes légères et petite couronne plate."
+    },
+    "hn-tegucilgapa-plaza-paris-tower": {
+      "name": "Tour Eiffel — Tegucilgapa · Plaza París Tower (fiche de recherche)",
+      "summary": "Long fût cuivré et deux plateformes basses visibles à Tegucigalpa. Petite couronne arrondie, partie basse masquée par la foule."
+    },
+    "id-lembang-minimania": {
+      "name": "Tour Eiffel — Lembang · Minimania Lembang (fiche de recherche)",
+      "summary": "Long fût clair en treillis et petit sommet sur la photo officielle de Lembang. Plateforme intermédiaire visible, partie basse cachée par les arbres et la voie."
+    },
+    "id-megamendung-minimania-puncak": {
+      "name": "Tour Eiffel — Megamendung · Minimania Puncak (fiche de recherche)",
+      "summary": "Tour crème dorée de Puncak, larges arcs et deux plateformes à fines rambardes. Long fût et petit chapeau arrondi."
+    },
+    "id-semarang-bamboo-reddit-lead": {
+      "name": "Tour Eiffel — Semarang (fiche de recherche)",
+      "summary": "Treillis segmenté en bambou et larges plateformes de Rawapening. Fût élancé et petit drapeau indonésien rouge et blanc."
+    },
+    "id-tasikmalaya-west-java-menara-eiffel": {
+      "name": "Tour Eiffel — Tasikmalaya, West Java · Menara Eiffel (fiche de recherche)",
+      "summary": "Base large, première galerie en bambou et fût plus court à Tasikmalaya. Contreventements droits en bambou et fine tige au sommet."
+    },
+    "il-jerusalem-festival-of-lights": {
+      "name": "Tour Eiffel — Jerusalem · Fête des lumières (fiche de recherche)",
+      "summary": "Fin treillis blanc et plateformes carrées légères sur la photo du festival de Jérusalem. Le tramway et les arbres masquent la base ; la pointe dépasse le cadre."
+    },
+    "in-ajmer-seven-wonders": {
+      "name": "Tour Eiffel — Ajmer · Parc des Sept Merveilles (fiche de recherche)",
+      "summary": "Treillis gris foncé dense et deux larges plateformes encore visibles sur la photo de démolition d’Ajmer. Long fût étroit, couronne compacte arrondie et pieds masqués."
+    },
+    "in-ambikapur-scrap-park": {
+      "name": "Tour Eiffel — Ambikapur · Parc municipal de réemploi artistique, nom à confirmer (fiche de recherche)",
+      "summary": "Grand arc ouvert et large galerie à rambarde de la tour de récupération d’Ambikapur. Collier étroit sur le fût, petite cage carrée ouverte et longue tige au sommet."
+    },
+    "kg-aksy-tower-built-by-school-pupils": {
+      "name": "Tour construite par des élèves — Aksy",
+      "summary": "Pieds très évasés et fût presque rectiligne de la tour des élèves d’Aksy. Lignes blanc-violet photographiées, sommet lumineux et première plateforme à cadre sombre."
+    },
+    "kg-bishkek-consulate-or-pet-shop-tower": {
+      "name": "Tour Eiffel — Bishkek · Consulat ou animalerie, lieu à confirmer (fiche de recherche)",
+      "summary": "Fin treillis brun, arc bas et plateformes minces de la tour de rue à Bichkek. Petit chapeau arrondi et aiguille au-dessus du long fût."
+    },
+    "kg-bishkek-vostok-5-microdistrict": {
+      "name": "Vostok-5 microdistrict — Bishkek",
+      "summary": "Lignes lumineuses bleu-blanc du fût et couronne dorée sur la photo de Vostok-5. Fin treillis à quatre pieds et deux plateformes légères."
+    },
+    "kr-chungju-si-hotel-the-base": {
+      "name": "Hotel the Base — Chungju-si",
+      "summary": "Tour brun bronze de l’hôtel de Chungju, grands arcs doubles, pieds épais et fines rambardes. Fût dense croisé et ornement en boucle au-dessus du sommet carré ouvert."
+    },
+    "lb-unlocated-blue-helmet-camp": {
+      "name": "Tour Eiffel — Localisation à confirmer · Blue Helmet Camp (fiche de recherche)",
+      "summary": "Fin treillis brun sable, pieds larges et plateformes minces sur la photo du camp de Casques bleus au Liban. Long fût droit et très petite cage sommitale plate."
+    },
+    "ma-fez-tour-d-eiffel-de-fes": {
+      "name": "Tour Eiffel — Fez · Tour d'Eiffel de Fes (fiche de recherche)",
+      "summary": "Long fût rectiligne en treillis terminé à plat, sans grande couronne, sur la photo historique de Fès. Deux plateformes très minces et hauts pieds droits."
+    },
+    "nz-coromandel-replica-inside-the-eyefull-tower": {
+      "name": "Réplique à l’intérieur de l’Eyefull Tower — Coromandel",
+      "summary": "Bandes métalliques perforées, quatre pieds et deux plateformes de la tour exposée à Coromandel. Long fût étroit coiffé d’une cage arrondie ouverte et d’une fine aiguille."
+    },
+    "ph-boracay-la-reserve": {
+      "name": "Tour Eiffel — Boracay / Malay · La Réserve restaurant (fiche de recherche)",
+      "summary": "Treillis brun dense, grand arc ouvert et plateformes légères de la tour La Réserve à Boracay. La photo montre une lumière verte montante et un complément chaud localisé."
+    },
+    "ph-iloilo-jaro-1889-bamboo": {
+      "name": "Tour Eiffel — Iloilo City · Jaro Plaza (fiche de recherche)",
+      "summary": "Tour en bambou, base large et long fût fin sur la photographie de Jaro de1889. Plateformes basses et petite silhouette sommitale en lanterne."
+    },
+    "ph-manila-megamall": {
+      "name": "Tour Eiffel — Manila · Megamall (fiche de recherche)",
+      "summary": "Treillis foncé épais et plateformes carrées massives de la tour du centre commercial de Manille. Caisse étroite à barreaux au sommet du fût, base masquée par la foule et les parasols."
+    },
+    "ph-naic-torres-farm-and-resort": {
+      "name": "Tour du domaine Torres — Naic",
+      "summary": "Pieds très évasés, grands arcs en treillis et première plateforme large et épaisse à Torres Farm, Naic. Étage intermédiaire plus court, long fût fin et petite cage sommitale ouverte."
+    },
+    "ph-tablas-bantigue-resort": {
+      "name": "Tour Eiffel — Tablas · Bantigue Resort (fiche de recherche)",
+      "summary": "Fort treillis en bambou, haute rambarde de première galerie et seconde plateforme épaisse à Tablas. La photo montre un éclairage doré chaud et un signal rouge au sommet."
+    },
+    "sa-madinah-replica-on-a-roof-top": {
+      "name": "Réplique sur un toit — Madinah",
+      "summary": "Tour de toit blanc argenté, arc ouvert et plateformes minces sur la vue lointaine de Médine. Fût fin, couronne arrondie compacte et longue tige sommitale."
+    },
+    "th-udon-thani-unknown": {
+      "name": "Tour Eiffel — Udon Thani · Lieu à confirmer (fiche de recherche)",
+      "summary": "Base blanc argenté et partie haute brun orangé sur la photo d’Udon Thani, avec rambarde à boucles. Treillis de fines tiges, petit balcon plat et couronne à boucle."
+    },
+    "tj-dushanbe-shopping-mall-tower": {
+      "name": "Tour Eiffel — Dushanbe · Tour de centre commercial (fiche de recherche)",
+      "summary": "Fortes poutres gris foncé, grand arc et deux plateformes carrées épaisses à Douchanbé. Grands X réguliers et coiffe compacte arrondie ; une passerelle vitrée rejoint la tour."
+    },
+    "tw-taichung-carton-king": {
+      "name": "Tour Eiffel — Taichung · Carton King (fiche de recherche)",
+      "summary": "Larges contreventements plats triangulaires, grand arc et bordures épaisses de la tour blanche de Carton King à Taichung. Longue aiguille blanche et décor ajouré sous la plateforme."
+    },
+    "us-atlanta-georgia-meccano-model": {
+      "name": "Tour Eiffel — Atlanta, Georgia · former SciTrek museum (fiche de recherche)",
+      "summary": "Treillis blanc dense, bordures dorées et arcs profonds sur l’image liée à Atlanta. Pavillon sommital étagé, très longue hampe et points lumineux chauds sur les arêtes."
+    },
+    "us-austin-texas-dreyfus-eiffel-tower": {
+      "name": "Tour Eiffel — Austin, Texas · former Dreyfus Antique Shop, 1901 N Lamar Blvd (fiche de recherche)",
+      "summary": "Treillis dense brun rouge et arc large et bas de la tour Dreyfus à Austin. Plateformes très minces, long fût élancé et petit pavillon arrondi au sommet."
+    },
+    "us-boise-idaho-cafe-de-paris": {
+      "name": "Cafe de Paris — Boise, Idaho",
+      "summary": "Pieds évasés à fine grille grise, cadre carré à la base et large plateforme peu épaisse sur la photo du café de Boise. Un fût presque vertical en grille continue au-dessus de la plateforme hors du cadre."
+    },
+    "us-gettysburg-pennsylvania-devenshire-apartment-complex": {
+      "name": "Tour Eiffel — Gettysburg, Pennsylvania · former International Village / Devonshire apartments grounds (fiche de recherche)",
+      "summary": "Grands X clairsemés crème et hauts pieds droits de la tour résidentielle de Gettysburg. Long fût étroit, large cage carrée ouverte et absence d’aiguille."
+    },
+    "us-kingston-washington-crepes-restaurant": {
+      "name": "Tour Eiffel — Kingston , Washington · Crêperie (fiche de recherche)",
+      "summary": "Fin treillis bronze et grand arc de la tour devant la crêperie de Kingston. Plateformes minces, long fût droit et couronne carrée compacte étagée."
+    },
+    "us-paris-kentucky-tower-on-a-small-square": {
+      "name": "Tour Eiffel — Paris, Kentucky · Petite place (fiche de recherche)",
+      "summary": "Fin treillis blanc, deux plateformes légères et large arc sur la place de Paris au Kentucky. Caisse sommitale blanche étagée et fine aiguille."
+    },
+    "uz-samarkand-eiffel-tower": {
+      "name": "Tour Eiffel — Samarkand · Tour Eiffel (fiche de recherche)",
+      "summary": "Fin treillis gris argenté et larges plateformes carrées à rambardes sur la photo de la piscine de Samarcande. Petite cage et très longue antenne au-dessus du fût, base cachée par le bâtiment."
+    },
+    "vn-ansapa-village-ansapa-park": {
+      "name": "Ansapa Park — Ansapa Village",
+      "summary": "Tour bronze sombre à Ansapa, large arc haut, plateformes minces et long fût droit. Grande coiffe sombre en dôme bordée d’or."
+    },
+    "vn-bac-giang-nha-hang-cua-o": {
+      "name": "Nhà Hàng Cua Đỏ — Bac Giang",
+      "summary": "Arcs profonds en treillis, jupe décorative dense et large première galerie à haute rambarde à Bac Giang. Long fût gris bronze, cage sommitale carrée à ailettes verticales et fine aiguille."
+    },
+    "za-parys-eiffel-toring-tower": {
+      "name": "Tour Eiffel — Parys · Tour Eiffel (fiche de recherche)",
+      "summary": "Treillis brun rouille clairsemé et plateformes légères de la tour événementielle Eiffel Toring à Parys. Haut fût droit, large rambarde carrée ouverte et longue antenne."
+    },
+    "za-parys-old-ferry-house-restaurant": {
+      "name": "Tour du restaurant Old Ferry House — Parys",
+      "summary": "Cadre sombre très dépouillé, plateforme basse et long fût ouvert à Old Ferry House, Parys. Grande caisse d’horloge et guirlande chaude ; pointe hors de la photo."
+    },
+    "za-parys-tower-between-the-street-and-shops": {
+      "name": "Tour entre la rue et les commerces — Parys",
+      "summary": "Tiges blanches droites très espacées et quatre pieds largement courbés de la tour de rue de Parys. Deux plateformes à rambardes ouvertes, petit pavillon carré et toit pointu."
+    },
+    "za-parys-tower-in-arts-quarter": {
+      "name": "Tour du quartier artistique — Parys",
+      "summary": "Cadre principal brun rouge, fines diagonales grises et long fût droit du quartier artistique de Parys. Petite cage ouverte large, dôme arrondi marqué et longue aiguille."
+    },
+    "ca-beloeil-cypress-tree": {
+      "name": "Tour Eiffel — Beloeil · Cyprès taillé (fiche de recherche)",
+      "summary": "Masse feuillue dense, quatre pieds larges et ouverture basse de la tour de cyprès taillé de Belœil. Base évasée par étages et longue couronne végétale épaisse arrondie."
+    },
+    "us-gasquet-gasquet-market": {
+      "name": "Tour Eiffel — Gasquet · Gasquet Market (fiche de recherche)",
+      "summary": "Pieds bas et massifs en arc, large plateforme carrée très épaisse et quatre piles médianes inclinées de la tour de galets de Gasquet. Épaisse colonne ronde effilée et large chapeau aplati."
+    },
+    "us-kings-island-ohio-eiffel-tower-topiary": {
+      "name": "Tour Eiffel — Kings Island, Ohio · Tour Eiffel en topiaire (fiche de recherche)",
+      "summary": "Feuillage vert taillé dense et quatre pieds inférieurs séparés de la topiaire de Kings Island. Colonne verte presque verticale ; sommet partiellement visible."
+    },
+    "ua-dnipro-eiffel-tower-wind-farm-in-the-yard-of-a-private-house": {
+      "name": "Éolienne en forme de tour Eiffel dans une cour privée — Dnipro",
+      "summary": "Quatre pieds étroits et fin treillis presque vertical de l’éolienne de jardin à Dnipro. Cinq pales blanches, nacelle et longue girouette réellement visibles."
+    },
+    "ua-kamyanyi-mist-7th-sky-airport-restaurant": {
+      "name": "\"7th Sky Airport\" restaurant — Kamyanyi mist",
+      "summary": "Étages bas très courts et fût exceptionnellement long et fin au restaurant de Kamyanyi Mist. Deux plateformes carrées minces, petit sommet carré pointu et treillis régulier clairsemé."
+    },
+    "ua-kyiv-andriivskyi-descent": {
+      "name": "Tour de la descente Saint-André — Kyiv",
+      "summary": "Petite tour brun doré au coin de la terrasse Baguette de Kyiv, avec deux plateformes minces. Fût à fines tiges presque verticales et petite coiffe carrée étagée."
+    },
+    "ua-lutsk-beside-a-restaurant-next-to-a-car-garage": {
+      "name": "Tour près du restaurant et du garage — Lutsk",
+      "summary": "Tour rouge orangé près du restaurant de Loutsk, avec fût élancé en treillis et deux plateformes minces. Grand arc, cage sommitale arrondie à nervures et longue aiguille."
+    },
+    "ua-maryanivka-eiffel-tower-in-a-park": {
+      "name": "Eiffel Tower in a park — Maryanivka",
+      "summary": "Fût droit et fin et deux plateformes à bord sombre de la tour grise du parc de Marianivka. Coiffe carrée étagée et aiguille très longue ; pieds masqués par les arbres."
+    },
+    "ua-novodnistrovsk-tower-at-a-travel-agency": {
+      "name": "Tour d’une agence de voyages — Novodnistrovsk",
+      "summary": "Tour claire devant l’entrée de Novodnistrovsk à larges diagonales plates. Deux plateformes minces, arc haut arrondi, fût étroit et petite cage en dôme ouverte avec aiguille."
+    },
+    "ua-shatsk-yard-of-a-private-house": {
+      "name": "Tour dans une cour privée — Shatsk",
+      "summary": "Treillis sombre clairsemé et pieds très évasés de la tour du jardin de Chatsk. Deux plateformes et pavillon sommital blancs, très longue aiguille au-dessus du fût droit."
+    },
+    "ua-shypyntsi-shale-restaurant": {
+      "name": "'Shale' restaurant — Shypyntsi",
+      "summary": "Tour beige-gris clair du restaurant Shale à Chypyntsi, arcs profonds et large première galerie. Points bleu-violet sur le fût et lumière chaude en bas visibles ; couronne en dôme ouverte et longue aiguille."
+    },
+    "ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral": {
+      "name": "Tour près de la cathédrale gréco-catholique — Uzhgorod",
+      "summary": "Petite tour en bronze fixée au lampadaire d’Oujhorod, surfaces surtout pleines et treillis en faible relief. Ouverture basse semi-circulaire, deux larges bandes continues, fût élancé et petite coiffe arrondie."
+    }
+  }
+}

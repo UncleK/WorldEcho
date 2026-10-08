@@ -1,0 +1,19 @@
+{
+  "title": "Natural Earth 1:50m Land",
+  "publisher": "Natural Earth contributors",
+  "sourcePage": "https://www.naturalearthdata.com/downloads/50m-physical-vectors/50m-land/",
+  "downloadUrl": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_land.geojson",
+  "license": "Public domain",
+  "licenseUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "verifiedAt": "2026-10-06",
+  "bytes": 1636166,
+  "sha256": "e874b27a51d146452be360cafb3cc50c86001074a67d534113e6534682f9826b",
+  "features": 1420,
+  "browserGeometry": "Polygon triangulation with bounded Douglas-Peucker simplification (0.018 degrees desktop, 0.035 degrees mobile), spherical subdivision and extruded coastline walls.",
+  "limitations": [
+    "Small-scale cartographic coastline, not surveyed site boundaries or a digital elevation model.",
+    "Procedural relief, colors and day/night lighting are art direction. They do not assert measured mountains, present snow cover, city lights or live time of day.",
+    "Natural Earth notes coastline accuracy concerns in northern Russia and southern Chile.",
+    "Simplification tolerances are angular rendering parameters, not statements of map positional accuracy."
+  ]
+}

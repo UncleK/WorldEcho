@@ -1,0 +1,1620 @@
+{
+  "towers": {
+    "ua-cherkasy-bonjour-underwear-store": {
+      "name": "'Bonjour' underwear store — Cherkasy",
+      "label": "Cherkasy",
+      "city": "Cherkasy",
+      "venue": "'Bonjour' underwear store",
+      "summary": "La carte de Jon Worth signale « 'Bonjour' underwear store » à Cherkasy. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-vinnytsya-d-a-k-s-market-grocery-store": {
+      "name": "'D.A.K.S. market' grocery store — Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "'D.A.K.S. market' grocery store",
+      "summary": "La carte de Jon Worth signale « 'D.A.K.S. market' grocery store » à Vinnytsya. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kostyantynikka-euro-city-restaurant": {
+      "name": "'Euro-city' restaurant — Kostyantynikka",
+      "label": "Kostyantynikka",
+      "city": "Kostyantynikka",
+      "venue": "'Euro-city' restaurant",
+      "summary": "La carte de Jon Worth signale « 'Euro-city' restaurant » à Kostyantynikka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-vinnytsya-mirazh-curtains-shop": {
+      "name": "'Mirazh' curtains shop — Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "'Mirazh' curtains shop",
+      "summary": "La carte de Jon Worth signale « 'Mirazh' curtains shop » à Vinnytsya. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-shypyntsi-shale-restaurant": {
+      "name": "'Shale' restaurant — Shypyntsi",
+      "label": "Shypyntsi",
+      "city": "Shypyntsi",
+      "venue": "'Shale' restaurant",
+      "summary": "La carte de Jon Worth signale « 'Shale' restaurant » à Shypyntsi. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-malyn-french-boutique-shop": {
+      "name": "\"French boutique\" shop — Malyn",
+      "label": "Malyn",
+      "city": "Malyn",
+      "venue": "\"French boutique\" shop",
+      "summary": "La carte de Jon Worth signale « \"French boutique\" shop » à Malyn. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-yalta-across-the-river": {
+      "name": "Tour près de la rivière — Yalta",
+      "label": "Yalta",
+      "city": "Yalta",
+      "venue": "Tour près de la rivière",
+      "summary": "La carte de Jon Worth signale « Across the river » à Yalta. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ru-yeysk-amusement-park-tower": {
+      "name": "Tour du parc de loisirs — Yeysk",
+      "label": "Yeysk",
+      "city": "Yeysk",
+      "venue": "Tour du parc de loisirs",
+      "summary": "La carte de Jon Worth signale « Amusement Park Tower » à Yeysk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-andriivskyi-descent": {
+      "name": "Tour de la descente Saint-André — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Tour de la descente Saint-André",
+      "summary": "La carte de Jon Worth signale « Andriivskyi descent » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-lviv-beauty-salon-l-etoile": {
+      "name": "Beauty salon L'Etoile — Lviv",
+      "label": "Lviv",
+      "city": "Lviv",
+      "venue": "Beauty salon L'Etoile",
+      "summary": "La carte de Jon Worth signale « Beauty salon L'Etoile » à Lviv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-berdyansk-berdyansk-mechanical-engineering-lyceum": {
+      "name": "Berdyansk Mechanical Engineering Lyceum — Berdyansk",
+      "label": "Berdyansk",
+      "city": "Berdyansk",
+      "venue": "Berdyansk Mechanical Engineering Lyceum",
+      "summary": "La carte de Jon Worth signale « Berdyansk Mechanical Engineering Lyceum » à Berdyansk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-lutsk-beside-a-restaurant-next-to-a-car-garage": {
+      "name": "Tour près du restaurant et du garage — Lutsk",
+      "label": "Lutsk",
+      "city": "Lutsk",
+      "venue": "Tour près du restaurant et du garage",
+      "summary": "La carte de Jon Worth signale « Beside a restaurant, next to a car garage » à Lutsk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "de-tubingen-boxenstop-tubingen": {
+      "name": "Boxenstop Tübingen — Tübingen",
+      "label": "Tübingen",
+      "city": "Tübingen",
+      "venue": "Boxenstop Tübingen",
+      "summary": "La carte de Jon Worth signale « Boxenstop Tübingen » à Tübingen. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-mankivka-central-park-tower": {
+      "name": "Tour du parc central — Mankivka",
+      "label": "Mankivka",
+      "city": "Mankivka",
+      "venue": "Tour du parc central",
+      "summary": "La carte de Jon Worth signale « Central park tower » à Mankivka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "es-las-palmas-tenerife-cita-shopping-center": {
+      "name": "Tour du centre commercial Cita — Las Palmas, Tenerife",
+      "label": "Las Palmas, Tenerife",
+      "city": "Las Palmas, Tenerife",
+      "venue": "Tour du centre commercial Cita",
+      "summary": "La carte de Jon Worth signale « Cita Shopping Center » à Las Palmas, Tenerife. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-citroen-car-dealership": {
+      "name": "Citroen car dealership — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Citroen car dealership",
+      "summary": "La carte de Jon Worth signale « Citroen car dealership » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ec-quito-eiffel-center": {
+      "name": "Tour du centre Eiffel — Quito",
+      "label": "Quito",
+      "city": "Quito",
+      "venue": "Tour du centre Eiffel",
+      "summary": "La carte de Jon Worth signale « Eiffel Center » à Quito. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "us-tyndall-sd-eiffel-tower-flagpole": {
+      "name": "Mât en forme de tour Eiffel — Tyndall, SD",
+      "label": "Tyndall, SD",
+      "city": "Tyndall, SD",
+      "venue": "Mât en forme de tour Eiffel",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower Flagpole » à Tyndall, SD. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-baryshivka-eiffel-tower-near-a-coffee-shop": {
+      "name": "Tour près d’un café — Baryshivka",
+      "label": "Baryshivka",
+      "city": "Baryshivka",
+      "venue": "Tour près d’un café",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower near a coffee shop » à Baryshivka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-ivano-frankivsk-eiffel-tower-near-a-shop": {
+      "name": "Tour près d’un magasin — Ivano-Frankivsk",
+      "label": "Ivano-Frankivsk",
+      "city": "Ivano-Frankivsk",
+      "venue": "Tour près d’un magasin",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower near a shop » à Ivano-Frankivsk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-eiffel-tower-on-a-balcony-of-a-travel-agency": {
+      "name": "Tour sur le balcon d’une agence de voyages — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Tour sur le balcon d’une agence de voyages",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower on a balcony of a travel agency » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-vinnytsya-entrance-to-versal-hotel-and-restaurant": {
+      "name": "entrance to 'Versal' hotel and restaurant — Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "entrance to 'Versal' hotel and restaurant",
+      "summary": "La carte de Jon Worth signale « entrance to 'Versal' hotel and restaurant » à Vinnytsya. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "az-nakhchivan-yl-nc-adas": {
+      "name": "Tour de l’île des loisirs — Nakhchivan",
+      "label": "Nakhchivan",
+      "city": "Nakhchivan",
+      "venue": "Tour de l’île des loisirs",
+      "summary": "La carte de Jon Worth signale « Əyləncə Adası » à Nakhchivan. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-koriukivka-flower-stand-near-the-city-council": {
+      "name": "Tour du fleuriste près de la mairie — Koriukivka",
+      "label": "Koriukivka",
+      "city": "Koriukivka",
+      "venue": "Tour du fleuriste près de la mairie",
+      "summary": "La carte de Jon Worth signale « flower stand near the city council » à Koriukivka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "it-chioggia-front-garden-tower": {
+      "name": "Tour du jardin avant — Chioggia",
+      "label": "Chioggia",
+      "city": "Chioggia",
+      "venue": "Tour du jardin avant",
+      "summary": "La carte de Jon Worth signale « Front garden tower » à Chioggia. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-horodok-front-yard-of-a-private-house": {
+      "name": "Tour dans la cour d’une maison — Horodok",
+      "label": "Horodok",
+      "city": "Horodok",
+      "venue": "Tour dans la cour d’une maison",
+      "summary": "La carte de Jon Worth signale « Front yard of a private house » à Horodok. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ar-cordoba-galeria-jardin": {
+      "name": "Galeria Jardin — Córdoba",
+      "label": "Córdoba",
+      "city": "Córdoba",
+      "venue": "Galeria Jardin",
+      "summary": "La carte de Jon Worth signale « Galeria Jardin » à Córdoba. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-mykolayiv-kids-park-kazka": {
+      "name": "kids park 'Kazka' — Mykolayiv",
+      "label": "Mykolayiv",
+      "city": "Mykolayiv",
+      "venue": "kids park 'Kazka'",
+      "summary": "La carte de Jon Worth signale « kids park 'Kazka' » à Mykolayiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-odesa-korolyova-79": {
+      "name": "Korolyova 79 — Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Korolyova 79",
+      "summary": "La carte de Jon Worth signale « Korolyova 79 » à Odesa. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-iskorost-korosten-heating-pipe-plant": {
+      "name": "Korosten Heating Pipe Plant — Iskorost",
+      "label": "Iskorost",
+      "city": "Iskorost",
+      "venue": "Korosten Heating Pipe Plant",
+      "summary": "La carte de Jon Worth signale « Korosten Heating Pipe Plant » à Iskorost. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-kyiv-national-university-of-trade-and-economics": {
+      "name": "Kyiv National University of Trade and Economics — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Kyiv National University of Trade and Economics",
+      "summary": "La carte de Jon Worth signale « Kyiv National University of Trade and Economics » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "us-carlsbad-legoland-california": {
+      "name": "Tour de LEGOLAND California — Carlsbad",
+      "label": "Carlsbad",
+      "city": "Carlsbad",
+      "venue": "Tour de LEGOLAND California",
+      "summary": "La carte de Jon Worth signale « Legoland California » à Carlsbad. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "us-cypress-gardens-legoland-florida": {
+      "name": "Tour de LEGOLAND Florida — Cypress Gardens",
+      "label": "Cypress Gardens",
+      "city": "Cypress Gardens",
+      "venue": "Tour de LEGOLAND Florida",
+      "summary": "La carte de Jon Worth signale « Legoland Florida » à Cypress Gardens. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "de-gunzburg-legoland-germany": {
+      "name": "Tour de LEGOLAND Deutschland — Günzburg",
+      "label": "Günzburg",
+      "city": "Günzburg",
+      "venue": "Tour de LEGOLAND Deutschland",
+      "summary": "La carte de Jon Worth signale « Legoland Germany » à Günzburg. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-yalta-massandrovsky-beach": {
+      "name": "Massandrovsky beach — Yalta",
+      "label": "Yalta",
+      "city": "Yalta",
+      "venue": "Massandrovsky beach",
+      "summary": "La carte de Jon Worth signale « Massandrovsky beach » à Yalta. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-medical-center-entrance": {
+      "name": "Tour à l’entrée du centre médical — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Tour à l’entrée du centre médical",
+      "summary": "La carte de Jon Worth signale « Medical center entrance » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "id-menara-keagungan-limboto-menara-keagungan-limboto": {
+      "name": "Menara Keagungan Limboto — Menara Keagungan Limboto",
+      "label": "Menara Keagungan Limboto",
+      "city": "Menara Keagungan Limboto",
+      "venue": "Menara Keagungan Limboto",
+      "summary": "La carte de Jon Worth signale « Menara Keagungan Limboto » à Menara Keagungan Limboto. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "es-denia-valencia-metal-merchant-tower": {
+      "name": "Metal merchant tower — Dénia, Valencia",
+      "label": "Dénia, Valencia",
+      "city": "Dénia, Valencia",
+      "venue": "Metal merchant tower",
+      "summary": "La carte de Jon Worth signale « Metal merchant tower » à Dénia, Valencia. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "uz-samarkand-neat-tower-at-the-roadside": {
+      "name": "Neat tower at the roadside — Samarkand",
+      "label": "Samarkand",
+      "city": "Samarkand",
+      "venue": "Neat tower at the roadside",
+      "summary": "La carte de Jon Worth signale « Neat tower at the roadside » à Samarkand. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "lt-letukai-new-miniature-park": {
+      "name": "Tour du nouveau parc miniature — Letūkai",
+      "label": "Letūkai",
+      "city": "Letūkai",
+      "venue": "Tour du nouveau parc miniature",
+      "summary": "La carte de Jon Worth signale « New miniature park » à Letūkai. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "by-minsk-next-to-a-playground": {
+      "name": "Tour près d’une aire de jeux — Minsk",
+      "label": "Minsk",
+      "city": "Minsk",
+      "venue": "Tour près d’une aire de jeux",
+      "summary": "La carte de Jon Worth signale « Next to a playground » à Minsk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "vn-bac-giang-nha-hang-cua-o": {
+      "name": "Nhà Hàng Cua Đỏ — Bac Giang",
+      "label": "Bac Giang",
+      "city": "Bac Giang",
+      "venue": "Nhà Hàng Cua Đỏ",
+      "summary": "La carte de Jon Worth signale « Nhà Hàng Cua Đỏ » à Bac Giang. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-myrhorod-paris-dakar-bar": {
+      "name": "Paris Dakar Bar — Myrhorod",
+      "label": "Myrhorod",
+      "city": "Myrhorod",
+      "venue": "Paris Dakar Bar",
+      "summary": "La carte de Jon Worth signale « Paris Dakar Bar » à Myrhorod. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kushuhum-park-tower": {
+      "name": "Tour du parc — Kushuhum",
+      "label": "Kushuhum",
+      "city": "Kushuhum",
+      "venue": "Tour du parc",
+      "summary": "La carte de Jon Worth signale « Park tower » à Kushuhum. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "pl-rabka-zdroj-rabkoland": {
+      "name": "Rabkoland — Rabka-Zdrój",
+      "label": "Rabka-Zdrój",
+      "city": "Rabka-Zdrój",
+      "venue": "Rabkoland",
+      "summary": "La carte de Jon Worth signale « Rabkoland » à Rabka-Zdrój. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "in-telangana-ramoji-film-city": {
+      "name": "Ramoji Film City — Telangana",
+      "label": "Telangana",
+      "city": "Telangana",
+      "venue": "Ramoji Film City",
+      "summary": "La carte de Jon Worth signale « Ramoji Film City » à Telangana. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "es-san-juan-del-puerto-andalusia-school-patio-tower": {
+      "name": "Tour de la cour d’école — San Juan del Puerto, Andalusia",
+      "label": "San Juan del Puerto, Andalusia",
+      "city": "San Juan del Puerto, Andalusia",
+      "venue": "Tour de la cour d’école",
+      "summary": "La carte de Jon Worth signale « School patio tower » à San Juan del Puerto, Andalusia. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-pusey-small-tower-in-a-garden": {
+      "name": "Petite tour dans un jardin — Pusey",
+      "label": "Pusey",
+      "city": "Pusey",
+      "venue": "Petite tour dans un jardin",
+      "summary": "La carte de Jon Worth signale « Small tower in a garden » à Pusey. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "nl-harselaar-staal-bouw": {
+      "name": "Staal Bouw — Harselaar",
+      "label": "Harselaar",
+      "city": "Harselaar",
+      "venue": "Staal Bouw",
+      "summary": "La carte de Jon Worth signale « Staal Bouw » à Harselaar. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "th-nakhon-ratchasima-terminal-21-korat": {
+      "name": "Tour de Terminal 21 Korat — Nakhon Ratchasima",
+      "label": "Nakhon Ratchasima",
+      "city": "Nakhon Ratchasima",
+      "venue": "Tour de Terminal 21 Korat",
+      "summary": "La carte de Jon Worth signale « Terminal 21 Korat » à Nakhon Ratchasima. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "th-pattaya-city-terminal-21-pattaya": {
+      "name": "Tour de Terminal 21 Pattaya — Pattaya City",
+      "label": "Pattaya City",
+      "city": "Pattaya City",
+      "venue": "Tour de Terminal 21 Pattaya",
+      "summary": "La carte de Jon Worth signale « Terminal 21 Pattaya » à Pattaya City. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "it-andria-tm-tecnometal": {
+      "name": "TM Tecnometal — Andria",
+      "label": "Andria",
+      "city": "Andria",
+      "venue": "TM Tecnometal",
+      "summary": "La carte de Jon Worth signale « TM Tecnometal » à Andria. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "de-freiburg-breisgau-tower-at-a-adventure-play-ground": {
+      "name": "Tour de l’aire de jeux d’aventure — Freiburg (Breisgau)",
+      "label": "Freiburg (Breisgau)",
+      "city": "Freiburg (Breisgau)",
+      "venue": "Tour de l’aire de jeux d’aventure",
+      "summary": "La carte de Jon Worth signale « Tower at a adventure play ground » à Freiburg (Breisgau). Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "it-bibbiano-tower-at-a-road-junction-by-an-office": {
+      "name": "Tour au carrefour près des bureaux — Bibbiano",
+      "label": "Bibbiano",
+      "city": "Bibbiano",
+      "venue": "Tour au carrefour près des bureaux",
+      "summary": "La carte de Jon Worth signale « Tower at a road junction by an office » à Bibbiano. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ps-ramallah-tower-at-a-sweet-shop": {
+      "name": "Tour de la confiserie — Ramallah",
+      "label": "Ramallah",
+      "city": "Ramallah",
+      "venue": "Tour de la confiserie",
+      "summary": "La carte de Jon Worth signale « Tower at a sweet shop » à Ramallah. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kotelva-tower-at-kalyna-restaurant": {
+      "name": "Tower at Kalyna Restaurant — Kotelva",
+      "label": "Kotelva",
+      "city": "Kotelva",
+      "venue": "Tower at Kalyna Restaurant",
+      "summary": "La carte de Jon Worth signale « Tower at Kalyna Restaurant » à Kotelva. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-nikopol-tower-at-the-edge-of-the-river": {
+      "name": "Tour au bord de la rivière — Nikopol",
+      "label": "Nikopol",
+      "city": "Nikopol",
+      "venue": "Tour au bord de la rivière",
+      "summary": "La carte de Jon Worth signale « Tower at the edge of the river » à Nikopol. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "by-gomel-tower-at-the-riverbank-park": {
+      "name": "Tour du parc riverain — Gomel",
+      "label": "Gomel",
+      "city": "Gomel",
+      "venue": "Tour du parc riverain",
+      "summary": "La carte de Jon Worth signale « Tower at the riverbank park » à Gomel. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-berehove-crimea-tower-at-the-seaside": {
+      "name": "Tour au bord de mer — Berehove (Crimea)",
+      "label": "Berehove (Crimea)",
+      "city": "Berehove (Crimea)",
+      "venue": "Tour au bord de mer",
+      "summary": "La carte de Jon Worth signale « Tower at the seaside » à Berehove (Crimea). Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ru-arzamas-tower-beside-a-large-road": {
+      "name": "Tour près d’une grande route — Arzamas",
+      "label": "Arzamas",
+      "city": "Arzamas",
+      "venue": "Tour près d’une grande route",
+      "summary": "La carte de Jon Worth signale « Tower beside a large road » à Arzamas. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "za-parys-tower-between-the-street-and-shops": {
+      "name": "Tour entre la rue et les commerces — Parys",
+      "label": "Parys",
+      "city": "Parys",
+      "venue": "Tour entre la rue et les commerces",
+      "summary": "La carte de Jon Worth signale « Tower between the street and shops » à Parys. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-poyans-tower-in-a-back-garden": {
+      "name": "Tour dans un jardin arrière — Poyans",
+      "label": "Poyans",
+      "city": "Poyans",
+      "venue": "Tour dans un jardin arrière",
+      "summary": "La carte de Jon Worth signale « Tower in a back garden » à Poyans. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ru-abakan-tower-in-a-landscape-garden": {
+      "name": "Tour du jardin paysager — Abakan",
+      "label": "Abakan",
+      "city": "Abakan",
+      "venue": "Tour du jardin paysager",
+      "summary": "La carte de Jon Worth signale « Tower in a landscape garden » à Abakan. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-chanverrie-tower-in-an-industrial-yard": {
+      "name": "Tour de la cour industrielle — Chanverrie",
+      "label": "Chanverrie",
+      "city": "Chanverrie",
+      "venue": "Tour de la cour industrielle",
+      "summary": "La carte de Jon Worth signale « Tower in an industrial yard » à Chanverrie. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "za-parys-tower-in-arts-quarter": {
+      "name": "Tour du quartier artistique — Parys",
+      "label": "Parys",
+      "city": "Parys",
+      "venue": "Tour du quartier artistique",
+      "summary": "La carte de Jon Worth signale « Tower in arts quarter » à Parys. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "br-ivaipora-tower-in-the-middle-of-a-boulevard": {
+      "name": "Tour au milieu du boulevard — Ivaiporã",
+      "label": "Ivaiporã",
+      "city": "Ivaiporã",
+      "venue": "Tour au milieu du boulevard",
+      "summary": "La carte de Jon Worth signale « Tower in the middle of a boulevard » à Ivaiporã. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-alchevsk-tower-on-stilts-in-park": {
+      "name": "Tour sur pilotis dans un parc — Alchevsk",
+      "label": "Alchevsk",
+      "city": "Alchevsk",
+      "venue": "Tour sur pilotis dans un parc",
+      "summary": "La carte de Jon Worth signale « Tower on stilts in park » à Alchevsk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-anglet-tower-on-the-roof-of-a-house": {
+      "name": "Tour sur le toit d’une maison — Anglet",
+      "label": "Anglet",
+      "city": "Anglet",
+      "venue": "Tour sur le toit d’une maison",
+      "summary": "La carte de Jon Worth signale « Tower on the roof of a house » à Anglet. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ee-reigi-tower-pointing-to-the-bigger-tower-down-the-road": {
+      "name": "Petite tour indiquant une grande réplique — Reigi",
+      "label": "Reigi",
+      "city": "Reigi",
+      "venue": "Petite tour indiquant une grande réplique",
+      "summary": "La carte de Jon Worth signale « Tower pointing to the bigger tower down the road » à Reigi. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "it-trescore-balneario-tower-suspended-over-a-sort-of-trench": {
+      "name": "Tour suspendue au-dessus d’une tranchée — Trescore Balneario",
+      "label": "Trescore Balneario",
+      "city": "Trescore Balneario",
+      "venue": "Tour suspendue au-dessus d’une tranchée",
+      "summary": "La carte de Jon Worth signale « Tower suspended over a sort of trench » à Trescore Balneario. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-ternopil-travel-agency": {
+      "name": "Tour d’une agence de voyages — Ternopil",
+      "label": "Ternopil",
+      "city": "Ternopil",
+      "venue": "Tour d’une agence de voyages",
+      "summary": "La carte de Jon Worth signale « travel agency » à Ternopil. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kryvyi-rih-yuvileinyi-park": {
+      "name": "Yuvileinyi park — Kryvyi Rih",
+      "label": "Kryvyi Rih",
+      "city": "Kryvyi Rih",
+      "venue": "Yuvileinyi park",
+      "summary": "La carte de Jon Worth signale « Yuvileinyi park » à Kryvyi Rih. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-auchan-supermarket": {
+      "name": "'Auchan' supermarket — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "'Auchan' supermarket",
+      "summary": "La carte de Jon Worth signale « 'Auchan' supermarket » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-zaporizhzhya-dejavu-cafe": {
+      "name": "'Dejavu' cafe — Zaporizhzhya",
+      "label": "Zaporizhzhya",
+      "city": "Zaporizhzhya",
+      "venue": "'Dejavu' cafe",
+      "summary": "La carte de Jon Worth signale « 'Dejavu' cafe » à Zaporizhzhya. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-marganets-dnipro-club": {
+      "name": "'Dnipro' club — Marganets",
+      "label": "Marganets",
+      "city": "Marganets",
+      "venue": "'Dnipro' club",
+      "summary": "La carte de Jon Worth signale « 'Dnipro' club » à Marganets. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-dream-town-shopping-mall": {
+      "name": "'Dream Town' shopping mall — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "'Dream Town' shopping mall",
+      "summary": "La carte de Jon Worth signale « 'Dream Town' shopping mall » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-chornomorsk-modigliani-restaurant": {
+      "name": "'Modigliani' restaurant — Chornomorsk",
+      "label": "Chornomorsk",
+      "city": "Chornomorsk",
+      "venue": "'Modigliani' restaurant",
+      "summary": "La carte de Jon Worth signale « 'Modigliani' restaurant » à Chornomorsk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-ocean-plaza-shopping-mall": {
+      "name": "'Ocean Plaza' shopping mall — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "'Ocean Plaza' shopping mall",
+      "summary": "La carte de Jon Worth signale « 'Ocean Plaza' shopping mall » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-mariupol-paris-cafe": {
+      "name": "'Paris' cafe — Mariupol",
+      "label": "Mariupol",
+      "city": "Mariupol",
+      "venue": "'Paris' cafe",
+      "summary": "La carte de Jon Worth signale « 'Paris' cafe » à Mariupol. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-zviahel-start-shoe-store": {
+      "name": "'Start' shoe store — Zviahel",
+      "label": "Zviahel",
+      "city": "Zviahel",
+      "venue": "'Start' shoe store",
+      "summary": "La carte de Jon Worth signale « 'Start' shoe store » à Zviahel. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-illintsi-varvara-restaurant": {
+      "name": "'Varvara' restaurant — Illintsi",
+      "label": "Illintsi",
+      "city": "Illintsi",
+      "venue": "'Varvara' restaurant",
+      "summary": "La carte de Jon Worth signale « 'Varvara' restaurant » à Illintsi. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-nerubaika-zastava-hotel-and-restaurant": {
+      "name": "'Zastava' hotel and restaurant — Nerubaika",
+      "label": "Nerubaika",
+      "city": "Nerubaika",
+      "venue": "'Zastava' hotel and restaurant",
+      "summary": "La carte de Jon Worth signale « 'Zastava' hotel and restaurant » à Nerubaika. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kamyanyi-mist-7th-sky-airport-restaurant": {
+      "name": "\"7th Sky Airport\" restaurant — Kamyanyi mist",
+      "label": "Kamyanyi mist",
+      "city": "Kamyanyi mist",
+      "venue": "\"7th Sky Airport\" restaurant",
+      "summary": "La carte de Jon Worth signale « \"7th Sky Airport\" restaurant » à Kamyanyi mist. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-vynnyky-a-cross-in-a-shape-of-an-eiffel-tower": {
+      "name": "Croix en forme de tour Eiffel — Vynnyky",
+      "label": "Vynnyky",
+      "city": "Vynnyky",
+      "venue": "Croix en forme de tour Eiffel",
+      "summary": "La carte de Jon Worth signale « a cross in a shape of an Eiffel Tower » à Vynnyky. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral": {
+      "name": "Tour près de la cathédrale gréco-catholique — Uzhgorod",
+      "label": "Uzhgorod",
+      "city": "Uzhgorod",
+      "venue": "Tour près de la cathédrale gréco-catholique",
+      "summary": "La carte de Jon Worth signale « a tower near the greek catholic cathedral » à Uzhgorod. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "vn-ansapa-village-ansapa-park": {
+      "name": "Ansapa Park — Ansapa Village",
+      "label": "Ansapa Village",
+      "city": "Ansapa Village",
+      "venue": "Ansapa Park",
+      "summary": "La carte de Jon Worth signale « Ansapa Park » à Ansapa Village. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-poltava-arevik-flower-shop": {
+      "name": "Arevik Flower Shop — Poltava",
+      "label": "Poltava",
+      "city": "Poltava",
+      "venue": "Arevik Flower Shop",
+      "summary": "La carte de Jon Worth signale « Arevik Flower Shop » à Poltava. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "at-zwingendorf-back-garden-tower-built-by-twin-brothers": {
+      "name": "Tour de jardin construite par deux frères jumeaux — Zwingendorf",
+      "label": "Zwingendorf",
+      "city": "Zwingendorf",
+      "venue": "Tour de jardin construite par deux frères jumeaux",
+      "summary": "La carte de Jon Worth signale « Back garden tower built by twin brothers » à Zwingendorf. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kostopil-back-yard-of-a-private-house": {
+      "name": "Tour dans la cour arrière d’une maison — Kostopil",
+      "label": "Kostopil",
+      "city": "Kostopil",
+      "venue": "Tour dans la cour arrière d’une maison",
+      "summary": "La carte de Jon Worth signale « Back yard of a private house » à Kostopil. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-rodynske-bank": {
+      "name": "Tour de la banque — Rodynske",
+      "label": "Rodynske",
+      "city": "Rodynske",
+      "venue": "Tour de la banque",
+      "summary": "La carte de Jon Worth signale « bank » à Rodynske. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-odesa-cafe-closed": {
+      "name": "Tour d’un café fermé — Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Tour d’un café fermé",
+      "summary": "La carte de Jon Worth signale « cafe (closed) » à Odesa. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "al-tirana-cafe-paris": {
+      "name": "Café Paris — Tirana",
+      "label": "Tirana",
+      "city": "Tirana",
+      "venue": "Café Paris",
+      "summary": "La carte de Jon Worth signale « Café Paris » à Tirana. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-volnovakha-central-park-in-the-town": {
+      "name": "Tour du parc central — Volnovakha",
+      "label": "Volnovakha",
+      "city": "Volnovakha",
+      "venue": "Tour du parc central",
+      "summary": "La carte de Jon Worth signale « Central park in the town » à Volnovakha. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-nadezhdivka-centre-of-the-village-edge-of-a-small-park": {
+      "name": "Tour au centre du village près d’un parc — Nadezhdivka",
+      "label": "Nadezhdivka",
+      "city": "Nadezhdivka",
+      "venue": "Tour au centre du village près d’un parc",
+      "summary": "La carte de Jon Worth signale « Centre of the village, edge of a small park » à Nadezhdivka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-reshetylivka-city-center-park": {
+      "name": "Tour du parc du centre-ville — Reshetylivka",
+      "label": "Reshetylivka",
+      "city": "Reshetylivka",
+      "venue": "Tour du parc du centre-ville",
+      "summary": "La carte de Jon Worth signale « City center park » à Reshetylivka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ru-ekaterinoslavka-edge-of-town": {
+      "name": "Tour en périphérie de la ville — Ekaterinoslavka",
+      "label": "Ekaterinoslavka",
+      "city": "Ekaterinoslavka",
+      "venue": "Tour en périphérie de la ville",
+      "summary": "La carte de Jon Worth signale « Edge of town » à Ekaterinoslavka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-drohobych-eiffel-tower-in-city-center": {
+      "name": "Tour du centre-ville — Drohobych",
+      "label": "Drohobych",
+      "city": "Drohobych",
+      "venue": "Tour du centre-ville",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower in city center » à Drohobych. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-bilopillya-eiffel-tower-near-a-coffee-shop": {
+      "name": "Tour près d’un café — Bilopillya",
+      "label": "Bilopillya",
+      "city": "Bilopillya",
+      "venue": "Tour près d’un café",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower near a coffee shop » à Bilopillya. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-nizhyn-eiffel-tower-near-a-shop-at-a-bus-stop": {
+      "name": "Tour près d’un magasin à l’arrêt de bus — Nizhyn",
+      "label": "Nizhyn",
+      "city": "Nizhyn",
+      "venue": "Tour près d’un magasin à l’arrêt de bus",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower near a shop at a bus stop » à Nizhyn. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-smila-eiffel-tower-near-a-shopping-mall": {
+      "name": "Tour près d’un centre commercial — Smila",
+      "label": "Smila",
+      "city": "Smila",
+      "venue": "Tour près d’un centre commercial",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower near a shopping mall » à Smila. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-yahotyn-eiffel-tower-near-a-soviet-tank-monument": {
+      "name": "Tour près d’un monument à un char — Yahotyn",
+      "label": "Yahotyn",
+      "city": "Yahotyn",
+      "venue": "Tour près d’un monument à un char",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower near a Soviet tank monument » à Yahotyn. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-yahotyn-eiffel-tower-on-a-shop": {
+      "name": "Tour sur un magasin — Yahotyn",
+      "label": "Yahotyn",
+      "city": "Yahotyn",
+      "venue": "Tour sur un magasin",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower on a shop » à Yahotyn. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kyiv-eiffel-tower-on-the-entrance-to-a-residential-building": {
+      "name": "Tour à l’entrée d’un immeuble — Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Tour à l’entrée d’un immeuble",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower on the entrance to a residential building » à Kyiv. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-dnipro-eiffel-tower-wind-farm-in-the-yard-of-a-private-house": {
+      "name": "Éolienne en forme de tour Eiffel dans une cour privée — Dnipro",
+      "label": "Dnipro",
+      "city": "Dnipro",
+      "venue": "Éolienne en forme de tour Eiffel dans une cour privée",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower wind farm in the yard of a private house » à Dnipro. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-odesa-fontanka": {
+      "name": "Fontanka — Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Fontanka",
+      "summary": "La carte de Jon Worth signale « Fontanka » à Odesa. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-hrushkivka-forestry": {
+      "name": "Tour du site forestier — Hrushkivka",
+      "label": "Hrushkivka",
+      "city": "Hrushkivka",
+      "venue": "Tour du site forestier",
+      "summary": "La carte de Jon Worth signale « forestry » à Hrushkivka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ru-volzhskiy-frantsuzskiy-bul-var": {
+      "name": "Frantsuzskiy Bul'var — Volzhskiy",
+      "label": "Volzhskiy",
+      "city": "Volzhskiy",
+      "venue": "Frantsuzskiy Bul'var",
+      "summary": "La carte de Jon Worth signale « Frantsuzskiy Bul'var » à Volzhskiy. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-bila-tserkva-french-pastry-in-residential-area": {
+      "name": "Tour d’une pâtisserie française — Bila Tserkva",
+      "label": "Bila Tserkva",
+      "city": "Bila Tserkva",
+      "venue": "Tour d’une pâtisserie française",
+      "summary": "La carte de Jon Worth signale « French pastry in residential area » à Bila Tserkva. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-puscha-vodytsya-french-school": {
+      "name": "Tour de l’école française — Puscha Vodytsya",
+      "label": "Puscha Vodytsya",
+      "city": "Puscha Vodytsya",
+      "venue": "Tour de l’école française",
+      "summary": "La carte de Jon Worth signale « French school » à Puscha Vodytsya. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-rivne-haidamatska-str": {
+      "name": "Haidamatska str — Rivne",
+      "label": "Rivne",
+      "city": "Rivne",
+      "venue": "Haidamatska str",
+      "summary": "La carte de Jon Worth signale « Haidamatska str » à Rivne. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-sadove-hotel-butterfly": {
+      "name": "Hotel Butterfly — Sadove",
+      "label": "Sadove",
+      "city": "Sadove",
+      "venue": "Hotel Butterfly",
+      "summary": "La carte de Jon Worth signale « Hotel Butterfly » à Sadove. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "kr-chungju-si-hotel-the-base": {
+      "name": "Hotel the Base — Chungju-si",
+      "label": "Chungju-si",
+      "city": "Chungju-si",
+      "venue": "Hotel the Base",
+      "summary": "La carte de Jon Worth signale « Hotel the Base » à Chungju-si. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "sv-san-salvador-inti-tower": {
+      "name": "INTI Tower — San Salvador",
+      "label": "San Salvador",
+      "city": "San Salvador",
+      "venue": "INTI Tower",
+      "summary": "La carte de Jon Worth signale « INTI Tower » à San Salvador. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-odesa-kobleska-37": {
+      "name": "Kobleska 37 — Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Kobleska 37",
+      "summary": "La carte de Jon Worth signale « Kobleska 37 » à Odesa. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-skvyra-kyiv-restaurant-tower": {
+      "name": "Kyiv Restaurant Tower — Skvyra",
+      "label": "Skvyra",
+      "city": "Skvyra",
+      "venue": "Kyiv Restaurant Tower",
+      "summary": "La carte de Jon Worth signale « Kyiv Restaurant Tower » à Skvyra. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-bila-tserkva-leone": {
+      "name": "Leone — Bila Tserkva",
+      "label": "Bila Tserkva",
+      "city": "Bila Tserkva",
+      "venue": "Leone",
+      "summary": "La carte de Jon Worth signale « Leone » à Bila Tserkva. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-odesa-mini-golf-course-in-a-park": {
+      "name": "Tour du minigolf dans un parc — Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Tour du minigolf dans un parc",
+      "summary": "La carte de Jon Worth signale « Mini golf course in a park » à Odesa. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-saint-georges-des-gardes-ndc-bar": {
+      "name": "NDC Bar — Saint-Georges-des-Gardes",
+      "label": "Saint-Georges-des-Gardes",
+      "city": "Saint-Georges-des-Gardes",
+      "venue": "NDC Bar",
+      "summary": "La carte de Jon Worth signale « NDC Bar » à Saint-Georges-des-Gardes. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "de-monchengladbach-nightclub-tower": {
+      "name": "Tour de la discothèque — Mönchengladbach",
+      "label": "Mönchengladbach",
+      "city": "Mönchengladbach",
+      "venue": "Tour de la discothèque",
+      "summary": "La carte de Jon Worth signale « Nightclub tower » à Mönchengladbach. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-nova-kakhovka-nova-kakhovka-higher-politechnic-school": {
+      "name": "Nova Kakhovka higher politechnic school — Nova Kakhovka",
+      "label": "Nova Kakhovka",
+      "city": "Nova Kakhovka",
+      "venue": "Nova Kakhovka higher politechnic school",
+      "summary": "La carte de Jon Worth signale « Nova Kakhovka higher politechnic school » à Nova Kakhovka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "za-parys-old-ferry-house-restaurant": {
+      "name": "Tour du restaurant Old Ferry House — Parys",
+      "label": "Parys",
+      "city": "Parys",
+      "venue": "Tour du restaurant Old Ferry House",
+      "summary": "La carte de Jon Worth signale « Old Ferry House Restaurant » à Parys. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-melitopol-on-the-roof-of-a-pharmacy": {
+      "name": "Tour sur le toit d’une pharmacie — Melitopol",
+      "label": "Melitopol",
+      "city": "Melitopol",
+      "venue": "Tour sur le toit d’une pharmacie",
+      "summary": "La carte de Jon Worth signale « On the roof of a pharmacy » à Melitopol. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-ivanivka-odesa-oblast-ostrich-farm-tower": {
+      "name": "Tour de la ferme d’autruches — Ivanivka, Odesa Oblast",
+      "label": "Ivanivka, Odesa Oblast",
+      "city": "Ivanivka, Odesa Oblast",
+      "venue": "Tour de la ferme d’autruches",
+      "summary": "La carte de Jon Worth signale « Ostrich farm tower » à Ivanivka, Odesa Oblast. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-odesa-osypova-37": {
+      "name": "Osypova 37 — Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Osypova 37",
+      "summary": "La carte de Jon Worth signale « Osypova 37 » à Odesa. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-zavodske-park-in-city-center": {
+      "name": "Tour du parc du centre-ville — Zavodske",
+      "label": "Zavodske",
+      "city": "Zavodske",
+      "venue": "Tour du parc du centre-ville",
+      "summary": "La carte de Jon Worth signale « park in city center » à Zavodske. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-sarny-park-in-town-centre": {
+      "name": "Tour du parc central — Sarny",
+      "label": "Sarny",
+      "city": "Sarny",
+      "venue": "Tour du parc central",
+      "summary": "La carte de Jon Worth signale « Park in town centre » à Sarny. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-pomichna-park-near-railway-station": {
+      "name": "Tour du parc près de la gare — Pomichna",
+      "label": "Pomichna",
+      "city": "Pomichna",
+      "venue": "Tour du parc près de la gare",
+      "summary": "La carte de Jon Worth signale « Park near railway station » à Pomichna. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-olshanske-park-near-the-village-council": {
+      "name": "Tour du parc près du conseil du village — Olshanske",
+      "label": "Olshanske",
+      "city": "Olshanske",
+      "venue": "Tour du parc près du conseil du village",
+      "summary": "La carte de Jon Worth signale « Park near the village council » à Olshanske. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach": {
+      "name": "Pilgrimage Center of Symeon Lukach — Bohorodchans'kyi",
+      "label": "Bohorodchans'kyi",
+      "city": "Bohorodchans'kyi",
+      "venue": "Pilgrimage Center of Symeon Lukach",
+      "summary": "La carte de Jon Worth signale « Pilgrimage Center of Symeon Lukach » à Bohorodchans'kyi. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-pisochyn-replica-at-a-sanitorium-resort": {
+      "name": "Réplique du centre de cure — Pisochyn",
+      "label": "Pisochyn",
+      "city": "Pisochyn",
+      "venue": "Réplique du centre de cure",
+      "summary": "La carte de Jon Worth signale « Replica at a sanitorium resort » à Pisochyn. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ru-nazran-replica-in-residential-area": {
+      "name": "Réplique dans une résidence — Nazran",
+      "label": "Nazran",
+      "city": "Nazran",
+      "venue": "Réplique dans une résidence",
+      "summary": "La carte de Jon Worth signale « Replica in residential area » à Nazran. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "nz-coromandel-replica-inside-the-eyefull-tower": {
+      "name": "Réplique à l’intérieur de l’Eyefull Tower — Coromandel",
+      "label": "Coromandel",
+      "city": "Coromandel",
+      "venue": "Réplique à l’intérieur de l’Eyefull Tower",
+      "summary": "La carte de Jon Worth signale « Replica inside the Eyefull Tower » à Coromandel. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kriukivschshyna-residential-complex-european-city": {
+      "name": "Residential complex European city — Kriukivschshyna",
+      "label": "Kriukivschshyna",
+      "city": "Kriukivschshyna",
+      "venue": "Residential complex European city",
+      "summary": "La carte de Jon Worth signale « Residential complex European city » à Kriukivschshyna. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-bantzenheim-roundabout-tower-route-de-mulhouse": {
+      "name": "Tour du rond-point de la route de Mulhouse — Bantzenheim",
+      "label": "Bantzenheim",
+      "city": "Bantzenheim",
+      "venue": "Tour du rond-point de la route de Mulhouse",
+      "summary": "La carte de Jon Worth signale « Roundabout tower Route de Mulhouse » à Bantzenheim. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "in-pune-seven-wonders-dream-park": {
+      "name": "Seven Wonders Dream Park — Pune",
+      "label": "Pune",
+      "city": "Pune",
+      "venue": "Seven Wonders Dream Park",
+      "summary": "La carte de Jon Worth signale « Seven Wonders Dream Park » à Pune. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-rivne-small-coffee-shop": {
+      "name": "Tour d’un petit café — Rivne",
+      "label": "Rivne",
+      "city": "Rivne",
+      "venue": "Tour d’un petit café",
+      "summary": "La carte de Jon Worth signale « small coffee shop » à Rivne. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-khmelnytskyi-so-called-monument-to-ukrainian-inferiority": {
+      "name": "So called 'Monument to Ukrainian inferiority' — Khmelnytskyi",
+      "label": "Khmelnytskyi",
+      "city": "Khmelnytskyi",
+      "venue": "So called 'Monument to Ukrainian inferiority'",
+      "summary": "La carte de Jon Worth signale « So called 'Monument to Ukrainian inferiority' » à Khmelnytskyi. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-korosten-spartak-stadium": {
+      "name": "Spartak Stadium — Korosten",
+      "label": "Korosten",
+      "city": "Korosten",
+      "venue": "Spartak Stadium",
+      "summary": "La carte de Jon Worth signale « Spartak Stadium » à Korosten. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ph-naic-torres-farm-and-resort": {
+      "name": "Tour du domaine Torres — Naic",
+      "label": "Naic",
+      "city": "Naic",
+      "venue": "Tour du domaine Torres",
+      "summary": "La carte de Jon Worth signale « Torres Farm and Resort » à Naic. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ro-cincu-tower-at-a-farm": {
+      "name": "Tour de la ferme — Cincu",
+      "label": "Cincu",
+      "city": "Cincu",
+      "venue": "Tour de la ferme",
+      "summary": "La carte de Jon Worth signale « Tower at a farm » à Cincu. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-novodnistrovsk-tower-at-a-travel-agency": {
+      "name": "Tour d’une agence de voyages — Novodnistrovsk",
+      "label": "Novodnistrovsk",
+      "city": "Novodnistrovsk",
+      "venue": "Tour d’une agence de voyages",
+      "summary": "La carte de Jon Worth signale « Tower at a travel agency » à Novodnistrovsk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-vesoul-tower-in-a-back-garden": {
+      "name": "Tour dans un jardin arrière — Vesoul",
+      "label": "Vesoul",
+      "city": "Vesoul",
+      "venue": "Tour dans un jardin arrière",
+      "summary": "La carte de Jon Worth signale « Tower in a back garden » à Vesoul. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ar-carlos-paz-tower-in-a-pensioner-s-garden": {
+      "name": "Tour du jardin d’un retraité — Carlos Paz",
+      "label": "Carlos Paz",
+      "city": "Carlos Paz",
+      "venue": "Tour du jardin d’un retraité",
+      "summary": "La carte de Jon Worth signale « Tower in a pensioner’s garden » à Carlos Paz. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-montlouis-sur-loire-tower-in-chateau-gardens": {
+      "name": "Tour du jardin du château — Montlouis-sur-Loire",
+      "label": "Montlouis-sur-Loire",
+      "city": "Montlouis-sur-Loire",
+      "venue": "Tour du jardin du château",
+      "summary": "La carte de Jon Worth signale « Tower in chateau gardens » à Montlouis-sur-Loire. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "at-st-polten-tower-on-a-small-road-beside-the-railway-line": {
+      "name": "Tour près de la voie ferrée — St Pölten",
+      "label": "St Pölten",
+      "city": "St Pölten",
+      "venue": "Tour près de la voie ferrée",
+      "summary": "La carte de Jon Worth signale « Tower on a small road beside the railway line » à St Pölten. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "cz-benatky-nad-jizerou-toy-museum-tower": {
+      "name": "Tour du musée du jouet — Benátky nad Jizerou",
+      "label": "Benátky nad Jizerou",
+      "city": "Benátky nad Jizerou",
+      "venue": "Tour du musée du jouet",
+      "summary": "La carte de Jon Worth signale « Toy museum tower » à Benátky nad Jizerou. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "lb-jounieh-trocadero-lb": {
+      "name": "Trocadéro LB — Jounieh",
+      "label": "Jounieh",
+      "city": "Jounieh",
+      "venue": "Trocadéro LB",
+      "summary": "La carte de Jon Worth signale « Trocadéro LB » à Jounieh. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-vinnytsya-vinnytsya-cooperative-institute": {
+      "name": "Vinnytsya cooperative institute — Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "Vinnytsya cooperative institute",
+      "summary": "La carte de Jon Worth signale « Vinnytsya cooperative institute » à Vinnytsya. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "kg-bishkek-vostok-5-microdistrict": {
+      "name": "Vostok-5 microdistrict — Bishkek",
+      "label": "Bishkek",
+      "city": "Bishkek",
+      "venue": "Vostok-5 microdistrict",
+      "summary": "La carte de Jon Worth signale « Vostok-5 microdistrict » à Bishkek. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-rivne-yard-of-a-residential-building": {
+      "name": "Tour dans la cour d’un immeuble — Rivne",
+      "label": "Rivne",
+      "city": "Rivne",
+      "venue": "Tour dans la cour d’un immeuble",
+      "summary": "La carte de Jon Worth signale « yard of a residential building » à Rivne. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-zhytomyr-zarichanske-forestry": {
+      "name": "Zarichanske forestry — Zhytomyr",
+      "label": "Zhytomyr",
+      "city": "Zhytomyr",
+      "venue": "Zarichanske forestry",
+      "summary": "La carte de Jon Worth signale « Zarichanske forestry » à Zhytomyr. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-koropovo-carnaval-resort-spa": {
+      "name": "Гостиница Carnaval Resort & Spa — Koropovo",
+      "label": "Koropovo",
+      "city": "Koropovo",
+      "venue": "Гостиница Carnaval Resort & Spa",
+      "summary": "La carte de Jon Worth signale « Гостиница Carnaval Resort & Spa » à Koropovo. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "my-langkawi-maha-tower": {
+      "name": "Maha Tower — Langkawi",
+      "label": "Langkawi",
+      "city": "Langkawi",
+      "venue": "Maha Tower",
+      "summary": "La carte de Jon Worth signale « Maha Tower » à Langkawi. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "us-glendale-americana-at-brand": {
+      "name": "Americana at Brand — Glendale",
+      "label": "Glendale",
+      "city": "Glendale",
+      "venue": "Americana at Brand",
+      "summary": "La carte de Jon Worth signale « Americana at Brand » à Glendale. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "rs-belgrade-avalski-toranj": {
+      "name": "Avalski toranj — Belgrade",
+      "label": "Belgrade",
+      "city": "Belgrade",
+      "venue": "Avalski toranj",
+      "summary": "La carte de Jon Worth signale « Avalski toranj » à Belgrade. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "tw-chiayi-clock-tower": {
+      "name": "Tour de l’horloge — Chiayi",
+      "label": "Chiayi",
+      "city": "Chiayi",
+      "venue": "Tour de l’horloge",
+      "summary": "La carte de Jon Worth signale « Clock tower » à Chiayi. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "vn-ha-giang-communication-tower": {
+      "name": "Tour de télécommunications — Hà Giang",
+      "label": "Hà Giang",
+      "city": "Hà Giang",
+      "venue": "Tour de télécommunications",
+      "summary": "La carte de Jon Worth signale « Communication tower » à Hà Giang. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "es-alava-cruz-del-monte-gorbea": {
+      "name": "Cruz Del Monte Gorbea — Álava",
+      "label": "Álava",
+      "city": "Álava",
+      "venue": "Cruz Del Monte Gorbea",
+      "summary": "La carte de Jon Worth signale « Cruz Del Monte Gorbea » à Álava. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "gb-crystal-palace-london-crystal-palace-transmitting-station": {
+      "name": "Émetteur de Crystal Palace — Crystal Palace, London",
+      "label": "Crystal Palace, London",
+      "city": "Crystal Palace, London",
+      "venue": "Émetteur de Crystal Palace",
+      "summary": "La carte de Jon Worth signale « Crystal Palace transmitting station » à Crystal Palace, London. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-mulhouse-emetteur-du-belvedere": {
+      "name": "Émetteur du Belvédère — Mulhouse",
+      "label": "Mulhouse",
+      "city": "Mulhouse",
+      "venue": "Émetteur du Belvédère",
+      "summary": "La carte de Jon Worth signale « Émetteur du Belvédère » à Mulhouse. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "in-fazilka-fazilka-tv-tower": {
+      "name": "Fazilka TV Tower — Fazilka",
+      "label": "Fazilka",
+      "city": "Fazilka",
+      "venue": "Fazilka TV Tower",
+      "summary": "La carte de Jon Worth signale « Fazilka TV Tower » à Fazilka. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "pl-gliwice-gliwice-radio-tower": {
+      "name": "Gliwice Radio Tower — Gliwice",
+      "label": "Gliwice",
+      "city": "Gliwice",
+      "venue": "Gliwice Radio Tower",
+      "summary": "La carte de Jon Worth signale « Gliwice Radio Tower » à Gliwice. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "de-lauchhammer-liegender-eiffelturm": {
+      "name": "Liegender Eiffelturm — Lauchhammer",
+      "label": "Lauchhammer",
+      "city": "Lauchhammer",
+      "venue": "Liegender Eiffelturm",
+      "summary": "La carte de Jon Worth signale « Liegender Eiffelturm » à Lauchhammer. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "lv-riga-rigas-radio-un-televizijas-tornis": {
+      "name": "Rīgas radio un televīzijas tornis — Riga",
+      "label": "Riga",
+      "city": "Riga",
+      "venue": "Rīgas radio un televīzijas tornis",
+      "summary": "La carte de Jon Worth signale « Rīgas radio un televīzijas tornis » à Riga. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ru-st-petersburg-saint-petersburg-tv-tower": {
+      "name": "Saint Petersburg TV Tower — St Petersburg",
+      "label": "St Petersburg",
+      "city": "St Petersburg",
+      "venue": "Saint Petersburg TV Tower",
+      "summary": "La carte de Jon Worth signale « Saint Petersburg TV Tower » à St Petersburg. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "jp-sapporo-sapporo-television-tower": {
+      "name": "Sapporo Television Tower — Sapporo",
+      "label": "Sapporo",
+      "city": "Sapporo",
+      "venue": "Sapporo Television Tower",
+      "summary": "La carte de Jon Worth signale « Sapporo Television Tower » à Sapporo. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "gq-bata-torre-de-bata": {
+      "name": "Torre de Bata — Bata",
+      "label": "Bata",
+      "city": "Bata",
+      "venue": "Torre de Bata",
+      "summary": "La carte de Jon Worth signale « Torre de Bata » à Bata. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "am-yerevan-yerevani-herustaashtarak": {
+      "name": "Yerevani herustaashtarak — Yerevan",
+      "label": "Yerevan",
+      "city": "Yerevan",
+      "venue": "Yerevani herustaashtarak",
+      "summary": "La carte de Jon Worth signale « Yerevani herustaashtarak » à Yerevan. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-strilkivtsi-ozirna-cave": {
+      "name": "'Ozirna' cave — Strilkivtsi",
+      "label": "Strilkivtsi",
+      "city": "Strilkivtsi",
+      "venue": "'Ozirna' cave",
+      "summary": "La carte de Jon Worth signale « 'Ozirna' cave » à Strilkivtsi. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-kamyanets-podilskyi-margaret-pizzeria": {
+      "name": "\"Margaret\" pizzeria — Kamyanets-Podilskyi",
+      "label": "Kamyanets-Podilskyi",
+      "city": "Kamyanets-Podilskyi",
+      "venue": "\"Margaret\" pizzeria",
+      "summary": "La carte de Jon Worth signale « \"Margaret\" pizzeria » à Kamyanets-Podilskyi. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "lb-broummana-chez-alain": {
+      "name": "Chez Alain — Broummana",
+      "label": "Broummana",
+      "city": "Broummana",
+      "venue": "Chez Alain",
+      "summary": "La carte de Jon Worth signale « Chez Alain » à Broummana. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ph-dipolog-city-dipolog": {
+      "name": "Dipolog — Dipolog City",
+      "label": "Dipolog City",
+      "city": "Dipolog City",
+      "venue": "Dipolog",
+      "summary": "La carte de Jon Worth signale « Dipolog » à Dipolog City. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-maryanivka-eiffel-tower-in-a-park": {
+      "name": "Eiffel Tower in a park — Maryanivka",
+      "label": "Maryanivka",
+      "city": "Maryanivka",
+      "venue": "Eiffel Tower in a park",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower in a park » à Maryanivka. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "in-kolkata-further-kolkata-tower": {
+      "name": "Autre tour de Kolkata — Kolkata",
+      "label": "Kolkata",
+      "city": "Kolkata",
+      "venue": "Autre tour de Kolkata",
+      "summary": "La carte de Jon Worth signale « Further Kolkata Tower » à Kolkata. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "cn-shanghai-i-do-tower": {
+      "name": "I Do Tower — Shanghai",
+      "label": "Shanghai",
+      "city": "Shanghai",
+      "venue": "I Do Tower",
+      "summary": "La carte de Jon Worth signale « I Do Tower » à Shanghai. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "cn-zhouzhou-large-tower-at-a-roundabout": {
+      "name": "Grande tour au rond-point — Zhouzhou",
+      "label": "Zhouzhou",
+      "city": "Zhouzhou",
+      "venue": "Grande tour au rond-point",
+      "summary": "La carte de Jon Worth signale « Large tower at a roundabout » à Zhouzhou. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-hertsa-notary-office": {
+      "name": "Notary Office — Hertsa",
+      "label": "Hertsa",
+      "city": "Hertsa",
+      "venue": "Notary Office",
+      "summary": "La carte de Jon Worth signale « Notary Office » à Hertsa. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "cn-lishui-rapeseed-field-in-china": {
+      "name": "Tour dans un champ de colza — Lishui",
+      "label": "Lishui",
+      "city": "Lishui",
+      "venue": "Tour dans un champ de colza",
+      "summary": "La carte de Jon Worth signale « Rapeseed field in China » à Lishui. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-saujon-record-breaking-tower-made-of-matches": {
+      "name": "Tour record en allumettes — Saujon",
+      "label": "Saujon",
+      "city": "Saujon",
+      "venue": "Tour record en allumettes",
+      "summary": "La carte de Jon Worth signale « Record breaking tower made of matches » à Saujon. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "sa-madinah-replica-on-a-roof-top": {
+      "name": "Réplique sur un toit — Madinah",
+      "label": "Madinah",
+      "city": "Madinah",
+      "venue": "Réplique sur un toit",
+      "summary": "La carte de Jon Worth signale « Replica on a roof top » à Madinah. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "kg-aksy-tower-built-by-school-pupils": {
+      "name": "Tour construite par des élèves — Aksy",
+      "label": "Aksy",
+      "city": "Aksy",
+      "venue": "Tour construite par des élèves",
+      "summary": "La carte de Jon Worth signale « Tower built by school pupils » à Aksy. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-severodonetsk-tower-in-the-yard-of-impuls-institute": {
+      "name": "Tour dans la cour de l’institut Impuls — Severodonetsk",
+      "label": "Severodonetsk",
+      "city": "Severodonetsk",
+      "venue": "Tour dans la cour de l’institut Impuls",
+      "summary": "La carte de Jon Worth signale « Tower in the yard of Impuls Institute » à Severodonetsk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-sevastopol-tower-near-a-cafe": {
+      "name": "Tour près d’un café — Sevastopol",
+      "label": "Sevastopol",
+      "city": "Sevastopol",
+      "venue": "Tour près d’un café",
+      "summary": "La carte de Jon Worth signale « Tower near a cafe » à Sevastopol. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "cn-taiyuan-tower-on-police-station-roof": {
+      "name": "Tour sur le toit du commissariat — Taiyuan",
+      "label": "Taiyuan",
+      "city": "Taiyuan",
+      "venue": "Tour sur le toit du commissariat",
+      "summary": "La carte de Jon Worth signale « Tower on police station roof » à Taiyuan. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ua-shatsk-yard-of-a-private-house": {
+      "name": "Tour dans une cour privée — Shatsk",
+      "label": "Shatsk",
+      "city": "Shatsk",
+      "venue": "Tour dans une cour privée",
+      "summary": "La carte de Jon Worth signale « Yard of a private house » à Shatsk. Son identité et son état actuel restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "us-boise-idaho-cafe-de-paris": {
+      "name": "Cafe de Paris — Boise, Idaho",
+      "label": "Boise, Idaho",
+      "city": "Boise, Idaho",
+      "venue": "Cafe de Paris",
+      "summary": "La carte de Jon Worth signale « Cafe de Paris » à Boise, Idaho. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "br-manaus-centro-cultural-palacio-da-justica-do-amazonas": {
+      "name": "Centro Cultural Palácio da Justiça do Amazonas — Manaus",
+      "label": "Manaus",
+      "city": "Manaus",
+      "venue": "Centro Cultural Palácio da Justiça do Amazonas",
+      "summary": "La carte de Jon Worth signale « Centro Cultural Palácio da Justiça do Amazonas » à Manaus. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-paris-bassin-de-la-villette-eiffel-tower-rocket-sculpture": {
+      "name": "Sculpture de fusée en forme de tour Eiffel — Paris, Bassin de la Villette",
+      "label": "Paris, Bassin de la Villette",
+      "city": "Paris, Bassin de la Villette",
+      "venue": "Sculpture de fusée en forme de tour Eiffel",
+      "summary": "La carte de Jon Worth signale « Eiffel Tower Rocket Sculpture » à Paris, Bassin de la Villette. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "us-mount-clemens-michigan-harper-metro-mini-golf": {
+      "name": "Harper Metro Mini Golf — Mount Clemens, Michigan",
+      "label": "Mount Clemens, Michigan",
+      "city": "Mount Clemens, Michigan",
+      "venue": "Harper Metro Mini Golf",
+      "summary": "La carte de Jon Worth signale « Harper Metro Mini Golf » à Mount Clemens, Michigan. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "us-kings-island-topiary-kings-island-topiary-tower": {
+      "name": "Tour végétale de Kings Island — Kings Island (Topiary)",
+      "label": "Kings Island (Topiary)",
+      "city": "Kings Island (Topiary)",
+      "venue": "Tour végétale de Kings Island",
+      "summary": "La carte de Jon Worth signale « Kings Island topiary tower » à Kings Island (Topiary). La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "se-vanersborg-lilla-paris": {
+      "name": "Lilla Paris — Vänersborg",
+      "label": "Vänersborg",
+      "city": "Vänersborg",
+      "venue": "Lilla Paris",
+      "summary": "La carte de Jon Worth signale « Lilla Paris » à Vänersborg. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "cz-most-mostecke-jezero-olympic-tower": {
+      "name": "Mostecké jezero – Olympic tower — Most",
+      "label": "Most",
+      "city": "Most",
+      "venue": "Mostecké jezero – Olympic tower",
+      "summary": "La carte de Jon Worth signale « Mostecké jezero – Olympic tower » à Most. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "nz-dunedin-new-zealand-and-south-seas-exhibition-1889": {
+      "name": "New Zealand and South Seas Exhibition (1889) — Dunedin",
+      "label": "Dunedin",
+      "city": "Dunedin",
+      "venue": "New Zealand and South Seas Exhibition (1889)",
+      "summary": "La carte de Jon Worth signale « New Zealand and South Seas Exhibition (1889) » à Dunedin. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "in-parle-point-parle-point-surat": {
+      "name": "Parle Point Surat — Parle Point",
+      "label": "Parle Point",
+      "city": "Parle Point",
+      "venue": "Parle Point Surat",
+      "summary": "La carte de Jon Worth signale « Parle Point Surat » à Parle Point. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "fr-waldighoffen-tall-wooden-tower-at-an-exhibition": {
+      "name": "Grande tour en bois d’une exposition — Waldighoffen",
+      "label": "Waldighoffen",
+      "city": "Waldighoffen",
+      "venue": "Grande tour en bois d’une exposition",
+      "summary": "La carte de Jon Worth signale « Tall wooden tower at an exhibition » à Waldighoffen. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "gb-chertsey-thorpe-park": {
+      "name": "Thorpe Park — Chertsey",
+      "label": "Chertsey",
+      "city": "Chertsey",
+      "venue": "Thorpe Park",
+      "summary": "La carte de Jon Worth signale « Thorpe Park » à Chertsey. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "cu-cienfuegos-torre-eiffel-de-cienfuegos": {
+      "name": "Torre Eiffel de Cienfuegos — Cienfuegos",
+      "label": "Cienfuegos",
+      "city": "Cienfuegos",
+      "venue": "Torre Eiffel de Cienfuegos",
+      "summary": "La carte de Jon Worth signale « Torre Eiffel de Cienfuegos » à Cienfuegos. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ru-samara-tower-at-a-road-junction": {
+      "name": "Tour au carrefour — Samara",
+      "label": "Samara",
+      "city": "Samara",
+      "venue": "Tour au carrefour",
+      "summary": "La carte de Jon Worth signale « Tower at a road junction » à Samara. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "name": "Vinson’s Miniature Golf — Taylor, Michigan",
+      "label": "Taylor, Michigan",
+      "city": "Taylor, Michigan",
+      "venue": "Vinson’s Miniature Golf",
+      "summary": "La carte de Jon Worth signale « Vinson’s Miniature Golf » à Taylor, Michigan. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "dk-slagelse-wooden-tower-at-an-exhibition": {
+      "name": "Tour en bois d’une exposition — Slagelse",
+      "label": "Slagelse",
+      "city": "Slagelse",
+      "venue": "Tour en bois d’une exposition",
+      "summary": "La carte de Jon Worth signale « Wooden tower at an exhibition » à Slagelse. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.",
+      "currentUses": []
+    },
+    "ad-andorra-tower-at-a-restaurant": {
+      "name": "Réplique sur une terrasse de café — Andorra (Aragon)",
+      "label": "Andorra (Aragon)",
+      "city": "Andorra, Aragon",
+      "venue": "Terrasse de café",
+      "summary": "Cette piste concerne Andorra, en Aragon, Espagne. Les anciennes coordonnées et la nouvelle carte indiquent le même lieu ; l’état actuel et les dimensions restent à vérifier.",
+      "currentUses": []
+    },
+    "cz-police-nad-metuji-tower-beside-a-toy-store": {
+      "name": "Tour Eiffel Merkur extérieure — Police nad Metují (piste historique)",
+      "label": "Police Merkur",
+      "city": "Police nad Metují",
+      "venue": "Ancienne sculpture Merkur extérieure",
+      "summary": "Un carnet de voyage de 2015 documente cette sculpture extérieure. La nouvelle carte indique son retrait entre 2019 et 2023. Les documents municipaux et une visite de septembre 2026 décrivent des modèles intérieurs, sans prouver la présence de cette tour extérieure. Les photos historiques et le modèle simplifié sont conservés ; la position sur le globe est suspendue.",
+      "currentUses": []
+    }
+  }
+}

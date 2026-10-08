@@ -1,0 +1,102 @@
+{
+  "asOf": "2026-10-07",
+  "towers": {
+    "us-tyndall-sd-eiffel-tower-flagpole": {
+      "name": "Mât Eiffel de Tyndall",
+      "label": "Tyndall",
+      "city": "Tyndall",
+      "summary": "Devant le palais de justice du comté de Bon Homme, à Tyndall, une réplique blanche en treillis sert aussi de mât à drapeau. Les archives judiciaires de l'État indiquent une construction en 1898 pour 200 dollars et un mât de 100 pieds. Sa structure fine, ses arches basses et son long mât nu la distinguent des répliques avec plateformes de visite."
+    },
+    "at-st-polten-tower-on-a-small-road-beside-the-railway-line": {
+      "name": "Modèle Eiffel de bienvenue de St. Pölten",
+      "label": "St. Pölten",
+      "city": "St. Pölten",
+      "summary": "Une photographie de 2015 montre ce modèle blanc en treillis près de la voie ferrée à St. Pölten. Quatre pieds droits soutiennent une tour fine, avec des panneaux inclinés, un panneau de bienvenue et un drapeau français. Le créateur, l'année de construction et l'état actuel restent à vérifier."
+    },
+    "es-las-palmas-tenerife-cita-shopping-center": {
+      "name": "Tour Eiffel décorative du centre Cita",
+      "label": "Centre Cita",
+      "city": "Maspalomas",
+      "venue": "Centre Cita · Playa del Inglés",
+      "summary": "Cette tour décorative se trouve au centre Cita à Maspalomas, sur Grande Canarie ; l'ancienne attribution à Tenerife a été corrigée. Une photographie de 2017 montre des panneaux pleins bleu pâle, un treillis décoratif sombre et des plateformes épaisses. La clôture et le cadrage masquent les pieds : le modèle représente la partie visible documentée."
+    },
+    "th-nakhon-ratchasima-terminal-21-korat": {
+      "name": "Réplique Eiffel de Terminal 21 Korat",
+      "label": "Terminal 21 Korat",
+      "city": "Nakhon Ratchasima",
+      "summary": "Une photographie de 2019 montre la réplique dorée en treillis dans l'atrium de Terminal 21 Korat : pieds courbes, grandes arches, larges plateformes et sommet à plusieurs niveaux. L'éclairage intérieur influence sa couleur. Les pieds proches étant coupés, le modèle exclut les fondations invisibles ; les 25 mètres annoncés par la carte ne sont pas retenus."
+    },
+    "th-pattaya-city-terminal-21-pattaya": {
+      "name": "Réplique Eiffel de Terminal 21 Pattaya",
+      "label": "Terminal 21 Pattaya",
+      "city": "Pattaya",
+      "summary": "La réplique se dresse dans l'atrium de Terminal 21 Pattaya. Une photographie de 2019 montre ses larges panneaux de plateforme, son treillis dense et l'enseigne lumineuse du centre. Le bleu-violet photographié vient de l'éclairage et ne définit pas une peinture permanente. Les pieds partiellement masqués sont exclus du modèle ; aucune hauteur mesurée n'est retenue."
+    },
+    "ua-hrushkivka-forestry": {
+      "summary": "Un article de juillet 2019 décrit une réplique de sept mètres au domaine forestier de Hrushkivka, avec trois niveaux, un ascenseur mobile, un éclairage et un drapeau ukrainien. Les forestiers relient ce projet paysager au 130e anniversaire de la tour originale. Les quatre mètres annoncés par la carte et l'état actuel restent à vérifier."
+    },
+    "ua-khmelnytskyi-so-called-monument-to-ukrainian-inferiority": {
+      "summary": "La réplique se situe au croisement des rues Svobody et Proskurivska à Khmelnytskyi. En 2021, ses créateurs ont indiqué une hauteur de 3,7 mètres et décrit le travail de professeurs et d'élèves en soudure, financé en partie par le recyclage de ferraille. Une installation permanente était prévue ; son maintien actuel reste une question distincte."
+    },
+    "ua-koriukivka-flower-stand-near-the-city-council": {
+      "summary": "Koryukivka a installé une structure florale en forme de tour Eiffel au printemps 2020, face au bâtiment administratif du centre-ville. Le maire en attribuait l'idée aux jardiniers municipaux. Elle réunit pots de fleurs et arches ; l'éclairage LED était encore un projet dans l'article."
+    },
+    "ua-korosten-spartak-stadium": {
+      "summary": "La réplique du stade Spartak à Korosten porte un tableau de score électronique. La presse locale a signalé son installation en 2018 et un article de football de 2025 documente la tour du même stade. Elle est distincte de la tour aux motifs ukrainiens installée dans le centre-ville en 2021."
+    },
+    "ua-kostopil-back-yard-of-a-private-house": {
+      "summary": "Un article de janvier 2022 montre une petite décoration en forme de tour Eiffel, parmi des illuminations de Noël et un carrosse dans un jardin privé de Kostopil. La source documente cette installation festive, sans établir son maintien permanent."
+    },
+    "ua-mykolayiv-kids-park-kazka": {
+      "summary": "Le modèle Eiffel du parc pour enfants Kazka à Mykolaiv se trouve près de l'amphithéâtre. Un article de 2020 décrit un modèle offert de six mètres, à vocation paysagère et pédagogique ; un modèle distinct de château d'eau Choukhov est voisin. L'œuvre de quatre mètres du festival de ferronnerie de 2012 n'a pas été identifiée comme cette tour du parc."
+    },
+    "ua-nizhyn-eiffel-tower-near-a-shop-at-a-bus-stop": {
+      "summary": "Deux soudeurs locaux ont construit la réplique près de l'arrêt Silmash à Nizhyn. Un entretien de 2023 mentionne des tubes profilés métalliques, trois niveaux et une hauteur de 5,5 mètres, avec des photographies et un souvenir comme références. Elle est distincte d'une tour proposée plus tard pour un café du centre-ville."
+    },
+    "ua-odesa-korolyova-79": {
+      "summary": "La réplique de la rue Korolyova à Odesa se trouve dans un espace vert devant un immeuble résidentiel. Une source touristique décrit un modèle de quatre mètres, sans donner de créateur ni d'année de construction. Les tours de l'usine et des cours Osypova et Koblevska, ainsi que la peinture murale, restent des objets distincts."
+    },
+    "ua-odesa-osypova-37": {
+      "summary": "Une source touristique décrit une réplique de trois mètres dans la cour du 37, rue Osypova, à Odesa. Elle sert aussi de support floral en été et les habitants la décorent. Les dates des photographies et son maintien actuel demandent des preuves distinctes."
+    },
+    "ua-odesa-kobleska-37": {
+      "summary": "Une source touristique décrit l'objet en forme de tour Eiffel d'une cour de la rue Koblevska à Odesa comme une ancienne publicité devenue un élément du quartier. Elle ne fournit ni hauteur fiable ni état actuel. Les répliques de rues différentes ne sont pas fusionnées parce qu'elles partagent la même ville."
+    },
+    "ua-sarny-park-in-town-centre": {
+      "summary": "La télévision locale a présenté la miniature de Sarny en 2013 comme un cadeau offert à la ville par le dirigeant d'une entreprise de produits métalliques. Un support en béton a été ajouté sur place. Le papillon de mariage cité dans le même reportage est un autre monument, et non une partie de la tour."
+    },
+    "ua-shatsk-yard-of-a-private-house": {
+      "summary": "Le créateur du jardin de Shatsk a construit plusieurs versions. Un article de 2017 distingue un modèle vendu de trois mètres, une version de six mètres de 2013 et une version de 7,2 mètres de 2016. Les remplacements ultérieurs et la version indiquée par la carte restent incertains ; aucune hauteur actuelle unique n'est retenue."
+    },
+    "ua-zhytomyr-zarichanske-forestry": {
+      "summary": "Le domaine forestier Zarichanske près de Zhytomyr a installé une miniature Eiffel avant la Saint-Valentin dans son espace pédagogique et récréatif. Cet objet de cour est distinct de la grande tour de l'université polytechnique. L'année précise, les dimensions et le maintien actuel restent à confirmer."
+    },
+    "ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral": {
+      "summary": "La miniature en bronze de Mikhail Kolodko a été inaugurée lors des célébrations culturelles françaises du début de l'été 2015, sur un ancien lampadaire près de la cathédrale d'Uzhhorod. Les sources touristiques indiquent 16 centimètres et environ un kilogramme. C'est une sculpture publique fixée, non un souvenir portatif."
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "summary": "La Bibliothèque du Congrès conserve la photographie de 1986 de John Margolies montrant le trou de golf miniature en forme de tour Eiffel chez Vinson, à Taylor dans le Michigan. L'archive établit une existence historique. La date précise de retrait et l'emplacement actuel ne sont pas établis."
+    },
+    "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach": {
+      "name": "Croix métallique du centre de pèlerinage de Starunia",
+      "label": "Croix de Starunia",
+      "city": "Starunia",
+      "summary": "Le centre décrit une croix métallique de 25 mètres de haut et 14 mètres de large, éclairée pour la première fois le 19 septembre 2020. Elle se trouve à Starunia. La source n'établit pas une réplique Eiffel ; l'objet reste hors de la première collection du globe."
+    },
+    "ru-beliy-island-eiffel-tower-of-the-arctic": {
+      "name": "Phare en bois de l'île Bely",
+      "label": "Phare de Bely",
+      "summary": "La Société géographique russe décrit un phare en bois de l'île Bely et son histoire de 1936. Sa forme est comparée à celle de la tour Eiffel, sans relation explicite de reproduction. Il reste une structure apparentée hors de la première collection du globe."
+    },
+    "tw-taoyuan-baleng-tower": {
+      "name": "Tour de diffusion d'alerte de Baling",
+      "label": "Tour de Baling",
+      "summary": "Un reportage de la Central News Agency cite l'administration locale sur la fonction d'alerte aux catastrophes et le motif de l'œil ancestral. La ressemblance avec la tour Eiffel n'établit pas une reproduction. Les valeurs de 29,4 et 29,5 mètres restent distinctes ; l'objet est hors de la première collection du globe."
+    },
+    "us-wellfleet-comment-replica": {
+      "name": "Projet d'installation du modèle Eiffel de Wellfleet",
+      "label": "Modèle de Wellfleet",
+      "summary": "Un article de 2023 distingue le modèle entreposé de 21 pieds, le projet refusé de 2020 de près de 28 pieds avec socle et le projet approuvé de 2023 de 21 pieds et 3 pouces. L'installation nécessitait encore une autorisation de l'inspecteur ; sa réalisation à l'emplacement prévu n'est pas établie."
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "asOf": "2026-10-07",
+  "towers": {
+    "us-tyndall-sd-eiffel-tower-flagpole": {
+      "name": "廷德尔埃菲尔式旗杆塔",
+      "label": "廷德尔",
+      "city": "廷德尔",
+      "summary": "南达科他州廷德尔的县法院前，一座白色格构复制塔兼作旗杆。州法院历史档案记载，县政府于1898年花费200美元建造它，旗杆高度记为100英尺。纤细塔身、低拱门和高高伸出的旗杆，使它与有观景平台的复制塔很不一样。"
+    },
+    "at-st-polten-tower-on-a-small-road-beside-the-railway-line": {
+      "name": "圣珀尔滕欢迎牌铁塔",
+      "label": "圣珀尔滕",
+      "city": "圣珀尔滕",
+      "summary": "2015年的实景照片记录了圣珀尔滕铁路旁这座白色格构模型。四条直腿撑起细长塔身，斜面平台下挂有欢迎牌和法国旗。照片支持其当时的外观，制作者、建造年份和当前保留情况仍待核实。"
+    },
+    "es-las-palmas-tenerife-cita-shopping-center": {
+      "name": "大加那利岛Cita商场装饰铁塔",
+      "label": "Cita商场",
+      "city": "马斯帕洛马斯",
+      "venue": "Cita商场 · Playa del Inglés",
+      "summary": "这座装饰铁塔位于大加那利岛马斯帕洛马斯的Cita商场，旧资料中的Tenerife归属已纠正。2017年照片显示浅蓝色实体塔面、深色装饰格线与粗平台轮廓；塔脚被围栏和画面边缘遮挡，模型仅表现有依据的可见部分。"
+    },
+    "th-nakhon-ratchasima-terminal-21-korat": {
+      "name": "呵叻Terminal 21中庭铁塔",
+      "label": "呵叻Terminal 21",
+      "city": "呵叻",
+      "summary": "2019年照片记录了Terminal 21 Korat商场中庭的金色格构复制塔：弯曲塔腿连接大拱门，两道宽平台上方是细长上段和分层顶舱。商场灯光影响照片中的色彩；近侧塔脚在原图底边被裁掉，模型不补造未见基底，地图25米说法未采纳。"
+    },
+    "th-pattaya-city-terminal-21-pattaya": {
+      "name": "芭堤雅Terminal 21中庭铁塔",
+      "label": "芭堤雅Terminal 21",
+      "city": "芭堤雅",
+      "summary": "Terminal 21 Pattaya的复制塔立在商场中庭，2019年照片能看到宽大的平台围板、密集格构与醒目的店名灯牌。蓝紫色是当时灯光的照片表现，不能当作固定漆色。塔脚部分受前景和画面边缘遮挡，模型以可见塔段展示，尚无可采用的实测高度。"
+    },
+    "ua-hrushkivka-forestry": {
+      "summary": "格鲁什基夫卡林业园区的复制塔在2019年当地报道中高7米，有三层、活动电梯和照明，塔顶悬挂乌克兰旗。林业人员将它作为园区景观，并表示建造缘由与巴黎原塔130周年有关。"
+    },
+    "ua-khmelnytskyi-so-called-monument-to-ukrainian-inferiority": {
+      "summary": "赫梅利尼茨基的复制塔位于Svobody与Proskurivska街交叉口。2021年制作者采访明确称其高3.7米，由当地职业学校的教师与焊接专业学生合作，部分资金来自回收废金属。报道说明它计划永久留置；当前现状另待核验。"
+    },
+    "ua-koriukivka-flower-stand-near-the-city-council": {
+      "summary": "科里乌基夫卡在2020年春季安装了埃菲尔塔造型的花架，位置在市中心、行政楼入口对面。市长受访时说明，设计来自当地绿化工作人员，花架用于把盆栽与拱形装饰组合成一处景观；报道中的LED灯光仍是后续计划。"
+    },
+    "ua-korosten-spartak-stadium": {
+      "summary": "科罗斯坚Spartak体育场的复制塔用作电子比分牌支架。当地2018年的报道已记录安装，2025年足球报道再次明确拍到这座塔。它与2021年建在市中心、带乌克兰徽记和刺绣装饰的另一座塔分别记录。"
+    },
+    "ua-kostopil-back-yard-of-a-private-house": {
+      "summary": "科斯托皮尔的私人庭院在2022年圣诞与新年报道中出现小型铁塔造型，与马车和灯饰一起布置。来源只支持当时的节庆陈设，尚不能确定它是否长期保留。"
+    },
+    "ua-mykolayiv-kids-park-kazka": {
+      "summary": "尼古拉耶夫Kazka儿童公园的埃菲尔复制塔位于露天剧场附近。2020年报道将它记为当地商人赠送的6米模型，兼有景观与工程教育用途；旁边另有舒霍夫水塔模型。2012年铁匠节的4米作品缺乏同一性依据，未合并进这座公园塔。"
+    },
+    "ua-nizhyn-eiffel-tower-near-a-shop-at-a-bus-stop": {
+      "summary": "尼任Silmash公交站旁的复制塔由两位当地焊工合作制作。2023年采访称它使用金属型材，高5.5米、分三层，制作者参考了照片和一件小型纪念品模型。它与后来提出的市中心咖啡馆新塔方案不同。"
+    },
+    "ua-odesa-korolyova-79": {
+      "summary": "敖德萨Korolyova街的复制塔位于住宅楼前的绿地。旅游资料将它描述为4米模型，但没有给出制作者和建造年份。它与工厂、Osypova庭院、Koblevska庭院以及墙面绘画分别记录。"
+    },
+    "ua-odesa-osypova-37": {
+      "summary": "敖德萨Osypova街37号院内的复制塔被旅游资料记为3米。资料描述它在夏季也用作花架，居民会装饰这处庭院景观；拍摄日期和当前保留情况仍须另证。"
+    },
+    "ua-odesa-kobleska-37": {
+      "summary": "敖德萨Koblevska街庭院中的铁塔造型，曾被旅游资料描述为广告展示设施，后来成为庭院景观。来源没有给出可靠高度和当前现状；不同街道的复制塔没有按同城合并。"
+    },
+    "ua-sarny-park-in-town-centre": {
+      "summary": "萨尔内的微缩铁塔在2013年地方电视报道中作为赠送给城市的新景观出现，由金属制品企业负责人赠送，地方另为它设置混凝土支座。报道中的婚礼蝴蝶是另一处景观，不是铁塔的一部分。"
+    },
+    "ua-shatsk-yard-of-a-private-house": {
+      "summary": "沙茨克的庭院制作者曾多次重做埃菲尔模型。2017年报道区分了已售出的3米旧塔、2013年的6米版本和2016年的7.2米版本。后续是否更换、地图点对应哪一版仍未确认，因此没有挑选一个数值作为当前塔高。"
+    },
+    "ua-zhytomyr-zarichanske-forestry": {
+      "summary": "日托米尔Zarichanske林业园区在情人节前设置了埃菲尔微缩模型，林业部门说明它属于园区的教育与休憩景观。该园区对象与日托米尔理工大学的大塔分开记录；当前保留、明确年份和尺寸尚缺可靠证据。"
+    },
+    "ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral": {
+      "summary": "乌日霍罗德这件青铜微缩塔由雕塑家Mikhail Kolodko创作，2015年初夏法国文化活动期间亮相，放置在教堂附近的旧路灯上。旅游资料称其高16厘米、重约1公斤；它是固定公共雕塑，不能与手持纪念品混为一谈。"
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "summary": "美国国会图书馆保存了John Margolies于1986年拍摄的Vinson迷你高尔夫球场铁塔洞照片，明确对应密歇根州Taylor。档案证明的是历史存在；尚未查到准确移除日期和当前塔体位置。"
+    },
+    "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach": {
+      "name": "Starunia朝圣中心金属十字架（相似构筑物）",
+      "label": "Starunia十字架",
+      "city": "Starunia",
+      "summary": "朝圣中心的原文说明，这处对象是一座高25米、宽14米的金属十字架，2020年9月19日首次亮灯。地点为Starunia；没有依据将它当作埃菲尔复制塔，首期地球不收录。"
+    },
+    "ru-beliy-island-eiffel-tower-of-the-arctic": {
+      "name": "别雷岛木灯塔（相似构筑物）",
+      "label": "别雷岛灯塔",
+      "summary": "俄罗斯地理学会的资料介绍的是别雷岛木灯塔，并记述1936年的灯塔历史。原文仅将其外形与埃菲尔塔作比较，没有明确复刻关系；按相似构筑物保留，首期地球不收录。"
+    },
+    "tw-taoyuan-baleng-tower": {
+      "name": "巴陵防灾广播塔（相似构筑物）",
+      "label": "巴陵广播塔",
+      "summary": "中央社报道引用当地公所说明，巴陵塔具有防灾广播用途，设计以祖灵之眼为起点。它的外形被比作埃菲尔塔，但复刻关系没有成立；29.4米与29.5米说法分别保存，首期地球不收录。"
+    },
+    "us-wellfleet-comment-replica": {
+      "name": "Wellfleet埃菲尔模型安装方案",
+      "label": "Wellfleet模型",
+      "summary": "2023年报道明确区分了存放中的21英尺模型、被否决的2020年近28英尺含基座方案，以及2023年获批的21英尺3英寸方案。安装仍需建筑检查员许可；现有资料不能证明它已安装在拟定位置。"
+    }
+  }
+}

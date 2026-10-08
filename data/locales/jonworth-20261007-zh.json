@@ -1,0 +1,1620 @@
+{
+  "towers": {
+    "ua-cherkasy-bonjour-underwear-store": {
+      "name": "切尔卡瑟·'Bonjour' underwear store铁塔（候选）",
+      "label": "切尔卡瑟",
+      "city": "切尔卡瑟",
+      "venue": "'Bonjour' underwear store",
+      "summary": "Jon Worth的地图将“'Bonjour' underwear store”记录在乌克兰的切尔卡瑟。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-vinnytsya-d-a-k-s-market-grocery-store": {
+      "name": "文尼察·'D.A.K.S. market' grocery store铁塔（候选）",
+      "label": "文尼察",
+      "city": "文尼察",
+      "venue": "'D.A.K.S. market' grocery store",
+      "summary": "Jon Worth的地图将“'D.A.K.S. market' grocery store”记录在乌克兰的文尼察。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kostyantynikka-euro-city-restaurant": {
+      "name": "Kostyantynikka·'Euro-city' restaurant铁塔（候选）",
+      "label": "Kostyantynikka",
+      "city": "Kostyantynikka",
+      "venue": "'Euro-city' restaurant",
+      "summary": "Jon Worth的地图将“'Euro-city' restaurant”记录在乌克兰的Kostyantynikka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-vinnytsya-mirazh-curtains-shop": {
+      "name": "文尼察·'Mirazh' curtains shop铁塔（候选）",
+      "label": "文尼察",
+      "city": "文尼察",
+      "venue": "'Mirazh' curtains shop",
+      "summary": "Jon Worth的地图将“'Mirazh' curtains shop”记录在乌克兰的文尼察。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-shypyntsi-shale-restaurant": {
+      "name": "希平齐·'Shale' restaurant铁塔（候选）",
+      "label": "希平齐",
+      "city": "希平齐",
+      "venue": "'Shale' restaurant",
+      "summary": "Jon Worth的地图将“'Shale' restaurant”记录在乌克兰的希平齐。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-malyn-french-boutique-shop": {
+      "name": "马林·\"French boutique\" shop铁塔（候选）",
+      "label": "马林",
+      "city": "马林",
+      "venue": "\"French boutique\" shop",
+      "summary": "Jon Worth的地图将“\"French boutique\" shop”记录在乌克兰的马林。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-yalta-across-the-river": {
+      "name": "雅尔塔·河畔铁塔（候选）",
+      "label": "雅尔塔",
+      "city": "雅尔塔",
+      "venue": "河畔铁塔",
+      "summary": "Jon Worth的地图将“Across the river”记录在乌克兰的雅尔塔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-yeysk-amusement-park-tower": {
+      "name": "叶伊斯克·游乐园铁塔（候选）",
+      "label": "叶伊斯克",
+      "city": "叶伊斯克",
+      "venue": "游乐园铁塔",
+      "summary": "Jon Worth的地图将“Amusement Park Tower”记录在俄罗斯的叶伊斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-andriivskyi-descent": {
+      "name": "基辅·安德烈斜坡铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "安德烈斜坡铁塔",
+      "summary": "Jon Worth的地图将“Andriivskyi descent”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-lviv-beauty-salon-l-etoile": {
+      "name": "利沃夫·Beauty salon L'Etoile铁塔（候选）",
+      "label": "利沃夫",
+      "city": "利沃夫",
+      "venue": "Beauty salon L'Etoile",
+      "summary": "Jon Worth的地图将“Beauty salon L'Etoile”记录在乌克兰的利沃夫。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-berdyansk-berdyansk-mechanical-engineering-lyceum": {
+      "name": "别尔江斯克·Berdyansk Mechanical Engineering Lyceum铁塔（候选）",
+      "label": "别尔江斯克",
+      "city": "别尔江斯克",
+      "venue": "Berdyansk Mechanical Engineering Lyceum",
+      "summary": "Jon Worth的地图将“Berdyansk Mechanical Engineering Lyceum”记录在乌克兰的别尔江斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-lutsk-beside-a-restaurant-next-to-a-car-garage": {
+      "name": "卢茨克·餐馆与车库旁铁塔（候选）",
+      "label": "卢茨克",
+      "city": "卢茨克",
+      "venue": "餐馆与车库旁铁塔",
+      "summary": "Jon Worth的地图将“Beside a restaurant, next to a car garage”记录在乌克兰的卢茨克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "de-tubingen-boxenstop-tubingen": {
+      "name": "图宾根·Boxenstop Tübingen铁塔（候选）",
+      "label": "图宾根",
+      "city": "图宾根",
+      "venue": "Boxenstop Tübingen",
+      "summary": "Jon Worth的地图将“Boxenstop Tübingen”记录在德国的图宾根。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-mankivka-central-park-tower": {
+      "name": "曼基夫卡·中央公园铁塔（候选）",
+      "label": "曼基夫卡",
+      "city": "曼基夫卡",
+      "venue": "中央公园铁塔",
+      "summary": "Jon Worth的地图将“Central park tower”记录在乌克兰的曼基夫卡。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "es-las-palmas-tenerife-cita-shopping-center": {
+      "name": "Las Palmas, Tenerife·Cita购物中心铁塔（候选）",
+      "label": "Las Palmas, Tenerife",
+      "city": "Las Palmas, Tenerife",
+      "venue": "Cita购物中心铁塔",
+      "summary": "Jon Worth的地图将“Cita Shopping Center”记录在西班牙的Las Palmas, Tenerife。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-citroen-car-dealership": {
+      "name": "基辅·Citroen car dealership铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "Citroen car dealership",
+      "summary": "Jon Worth的地图将“Citroen car dealership”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ec-quito-eiffel-center": {
+      "name": "基多·埃菲尔中心铁塔（候选）",
+      "label": "基多",
+      "city": "基多",
+      "venue": "埃菲尔中心铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Center”记录在厄瓜多尔的基多。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "us-tyndall-sd-eiffel-tower-flagpole": {
+      "name": "Tyndall, SD·铁塔造型旗杆（候选）",
+      "label": "Tyndall, SD",
+      "city": "Tyndall, SD",
+      "venue": "铁塔造型旗杆",
+      "summary": "Jon Worth的地图将“Eiffel Tower Flagpole”记录在美国的Tyndall, SD。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-baryshivka-eiffel-tower-near-a-coffee-shop": {
+      "name": "巴雷希夫卡·咖啡店旁铁塔（候选）",
+      "label": "巴雷希夫卡",
+      "city": "巴雷希夫卡",
+      "venue": "咖啡店旁铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower near a coffee shop”记录在乌克兰的巴雷希夫卡。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-ivano-frankivsk-eiffel-tower-near-a-shop": {
+      "name": "伊万诺-弗兰科夫斯克·商店旁铁塔（候选）",
+      "label": "伊万诺-弗兰科夫斯克",
+      "city": "伊万诺-弗兰科夫斯克",
+      "venue": "商店旁铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower near a shop”记录在乌克兰的伊万诺-弗兰科夫斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-eiffel-tower-on-a-balcony-of-a-travel-agency": {
+      "name": "基辅·旅行社阳台铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "旅行社阳台铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower on a balcony of a travel agency”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-vinnytsya-entrance-to-versal-hotel-and-restaurant": {
+      "name": "文尼察·entrance to 'Versal' hotel and restaurant铁塔（候选）",
+      "label": "文尼察",
+      "city": "文尼察",
+      "venue": "entrance to 'Versal' hotel and restaurant",
+      "summary": "Jon Worth的地图将“entrance to 'Versal' hotel and restaurant”记录在乌克兰的文尼察。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "az-nakhchivan-yl-nc-adas": {
+      "name": "纳希切万·游乐岛铁塔（候选）",
+      "label": "纳希切万",
+      "city": "纳希切万",
+      "venue": "游乐岛铁塔",
+      "summary": "Jon Worth的地图将“Əyləncə Adası”记录在阿塞拜疆的纳希切万。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-koriukivka-flower-stand-near-the-city-council": {
+      "name": "Koriukivka·市政厅附近花摊铁塔（候选）",
+      "label": "Koriukivka",
+      "city": "Koriukivka",
+      "venue": "市政厅附近花摊铁塔",
+      "summary": "Jon Worth的地图将“flower stand near the city council”记录在乌克兰的Koriukivka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "it-chioggia-front-garden-tower": {
+      "name": "基奥贾·前花园铁塔（候选）",
+      "label": "基奥贾",
+      "city": "基奥贾",
+      "venue": "前花园铁塔",
+      "summary": "Jon Worth的地图将“Front garden tower”记录在意大利的基奥贾。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-horodok-front-yard-of-a-private-house": {
+      "name": "霍罗多克·私人住宅前院铁塔（候选）",
+      "label": "霍罗多克",
+      "city": "霍罗多克",
+      "venue": "私人住宅前院铁塔",
+      "summary": "Jon Worth的地图将“Front yard of a private house”记录在乌克兰的霍罗多克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ar-cordoba-galeria-jardin": {
+      "name": "科尔多瓦·Galeria Jardin铁塔（候选）",
+      "label": "科尔多瓦",
+      "city": "科尔多瓦",
+      "venue": "Galeria Jardin",
+      "summary": "Jon Worth的地图将“Galeria Jardin”记录在阿根廷的科尔多瓦。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-mykolayiv-kids-park-kazka": {
+      "name": "尼古拉耶夫·kids park 'Kazka'铁塔（候选）",
+      "label": "尼古拉耶夫",
+      "city": "尼古拉耶夫",
+      "venue": "kids park 'Kazka'",
+      "summary": "Jon Worth的地图将“kids park 'Kazka'”记录在乌克兰的尼古拉耶夫。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-odesa-korolyova-79": {
+      "name": "敖德萨·Korolyova 79铁塔（候选）",
+      "label": "敖德萨",
+      "city": "敖德萨",
+      "venue": "Korolyova 79",
+      "summary": "Jon Worth的地图将“Korolyova 79”记录在乌克兰的敖德萨。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-iskorost-korosten-heating-pipe-plant": {
+      "name": "Iskorost·Korosten Heating Pipe Plant铁塔（候选）",
+      "label": "Iskorost",
+      "city": "Iskorost",
+      "venue": "Korosten Heating Pipe Plant",
+      "summary": "Jon Worth的地图将“Korosten Heating Pipe Plant”记录在乌克兰的Iskorost。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-kyiv-national-university-of-trade-and-economics": {
+      "name": "基辅·Kyiv National University of Trade and Economics铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "Kyiv National University of Trade and Economics",
+      "summary": "Jon Worth的地图将“Kyiv National University of Trade and Economics”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "us-carlsbad-legoland-california": {
+      "name": "Carlsbad·加利福尼亚乐高乐园铁塔（候选）",
+      "label": "Carlsbad",
+      "city": "Carlsbad",
+      "venue": "加利福尼亚乐高乐园铁塔",
+      "summary": "Jon Worth的地图将“Legoland California”记录在美国的Carlsbad。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "us-cypress-gardens-legoland-florida": {
+      "name": "Cypress Gardens·佛罗里达乐高乐园铁塔（候选）",
+      "label": "Cypress Gardens",
+      "city": "Cypress Gardens",
+      "venue": "佛罗里达乐高乐园铁塔",
+      "summary": "Jon Worth的地图将“Legoland Florida”记录在美国的Cypress Gardens。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "de-gunzburg-legoland-germany": {
+      "name": "Günzburg·德国乐高乐园铁塔（候选）",
+      "label": "Günzburg",
+      "city": "Günzburg",
+      "venue": "德国乐高乐园铁塔",
+      "summary": "Jon Worth的地图将“Legoland Germany”记录在德国的Günzburg。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-yalta-massandrovsky-beach": {
+      "name": "雅尔塔·Massandrovsky beach铁塔（候选）",
+      "label": "雅尔塔",
+      "city": "雅尔塔",
+      "venue": "Massandrovsky beach",
+      "summary": "Jon Worth的地图将“Massandrovsky beach”记录在乌克兰的雅尔塔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-medical-center-entrance": {
+      "name": "基辅·医疗中心入口铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "医疗中心入口铁塔",
+      "summary": "Jon Worth的地图将“Medical center entrance”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "id-menara-keagungan-limboto-menara-keagungan-limboto": {
+      "name": "Menara Keagungan Limboto·Menara Keagungan Limboto铁塔（候选）",
+      "label": "Menara Keagungan Limboto",
+      "city": "Menara Keagungan Limboto",
+      "venue": "Menara Keagungan Limboto",
+      "summary": "Jon Worth的地图将“Menara Keagungan Limboto”记录在印度尼西亚的Menara Keagungan Limboto。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "es-denia-valencia-metal-merchant-tower": {
+      "name": "Dénia, Valencia·Metal merchant tower铁塔（候选）",
+      "label": "Dénia, Valencia",
+      "city": "Dénia, Valencia",
+      "venue": "Metal merchant tower",
+      "summary": "Jon Worth的地图将“Metal merchant tower”记录在西班牙的Dénia, Valencia。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "uz-samarkand-neat-tower-at-the-roadside": {
+      "name": "撒马尔罕·Neat tower at the roadside铁塔（候选）",
+      "label": "撒马尔罕",
+      "city": "撒马尔罕",
+      "venue": "Neat tower at the roadside",
+      "summary": "Jon Worth的地图将“Neat tower at the roadside”记录在乌兹别克斯坦的撒马尔罕。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "lt-letukai-new-miniature-park": {
+      "name": "Letūkai·新微缩公园铁塔（候选）",
+      "label": "Letūkai",
+      "city": "Letūkai",
+      "venue": "新微缩公园铁塔",
+      "summary": "Jon Worth的地图将“New miniature park”记录在立陶宛的Letūkai。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "by-minsk-next-to-a-playground": {
+      "name": "明斯克·游乐场旁铁塔（候选）",
+      "label": "明斯克",
+      "city": "明斯克",
+      "venue": "游乐场旁铁塔",
+      "summary": "Jon Worth的地图将“Next to a playground”记录在白俄罗斯的明斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "vn-bac-giang-nha-hang-cua-o": {
+      "name": "北江·Nhà Hàng Cua Đỏ铁塔（候选）",
+      "label": "北江",
+      "city": "北江",
+      "venue": "Nhà Hàng Cua Đỏ",
+      "summary": "Jon Worth的地图将“Nhà Hàng Cua Đỏ”记录在越南的北江。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-myrhorod-paris-dakar-bar": {
+      "name": "米尔霍罗德·Paris Dakar Bar铁塔（候选）",
+      "label": "米尔霍罗德",
+      "city": "米尔霍罗德",
+      "venue": "Paris Dakar Bar",
+      "summary": "Jon Worth的地图将“Paris Dakar Bar”记录在乌克兰的米尔霍罗德。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kushuhum-park-tower": {
+      "name": "Kushuhum·公园铁塔（候选）",
+      "label": "Kushuhum",
+      "city": "Kushuhum",
+      "venue": "公园铁塔",
+      "summary": "Jon Worth的地图将“Park tower”记录在乌克兰的Kushuhum。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "pl-rabka-zdroj-rabkoland": {
+      "name": "Rabka-Zdrój·Rabkoland铁塔（候选）",
+      "label": "Rabka-Zdrój",
+      "city": "Rabka-Zdrój",
+      "venue": "Rabkoland",
+      "summary": "Jon Worth的地图将“Rabkoland”记录在波兰的Rabka-Zdrój。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "in-telangana-ramoji-film-city": {
+      "name": "Telangana·Ramoji Film City铁塔（候选）",
+      "label": "Telangana",
+      "city": "Telangana",
+      "venue": "Ramoji Film City",
+      "summary": "Jon Worth的地图将“Ramoji Film City”记录在印度的Telangana。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "es-san-juan-del-puerto-andalusia-school-patio-tower": {
+      "name": "San Juan del Puerto, Andalusia·学校庭院铁塔（候选）",
+      "label": "San Juan del Puerto, Andalusia",
+      "city": "San Juan del Puerto, Andalusia",
+      "venue": "学校庭院铁塔",
+      "summary": "Jon Worth的地图将“School patio tower”记录在西班牙的San Juan del Puerto, Andalusia。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-pusey-small-tower-in-a-garden": {
+      "name": "皮塞·花园小铁塔（候选）",
+      "label": "皮塞",
+      "city": "皮塞",
+      "venue": "花园小铁塔",
+      "summary": "Jon Worth的地图将“Small tower in a garden”记录在法国的皮塞。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "nl-harselaar-staal-bouw": {
+      "name": "哈尔瑟拉尔·Staal Bouw铁塔（候选）",
+      "label": "哈尔瑟拉尔",
+      "city": "哈尔瑟拉尔",
+      "venue": "Staal Bouw",
+      "summary": "Jon Worth的地图将“Staal Bouw”记录在荷兰的哈尔瑟拉尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "th-nakhon-ratchasima-terminal-21-korat": {
+      "name": "呵叻·Terminal 21呵叻铁塔（候选）",
+      "label": "呵叻",
+      "city": "呵叻",
+      "venue": "Terminal 21呵叻铁塔",
+      "summary": "Jon Worth的地图将“Terminal 21 Korat”记录在泰国的呵叻。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "th-pattaya-city-terminal-21-pattaya": {
+      "name": "芭堤雅·Terminal 21芭堤雅铁塔（候选）",
+      "label": "芭堤雅",
+      "city": "芭堤雅",
+      "venue": "Terminal 21芭堤雅铁塔",
+      "summary": "Jon Worth的地图将“Terminal 21 Pattaya”记录在泰国的芭堤雅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "it-andria-tm-tecnometal": {
+      "name": "安德里亚·TM Tecnometal铁塔（候选）",
+      "label": "安德里亚",
+      "city": "安德里亚",
+      "venue": "TM Tecnometal",
+      "summary": "Jon Worth的地图将“TM Tecnometal”记录在意大利的安德里亚。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "de-freiburg-breisgau-tower-at-a-adventure-play-ground": {
+      "name": "Freiburg (Breisgau)·探险游乐场铁塔（候选）",
+      "label": "Freiburg (Breisgau)",
+      "city": "Freiburg (Breisgau)",
+      "venue": "探险游乐场铁塔",
+      "summary": "Jon Worth的地图将“Tower at a adventure play ground”记录在德国的Freiburg (Breisgau)。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "it-bibbiano-tower-at-a-road-junction-by-an-office": {
+      "name": "比比亚诺·办公楼旁路口铁塔（候选）",
+      "label": "比比亚诺",
+      "city": "比比亚诺",
+      "venue": "办公楼旁路口铁塔",
+      "summary": "Jon Worth的地图将“Tower at a road junction by an office”记录在意大利的比比亚诺。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ps-ramallah-tower-at-a-sweet-shop": {
+      "name": "拉马拉·甜品店铁塔（候选）",
+      "label": "拉马拉",
+      "city": "拉马拉",
+      "venue": "甜品店铁塔",
+      "summary": "Jon Worth的地图将“Tower at a sweet shop”记录在巴勒斯坦领土的拉马拉。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kotelva-tower-at-kalyna-restaurant": {
+      "name": "科特尔瓦·Tower at Kalyna Restaurant铁塔（候选）",
+      "label": "科特尔瓦",
+      "city": "科特尔瓦",
+      "venue": "Tower at Kalyna Restaurant",
+      "summary": "Jon Worth的地图将“Tower at Kalyna Restaurant”记录在乌克兰的科特尔瓦。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-nikopol-tower-at-the-edge-of-the-river": {
+      "name": "尼科波尔·河边铁塔（候选）",
+      "label": "尼科波尔",
+      "city": "尼科波尔",
+      "venue": "河边铁塔",
+      "summary": "Jon Worth的地图将“Tower at the edge of the river”记录在乌克兰的尼科波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "by-gomel-tower-at-the-riverbank-park": {
+      "name": "戈梅利·河滨公园铁塔（候选）",
+      "label": "戈梅利",
+      "city": "戈梅利",
+      "venue": "河滨公园铁塔",
+      "summary": "Jon Worth的地图将“Tower at the riverbank park”记录在白俄罗斯的戈梅利。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-berehove-crimea-tower-at-the-seaside": {
+      "name": "Berehove (Crimea)·海滨铁塔（候选）",
+      "label": "Berehove (Crimea)",
+      "city": "Berehove (Crimea)",
+      "venue": "海滨铁塔",
+      "summary": "Jon Worth的地图将“Tower at the seaside”记录在乌克兰的Berehove (Crimea)。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-arzamas-tower-beside-a-large-road": {
+      "name": "阿尔扎马斯·大道旁铁塔（候选）",
+      "label": "阿尔扎马斯",
+      "city": "阿尔扎马斯",
+      "venue": "大道旁铁塔",
+      "summary": "Jon Worth的地图将“Tower beside a large road”记录在俄罗斯的阿尔扎马斯。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "za-parys-tower-between-the-street-and-shops": {
+      "name": "帕雷斯·街道与商铺之间的铁塔（候选）",
+      "label": "帕雷斯",
+      "city": "帕雷斯",
+      "venue": "街道与商铺之间的铁塔",
+      "summary": "Jon Worth的地图将“Tower between the street and shops”记录在南非的帕雷斯。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-poyans-tower-in-a-back-garden": {
+      "name": "普瓦扬·后花园铁塔（候选）",
+      "label": "普瓦扬",
+      "city": "普瓦扬",
+      "venue": "后花园铁塔",
+      "summary": "Jon Worth的地图将“Tower in a back garden”记录在法国的普瓦扬。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-abakan-tower-in-a-landscape-garden": {
+      "name": "阿巴坎·景观花园铁塔（候选）",
+      "label": "阿巴坎",
+      "city": "阿巴坎",
+      "venue": "景观花园铁塔",
+      "summary": "Jon Worth的地图将“Tower in a landscape garden”记录在俄罗斯的阿巴坎。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-chanverrie-tower-in-an-industrial-yard": {
+      "name": "尚韦里·工业园庭院铁塔（候选）",
+      "label": "尚韦里",
+      "city": "尚韦里",
+      "venue": "工业园庭院铁塔",
+      "summary": "Jon Worth的地图将“Tower in an industrial yard”记录在法国的尚韦里。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "za-parys-tower-in-arts-quarter": {
+      "name": "帕雷斯·艺术街区铁塔（候选）",
+      "label": "帕雷斯",
+      "city": "帕雷斯",
+      "venue": "艺术街区铁塔",
+      "summary": "Jon Worth的地图将“Tower in arts quarter”记录在南非的帕雷斯。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "br-ivaipora-tower-in-the-middle-of-a-boulevard": {
+      "name": "伊瓦伊波朗·林荫大道中央铁塔（候选）",
+      "label": "伊瓦伊波朗",
+      "city": "伊瓦伊波朗",
+      "venue": "林荫大道中央铁塔",
+      "summary": "Jon Worth的地图将“Tower in the middle of a boulevard”记录在巴西的伊瓦伊波朗。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-alchevsk-tower-on-stilts-in-park": {
+      "name": "阿尔切夫斯克·公园高脚铁塔（候选）",
+      "label": "阿尔切夫斯克",
+      "city": "阿尔切夫斯克",
+      "venue": "公园高脚铁塔",
+      "summary": "Jon Worth的地图将“Tower on stilts in park”记录在乌克兰的阿尔切夫斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-anglet-tower-on-the-roof-of-a-house": {
+      "name": "昂格莱·住宅屋顶铁塔（候选）",
+      "label": "昂格莱",
+      "city": "昂格莱",
+      "venue": "住宅屋顶铁塔",
+      "summary": "Jon Worth的地图将“Tower on the roof of a house”记录在法国的昂格莱。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ee-reigi-tower-pointing-to-the-bigger-tower-down-the-road": {
+      "name": "雷吉·大塔导引小铁塔（候选）",
+      "label": "雷吉",
+      "city": "雷吉",
+      "venue": "大塔导引小铁塔",
+      "summary": "Jon Worth的地图将“Tower pointing to the bigger tower down the road”记录在爱沙尼亚的雷吉。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "it-trescore-balneario-tower-suspended-over-a-sort-of-trench": {
+      "name": "Trescore Balneario·沟槽上方悬置铁塔（候选）",
+      "label": "Trescore Balneario",
+      "city": "Trescore Balneario",
+      "venue": "沟槽上方悬置铁塔",
+      "summary": "Jon Worth的地图将“Tower suspended over a sort of trench”记录在意大利的Trescore Balneario。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-ternopil-travel-agency": {
+      "name": "捷尔诺波尔·旅行社铁塔（候选）",
+      "label": "捷尔诺波尔",
+      "city": "捷尔诺波尔",
+      "venue": "旅行社铁塔",
+      "summary": "Jon Worth的地图将“travel agency”记录在乌克兰的捷尔诺波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kryvyi-rih-yuvileinyi-park": {
+      "name": "克里维里赫·Yuvileinyi park铁塔（候选）",
+      "label": "克里维里赫",
+      "city": "克里维里赫",
+      "venue": "Yuvileinyi park",
+      "summary": "Jon Worth的地图将“Yuvileinyi park”记录在乌克兰的克里维里赫。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-auchan-supermarket": {
+      "name": "基辅·'Auchan' supermarket铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "'Auchan' supermarket",
+      "summary": "Jon Worth的地图将“'Auchan' supermarket”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-zaporizhzhya-dejavu-cafe": {
+      "name": "扎波罗热·'Dejavu' cafe铁塔（候选）",
+      "label": "扎波罗热",
+      "city": "扎波罗热",
+      "venue": "'Dejavu' cafe",
+      "summary": "Jon Worth的地图将“'Dejavu' cafe”记录在乌克兰的扎波罗热。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-marganets-dnipro-club": {
+      "name": "马尔哈涅茨·'Dnipro' club铁塔（候选）",
+      "label": "马尔哈涅茨",
+      "city": "马尔哈涅茨",
+      "venue": "'Dnipro' club",
+      "summary": "Jon Worth的地图将“'Dnipro' club”记录在乌克兰的马尔哈涅茨。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-dream-town-shopping-mall": {
+      "name": "基辅·'Dream Town' shopping mall铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "'Dream Town' shopping mall",
+      "summary": "Jon Worth的地图将“'Dream Town' shopping mall”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-chornomorsk-modigliani-restaurant": {
+      "name": "切尔诺莫尔斯克·'Modigliani' restaurant铁塔（候选）",
+      "label": "切尔诺莫尔斯克",
+      "city": "切尔诺莫尔斯克",
+      "venue": "'Modigliani' restaurant",
+      "summary": "Jon Worth的地图将“'Modigliani' restaurant”记录在乌克兰的切尔诺莫尔斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-ocean-plaza-shopping-mall": {
+      "name": "基辅·'Ocean Plaza' shopping mall铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "'Ocean Plaza' shopping mall",
+      "summary": "Jon Worth的地图将“'Ocean Plaza' shopping mall”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-mariupol-paris-cafe": {
+      "name": "马里乌波尔·'Paris' cafe铁塔（候选）",
+      "label": "马里乌波尔",
+      "city": "马里乌波尔",
+      "venue": "'Paris' cafe",
+      "summary": "Jon Worth的地图将“'Paris' cafe”记录在乌克兰的马里乌波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-zviahel-start-shoe-store": {
+      "name": "兹维亚赫尔·'Start' shoe store铁塔（候选）",
+      "label": "兹维亚赫尔",
+      "city": "兹维亚赫尔",
+      "venue": "'Start' shoe store",
+      "summary": "Jon Worth的地图将“'Start' shoe store”记录在乌克兰的兹维亚赫尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-illintsi-varvara-restaurant": {
+      "name": "伊林齐·'Varvara' restaurant铁塔（候选）",
+      "label": "伊林齐",
+      "city": "伊林齐",
+      "venue": "'Varvara' restaurant",
+      "summary": "Jon Worth的地图将“'Varvara' restaurant”记录在乌克兰的伊林齐。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-nerubaika-zastava-hotel-and-restaurant": {
+      "name": "Nerubaika·'Zastava' hotel and restaurant铁塔（候选）",
+      "label": "Nerubaika",
+      "city": "Nerubaika",
+      "venue": "'Zastava' hotel and restaurant",
+      "summary": "Jon Worth的地图将“'Zastava' hotel and restaurant”记录在乌克兰的Nerubaika。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kamyanyi-mist-7th-sky-airport-restaurant": {
+      "name": "Kamyanyi mist·\"7th Sky Airport\" restaurant铁塔（候选）",
+      "label": "Kamyanyi mist",
+      "city": "Kamyanyi mist",
+      "venue": "\"7th Sky Airport\" restaurant",
+      "summary": "Jon Worth的地图将“\"7th Sky Airport\" restaurant”记录在乌克兰的Kamyanyi mist。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-vynnyky-a-cross-in-a-shape-of-an-eiffel-tower": {
+      "name": "温尼基·铁塔造型十字架（候选）",
+      "label": "温尼基",
+      "city": "温尼基",
+      "venue": "铁塔造型十字架",
+      "summary": "Jon Worth的地图将“a cross in a shape of an Eiffel Tower”记录在乌克兰的温尼基。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral": {
+      "name": "乌日霍罗德·希腊天主教堂旁铁塔（候选）",
+      "label": "乌日霍罗德",
+      "city": "乌日霍罗德",
+      "venue": "希腊天主教堂旁铁塔",
+      "summary": "Jon Worth的地图将“a tower near the greek catholic cathedral”记录在乌克兰的乌日霍罗德。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "vn-ansapa-village-ansapa-park": {
+      "name": "Ansapa Village·Ansapa Park铁塔（候选）",
+      "label": "Ansapa Village",
+      "city": "Ansapa Village",
+      "venue": "Ansapa Park",
+      "summary": "Jon Worth的地图将“Ansapa Park”记录在越南的Ansapa Village。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-poltava-arevik-flower-shop": {
+      "name": "波尔塔瓦·Arevik Flower Shop铁塔（候选）",
+      "label": "波尔塔瓦",
+      "city": "波尔塔瓦",
+      "venue": "Arevik Flower Shop",
+      "summary": "Jon Worth的地图将“Arevik Flower Shop”记录在乌克兰的波尔塔瓦。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "at-zwingendorf-back-garden-tower-built-by-twin-brothers": {
+      "name": "Zwingendorf·双胞胎兄弟制作的后院铁塔（候选）",
+      "label": "Zwingendorf",
+      "city": "Zwingendorf",
+      "venue": "双胞胎兄弟制作的后院铁塔",
+      "summary": "Jon Worth的地图将“Back garden tower built by twin brothers”记录在奥地利的Zwingendorf。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kostopil-back-yard-of-a-private-house": {
+      "name": "科斯托皮尔·私人住宅后院铁塔（候选）",
+      "label": "科斯托皮尔",
+      "city": "科斯托皮尔",
+      "venue": "私人住宅后院铁塔",
+      "summary": "Jon Worth的地图将“Back yard of a private house”记录在乌克兰的科斯托皮尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-rodynske-bank": {
+      "name": "罗丁斯克·银行铁塔（候选）",
+      "label": "罗丁斯克",
+      "city": "罗丁斯克",
+      "venue": "银行铁塔",
+      "summary": "Jon Worth的地图将“bank”记录在乌克兰的罗丁斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-odesa-cafe-closed": {
+      "name": "敖德萨·已关闭咖啡馆铁塔（候选）",
+      "label": "敖德萨",
+      "city": "敖德萨",
+      "venue": "已关闭咖啡馆铁塔",
+      "summary": "Jon Worth的地图将“cafe (closed)”记录在乌克兰的敖德萨。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "al-tirana-cafe-paris": {
+      "name": "地拉那·Café Paris铁塔（候选）",
+      "label": "地拉那",
+      "city": "地拉那",
+      "venue": "Café Paris",
+      "summary": "Jon Worth的地图将“Café Paris”记录在阿尔巴尼亚的地拉那。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-volnovakha-central-park-in-the-town": {
+      "name": "沃尔诺瓦哈·城镇中央公园铁塔（候选）",
+      "label": "沃尔诺瓦哈",
+      "city": "沃尔诺瓦哈",
+      "venue": "城镇中央公园铁塔",
+      "summary": "Jon Worth的地图将“Central park in the town”记录在乌克兰的沃尔诺瓦哈。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-nadezhdivka-centre-of-the-village-edge-of-a-small-park": {
+      "name": "Nadezhdivka·村中心公园边铁塔（候选）",
+      "label": "Nadezhdivka",
+      "city": "Nadezhdivka",
+      "venue": "村中心公园边铁塔",
+      "summary": "Jon Worth的地图将“Centre of the village, edge of a small park”记录在乌克兰的Nadezhdivka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-reshetylivka-city-center-park": {
+      "name": "雷舍蒂利夫卡·市中心公园铁塔（候选）",
+      "label": "雷舍蒂利夫卡",
+      "city": "雷舍蒂利夫卡",
+      "venue": "市中心公园铁塔",
+      "summary": "Jon Worth的地图将“City center park”记录在乌克兰的雷舍蒂利夫卡。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-ekaterinoslavka-edge-of-town": {
+      "name": "Ekaterinoslavka·城镇边缘铁塔（候选）",
+      "label": "Ekaterinoslavka",
+      "city": "Ekaterinoslavka",
+      "venue": "城镇边缘铁塔",
+      "summary": "Jon Worth的地图将“Edge of town”记录在俄罗斯的Ekaterinoslavka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-drohobych-eiffel-tower-in-city-center": {
+      "name": "德罗霍贝奇·市中心铁塔（候选）",
+      "label": "德罗霍贝奇",
+      "city": "德罗霍贝奇",
+      "venue": "市中心铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower in city center”记录在乌克兰的德罗霍贝奇。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-bilopillya-eiffel-tower-near-a-coffee-shop": {
+      "name": "比洛皮利亚·咖啡店旁铁塔（候选）",
+      "label": "比洛皮利亚",
+      "city": "比洛皮利亚",
+      "venue": "咖啡店旁铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower near a coffee shop”记录在乌克兰的比洛皮利亚。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-nizhyn-eiffel-tower-near-a-shop-at-a-bus-stop": {
+      "name": "尼任·公交站商店旁铁塔（候选）",
+      "label": "尼任",
+      "city": "尼任",
+      "venue": "公交站商店旁铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower near a shop at a bus stop”记录在乌克兰的尼任。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-smila-eiffel-tower-near-a-shopping-mall": {
+      "name": "斯米拉·购物中心旁铁塔（候选）",
+      "label": "斯米拉",
+      "city": "斯米拉",
+      "venue": "购物中心旁铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower near a shopping mall”记录在乌克兰的斯米拉。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-yahotyn-eiffel-tower-near-a-soviet-tank-monument": {
+      "name": "亚霍廷·坦克纪念碑旁铁塔（候选）",
+      "label": "亚霍廷",
+      "city": "亚霍廷",
+      "venue": "坦克纪念碑旁铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower near a Soviet tank monument”记录在乌克兰的亚霍廷。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-yahotyn-eiffel-tower-on-a-shop": {
+      "name": "亚霍廷·商店上方铁塔（候选）",
+      "label": "亚霍廷",
+      "city": "亚霍廷",
+      "venue": "商店上方铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower on a shop”记录在乌克兰的亚霍廷。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kyiv-eiffel-tower-on-the-entrance-to-a-residential-building": {
+      "name": "基辅·住宅楼入口铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "住宅楼入口铁塔",
+      "summary": "Jon Worth的地图将“Eiffel Tower on the entrance to a residential building”记录在乌克兰的基辅。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-dnipro-eiffel-tower-wind-farm-in-the-yard-of-a-private-house": {
+      "name": "第聂伯罗·私人庭院铁塔造型风机（候选）",
+      "label": "第聂伯罗",
+      "city": "第聂伯罗",
+      "venue": "私人庭院铁塔造型风机",
+      "summary": "Jon Worth的地图将“Eiffel Tower wind farm in the yard of a private house”记录在乌克兰的第聂伯罗。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-odesa-fontanka": {
+      "name": "敖德萨·Fontanka铁塔（候选）",
+      "label": "敖德萨",
+      "city": "敖德萨",
+      "venue": "Fontanka",
+      "summary": "Jon Worth的地图将“Fontanka”记录在乌克兰的敖德萨。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-hrushkivka-forestry": {
+      "name": "Hrushkivka·林业园区铁塔（候选）",
+      "label": "Hrushkivka",
+      "city": "Hrushkivka",
+      "venue": "林业园区铁塔",
+      "summary": "Jon Worth的地图将“forestry”记录在乌克兰的Hrushkivka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-volzhskiy-frantsuzskiy-bul-var": {
+      "name": "Volzhskiy·Frantsuzskiy Bul'var铁塔（候选）",
+      "label": "Volzhskiy",
+      "city": "Volzhskiy",
+      "venue": "Frantsuzskiy Bul'var",
+      "summary": "Jon Worth的地图将“Frantsuzskiy Bul'var”记录在俄罗斯的Volzhskiy。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-bila-tserkva-french-pastry-in-residential-area": {
+      "name": "白采尔科维·住宅区法式糕点店铁塔（候选）",
+      "label": "白采尔科维",
+      "city": "白采尔科维",
+      "venue": "住宅区法式糕点店铁塔",
+      "summary": "Jon Worth的地图将“French pastry in residential area”记录在乌克兰的白采尔科维。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-puscha-vodytsya-french-school": {
+      "name": "Puscha Vodytsya·法语学校铁塔（候选）",
+      "label": "Puscha Vodytsya",
+      "city": "Puscha Vodytsya",
+      "venue": "法语学校铁塔",
+      "summary": "Jon Worth的地图将“French school”记录在乌克兰的Puscha Vodytsya。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-rivne-haidamatska-str": {
+      "name": "里夫内·Haidamatska str铁塔（候选）",
+      "label": "里夫内",
+      "city": "里夫内",
+      "venue": "Haidamatska str",
+      "summary": "Jon Worth的地图将“Haidamatska str”记录在乌克兰的里夫内。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-sadove-hotel-butterfly": {
+      "name": "萨多韦·Hotel Butterfly铁塔（候选）",
+      "label": "萨多韦",
+      "city": "萨多韦",
+      "venue": "Hotel Butterfly",
+      "summary": "Jon Worth的地图将“Hotel Butterfly”记录在乌克兰的萨多韦。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "kr-chungju-si-hotel-the-base": {
+      "name": "忠州·Hotel the Base铁塔（候选）",
+      "label": "忠州",
+      "city": "忠州",
+      "venue": "Hotel the Base",
+      "summary": "Jon Worth的地图将“Hotel the Base”记录在韩国的忠州。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "sv-san-salvador-inti-tower": {
+      "name": "圣萨尔瓦多·INTI Tower铁塔（候选）",
+      "label": "圣萨尔瓦多",
+      "city": "圣萨尔瓦多",
+      "venue": "INTI Tower",
+      "summary": "Jon Worth的地图将“INTI Tower”记录在萨尔瓦多的圣萨尔瓦多。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-odesa-kobleska-37": {
+      "name": "敖德萨·Kobleska 37铁塔（候选）",
+      "label": "敖德萨",
+      "city": "敖德萨",
+      "venue": "Kobleska 37",
+      "summary": "Jon Worth的地图将“Kobleska 37”记录在乌克兰的敖德萨。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-skvyra-kyiv-restaurant-tower": {
+      "name": "斯克维拉·Kyiv Restaurant Tower铁塔（候选）",
+      "label": "斯克维拉",
+      "city": "斯克维拉",
+      "venue": "Kyiv Restaurant Tower",
+      "summary": "Jon Worth的地图将“Kyiv Restaurant Tower”记录在乌克兰的斯克维拉。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-bila-tserkva-leone": {
+      "name": "白采尔科维·Leone铁塔（候选）",
+      "label": "白采尔科维",
+      "city": "白采尔科维",
+      "venue": "Leone",
+      "summary": "Jon Worth的地图将“Leone”记录在乌克兰的白采尔科维。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-odesa-mini-golf-course-in-a-park": {
+      "name": "敖德萨·公园迷你高尔夫铁塔（候选）",
+      "label": "敖德萨",
+      "city": "敖德萨",
+      "venue": "公园迷你高尔夫铁塔",
+      "summary": "Jon Worth的地图将“Mini golf course in a park”记录在乌克兰的敖德萨。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-saint-georges-des-gardes-ndc-bar": {
+      "name": "Saint-Georges-des-Gardes·NDC Bar铁塔（候选）",
+      "label": "Saint-Georges-des-Gardes",
+      "city": "Saint-Georges-des-Gardes",
+      "venue": "NDC Bar",
+      "summary": "Jon Worth的地图将“NDC Bar”记录在法国的Saint-Georges-des-Gardes。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "de-monchengladbach-nightclub-tower": {
+      "name": "门兴格拉德巴赫·夜总会铁塔（候选）",
+      "label": "门兴格拉德巴赫",
+      "city": "门兴格拉德巴赫",
+      "venue": "夜总会铁塔",
+      "summary": "Jon Worth的地图将“Nightclub tower”记录在德国的门兴格拉德巴赫。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-nova-kakhovka-nova-kakhovka-higher-politechnic-school": {
+      "name": "新卡霍夫卡·Nova Kakhovka higher politechnic school铁塔（候选）",
+      "label": "新卡霍夫卡",
+      "city": "新卡霍夫卡",
+      "venue": "Nova Kakhovka higher politechnic school",
+      "summary": "Jon Worth的地图将“Nova Kakhovka higher politechnic school”记录在乌克兰的新卡霍夫卡。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "za-parys-old-ferry-house-restaurant": {
+      "name": "帕雷斯·Old Ferry House餐厅铁塔（候选）",
+      "label": "帕雷斯",
+      "city": "帕雷斯",
+      "venue": "Old Ferry House餐厅铁塔",
+      "summary": "Jon Worth的地图将“Old Ferry House Restaurant”记录在南非的帕雷斯。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-melitopol-on-the-roof-of-a-pharmacy": {
+      "name": "梅利托波尔·药店屋顶铁塔（候选）",
+      "label": "梅利托波尔",
+      "city": "梅利托波尔",
+      "venue": "药店屋顶铁塔",
+      "summary": "Jon Worth的地图将“On the roof of a pharmacy”记录在乌克兰的梅利托波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-ivanivka-odesa-oblast-ostrich-farm-tower": {
+      "name": "Ivanivka, Odesa Oblast·鸵鸟农场铁塔（候选）",
+      "label": "Ivanivka, Odesa Oblast",
+      "city": "Ivanivka, Odesa Oblast",
+      "venue": "鸵鸟农场铁塔",
+      "summary": "Jon Worth的地图将“Ostrich farm tower”记录在乌克兰的Ivanivka, Odesa Oblast。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-odesa-osypova-37": {
+      "name": "敖德萨·Osypova 37铁塔（候选）",
+      "label": "敖德萨",
+      "city": "敖德萨",
+      "venue": "Osypova 37",
+      "summary": "Jon Worth的地图将“Osypova 37”记录在乌克兰的敖德萨。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-zavodske-park-in-city-center": {
+      "name": "扎沃兹克·市中心公园铁塔（候选）",
+      "label": "扎沃兹克",
+      "city": "扎沃兹克",
+      "venue": "市中心公园铁塔",
+      "summary": "Jon Worth的地图将“park in city center”记录在乌克兰的扎沃兹克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-sarny-park-in-town-centre": {
+      "name": "萨尔内·城镇中心公园铁塔（候选）",
+      "label": "萨尔内",
+      "city": "萨尔内",
+      "venue": "城镇中心公园铁塔",
+      "summary": "Jon Worth的地图将“Park in town centre”记录在乌克兰的萨尔内。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-pomichna-park-near-railway-station": {
+      "name": "波米奇纳·火车站旁公园铁塔（候选）",
+      "label": "波米奇纳",
+      "city": "波米奇纳",
+      "venue": "火车站旁公园铁塔",
+      "summary": "Jon Worth的地图将“Park near railway station”记录在乌克兰的波米奇纳。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-olshanske-park-near-the-village-council": {
+      "name": "奥利尚斯克·村议会旁公园铁塔（候选）",
+      "label": "奥利尚斯克",
+      "city": "奥利尚斯克",
+      "venue": "村议会旁公园铁塔",
+      "summary": "Jon Worth的地图将“Park near the village council”记录在乌克兰的奥利尚斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach": {
+      "name": "Bohorodchans'kyi·Pilgrimage Center of Symeon Lukach铁塔（候选）",
+      "label": "Bohorodchans'kyi",
+      "city": "Bohorodchans'kyi",
+      "venue": "Pilgrimage Center of Symeon Lukach",
+      "summary": "Jon Worth的地图将“Pilgrimage Center of Symeon Lukach”记录在乌克兰的Bohorodchans'kyi。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-pisochyn-replica-at-a-sanitorium-resort": {
+      "name": "Pisochyn·疗养度假区复制塔铁塔（候选）",
+      "label": "Pisochyn",
+      "city": "Pisochyn",
+      "venue": "疗养度假区复制塔",
+      "summary": "Jon Worth的地图将“Replica at a sanitorium resort”记录在乌克兰的Pisochyn。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-nazran-replica-in-residential-area": {
+      "name": "纳兹兰·住宅区复制塔铁塔（候选）",
+      "label": "纳兹兰",
+      "city": "纳兹兰",
+      "venue": "住宅区复制塔",
+      "summary": "Jon Worth的地图将“Replica in residential area”记录在俄罗斯的纳兹兰。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "nz-coromandel-replica-inside-the-eyefull-tower": {
+      "name": "科罗曼德尔·Eyefull Tower内复制塔铁塔（候选）",
+      "label": "科罗曼德尔",
+      "city": "科罗曼德尔",
+      "venue": "Eyefull Tower内复制塔",
+      "summary": "Jon Worth的地图将“Replica inside the Eyefull Tower”记录在新西兰的科罗曼德尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kriukivschshyna-residential-complex-european-city": {
+      "name": "Kriukivschshyna·Residential complex European city铁塔（候选）",
+      "label": "Kriukivschshyna",
+      "city": "Kriukivschshyna",
+      "venue": "Residential complex European city",
+      "summary": "Jon Worth的地图将“Residential complex European city”记录在乌克兰的Kriukivschshyna。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-bantzenheim-roundabout-tower-route-de-mulhouse": {
+      "name": "邦岑海姆·米卢斯公路环岛铁塔（候选）",
+      "label": "邦岑海姆",
+      "city": "邦岑海姆",
+      "venue": "米卢斯公路环岛铁塔",
+      "summary": "Jon Worth的地图将“Roundabout tower Route de Mulhouse”记录在法国的邦岑海姆。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "in-pune-seven-wonders-dream-park": {
+      "name": "浦那·Seven Wonders Dream Park铁塔（候选）",
+      "label": "浦那",
+      "city": "浦那",
+      "venue": "Seven Wonders Dream Park",
+      "summary": "Jon Worth的地图将“Seven Wonders Dream Park”记录在印度的浦那。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-rivne-small-coffee-shop": {
+      "name": "里夫内·小咖啡店铁塔（候选）",
+      "label": "里夫内",
+      "city": "里夫内",
+      "venue": "小咖啡店铁塔",
+      "summary": "Jon Worth的地图将“small coffee shop”记录在乌克兰的里夫内。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-khmelnytskyi-so-called-monument-to-ukrainian-inferiority": {
+      "name": "赫梅利尼茨基·So called 'Monument to Ukrainian inferiority'铁塔（候选）",
+      "label": "赫梅利尼茨基",
+      "city": "赫梅利尼茨基",
+      "venue": "So called 'Monument to Ukrainian inferiority'",
+      "summary": "Jon Worth的地图将“So called 'Monument to Ukrainian inferiority'”记录在乌克兰的赫梅利尼茨基。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-korosten-spartak-stadium": {
+      "name": "Korosten·Spartak Stadium铁塔（候选）",
+      "label": "Korosten",
+      "city": "Korosten",
+      "venue": "Spartak Stadium",
+      "summary": "Jon Worth的地图将“Spartak Stadium”记录在乌克兰的Korosten。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ph-naic-torres-farm-and-resort": {
+      "name": "奈克·Torres农场度假区铁塔（候选）",
+      "label": "奈克",
+      "city": "奈克",
+      "venue": "Torres农场度假区铁塔",
+      "summary": "Jon Worth的地图将“Torres Farm and Resort”记录在菲律宾的奈克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ro-cincu-tower-at-a-farm": {
+      "name": "钦库·农场铁塔（候选）",
+      "label": "钦库",
+      "city": "钦库",
+      "venue": "农场铁塔",
+      "summary": "Jon Worth的地图将“Tower at a farm”记录在罗马尼亚的钦库。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-novodnistrovsk-tower-at-a-travel-agency": {
+      "name": "新德涅斯特罗夫斯克·旅行社铁塔（候选）",
+      "label": "新德涅斯特罗夫斯克",
+      "city": "新德涅斯特罗夫斯克",
+      "venue": "旅行社铁塔",
+      "summary": "Jon Worth的地图将“Tower at a travel agency”记录在乌克兰的新德涅斯特罗夫斯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-vesoul-tower-in-a-back-garden": {
+      "name": "沃苏勒·后花园铁塔（候选）",
+      "label": "沃苏勒",
+      "city": "沃苏勒",
+      "venue": "后花园铁塔",
+      "summary": "Jon Worth的地图将“Tower in a back garden”记录在法国的沃苏勒。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ar-carlos-paz-tower-in-a-pensioner-s-garden": {
+      "name": "卡洛斯帕斯·退休居民庭园铁塔（候选）",
+      "label": "卡洛斯帕斯",
+      "city": "卡洛斯帕斯",
+      "venue": "退休居民庭园铁塔",
+      "summary": "Jon Worth的地图将“Tower in a pensioner’s garden”记录在阿根廷的卡洛斯帕斯。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-montlouis-sur-loire-tower-in-chateau-gardens": {
+      "name": "卢瓦尔河畔蒙路易·城堡花园铁塔（候选）",
+      "label": "卢瓦尔河畔蒙路易",
+      "city": "卢瓦尔河畔蒙路易",
+      "venue": "城堡花园铁塔",
+      "summary": "Jon Worth的地图将“Tower in chateau gardens”记录在法国的卢瓦尔河畔蒙路易。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "at-st-polten-tower-on-a-small-road-beside-the-railway-line": {
+      "name": "圣珀尔滕·铁路旁小路铁塔（候选）",
+      "label": "圣珀尔滕",
+      "city": "圣珀尔滕",
+      "venue": "铁路旁小路铁塔",
+      "summary": "Jon Worth的地图将“Tower on a small road beside the railway line”记录在奥地利的圣珀尔滕。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "cz-benatky-nad-jizerou-toy-museum-tower": {
+      "name": "伊泽拉河畔贝纳特基·玩具博物馆铁塔（候选）",
+      "label": "伊泽拉河畔贝纳特基",
+      "city": "伊泽拉河畔贝纳特基",
+      "venue": "玩具博物馆铁塔",
+      "summary": "Jon Worth的地图将“Toy museum tower”记录在捷克的伊泽拉河畔贝纳特基。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "lb-jounieh-trocadero-lb": {
+      "name": "朱尼耶·Trocadéro LB铁塔（候选）",
+      "label": "朱尼耶",
+      "city": "朱尼耶",
+      "venue": "Trocadéro LB",
+      "summary": "Jon Worth的地图将“Trocadéro LB”记录在黎巴嫩的朱尼耶。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-vinnytsya-vinnytsya-cooperative-institute": {
+      "name": "文尼察·Vinnytsya cooperative institute铁塔（候选）",
+      "label": "文尼察",
+      "city": "文尼察",
+      "venue": "Vinnytsya cooperative institute",
+      "summary": "Jon Worth的地图将“Vinnytsya cooperative institute”记录在乌克兰的文尼察。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "kg-bishkek-vostok-5-microdistrict": {
+      "name": "比什凯克·Vostok-5 microdistrict铁塔（候选）",
+      "label": "比什凯克",
+      "city": "比什凯克",
+      "venue": "Vostok-5 microdistrict",
+      "summary": "Jon Worth的地图将“Vostok-5 microdistrict”记录在吉尔吉斯斯坦的比什凯克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-rivne-yard-of-a-residential-building": {
+      "name": "里夫内·住宅楼庭院铁塔（候选）",
+      "label": "里夫内",
+      "city": "里夫内",
+      "venue": "住宅楼庭院铁塔",
+      "summary": "Jon Worth的地图将“yard of a residential building”记录在乌克兰的里夫内。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-zhytomyr-zarichanske-forestry": {
+      "name": "日托米尔·Zarichanske forestry铁塔（候选）",
+      "label": "日托米尔",
+      "city": "日托米尔",
+      "venue": "Zarichanske forestry",
+      "summary": "Jon Worth的地图将“Zarichanske forestry”记录在乌克兰的日托米尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-koropovo-carnaval-resort-spa": {
+      "name": "科罗波沃·Гостиница Carnaval Resort & Spa铁塔（候选）",
+      "label": "科罗波沃",
+      "city": "科罗波沃",
+      "venue": "Гостиница Carnaval Resort & Spa",
+      "summary": "Jon Worth的地图将“Гостиница Carnaval Resort & Spa”记录在乌克兰的科罗波沃。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "my-langkawi-maha-tower": {
+      "name": "兰卡威·Maha Tower铁塔（相似建筑候选）",
+      "label": "兰卡威",
+      "city": "兰卡威",
+      "venue": "Maha Tower",
+      "summary": "Jon Worth的地图将“Maha Tower”记录在马来西亚的兰卡威。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "us-glendale-americana-at-brand": {
+      "name": "格伦代尔·Americana at Brand铁塔（相似建筑候选）",
+      "label": "格伦代尔",
+      "city": "格伦代尔",
+      "venue": "Americana at Brand",
+      "summary": "Jon Worth的地图将“Americana at Brand”记录在美国的格伦代尔。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "rs-belgrade-avalski-toranj": {
+      "name": "贝尔格莱德·Avalski toranj铁塔（相似建筑候选）",
+      "label": "贝尔格莱德",
+      "city": "贝尔格莱德",
+      "venue": "Avalski toranj",
+      "summary": "Jon Worth的地图将“Avalski toranj”记录在塞尔维亚的贝尔格莱德。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "tw-chiayi-clock-tower": {
+      "name": "嘉义·时钟塔（相似建筑候选）",
+      "label": "嘉义",
+      "city": "嘉义",
+      "venue": "时钟塔",
+      "summary": "Jon Worth的地图将“Clock tower”记录在台湾的嘉义。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "vn-ha-giang-communication-tower": {
+      "name": "河江·通信塔（相似建筑候选）",
+      "label": "河江",
+      "city": "河江",
+      "venue": "通信塔",
+      "summary": "Jon Worth的地图将“Communication tower”记录在越南的河江。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "es-alava-cruz-del-monte-gorbea": {
+      "name": "阿拉瓦·Cruz Del Monte Gorbea铁塔（相似建筑候选）",
+      "label": "阿拉瓦",
+      "city": "阿拉瓦",
+      "venue": "Cruz Del Monte Gorbea",
+      "summary": "Jon Worth的地图将“Cruz Del Monte Gorbea”记录在西班牙的阿拉瓦。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "gb-crystal-palace-london-crystal-palace-transmitting-station": {
+      "name": "Crystal Palace, London·水晶宫发射塔（相似建筑候选）",
+      "label": "Crystal Palace, London",
+      "city": "Crystal Palace, London",
+      "venue": "水晶宫发射塔",
+      "summary": "Jon Worth的地图将“Crystal Palace transmitting station”记录在英国的Crystal Palace, London。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-mulhouse-emetteur-du-belvedere": {
+      "name": "米卢斯·Émetteur du Belvédère铁塔（相似建筑候选）",
+      "label": "米卢斯",
+      "city": "米卢斯",
+      "venue": "Émetteur du Belvédère",
+      "summary": "Jon Worth的地图将“Émetteur du Belvédère”记录在法国的米卢斯。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "in-fazilka-fazilka-tv-tower": {
+      "name": "法齐尔卡·Fazilka TV Tower铁塔（相似建筑候选）",
+      "label": "法齐尔卡",
+      "city": "法齐尔卡",
+      "venue": "Fazilka TV Tower",
+      "summary": "Jon Worth的地图将“Fazilka TV Tower”记录在印度的法齐尔卡。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "pl-gliwice-gliwice-radio-tower": {
+      "name": "格利维采·Gliwice Radio Tower铁塔（相似建筑候选）",
+      "label": "格利维采",
+      "city": "格利维采",
+      "venue": "Gliwice Radio Tower",
+      "summary": "Jon Worth的地图将“Gliwice Radio Tower”记录在波兰的格利维采。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "de-lauchhammer-liegender-eiffelturm": {
+      "name": "劳赫哈默·Liegender Eiffelturm铁塔（相似建筑候选）",
+      "label": "劳赫哈默",
+      "city": "劳赫哈默",
+      "venue": "Liegender Eiffelturm",
+      "summary": "Jon Worth的地图将“Liegender Eiffelturm”记录在德国的劳赫哈默。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "lv-riga-rigas-radio-un-televizijas-tornis": {
+      "name": "里加·Rīgas radio un televīzijas tornis铁塔（相似建筑候选）",
+      "label": "里加",
+      "city": "里加",
+      "venue": "Rīgas radio un televīzijas tornis",
+      "summary": "Jon Worth的地图将“Rīgas radio un televīzijas tornis”记录在拉脱维亚的里加。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-st-petersburg-saint-petersburg-tv-tower": {
+      "name": "圣彼得堡·Saint Petersburg TV Tower铁塔（相似建筑候选）",
+      "label": "圣彼得堡",
+      "city": "圣彼得堡",
+      "venue": "Saint Petersburg TV Tower",
+      "summary": "Jon Worth的地图将“Saint Petersburg TV Tower”记录在俄罗斯的圣彼得堡。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "jp-sapporo-sapporo-television-tower": {
+      "name": "札幌·Sapporo Television Tower铁塔（相似建筑候选）",
+      "label": "札幌",
+      "city": "札幌",
+      "venue": "Sapporo Television Tower",
+      "summary": "Jon Worth的地图将“Sapporo Television Tower”记录在日本的札幌。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "gq-bata-torre-de-bata": {
+      "name": "巴塔·Torre de Bata铁塔（相似建筑候选）",
+      "label": "巴塔",
+      "city": "巴塔",
+      "venue": "Torre de Bata",
+      "summary": "Jon Worth的地图将“Torre de Bata”记录在赤道几内亚的巴塔。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "am-yerevan-yerevani-herustaashtarak": {
+      "name": "埃里温·Yerevani herustaashtarak铁塔（相似建筑候选）",
+      "label": "埃里温",
+      "city": "埃里温",
+      "venue": "Yerevani herustaashtarak",
+      "summary": "Jon Worth的地图将“Yerevani herustaashtarak”记录在亚美尼亚的埃里温。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-strilkivtsi-ozirna-cave": {
+      "name": "Strilkivtsi·'Ozirna' cave铁塔（候选）",
+      "label": "Strilkivtsi",
+      "city": "Strilkivtsi",
+      "venue": "'Ozirna' cave",
+      "summary": "Jon Worth的地图将“'Ozirna' cave”记录在乌克兰的Strilkivtsi。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-kamyanets-podilskyi-margaret-pizzeria": {
+      "name": "Kamyanets-Podilskyi·\"Margaret\" pizzeria铁塔（候选）",
+      "label": "Kamyanets-Podilskyi",
+      "city": "Kamyanets-Podilskyi",
+      "venue": "\"Margaret\" pizzeria",
+      "summary": "Jon Worth的地图将“\"Margaret\" pizzeria”记录在乌克兰的Kamyanets-Podilskyi。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "lb-broummana-chez-alain": {
+      "name": "Broummana·Chez Alain铁塔（候选）",
+      "label": "Broummana",
+      "city": "Broummana",
+      "venue": "Chez Alain",
+      "summary": "Jon Worth的地图将“Chez Alain”记录在黎巴嫩的Broummana。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ph-dipolog-city-dipolog": {
+      "name": "第波罗·Dipolog铁塔（候选）",
+      "label": "第波罗",
+      "city": "第波罗",
+      "venue": "Dipolog",
+      "summary": "Jon Worth的地图将“Dipolog”记录在菲律宾的第波罗。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-maryanivka-eiffel-tower-in-a-park": {
+      "name": "Maryanivka·Eiffel Tower in a park铁塔（候选）",
+      "label": "Maryanivka",
+      "city": "Maryanivka",
+      "venue": "Eiffel Tower in a park",
+      "summary": "Jon Worth的地图将“Eiffel Tower in a park”记录在乌克兰的Maryanivka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "in-kolkata-further-kolkata-tower": {
+      "name": "Kolkata·另一座加尔各答铁塔（候选）",
+      "label": "Kolkata",
+      "city": "Kolkata",
+      "venue": "另一座加尔各答铁塔",
+      "summary": "Jon Worth的地图将“Further Kolkata Tower”记录在印度的Kolkata。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "cn-shanghai-i-do-tower": {
+      "name": "上海·I Do Tower铁塔（候选）",
+      "label": "上海",
+      "city": "上海",
+      "venue": "I Do Tower",
+      "summary": "Jon Worth的地图将“I Do Tower”记录在中国的上海。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "cn-zhouzhou-large-tower-at-a-roundabout": {
+      "name": "Zhouzhou·环岛大型铁塔（候选）",
+      "label": "Zhouzhou",
+      "city": "Zhouzhou",
+      "venue": "环岛大型铁塔",
+      "summary": "Jon Worth的地图将“Large tower at a roundabout”记录在中国的Zhouzhou。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-hertsa-notary-office": {
+      "name": "Hertsa·Notary Office铁塔（候选）",
+      "label": "Hertsa",
+      "city": "Hertsa",
+      "venue": "Notary Office",
+      "summary": "Jon Worth的地图将“Notary Office”记录在乌克兰的Hertsa。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "cn-lishui-rapeseed-field-in-china": {
+      "name": "丽水·油菜花田铁塔（候选）",
+      "label": "丽水",
+      "city": "丽水",
+      "venue": "油菜花田铁塔",
+      "summary": "Jon Worth的地图将“Rapeseed field in China”记录在中国的丽水。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-saujon-record-breaking-tower-made-of-matches": {
+      "name": "索容·火柴制纪录铁塔（候选）",
+      "label": "索容",
+      "city": "索容",
+      "venue": "火柴制纪录铁塔",
+      "summary": "Jon Worth的地图将“Record breaking tower made of matches”记录在法国的索容。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "sa-madinah-replica-on-a-roof-top": {
+      "name": "麦地那·屋顶复制塔铁塔（候选）",
+      "label": "麦地那",
+      "city": "麦地那",
+      "venue": "屋顶复制塔",
+      "summary": "Jon Worth的地图将“Replica on a roof top”记录在沙特阿拉伯的麦地那。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "kg-aksy-tower-built-by-school-pupils": {
+      "name": "阿克瑟·学生制作铁塔（候选）",
+      "label": "阿克瑟",
+      "city": "阿克瑟",
+      "venue": "学生制作铁塔",
+      "summary": "Jon Worth的地图将“Tower built by school pupils”记录在吉尔吉斯斯坦的阿克瑟。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-severodonetsk-tower-in-the-yard-of-impuls-institute": {
+      "name": "北顿涅茨克·Impuls研究所庭院铁塔（候选）",
+      "label": "北顿涅茨克",
+      "city": "北顿涅茨克",
+      "venue": "Impuls研究所庭院铁塔",
+      "summary": "Jon Worth的地图将“Tower in the yard of Impuls Institute”记录在乌克兰的北顿涅茨克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-sevastopol-tower-near-a-cafe": {
+      "name": "塞瓦斯托波尔·咖啡馆附近铁塔（候选）",
+      "label": "塞瓦斯托波尔",
+      "city": "塞瓦斯托波尔",
+      "venue": "咖啡馆附近铁塔",
+      "summary": "Jon Worth的地图将“Tower near a cafe”记录在乌克兰的塞瓦斯托波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "cn-taiyuan-tower-on-police-station-roof": {
+      "name": "太原·警察局屋顶铁塔（候选）",
+      "label": "太原",
+      "city": "太原",
+      "venue": "警察局屋顶铁塔",
+      "summary": "Jon Worth的地图将“Tower on police station roof”记录在中国的太原。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ua-shatsk-yard-of-a-private-house": {
+      "name": "沙茨克·私人住宅庭院铁塔（候选）",
+      "label": "沙茨克",
+      "city": "沙茨克",
+      "venue": "私人住宅庭院铁塔",
+      "summary": "Jon Worth的地图将“Yard of a private house”记录在乌克兰的沙茨克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "us-boise-idaho-cafe-de-paris": {
+      "name": "Boise, Idaho·Cafe de Paris铁塔（候选）",
+      "label": "Boise, Idaho",
+      "city": "Boise, Idaho",
+      "venue": "Cafe de Paris",
+      "summary": "Jon Worth的地图将“Cafe de Paris”记录在美国的Boise, Idaho。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "br-manaus-centro-cultural-palacio-da-justica-do-amazonas": {
+      "name": "马瑙斯·Centro Cultural Palácio da Justiça do Amazonas铁塔（候选）",
+      "label": "马瑙斯",
+      "city": "马瑙斯",
+      "venue": "Centro Cultural Palácio da Justiça do Amazonas",
+      "summary": "Jon Worth的地图将“Centro Cultural Palácio da Justiça do Amazonas”记录在巴西的马瑙斯。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-paris-bassin-de-la-villette-eiffel-tower-rocket-sculpture": {
+      "name": "Paris, Bassin de la Villette·铁塔火箭雕塑（相似建筑候选）",
+      "label": "Paris, Bassin de la Villette",
+      "city": "Paris, Bassin de la Villette",
+      "venue": "铁塔火箭雕塑",
+      "summary": "Jon Worth的地图将“Eiffel Tower Rocket Sculpture”记录在法国的Paris, Bassin de la Villette。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "us-mount-clemens-michigan-harper-metro-mini-golf": {
+      "name": "Mount Clemens, Michigan·Harper Metro Mini Golf铁塔（候选）",
+      "label": "Mount Clemens, Michigan",
+      "city": "Mount Clemens, Michigan",
+      "venue": "Harper Metro Mini Golf",
+      "summary": "Jon Worth的地图将“Harper Metro Mini Golf”记录在美国的Mount Clemens, Michigan。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "us-kings-island-topiary-kings-island-topiary-tower": {
+      "name": "Kings Island (Topiary)·国王岛绿植造型铁塔（候选）",
+      "label": "Kings Island (Topiary)",
+      "city": "Kings Island (Topiary)",
+      "venue": "国王岛绿植造型铁塔",
+      "summary": "Jon Worth的地图将“Kings Island topiary tower”记录在美国的Kings Island (Topiary)。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "se-vanersborg-lilla-paris": {
+      "name": "维纳什堡·Lilla Paris铁塔（候选）",
+      "label": "维纳什堡",
+      "city": "维纳什堡",
+      "venue": "Lilla Paris",
+      "summary": "Jon Worth的地图将“Lilla Paris”记录在瑞典的维纳什堡。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "cz-most-mostecke-jezero-olympic-tower": {
+      "name": "莫斯特·Mostecké jezero – Olympic tower铁塔（候选）",
+      "label": "莫斯特",
+      "city": "莫斯特",
+      "venue": "Mostecké jezero – Olympic tower",
+      "summary": "Jon Worth的地图将“Mostecké jezero – Olympic tower”记录在捷克的莫斯特。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "nz-dunedin-new-zealand-and-south-seas-exhibition-1889": {
+      "name": "达尼丁·New Zealand and South Seas Exhibition (1889)铁塔（相似建筑候选）",
+      "label": "达尼丁",
+      "city": "达尼丁",
+      "venue": "New Zealand and South Seas Exhibition (1889)",
+      "summary": "Jon Worth的地图将“New Zealand and South Seas Exhibition (1889)”记录在新西兰的达尼丁。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "in-parle-point-parle-point-surat": {
+      "name": "Parle Point·Parle Point Surat铁塔（候选）",
+      "label": "Parle Point",
+      "city": "Parle Point",
+      "venue": "Parle Point Surat",
+      "summary": "Jon Worth的地图将“Parle Point Surat”记录在印度的Parle Point。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-waldighoffen-tall-wooden-tower-at-an-exhibition": {
+      "name": "瓦尔迪戈芬·展览木制高塔（候选）",
+      "label": "瓦尔迪戈芬",
+      "city": "瓦尔迪戈芬",
+      "venue": "展览木制高塔",
+      "summary": "Jon Worth的地图将“Tall wooden tower at an exhibition”记录在法国的瓦尔迪戈芬。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "gb-chertsey-thorpe-park": {
+      "name": "彻特西·Thorpe Park铁塔（候选）",
+      "label": "彻特西",
+      "city": "彻特西",
+      "venue": "Thorpe Park",
+      "summary": "Jon Worth的地图将“Thorpe Park”记录在英国的彻特西。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "cu-cienfuegos-torre-eiffel-de-cienfuegos": {
+      "name": "西恩富戈斯·Torre Eiffel de Cienfuegos铁塔（候选）",
+      "label": "西恩富戈斯",
+      "city": "西恩富戈斯",
+      "venue": "Torre Eiffel de Cienfuegos",
+      "summary": "Jon Worth的地图将“Torre Eiffel de Cienfuegos”记录在古巴的西恩富戈斯。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-samara-tower-at-a-road-junction": {
+      "name": "萨马拉·路口铁塔（候选）",
+      "label": "萨马拉",
+      "city": "萨马拉",
+      "venue": "路口铁塔",
+      "summary": "Jon Worth的地图将“Tower at a road junction”记录在俄罗斯的萨马拉。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "name": "Taylor, Michigan·Vinson’s Miniature Golf铁塔（候选）",
+      "label": "Taylor, Michigan",
+      "city": "Taylor, Michigan",
+      "venue": "Vinson’s Miniature Golf",
+      "summary": "Jon Worth的地图将“Vinson’s Miniature Golf”记录在美国的Taylor, Michigan。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "dk-slagelse-wooden-tower-at-an-exhibition": {
+      "name": "斯拉厄尔瑟·展览木制铁塔（相似建筑候选）",
+      "label": "斯拉厄尔瑟",
+      "city": "斯拉厄尔瑟",
+      "venue": "展览木制铁塔",
+      "summary": "Jon Worth的地图将“Wooden tower at an exhibition”记录在丹麦的斯拉厄尔瑟。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ad-andorra-tower-at-a-restaurant": {
+      "name": "西班牙安道拉咖啡馆露台铁塔（候选）",
+      "label": "安道拉（阿拉贡）",
+      "city": "安道拉（阿拉贡）",
+      "venue": "咖啡馆露台",
+      "summary": "这条复制塔线索位于西班牙阿拉贡的安道拉，而不是安道尔公国。原表点位与新版地图指向同一处；塔的现状、尺寸和具体场所仍待核对。",
+      "currentUses": []
+    },
+    "cz-police-nad-metuji-tower-beside-a-toy-store": {
+      "name": "Police nad Metují户外Merkur铁塔（历史待核）",
+      "label": "Police Merkur",
+      "city": "Police nad Metují",
+      "venue": "原户外Merkur雕塑",
+      "summary": "2015年的骑行游记记录了Police nad Metují这座户外Merkur拼装铁塔，新版清单则称它已在2019—2023年间移除。市政府资料和2026年到访记录介绍的是博物馆室内模型，不能据此确认这座户外塔仍在原址。历史照片与简化模型保留，地球位置暂时撤下。",
+      "currentUses": []
+    }
+  }
+}

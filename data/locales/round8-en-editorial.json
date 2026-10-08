@@ -1,0 +1,99 @@
+{
+  "towers": {
+    "in-gondia-mini-eiffel-tower": {
+      "label": "Gondia Happy Street",
+      "name": "Eiffel replica at Happy Street, Gondia",
+      "summary": "The miniature in Gondia belongs to the Happy Street commercial setting. The site photograph’s author caption identifies Domino’s Pizza, and an official food-business address records Happy Street, Eiffel Tower and Ring Road. It is a landmark for the dining premises. Its maker, construction date and height remain unconfirmed.",
+      "currentUses": [
+        "Dining-premises landmark"
+      ]
+    },
+    "lt-mazeikiai-copy": {
+      "label": "Mažeikiai Žemaitijos",
+      "name": "Eiffel sculpture on Žemaitijos Street, Mažeikiai",
+      "summary": "The replica beside the shopping area at Žemaitijos Street 72 in Mažeikiai is listed as a city sculpture. In a first-person account, writer Lina Simutytė recalls the tower near the large Norfa store and taking a photograph that could resemble a holiday in Paris. It is a commercial streetscape and photo landmark. Maker and installation year remain unconfirmed.",
+      "currentUses": [
+        "Shopping-area sculpture",
+        "Photo landmark"
+      ]
+    },
+    "jp-kanzaki-saga-tower-in-fields-in-the-country": {
+      "label": "Kanzaki Baba Body",
+      "name": "Kenji Baba’s Eiffel replica, Kanzaki",
+      "summary": "Kenji Baba first saw the Paris tower while studying car technology in Germany. Inspired by its design, he returned for seven days of observation, drew plans and worked after factory hours for seven and a half years. A 2026 RKB field interview describes the main tower as about 23 metres and welcomes visitors for photographs. Completion year and the height endpoint remain unconfirmed.",
+      "currentUses": [
+        "Private craftsmanship display",
+        "Photography visits"
+      ]
+    },
+    "br-rio-claro-copy": {
+      "label": "Rio Claro Lago Azul",
+      "name": "Eiffel replica in Lago Azul Park, Rio Claro",
+      "summary": "Rio Claro’s replica was made for the French theme of the 2009 Festa das Nações and later moved into Lago Azul municipal park. The city recorded it inside the park in 2020 and used blue/yellow lighting with the lion monument for a public awareness event in 2025. It is a park photo landmark and a setting for civic activities. Maker, precise dimensions and materials remain unconfirmed.",
+      "currentUses": [
+        "Public park landmark",
+        "Photo landmark",
+        "Public awareness lighting"
+      ]
+    },
+    "ua-vinnytsia-copy": {
+      "label": "Vinnytsia Kyivska Street",
+      "name": "Eiffel replica at Kyivska and Striletska, Vinnytsia",
+      "summary": "The replica at the Kyivska/Striletska junction is a water-feature landmark of the commercial forecourt beside the Komfort residential complex. Municipal VITA television recorded construction in September 2020, and a 2021 report announced assembly completion. Workers described a concrete water basin and nearly 22 metres of height, echoed by the later report; the earlier 20-metre plan is retained. Maker and current visitor arrangements remain unconfirmed.",
+      "currentUses": [
+        "Commercial forecourt landmark",
+        "Photo landmark"
+      ]
+    },
+    "dk-billund-legoland-billund": {
+      "label": "Billund Miniland",
+      "name": "Eiffel brick model in LEGOLAND Billund Miniland",
+      "summary": "LEGOLAND Billund uses brick-built models to create a walk-through miniature city. A 2017 invited media report identifies an Eiffel model in the world-tall-buildings display area, and a specific 2023 site photograph has been inspected. It is an architectural exhibit within the park. Manufacture year, brick count and concealed supports remain unconfirmed; dimensions are not inferred from the other models’ scales.",
+      "currentUses": [
+        "Brick-built architecture exhibition",
+        "Theme park sightseeing"
+      ]
+    },
+    "cz-police-nad-metuji-tower-beside-a-toy-store": {
+      "label": "Police Merkur statue",
+      "name": "Outdoor Merkur Eiffel statue, Police nad Metují",
+      "summary": "A field account by the Tinplate Times author identifies the outdoor replica in Police nad Metují as a Merkur Eiffel statue welcoming visitors. A cycling diary’s site photograph has also been inspected and shows the perforated-plate form. It brings the town’s metal-construction-kit tradition into the streetscape. The brand began in 1920; the tower’s own maker and installation date remain unknown.",
+      "currentUses": [
+        "Town welcome landmark",
+        "Construction-kit themed display"
+      ]
+    },
+    "es-tacoronte-tower-in-an-abandoned-restaurant-car-park": {
+      "label": "Tacoronte DORADA",
+      "name": "Eiffel replica by the former DORADA restaurant, Tacoronte",
+      "summary": "The slender replica in Tacoronte stands beside the former DORADA restaurant’s parking area. An inspected map screenshot shows the DORADA sign, tower and street context. It is historical map imagery with an unknown capture date. Restaurant operation, maker, construction year and the tower’s current presence need newer site or owner evidence.",
+      "currentUses": []
+    },
+    "fr-ares-tower-at-an-antiques-shop": {
+      "label": "Arès Chez Garden",
+      "name": "Wooden Eiffel replica at Chez Garden, Arès",
+      "summary": "Chez Garden used a wooden Eiffel tower as an eye-catching antiques-shop feature. A travel guide describes it with baskets, chairs and fishing objects. The specific Google Maps place photograph has now been inspected, showing the feet, platforms and shop wall with the tip cropped. Maps marks the shop permanently closed, while the guide still lists it; this does not prove removal of the tower. Current placement remains unconfirmed.",
+      "currentUses": [
+        "Historical antiques-shop display"
+      ]
+    },
+    "ru-zvenigovo-eiffel-tower": {
+      "label": "Zvenigovo centre",
+      "name": "Eiffel replica in central Zvenigovo",
+      "summary": "The small replica on the main street in central Zvenigovo has now been matched to a specific site photograph from the named Google Maps place. It stands on concrete plinths as an outdoor feature, with dark latticework and two platforms preserving the Eiffel silhouette. It is a local streetscape landmark. The July 2021 photo label does not establish present maintenance; maker, construction year and measured height remain unconfirmed.",
+      "currentUses": [
+        "Outdoor streetscape feature"
+      ]
+    },
+    "us-fayetteville-north-carolina-bordeaux-tower": {
+      "label": "Fayetteville Bordeaux Center",
+      "name": "Bordeaux Tower, Fayetteville",
+      "summary": "The lighting project account attributes the tower idea to developer John Sandrock after a resident suggested a French symbol for the Bordeaux district. The tower was installed in 1971, seven years after the shopping centre began. A 2022 RGBW project supports architectural white light in ordinary operation and colour for celebrations. Conflicting height claims remain without a unified measurement endpoint.",
+      "currentUses": [
+        "Commercial-centre landmark",
+        "Celebration lighting"
+      ]
+    }
+  },
+  "routes": {}
+}

@@ -1,0 +1,964 @@
+{
+  "towers": {
+    "es-la-jonquera-tower-in-a-shopping-centre": {
+      "name": "拉洪克拉购物中心铁塔",
+      "summary": "蓝灰色四腿铁塔，低处弧形拱与两层宽方平台。密集交叉格构长上轴，深色小顶舱与细针。"
+    },
+    "fr-breil-small-tower-on-the-edge-of-a-village": {
+      "name": "布雷伊村边铁塔",
+      "summary": "锈褐色直线外张四腿，保留无装饰拱的开敞底部。两层薄平台、细长上轴与开放圆笼顶。"
+    },
+    "us-milwaukee-msoe-eiffel-tower": {
+      "name": "密尔沃基巴士底日活动与大教堂广场公园铁塔",
+      "summary": "金褐色节庆铁塔，方块足座与宽大拱形基部。第二层上方保留红色标牌，细长格构与小顶棚。"
+    },
+    "cz-benatky-nad-jizerou-toy-museum-tower": {
+      "name": "伊泽拉河畔贝纳特基·玩具博物馆铁塔",
+      "summary": "红色拼装条带铁塔，蓝色平台边框与低层弧形开口。细长红色塔身，上部蓝边开放笼顶。"
+    },
+    "ua-smila-eiffel-tower-near-a-shopping-mall": {
+      "name": "斯米拉·购物中心旁铁塔",
+      "summary": "炭黑色开放格构，宽拱形基部与方平台。塔身保留纵排金色 PARIS 与第二层金色箭头。"
+    },
+    "ua-poltava-arevik-flower-shop": {
+      "name": "波尔塔瓦·Arevik Flower Shop铁塔",
+      "summary": "黄铜色四腿格构，两层薄方平台与宽底拱。塔顶保留圆形黄色 24 招牌。"
+    },
+    "ua-kyiv-near-darytsia-metro": {
+      "name": "基辅达尔尼察地铁站附近铁塔",
+      "summary": "黑色开放细杆架，宽下拱和两层方边平台。上轴近直立，塔顶是较大的开放方笼。"
+    },
+    "ca-toronto-lantern-festival": {
+      "name": "多伦多2008年中国灯会铁塔",
+      "summary": "灯会的宽拱四腿轮廓，长上轴与小圆笼顶。以照片紫白灯光表现夜间形态。"
+    },
+    "cl-santiago-guinguette": {
+      "name": "圣地亚哥2023年露天酒馆节铁塔",
+      "summary": "浅金色活动铁塔，开敞下部与两层厚边方平台。直线收分格构与带小檐的尖顶。"
+    },
+    "cu-caibarien-roadside-tower": {
+      "name": "凯巴连路旁铁塔",
+      "summary": "浅色稀疏杆架，细直塔腿与开敞平台框。上段收成狭窄平口，不补巴黎式顶舱。"
+    },
+    "de-gunzburg-legoland-germany": {
+      "name": "Günzburg·德国乐高乐园铁塔",
+      "summary": "灰色积木铁塔，粗颗粒格构、层叠平台与浅色足块。圆润下拱及多层塔冠。"
+    },
+    "fr-prisse-tower-in-the-grounds-of-a-store-called-fermob": {
+      "name": "普里塞费尔莫布商店场地铁塔",
+      "summary": "深红色庭园铁塔，弯曲外张四腿与两层平台。细密上轴和小开放圆冠。"
+    },
+    "fr-soussans-tower-at-an-aluminium-company": {
+      "name": "苏桑铝业公司铁塔",
+      "summary": "保留车顶以上可核实的金色上部塔段。窄方平台、细长收分上轴与小尖顶。"
+    },
+    "it-cascina-tower-at-a-roundabout": {
+      "name": "卡希纳环岛铁塔",
+      "summary": "银灰色稀疏直梁铁塔，薄平台与开放下部。塔尖保留红色双翼飞机。"
+    },
+    "it-vallesaccarda-piazzetta-buhl": {
+      "name": "瓦莱萨卡尔达比尔小广场铁塔",
+      "summary": "银白色双平台铁塔，塔冠是饱满的开放球笼。仅保留花盆花沿以上可见结构。"
+    },
+    "se-jorna-wooden-tower-beside-a-road-junction": {
+      "name": "约尔纳道路交叉口旁木塔",
+      "summary": "粗木梁外张四腿、宽裙板和高栏杆平台。短中段与近直立长上轴，保留可见顶檐。"
+    },
+    "id-madiun-pahlawan-street-center": {
+      "name": "茉莉芬英雄街中心铁塔",
+      "summary": "金色宽拱铁塔，大平台栏杆与直线格构腿。塔尖小型圆篮笼，保留当地宽阔比例。"
+    },
+    "fr-bantzenheim-roundabout-tower-route-de-mulhouse": {
+      "name": "邦岑海姆·米卢斯公路环岛铁塔",
+      "summary": "红褐色细杆格构，直腿、细下拱及两层栏杆平台。方形顶台上方开放圆笼与长针。"
+    },
+    "al-tirana-cafe-paris": {
+      "name": "地拉那·Café Paris铁塔",
+      "summary": "炭黑色室内装饰塔，直线长腿与梯形横档。宽方形下框和带孔小顶箱，仅显示无遮挡塔段。"
+    },
+    "cn-lishui-rapeseed-field-in-china": {
+      "name": "丽水·油菜花田铁塔",
+      "summary": "油菜花上方的灰褐色下塔段，宽平台与直梁中段。完整塔尖未见，模型止于照片上缘。"
+    },
+    "fr-chanverrie-tower-in-an-industrial-yard": {
+      "name": "尚韦里·工业园庭院铁塔",
+      "summary": "工业院落铁塔，塔尖保留夜景原图可见的蓝色小立方标识。"
+    },
+    "fr-le-touquet-sandcastle": {
+      "name": "勒图凯巴黎普拉日百年广场铁塔",
+      "summary": "沙堡造型的实体艺术品，宽下拱、厚平台和实心上轴。保留沙色厚重体块，材料不由照片推断。"
+    },
+    "fr-saint-hilaire-en-woevre-meuse-graveyard-part-tower": {
+      "name": "圣伊莱尔昂沃埃夫尔公墓塔段",
+      "summary": "墓园现存截断石塔：宽下拱、装饰横带与平截上端。只表达照片中的残存塔体，不补缺失塔尖。"
+    },
+    "gr-athens-king-s-theatre": {
+      "name": "雅典国王剧院铁塔",
+      "summary": "剧院屋顶上方的银灰色上塔段。保留小平台与尖细格构，不补地面四腿。"
+    },
+    "in-kolkata-further-kolkata-tower": {
+      "name": "Kolkata·另一座加尔各答铁塔",
+      "summary": "节庆灯架式高拱铁塔，四腿跨出巨大开口。短中层和尖细灯光上轴。"
+    },
+    "my-genting-highlands-skytropolis-first-world-plaza": {
+      "name": "云顶高原第一世界广场铁塔",
+      "summary": "红色室内铁塔，宽厚平台牌边与装饰下拱。长直上轴与红色方顶，只保留入镜塔段。"
+    },
+    "ps-ramallah-tower-at-a-sweet-shop": {
+      "name": "拉马拉·甜品店铁塔",
+      "summary": "金色店面招牌塔，宽而扁的展开塔脚与稀疏格构。长窄上轴搭配放大的开放方笼顶。"
+    },
+    "us-carlsbad-legoland-california": {
+      "name": "Carlsbad·加利福尼亚乐高乐园铁塔",
+      "summary": "浅灰色积木铁塔，双拱、平台花格与长直上轴。可见塔冠保留，画外针尖不补齐。"
+    },
+    "ua-kotelva-tower-at-kalyna-restaurant": {
+      "name": "科特尔瓦·Tower at Kalyna Restaurant铁塔",
+      "summary": "金色纤细庭院塔，低平台和狭长上轴。四只分离小脚与开敞底拱。"
+    },
+    "ua-kyiv-kyiv-national-university-of-trade-and-economics": {
+      "name": "基辅·Kyiv National University of Trade and Economics铁塔",
+      "summary": "褐色校园铁塔，低拱、双平台和密集细格构。顶部放大的开放笼冠与长杆。"
+    },
+    "ua-kyiv-tower-in-front-of-tres-fransais-restaurant": {
+      "name": "基辅很法国餐厅门前铁塔",
+      "summary": "餐厅门边的细线铁塔，低弧拱和轻薄平台。保留疏松杆件，攀藤另由环境表达。"
+    },
+    "ua-lviv-beauty-salon-l-etoile": {
+      "name": "利沃夫·Beauty salon L'Etoile铁塔",
+      "summary": "美容店前的小型金色格构塔，窄长上轴。中层保留深色招牌片，顶部小圆笼与长针。"
+    },
+    "ua-lviv-tower-outside-a-creperie": {
+      "name": "利沃夫可丽饼店外铁塔",
+      "summary": "可丽饼店金色小塔，双薄平台与细密上轴。顶部小方笼、棕色尖顶和细杆。"
+    },
+    "ua-mankivka-central-park-tower": {
+      "name": "曼基夫卡·中央公园铁塔",
+      "summary": "灰色稀疏杆架塔，宽底与细长开放矩形上轴。顶端大方框接尖形支架和长针。"
+    },
+    "ua-myrhorod-paris-dakar-bar": {
+      "name": "米尔霍罗德·Paris Dakar Bar铁塔",
+      "summary": "银灰色粗斜撑酒吧塔，宽弧拱与竖栏平台。长上轴搭配多层开放方笼。"
+    },
+    "ua-nadezhdivka-centre-of-the-village-edge-of-a-small-park": {
+      "name": "Nadezhdivka·村中心公园边铁塔",
+      "summary": "深色花园塔，宽平台、弧形塔脚与细密长轴。尖锐的细长顶针突出轮廓。"
+    },
+    "ua-nizhyn-eiffel-tower-near-a-shop-at-a-bus-stop": {
+      "name": "尼任·公交站商店旁铁塔",
+      "summary": "深褐色候车点铁塔，宽底拱与双栏杆平台。细密上轴渐收至小三角开放顶。"
+    },
+    "ua-nova-kakhovka-nova-kakhovka-higher-politechnic-school": {
+      "name": "新卡霍夫卡·Nova Kakhovka higher politechnic school铁塔",
+      "summary": "银灰色疏格构校园塔，细下拱和直线斜腿。宽开间上轴、开放方冠与短尖端。"
+    },
+    "ua-novoselivka-tower-in-a-play-park": {
+      "name": "新塞利夫卡儿童游乐园铁塔",
+      "summary": "粉棕色游园塔，宽下拱与两层花格平台。整齐交叉上轴，浅棕小屋顶和长细杆。"
+    },
+    "ua-odesa-fontanka": {
+      "name": "敖德萨·Fontanka铁塔",
+      "summary": "深灰色纤细多层塔，宽底拱与多个窄横框。长直上轴和双层开放方冠。"
+    },
+    "ua-odesa-osypova-37": {
+      "name": "敖德萨·Osypova 37铁塔",
+      "summary": "庭院银灰色细线塔，四只开敞脚与两层薄框。藤蔓遮住的塔尖不建，只保留可见下中段。"
+    },
+    "ua-olshanske-park-near-the-village-council": {
+      "name": "奥利尚斯克·村议会旁公园铁塔",
+      "summary": "锈红色公园塔，宽直腿、厚拱边和开放平台。稀疏长上轴止于无长针的方盒顶。"
+    },
+    "ua-pereyaslav-khmelnytsky-wedding-gift-tower": {
+      "name": "佩列亚斯拉夫婚礼赠塔",
+      "summary": "深色婚礼庭院塔，低拱、宽栏杆平台与细格构。顶部交叉圆环和高细针。"
+    },
+    "ua-pisochyn-replica-at-a-sanitorium-resort": {
+      "name": "Pisochyn·疗养度假区复制塔铁塔",
+      "summary": "褐色度假庭院塔，短塔脚和两层细密平台。长直细格构上轴，顶部平整小帽。"
+    },
+    "ua-pomichna-park-near-railway-station": {
+      "name": "波米奇纳·火车站旁公园铁塔",
+      "summary": "棕色宽底公园塔，长弧拱和粗直斜撑。两层薄边平台，收分上轴与小方顶。"
+    },
+    "ua-puscha-vodytsya-french-school": {
+      "name": "Puscha Vodytsya·法语学校铁塔",
+      "summary": "浅蓝、黄与少量红色杆件组成的细长学校塔。疏格构、细平台框和没有顶舱的平口。"
+    },
+    "ua-reshetylivka-city-center-park": {
+      "name": "雷舍蒂利夫卡·市中心公园铁塔",
+      "summary": "白色细杆公园塔，双薄框与宽下拱。顶部开放球环和直杆。"
+    },
+    "ua-rivne-haidamatska-str": {
+      "name": "里夫内·Haidamatska str铁塔",
+      "summary": "埃菲尔轮廓咖啡售货亭，深棕实体下部和金色斜纹。中央机器面板与浅色开放上架。"
+    },
+    "ua-sadove-hotel-butterfly": {
+      "name": "萨多韦·Hotel Butterfly铁塔",
+      "summary": "四根白色弯杆构成的极简花园塔。只有双横框、顶部小球灯和底部大球灯。"
+    },
+    "ua-sarny-park-in-town-centre": {
+      "name": "萨尔内·城镇中心公园铁塔",
+      "summary": "深色小塔，细密格构与两层平边平台。塔顶开放拱冠，保留四脚和宽底弧。"
+    },
+    "ua-skvyra-kyiv-restaurant-tower": {
+      "name": "斯克维拉·Kyiv Restaurant Tower铁塔",
+      "summary": "浅铜色餐厅塔，极细方网格与展开下脚。宽方栏杆平台和细小尖顶。"
+    },
+    "ua-sumy-tower-outside-a-shop-in-a-side-street": {
+      "name": "苏梅小街商店外铁塔",
+      "summary": "深棕色街边小塔，短而宽的拱腿与低矮比例。宽首层平台、密格构和小方顶。"
+    },
+    "ua-vinnytsya-tower-in-a-zoo-park": {
+      "name": "文尼察动物园铁塔",
+      "summary": "银灰色镂花板塔，宽花纹裙带与实体边框。长穿孔上轴和特别高的细尖顶。"
+    },
+    "ua-vinnytsya-vinnytsya-cooperative-institute": {
+      "name": "文尼察·Vinnytsya cooperative institute铁塔",
+      "summary": "铜棕色装饰塔，宽下拱与双层花边平台。开敞中段、长上轴和浅色小尖顶。"
+    },
+    "ua-zavodske-park-in-city-center": {
+      "name": "扎沃兹克·市中心公园铁塔",
+      "summary": "银蓝色公园铁塔，粗斜撑和明显白色足座。长格构上轴搭配方形开孔顶箱。"
+    },
+    "ua-zhytomyr-polytechnic-state-university": {
+      "name": "日托米尔国立理工大学铁塔",
+      "summary": "深灰色镂花板校园塔，宽花纹裙带和白色斜纹塔腿。保留照片中的下部、中段和截断上轴。"
+    },
+    "ua-zviahel-start-shoe-store": {
+      "name": "兹维亚赫尔·'Start' shoe store铁塔",
+      "summary": "鞋店前的细长灰塔，宽底拱与两层窄平台。细格构渐收，顶部小笼冠。"
+    },
+    "br-manaus-centro-cultural-palacio-da-justica-do-amazonas": {
+      "name": "马瑙斯·Centro Cultural Palácio da Justiça do Amazonas铁塔",
+      "summary": "历史照片中的细格构上塔段与开放小塔冠。"
+    },
+    "cn-zhouzhou-large-tower-at-a-roundabout": {
+      "name": "Zhouzhou·环岛大型铁塔",
+      "summary": "涿州照片可见的宽下拱、厚平台与下中塔段。"
+    },
+    "de-monchengladbach-nightclub-tower": {
+      "name": "门兴格拉德巴赫·夜总会铁塔",
+      "summary": "银灰疏杆夜店塔，宽底拱与极长细上轴。"
+    },
+    "de-tubingen-boxenstop-tubingen": {
+      "name": "图宾根·Boxenstop Tübingen铁塔",
+      "summary": "绿色拼装条带、红色平台边与窄长塔身。"
+    },
+    "ec-quito-eiffel-center": {
+      "name": "基多·埃菲尔中心铁塔",
+      "summary": "附着玻璃楼立面的金色埃菲尔轮廓。"
+    },
+    "id-menara-keagungan-limboto-menara-keagungan-limboto": {
+      "name": "Menara Keagungan Limboto·Menara Keagungan Limboto铁塔",
+      "summary": "宽拱建筑性塔座、双层栏廊与金色多层格构上塔。"
+    },
+    "id-tasikmalaya-regency-bamboo-eiffel-tower": {
+      "name": "塔西马拉亚加冕时期竹塔，历史装置（历史）",
+      "summary": "历史竹塔的宽平台、密斜撑与分层小顶阁。"
+    },
+    "in-telangana-ramoji-film-city": {
+      "name": "Telangana·Ramoji Film City铁塔",
+      "summary": "影城照片中的银灰下中塔段，尖顶与底部遮挡。"
+    },
+    "ir-kish-island-kish-eiffel-tower": {
+      "name": "基什岛埃菲尔铁塔",
+      "summary": "基什岛夜景的宽拱白色格构与小圆冠。"
+    },
+    "it-chioggia-front-garden-tower": {
+      "name": "基奥贾·前花园铁塔",
+      "summary": "花园银灰铁塔，双平台与高尖细冠架。"
+    },
+    "nl-harselaar-staal-bouw": {
+      "name": "哈尔瑟拉尔·Staal Bouw铁塔",
+      "summary": "工业场地细长灰塔，顶部宽招牌箱与长细杆。"
+    },
+    "us-cypress-gardens-legoland-florida": {
+      "name": "Cypress Gardens·佛罗里达乐高乐园铁塔",
+      "summary": "佛罗里达积木展塔，阶梯脚座与高瘦塔身。"
+    },
+    "za-parys-julio-art-gallery": {
+      "name": "帕赖斯布里街胡利奥艺廊铁塔",
+      "summary": "帕里斯照片中独立摆放的上轴组件与半圆帽顶。"
+    },
+    "pl-rabka-zdroj-rabkoland": {
+      "name": "Rabka-Zdrój·Rabkoland铁塔",
+      "summary": "深色游园塔，稀疏方格上轴与层叠小冠。"
+    },
+    "ru-yeysk-amusement-park-tower": {
+      "name": "叶伊斯克·游乐园铁塔",
+      "summary": "叶伊斯克夜景的宽拱与双平台下中塔段。"
+    },
+    "ua-baryshivka-eiffel-tower-near-a-coffee-shop": {
+      "name": "巴雷希夫卡·咖啡店旁铁塔",
+      "summary": "白色细线咖啡庭院塔，宽弧拱和开放尖笼顶。"
+    },
+    "ua-cherkasy-bonjour-underwear-store": {
+      "name": "切尔卡瑟·'Bonjour' underwear store铁塔",
+      "summary": "灰褐色切孔板小塔，宽扁脚、厚方平台与长上轴。"
+    },
+    "ua-chornomorsk-modigliani-restaurant": {
+      "name": "切尔诺莫尔斯克·'Modigliani' restaurant铁塔",
+      "summary": "餐厅前灰褐疏杆塔，低而宽的底拱。"
+    },
+    "ua-drohobych-eiffel-tower-in-city-center": {
+      "name": "德罗霍贝奇·市中心铁塔",
+      "summary": "深褐色稀疏直杆塔，宽底和细栏杆。"
+    },
+    "ua-hrushkivka-forestry": {
+      "name": "Hrushkivka·林业园区铁塔",
+      "summary": "林业园区银灰细塔，小白色圆筒帽与高旗杆。"
+    },
+    "ua-illintsi-varvara-restaurant": {
+      "name": "伊林齐·'Varvara' restaurant铁塔",
+      "summary": "浅银白格构塔，顶部独特的倒钻石饰件。"
+    },
+    "ua-iskorost-korosten-heating-pipe-plant": {
+      "name": "Iskorost·Korosten Heating Pipe Plant铁塔",
+      "summary": "厂区前景白色镂花高塔，极长尖冠。"
+    },
+    "ua-ivano-frankivsk-eiffel-tower-near-a-shop": {
+      "name": "伊万诺-弗兰科夫斯克·商店旁铁塔",
+      "summary": "橙红店前塔，宽低拱、疏杆格构与小圆笼。"
+    },
+    "ua-khmelnytskyi-so-called-monument-to-ukrainian-inferiority": {
+      "name": "赫梅利尼茨基·So called 'Monument to Ukrainian inferiority'铁塔",
+      "summary": "黑色广场小塔，宽拱与密格构长轴。"
+    },
+    "ua-koriukivka-flower-stand-near-the-city-council": {
+      "name": "Koriukivka·市政厅附近花摊铁塔",
+      "summary": "黑色埃菲尔形花架，四长杆、双横框和裸露上轴。"
+    },
+    "ua-korosten-tower-beside-a-road": {
+      "name": "科罗斯坚路旁铁塔",
+      "summary": "纪念塔可见的银灰镂花下中段与宽拱。"
+    },
+    "ua-kostopil-back-yard-of-a-private-house": {
+      "name": "科斯托皮尔·私人住宅后院铁塔",
+      "summary": "私人庭院照片中的金色灯串塔段与三条横框。"
+    },
+    "ua-kriukivschshyna-residential-complex-european-city": {
+      "name": "Kriukivschshyna·Residential complex European city铁塔",
+      "summary": "住区褐灰格构塔，宽平台与圆润层叠冠。"
+    },
+    "ua-kryvyi-rih-yuvileinyi-park": {
+      "name": "克里维里赫·Yuvileinyi park铁塔",
+      "summary": "深褐公园塔，矮宽下部、疏斜撑与长细针。"
+    },
+    "ua-kyiv-auchan-supermarket": {
+      "name": "基辅·'Auchan' supermarket铁塔",
+      "summary": "超市室内深色小塔，细密格构和小圆冠。"
+    },
+    "ua-kyiv-citroen-car-dealership": {
+      "name": "基辅·Citroen car dealership铁塔",
+      "summary": "车行黑灰细格构小塔，宽低拱与方盒帽。"
+    },
+    "ua-kyiv-dream-town-shopping-mall": {
+      "name": "基辅·'Dream Town' shopping mall铁塔",
+      "summary": "购物中心中庭粗框架塔段，双厚平台与长轴。"
+    },
+    "ua-kyiv-eiffel-tower-on-a-balcony-of-a-travel-agency": {
+      "name": "基辅·旅行社阳台铁塔",
+      "summary": "阳台转角灰塔，宽弧腿与压缩的中间层。"
+    },
+    "ua-kyiv-eiffel-tower-on-the-entrance-to-a-residential-building": {
+      "name": "基辅·住宅楼入口铁塔",
+      "summary": "住宅门檐上的黑色小塔，三层厚盒平台。"
+    },
+    "ua-kyiv-medical-center-entrance": {
+      "name": "基辅·医疗中心入口铁塔",
+      "summary": "医中心庭院的弯杆植物支架，多个水平环。"
+    },
+    "ua-kyiv-ocean-plaza-shopping-mall": {
+      "name": "基辅·'Ocean Plaza' shopping mall铁塔",
+      "summary": "厨具陈列用深色埃菲尔形框架，低拱与孔板顶箱。"
+    },
+    "ua-nerubaika-zastava-hotel-and-restaurant": {
+      "name": "Nerubaika·'Zastava' hotel and restaurant铁塔",
+      "summary": "庭院高瘦深色塔，细密直轴和高尖架。"
+    },
+    "ua-odesa-cafe-closed": {
+      "name": "敖德萨·已关闭咖啡馆铁塔",
+      "summary": "银灰咖啡店小塔，宽拱和竖排PARIS字样。"
+    },
+    "ua-yalta-massandrovsky-beach": {
+      "name": "雅尔塔·Massandrovsky beach铁塔",
+      "summary": "海上平台尽端的银白格构塔，平口小方冠。"
+    },
+    "uz-samarkand-neat-tower-at-the-roadside": {
+      "name": "撒马尔罕·Neat tower at the roadside铁塔",
+      "summary": "撒马尔罕金铜色格构塔，宽拱和洋葱形开放冠。"
+    },
+    "cu-cienfuegos-torre-eiffel-de-cienfuegos": {
+      "name": "西恩富戈斯·Torre Eiffel de Cienfuegos铁塔",
+      "summary": "西恩富戈斯历史塔，特别宽的下拱与封板栏杆。"
+    },
+    "id-palembang-punti-kayu": {
+      "name": "巨港蓬蒂卡尤森林旅游公园铁塔",
+      "summary": "Punti Kayu照片中的粗格构下中段，宽厚双平台。"
+    },
+    "ua-bila-tserkva-french-pastry-in-residential-area": {
+      "name": "白采尔科维·住宅区法式糕点店铁塔",
+      "summary": "糕点店旁银灰细塔，宽低拱与细密上轴。"
+    },
+    "ua-bila-tserkva-leone": {
+      "name": "白采尔科维·Leone铁塔",
+      "summary": "Leone阳台上的褐色细格构小塔。"
+    },
+    "ua-bilopillya-eiffel-tower-near-a-coffee-shop": {
+      "name": "比洛皮利亚·咖啡店旁铁塔",
+      "summary": "咖啡街角浅铜塔，宽底拱和薄平台。"
+    },
+    "ua-chernihiv-tower-on-a-street-corner": {
+      "name": "切尔尼戈夫街角铁塔",
+      "summary": "橙红街角塔，双突出栏台与宽方塔冠。"
+    },
+    "ua-dnipro-tower-on-pavement-in-front-of-a-restaurant": {
+      "name": "第聂伯罗餐厅前人行道铁塔",
+      "summary": "餐厅前银灰装饰塔，密格构、三道近平台与圆笼顶。"
+    },
+    "ua-horodok-front-yard-of-a-private-house": {
+      "name": "霍罗多克·私人住宅前院铁塔",
+      "summary": "私家庭院的细银灰杆架，长细上轴和小横牌。"
+    },
+    "ua-ivanivka-odesa-oblast-ostrich-farm-tower": {
+      "name": "Ivanivka, Odesa Oblast·鸵鸟农场铁塔",
+      "summary": "农场浅金格构塔，宽低拱和细长冠架。"
+    },
+    "ua-kamyanets-podilskyi-tower-outside-a-restaurant": {
+      "name": "卡缅涅茨波多利斯基餐厅外铁塔",
+      "summary": "Versal餐厅灰色孔板塔段，宽拱和环形栏杆。"
+    },
+    "ua-koropovo-carnaval-resort-spa": {
+      "name": "科罗波沃·Гостиница Carnaval Resort & Spa铁塔",
+      "summary": "微型高尔夫浅色细杆塔，三层薄边平台。"
+    },
+    "ua-korosten-spartak-stadium": {
+      "name": "Korosten·Spartak Stadium铁塔",
+      "summary": "球场计分塔，细长框架与黑色记分板。"
+    },
+    "ua-malyn-french-boutique-shop": {
+      "name": "马林·\"French boutique\" shop铁塔",
+      "summary": "褐色店门塔，厚方平台与长直格构上轴。"
+    },
+    "ua-mykolayiv-kids-park-kazka": {
+      "name": "尼古拉耶夫·kids park 'Kazka'铁塔",
+      "summary": "儿童公园深色塔，密格构与顶部多支装饰冠。"
+    },
+    "ua-odesa-kobleska-37": {
+      "name": "敖德萨·Kobleska 37铁塔",
+      "summary": "小院银灰铁塔，宽底拱及覆盖上轴的浅色板。"
+    },
+    "ua-odesa-korolyova-79": {
+      "name": "敖德萨·Korolyova 79铁塔",
+      "summary": "黑色稀格构与红色边线的店前塔。"
+    },
+    "ua-odesa-mini-golf-course-in-a-park": {
+      "name": "敖德萨·公园迷你高尔夫铁塔",
+      "summary": "水池上方的蓝灰小塔，弯曲长上轴与开放圆冠。"
+    },
+    "ua-rivne-yard-of-a-residential-building": {
+      "name": "里夫内·住宅楼庭院铁塔",
+      "summary": "褐色庭院细杆塔，低拱与小开放穹冠。"
+    },
+    "ua-ternopil-travel-agency": {
+      "name": "捷尔诺波尔·旅行社铁塔",
+      "summary": "旅行社前银灰塔，宽展开拱腿与高细针。"
+    },
+    "ua-vinnytsya-d-a-k-s-market-grocery-store": {
+      "name": "文尼察·'D.A.K.S. market' grocery store铁塔",
+      "summary": "白色橱窗小塔与两道青绿色平台边。"
+    },
+    "ua-vinnytsya-entrance-to-versal-hotel-and-restaurant": {
+      "name": "文尼察·entrance to 'Versal' hotel and restaurant铁塔",
+      "summary": "白色入口铁塔，细格构与粗短装饰圆冠。"
+    },
+    "ua-vinnytsya-mirazh-curtains-shop": {
+      "name": "文尼察·'Mirazh' curtains shop铁塔",
+      "summary": "窗内浅金埃菲尔形平面装饰与大三角格纹。"
+    },
+    "ua-yahotyn-eiffel-tower-near-a-soviet-tank-monument": {
+      "name": "亚霍廷·坦克纪念碑旁铁塔",
+      "summary": "宽底疏格构塔，粗平边平台与浅色小锥帽。"
+    },
+    "ua-yahotyn-eiffel-tower-on-a-shop": {
+      "name": "亚霍廷·商店上方铁塔",
+      "summary": "店屋顶的浅金宽拱塔段与简洁锥帽。"
+    },
+    "ua-zhytomyr-zarichanske-forestry": {
+      "name": "日托米尔·Zarichanske forestry铁塔",
+      "summary": "林业庭院金色下中塔段，宽栏台与大开口。"
+    },
+    "ps-ramallah-3-rooftop-towers": {
+      "name": "拉姆安拉屋顶天线塔（近处塔示意）",
+      "summary": "浅棕色细杆组成宽弯腿与长窄格构上轴。塔形支架上方可见细长天线杆与多道水平横杆。"
+    },
+    "ad-andorra-tower-at-a-restaurant": {
+      "name": "西班牙安道拉咖啡馆露台铁塔",
+      "summary": "安道尔餐厅深褐铁艺塔，密集菱格和低圆脚盘。两道方形挑台、下拱细花纹与上轴小牌块。"
+    },
+    "by-minsk-next-to-a-playground": {
+      "name": "明斯克·游乐场旁铁塔",
+      "summary": "明斯克游乐场旁银白塔，疏朗大交叉支杆。两道平台较高，圆形小冠连接长针。"
+    },
+    "de-sielenbach-town-partnership-tower": {
+      "name": "西伦巴赫友城纪念塔",
+      "summary": "西伦巴赫赭红伙伴城铁塔，细密下拱花纹。两道厚边平台与细长格构上轴。"
+    },
+    "es-denia-valencia-metal-merchant-tower": {
+      "name": "Dénia, Valencia·Metal merchant tower铁塔",
+      "summary": "德尼亚金属商塔的锈褐格构和高白色脚座。首平台高实心裙边、开敞栏杆与极长尖轴。"
+    },
+    "hu-budapest-car-showroom-tower": {
+      "name": "布达佩斯汽车展示厅铁塔",
+      "summary": "布达佩斯 M5 车行银灰塔，低宽圆拱。深色实心首层带、短中段与长直上轴。"
+    },
+    "pl-mys-akowice-eiffel-tower-at-a-miniature-park": {
+      "name": "梅斯瓦科维采微缩公园铁塔",
+      "summary": "米斯瓦科维采微缩园暗色密格构塔。宽而深的首层平台、细长轴与圆头实心帽。"
+    },
+    "ru-obninsk-tower-in-front-of-some-kind-of-office": {
+      "name": "奥布宁斯克办公场所前，具体机构待核铁塔",
+      "summary": "奥布宁斯克金褐塔，细密菱格与第三道轴环。高下拱、方形顶室和尖锥格构帽。"
+    },
+    "ru-yekaterinburg-tower-in-a-small-park": {
+      "name": "叶卡捷琳堡小公园铁塔",
+      "summary": "叶卡捷琳堡社区奶白小塔，疏朗粗杆与浅拱。低层细栏平台、长而近直的上部四角轴。"
+    },
+    "de-odenthal-tower-at-a-boulodrome": {
+      "name": "奥登塔尔法式滚球场铁塔",
+      "summary": "奥登塔尔金色细梁塔，宽脚距与低位双平台。上轴呈梯形横档，脚间有方形周边杆。"
+    },
+    "fi-nivala-crazyland-maliskyla": {
+      "name": "尼瓦拉马利斯屈莱疯狂乐园铁塔",
+      "summary": "尼瓦拉 Crazyland 白木塔，粗白条组成密集交叉格构。两道宽平台，上轴有额外收分段与外翻冠。"
+    },
+    "fr-burnhaupt-le-bas-tower-at-a-fire-station": {
+      "name": "下比尔诺普特消防站铁塔",
+      "summary": "伯恩豪普特消防站细银线塔，低平台与长窄上轴。稀疏外张塔脚和小方形顶冠。"
+    },
+    "fr-cajarc-tower-in-village-square": {
+      "name": "卡雅尔克村庄广场铁塔",
+      "summary": "卡雅克塔可见下中段的粗大交叉梁。两道很深的黑色平台裙边与竖肋。"
+    },
+    "fr-pusey-small-tower-in-a-garden": {
+      "name": "皮塞·花园小铁塔",
+      "summary": "皮塞庭院细铁丝塔，宽高比与深方平台突出。轻巧双线下拱、银灰上轴与四块浅色脚座。"
+    },
+    "fr-vesoul-tower-in-a-back-garden": {
+      "name": "沃苏勒·后花园铁塔",
+      "summary": "韦苏勒褐色庭院塔，粗直杆和两层格构平台。上轴有两道附加圈带，顶端是圆穹开放笼冠。"
+    },
+    "fr-waldighoffen-tall-wooden-tower-at-an-exhibition": {
+      "name": "瓦尔迪戈芬·展览木制高塔",
+      "summary": "瓦尔迪格芬历史木塔，粗直边梁与细密横档。三道朴素木圈带、长近直上轴和开放方顶室。"
+    },
+    "gb-chertsey-thorpe-park": {
+      "name": "彻特西·Thorpe Park铁塔",
+      "summary": "索普公园1979年深铜色塔，宽下拱和深平台带。长格构上轴及多层锥形开放顶冠。"
+    },
+    "de-leipzig-restaurant-salu": {
+      "name": "莱比锡萨吕餐厅铁塔",
+      "summary": "莱比锡 Salü 屋顶露出的深色窄格构上轴。很高的开放多角笼冠与细尖顶。"
+    },
+    "fr-le-trevoux-festival-tower-made-of-wood": {
+      "name": "勒特雷武节庆木塔",
+      "summary": "勒特雷武节庆木塔可见的粗斜木板与大交叉。层叠厚平台边、方形下部开口和底部周边木梁。"
+    },
+    "fr-mobile-location-tour-eiffel-mobile-maindron": {
+      "name": "流动展出巡游活动装置，无固定塔体点位",
+      "summary": "Maindron 流动铁塔的锈褐杆架与宽圆下拱。两道朴素平台带，顶端为醒目的圆圈和平符号。"
+    },
+    "fr-saujon-record-breaking-tower-made-of-matches": {
+      "name": "索容·火柴制纪录铁塔",
+      "summary": "索容火柴棒塔的浅米色密集复合梁。宽下拱、细小交叉填充和两层深平台边。"
+    },
+    "hu-bekescsaba-tower-in-a-back-yard": {
+      "name": "贝凯什乔包后院铁塔",
+      "summary": "贝凯什乔包院中红褐塔，低位细圈带和很长上轴。密交叉杆件与小方形开放顶冠。"
+    },
+    "it-andria-tm-tecnometal": {
+      "name": "安德里亚·TM Tecnometal铁塔",
+      "summary": "安德里亚 Tecnometal 屋顶深铜塔，宽而深的下拱。两道栏杆平台、密格构细轴与小层叠冠。"
+    },
+    "it-cagnano-tower-at-energreen-factory": {
+      "name": "卡尼亚诺恩纳格林工厂铁塔",
+      "summary": "Energreen 厂区深灰塔的宽下拱与密格构。两道深平台、长细轴和多层方顶冠。"
+    },
+    "lt-letukai-new-miniature-park": {
+      "name": "Letūkai·新微缩公园铁塔",
+      "summary": "莱图凯微缩园银灰塔，宽腿与高混凝土脚座。深首层带及直立栏杆，顶端开放多角笼。"
+    },
+    "md-corjeuti-tower-at-a-french-restaurant": {
+      "name": "科尔热乌茨法式餐厅铁塔",
+      "summary": "科尔热乌齐餐厅白塔，四座高石柱托起金属塔脚。宽观景平台的高竖栏、长轴与大开放方冠。"
+    },
+    "me-budva-paris-night-club": {
+      "name": "布德瓦巴黎夜总会铁塔",
+      "summary": "布德瓦 Paris 夜店可见深色粗塔脚。大弧形拱肋与蓝紫光下的交叉支杆。"
+    },
+    "nl-friesland-renault-car-garage": {
+      "name": "德拉赫滕雷诺汽车维修店铁塔",
+      "summary": "弗里斯兰 Renault 车行白塔，蓝色首层边带。长细杆轴、小方笼和放射状顶饰。"
+    },
+    "nl-utrecht-tower-in-an-industrial-park": {
+      "name": "乌得勒支工业园铁塔",
+      "summary": "乌得勒支厂区树后灰塔的两道小圈台。可见细长上轴与宽厚多面顶冠。"
+    },
+    "pl-krakow-tower-in-a-builder-s-yard": {
+      "name": "克拉科夫建筑商院内铁塔",
+      "summary": "克拉科夫工地塔的深褐密格构和高栏首平台。外挑支撑裙边、长上轴与不规则开放方顶框。"
+    },
+    "pt-monte-redondo-tower-at-a-small-museum": {
+      "name": "蒙特雷东杜小型博物馆铁塔",
+      "summary": "蒙特雷东多社区博物馆塔的粗红褐扁杆。深裙边平台、简单弧拱及开敞活动用中段。"
+    },
+    "ro-cincu-tower-at-a-farm": {
+      "name": "钦库·农场铁塔",
+      "summary": "钦库农庄细褐杆塔，长瘦上轴和圆弧小笼冠。大五角星顶饰、卷曲栏杆与下层红色瓦边。"
+    },
+    "rs-markovac-small-tower-in-a-back-yard": {
+      "name": "马尔科瓦茨后院铁塔",
+      "summary": "马尔科瓦茨红色庭院塔，宽脚和两道开放栏台。小圆冠上接很长的电视天线式顶杆。"
+    },
+    "ua-berdyansk-berdyansk-mechanical-engineering-lyceum": {
+      "name": "别尔江斯克·Berdyansk Mechanical Engineering Lyceum铁塔",
+      "summary": "别尔江斯克铁匠小径的银灰细格构塔。四条外张腿、圆拱和两道细圈台。"
+    },
+    "ua-berehove-crimea-tower-at-the-seaside": {
+      "name": "Berehove (Crimea)·海滨铁塔",
+      "summary": "别列霍韦海边塔四条细交叉脚与两道立栏圈台。暖白灯串密布塔脚、平台和上轴。"
+    },
+    "ua-dovzhans-ka-tower-mounted-on-brick-pillars": {
+      "name": "多夫然斯卡砖柱上的塔",
+      "summary": "多夫然斯克浅棕塔，四个很高的石砖支柱。实心圆弧拱片、两道栏台与尖细长轴。"
+    },
+    "ua-kushuhum-park-tower": {
+      "name": "Kushuhum·公园铁塔",
+      "summary": "库舒胡姆公园深色塔，宽下拱与两道细栏台。小圆柱冠和细针，附近红心为独立装饰。"
+    },
+    "ua-marganets-dnipro-club": {
+      "name": "马尔哈涅茨·'Dnipro' club铁塔",
+      "summary": "马尔加涅茨 Dnipro 俱乐部门前银灰塔。宽而疏的四脚、细平台和小方形顶笼。"
+    },
+    "ua-nikopol-tower-at-the-edge-of-the-river": {
+      "name": "尼科波尔·河边铁塔",
+      "summary": "尼科波尔河岸管材塔，直管大交叉组成宽脚。两圈开放框带、无装饰圆拱和长天线。"
+    },
+    "ua-rodynske-bank": {
+      "name": "罗丁斯克·银行铁塔",
+      "summary": "罗登斯克浅灰扁钢塔，低位大栏台与很高中段。长直上轴、方格顶箱和外挑小灯盒。"
+    },
+    "ua-volnovakha-central-park-in-the-town": {
+      "name": "沃尔诺瓦哈·城镇中央公园铁塔",
+      "summary": "沃尔诺瓦哈深色密格构塔，宽圆下拱与细矩形拱边。首层半圆栏花、深裙边和冷白结构照明。"
+    },
+    "fr-montlouis-sur-loire-tower-in-chateau-gardens": {
+      "name": "卢瓦尔河畔蒙路易·城堡花园铁塔",
+      "summary": "蒙路易城堡园木塔的四根粗斜腿与厚层叠平台。上轴四个大木叉、窄长轮廓和开放尖帽。"
+    },
+    "ru-abakan-tower-in-a-landscape-garden": {
+      "name": "阿巴坎·景观花园铁塔",
+      "summary": "阿巴坎园林白塔，宽下拱和外挑栏台。细密长轴、微圆小帽与细长顶针。"
+    },
+    "ru-arzamas-tower-beside-a-large-road": {
+      "name": "阿尔扎马斯·大道旁铁塔",
+      "summary": "阿尔扎马斯精细铜褐塔，密格构与两层深裙边。下拱镂花、宽顶冠和小型分段天线。"
+    },
+    "ru-perm-tower-in-front-of-offices": {
+      "name": "彼尔姆办公楼前铁塔",
+      "summary": "彼尔姆深色塔，宽而厚的底部和两层平台。开放小圆冠；实景夜照中层及冠圈为青蓝，上轴与下拱暖金。"
+    },
+    "ru-samara-tower-at-a-road-junction": {
+      "name": "萨马拉·路口铁塔",
+      "summary": "萨马拉2015年金色塔，宽栏平台与圆拱。细密交叉上轴、方顶室和尖形帽。"
+    },
+    "ua-yalta-across-the-river": {
+      "name": "雅尔塔·河畔铁塔",
+      "summary": "雅尔塔跨河边可见浅灰技术格构塔。直交叉杆、角形膝部与顶端设备横臂。"
+    },
+    "ua-zaporizhzhya-dejavu-cafe": {
+      "name": "扎波罗热·'Dejavu' cafe铁塔",
+      "summary": "扎波罗热 Dejavu 咖啡馆前的细褐塔。低圆弧、两道细圈台与长直小轴。"
+    },
+    "cz-most-mostecke-jezero-olympic-tower": {
+      "name": "莫斯特·Mostecké jezero – Olympic tower铁塔",
+      "summary": "莫斯特湖奥运主题塔可见的蓝灰粗边格构与圆下拱。中段悬挂彩色五环，塔脚为浅色方垫。"
+    },
+    "de-abbensen-vorgarten": {
+      "name": "阿本森前庭铁塔",
+      "summary": "阿本森花园实心浅灰小塔，圆下拱与简单圈台。棕色镶面被浅色X缝分成小三角，上轴呈实心长锥。"
+    },
+    "fr-lacapelle-biron-tower-in-a-garden": {
+      "name": "拉卡佩勒比龙庭园铁塔",
+      "summary": "拉卡佩勒比龙浅蓝银灰塔的大X杆与宽中部开口。两道平台的外倾栏杆为明显手作特征。"
+    },
+    "gb-harrogate-tour-de-france-sculpture": {
+      "name": "哈罗盖特环法雕塑铁塔",
+      "summary": "哈罗盖特树干木雕埃菲尔轮廓，实心宽脚与单圆拱。中部方洞、上部窄凹槽和手刻X纹，小顶帽呈粗圆形。"
+    },
+    "se-vanersborg-lilla-paris": {
+      "name": "维纳什堡·Lilla Paris铁塔",
+      "summary": "维纳什堡 Lilla Paris 白木结构，下层为宽实心圆拱板。中段斜条菱格，上段实心三角板带少量大菱形窗。"
+    },
+    "ua-alchevsk-tower-on-stilts-in-park": {
+      "name": "阿尔切夫斯克·公园高脚铁塔",
+      "summary": "阿尔切夫斯克公园金色细塔与两道小圈台。塔脚落在独立浅灰开放方形高脚架上。"
+    },
+    "ua-vynnyky-a-cross-in-a-shape-of-an-eiffel-tower": {
+      "name": "温尼基·铁塔造型十字架",
+      "summary": "维尼基真实纪念十字架：宽翼十字占据上部大半。棕色密格构边框，底部保留埃菲尔式张开的双腿。"
+    },
+    "ar-alicia-marchetti": {
+      "name": "Torre Alicia移址铁塔",
+      "summary": "阿利西亚迁址塔，低位双平台与极长细轴。方形开放冠与多根细天线。"
+    },
+    "ar-carlos-paz-tower-in-a-pensioner-s-garden": {
+      "name": "卡洛斯帕斯·退休居民庭园铁塔",
+      "summary": "卡洛斯帕斯庭院手作塔的可见下中段。宽弧拱、细碎杆架与两道平台。"
+    },
+    "ar-cordoba-galeria-jardin": {
+      "name": "科尔多瓦·Galeria Jardin铁塔",
+      "summary": "科尔多瓦链条铁塔，深拱与密集暗色格构。宽低平台、长轴和小方冠。"
+    },
+    "br-ivaipora-tower-in-the-middle-of-a-boulevard": {
+      "name": "伊瓦伊波朗·林荫大道中央铁塔",
+      "summary": "伊瓦伊波拉林荫大道深色塔，宽拱与双层外挑平台。细密长轴、圆笼冠与尖杆。"
+    },
+    "cn-longkou-shandong-tower-on-seafront": {
+      "name": "山东龙口海滨铁塔",
+      "summary": "龙口海滨深褐塔，宽深下拱和两道镂空平台。长格构上轴与浅色小顶冠。"
+    },
+    "cn-shanghai-i-do-tower": {
+      "name": "上海·I Do Tower铁塔",
+      "summary": "上海 I DO 白色细格构塔，宽拱与两道平台。细长塔身和小冠，保留标牌的块面位置。"
+    },
+    "cn-shanghai-tower-at-shopping-centre": {
+      "name": "上海购物中心铁塔",
+      "summary": "上海商场旋转木马上的浅金塔段。宽栏杆平台、长轴与方顶盖。"
+    },
+    "cn-shenyang-city-square": {
+      "name": "沈阳城市广场铁塔",
+      "summary": "沈阳金色城市广场塔，密格构与粗平台栏边。深色拱洞和多层小塔冠。"
+    },
+    "cn-taiyuan-tower-on-police-station-roof": {
+      "name": "太原·警察局屋顶铁塔",
+      "summary": "太原屋顶银灰塔，弯曲外张腿和细平台。长尖上轴与层叠细冠。"
+    },
+    "co-barrancabermeja-parque-tapias": {
+      "name": "巴兰卡韦梅哈塔皮亚斯公园",
+      "summary": "塔皮亚斯节庆塔照片中的密格构长轴和宽方平台。实景灯色有暖金及蓝紫两种状态。"
+    },
+    "co-tunja-puente-de-boyaca": {
+      "name": "通哈博亚卡桥铁塔",
+      "summary": "通哈节庆灯架的四腿轮廓、宽拱与纤细高轴。照片显示暖白金灯及绿青色中段。"
+    },
+    "cu-havana-jorge-enrique-salgado-tower": {
+      "name": "哈瓦那豪尔赫·恩里克·萨尔加多铁塔",
+      "summary": "哈瓦那屋顶的白色细杆塔，轻平台与高细轴。宽方顶廊上有圆罩和长针。"
+    },
+    "cu-santa-clara-1895-replica": {
+      "name": "圣克拉拉1895年临时复制塔",
+      "summary": "圣克拉拉1895年历史照片中的木架塔、宽廊与长轴。顶部有小型层叠灯亭形轮廓。"
+    },
+    "ec-quito-lycee-la-condamine": {
+      "name": "基多拉孔达明学校铁塔",
+      "summary": "基多法语学校塔的红白蓝分段色与短腿。细长直轴、轻平台及小平口冠。"
+    },
+    "hn-tegucilgapa-plaza-paris-tower": {
+      "name": "特古西加尔巴巴黎广场铁塔",
+      "summary": "特古西加尔巴照片中的铜色纤细长轴与低位双平台。小圆顶冠，底部被人群遮挡。"
+    },
+    "id-lembang-minimania": {
+      "name": "伦邦迷你狂想乐园铁塔",
+      "summary": "伦邦官方园区照片中的浅色长格构轴与小顶帽。可见中层平台，下部被树木和轨道遮挡。"
+    },
+    "id-megamendung-minimania-puncak": {
+      "name": "梅加门东本扎克迷你狂想乐园铁塔",
+      "summary": "蓬查克米金色铁塔，宽拱与两道细栏平台。长上轴与小圆帽顶。"
+    },
+    "id-semarang-bamboo-reddit-lead": {
+      "name": "三宝垄埃菲尔铁塔",
+      "summary": "拉瓦珀宁竹塔的分段竹格构和宽平台。细长上轴及印尼红白小旗。"
+    },
+    "id-tasikmalaya-west-java-menara-eiffel": {
+      "name": "塔西马拉亚埃菲尔铁塔",
+      "summary": "塔西马拉雅竹塔的宽阔下身、竹面首层围栏与较短上轴。直竹杆交叉格构，顶端细旗杆式针。"
+    },
+    "il-jerusalem-festival-of-lights": {
+      "name": "耶路撒冷灯光节铁塔",
+      "summary": "耶路撒冷灯节照片里的白色细线格构和轻方平台。下部被有轨电车与树遮挡，尖顶超出画面。"
+    },
+    "in-ajmer-seven-wonders": {
+      "name": "阿杰梅尔七大奇迹公园铁塔",
+      "summary": "阿杰梅尔拆除现场照片中保留的深灰密格构和两道宽平台。窄长上轴与紧凑圆顶冠，塔脚被现场遮挡。"
+    },
+    "in-ambikapur-scrap-park": {
+      "name": "安比卡布尔废物再造市政公园，名称待核铁塔",
+      "summary": "安比卡普尔废料塔的大开口拱与宽栏平台。上轴中段另有窄箍，顶端为开放小方笼及长杆。"
+    },
+    "kg-aksy-tower-built-by-school-pupils": {
+      "name": "阿克瑟·学生制作铁塔",
+      "summary": "阿克瑟学生塔宽大的斜腿和近直线收分的长轴。实景白紫边线与亮顶，首层深色方框平台。"
+    },
+    "kg-bishkek-consulate-or-pet-shop-tower": {
+      "name": "比什凯克领事馆或宠物店，场所待核铁塔",
+      "summary": "比什凯克街边塔的棕色细格构、低拱与薄平台。长轴上方小圆帽及针杆。"
+    },
+    "kg-bishkek-vostok-5-microdistrict": {
+      "name": "比什凯克·Vostok-5 microdistrict铁塔",
+      "summary": "比什凯克东方五区照片中的蓝白长轴边灯和暖金顶冠。细密四腿格构与两道轻平台。"
+    },
+    "kr-chungju-si-hotel-the-base": {
+      "name": "忠州·Hotel the Base铁塔",
+      "summary": "忠州酒店棕铜色塔的双曲线高拱、粗腿和细栏平台。长轴密交叉格，开放方顶上有环状顶饰。"
+    },
+    "lb-unlocated-blue-helmet-camp": {
+      "name": "地点未定蓝盔营地铁塔",
+      "summary": "黎巴嫩蓝盔营地照片里的沙褐细格构、宽腿与薄平台。细直长轴及很小的平口顶笼。"
+    },
+    "ma-fez-tour-d-eiffel-de-fes": {
+      "name": "菲斯埃菲尔铁塔（历史）",
+      "summary": "非斯历史照片中的直长格构轴，平口收尾而无大顶冠。两道很薄的平台与高直腿。"
+    },
+    "nz-coromandel-replica-inside-the-eyefull-tower": {
+      "name": "科罗曼德尔·Eyefull Tower内复制塔铁塔",
+      "summary": "科罗曼德尔室内陈列小塔的带孔金属构件、四腿与两平台。长窄轴上有球笼形冠与细针。"
+    },
+    "ph-boracay-la-reserve": {
+      "name": "长滩岛拉雷塞夫餐厅铁塔",
+      "summary": "长滩岛La Réserve塔的棕色密格构、大开口拱和轻平台。照片显示绿色上照光及局部暖色补光。"
+    },
+    "ph-iloilo-jaro-1889-bamboo": {
+      "name": "伊洛伊洛哈罗广场铁塔（历史）",
+      "summary": "哈罗1889年老照片里的竹塔，宽下身和长细轴。低位平台、顶部小灯亭轮廓。"
+    },
+    "ph-manila-megamall": {
+      "name": "马尼拉超级购物中心铁塔",
+      "summary": "马尼拉商场塔的粗深色格构与厚方平台。长轴顶部有狭高竖栏箱体，底部被人群和遮阳伞挡住。"
+    },
+    "ph-naic-torres-farm-and-resort": {
+      "name": "奈克·Torres农场度假区铁塔",
+      "summary": "奈克Torres农场塔的大幅外展四腿、深格构拱与厚宽首层。较短中段、纤细高轴及开放小顶笼。"
+    },
+    "ph-tablas-bantigue-resort": {
+      "name": "塔布拉斯岛班蒂格度假村铁塔",
+      "summary": "塔布拉斯竹塔的粗竹格构、高栏首层与厚第二平台。照片呈暖金灯色和红色顶端信标。"
+    },
+    "sa-madinah-replica-on-a-roof-top": {
+      "name": "麦地那·屋顶复制塔铁塔",
+      "summary": "麦地那屋顶远照中的银白色塔、开放拱与薄平台。细上轴、紧凑圆冠及长顶杆。"
+    },
+    "th-udon-thani-unknown": {
+      "name": "乌隆他尼场所待核铁塔",
+      "summary": "乌隆他尼照片中银白下身与橙褐上段，宽薄平台有弧形栏杆。细杆开放格构，平口小顶廊与环形针冠。"
+    },
+    "tj-dushanbe-shopping-mall-tower": {
+      "name": "杜尚别购物中心铁塔",
+      "summary": "杜尚别商场塔的宽粗深灰主梁、大拱与两层厚方台。上轴规则大X格、紧凑圆帽；玻璃连接桥在旁接入。"
+    },
+    "tw-taichung-carton-king": {
+      "name": "台中纸箱王铁塔",
+      "summary": "台中纸箱王白塔的宽扁三角交叉构件、宽拱和厚台缘。细长白色针顶，平台下缘有镂空装饰。"
+    },
+    "us-atlanta-georgia-meccano-model": {
+      "name": "亚特兰大原科学探索博物馆铁塔",
+      "summary": "亚特兰大线索照片中的白色密格构、金色台缘与深弧拱。顶部有多层小亭和很长的旗杆，塔边可见暖色灯点。"
+    },
+    "us-austin-texas-dreyfus-eiffel-tower": {
+      "name": "奥斯汀原德雷福斯古董店铁塔",
+      "summary": "奥斯汀Dreyfus塔的红褐色密格构与低宽拱。很薄的平台、细长轴和小圆亭冠。"
+    },
+    "us-boise-idaho-cafe-de-paris": {
+      "name": "Boise, Idaho·Cafe de Paris铁塔",
+      "summary": "博伊西咖啡店照片中的灰色细网格四曲腿、方形底框及宽浅平台。平台之上仍有近直立细网格轴延伸出画面。"
+    },
+    "us-gettysburg-pennsylvania-devenshire-apartment-complex": {
+      "name": "葛底斯堡原国际村及德文郡公寓场地铁塔",
+      "summary": "葛底斯堡住宅区塔的米白稀疏大X格和高直腿。狭长上轴，顶部为很宽的开放方笼，无针顶。"
+    },
+    "us-kingston-washington-crepes-restaurant": {
+      "name": "华盛顿州金斯顿可丽饼餐厅铁塔",
+      "summary": "金斯顿可丽饼店门前的铜色细格构塔与高拱。薄平台、直长上轴和紧凑多层方顶。"
+    },
+    "us-paris-kentucky-tower-on-a-small-square": {
+      "name": "肯塔基州巴黎小广场铁塔",
+      "summary": "肯塔基巴黎广场的白色细格构、两道轻平台与宽拱。顶部白色阶梯箱体和细针。"
+    },
+    "uz-samarkand-eiffel-tower": {
+      "name": "撒马尔罕埃菲尔铁塔",
+      "summary": "撒马尔罕泳池照片中的灰银细格构和宽方栏平台。长轴上有小笼与很长天线，下身被建筑遮挡。"
+    },
+    "vn-ansapa-village-ansapa-park": {
+      "name": "Ansapa Village·Ansapa Park铁塔",
+      "summary": "安沙巴云海前的深铜塔，宽高拱、薄平台和直长轴。明显偏大的深色金边圆穹帽冠。"
+    },
+    "vn-bac-giang-nha-hang-cua-o": {
+      "name": "北江·Nhà Hàng Cua Đỏ铁塔",
+      "summary": "北江塔的深弧格构拱、密装饰裙带和宽高栏首层。铜灰色长轴，顶部方笼带竖片与细针。"
+    },
+    "za-parys-eiffel-toring-tower": {
+      "name": "帕赖斯埃菲尔铁塔",
+      "summary": "帕雷斯Eiffel Toring活动场地塔的稀疏锈褐格构和轻平台。高直轴顶部是较宽开放方栏与长天线。"
+    },
+    "za-parys-old-ferry-house-restaurant": {
+      "name": "帕雷斯·Old Ferry House餐厅铁塔",
+      "summary": "帕雷斯Old Ferry House的深色极简杆架、低平台与长空心轴。顶部大钟面箱体、暖色灯串，针尖超出照片。"
+    },
+    "za-parys-tower-between-the-street-and-shops": {
+      "name": "帕雷斯·街道与商铺之间的铁塔",
+      "summary": "帕雷斯街边白色塔的极稀疏直杆和四个大弧形腿。两层开放栏台、小方亭与尖角屋面。"
+    },
+    "za-parys-tower-in-arts-quarter": {
+      "name": "帕雷斯·艺术街区铁塔",
+      "summary": "帕雷斯艺术区塔的红褐主框、灰色交叉细杆与长直轴。上方宽开口小笼、明显圆穹帽和长针杆。"
+    },
+    "ca-beloeil-cypress-tree": {
+      "name": "贝勒伊柏树造型铁塔",
+      "summary": "贝勒伊柏树修剪塔具有浓密的绿叶实体、四个宽脚与低位拱洞。下身分段外扩，上方是圆厚的长树冠。"
+    },
+    "us-gasquet-gasquet-market": {
+      "name": "加斯凯特市场铁塔",
+      "summary": "加斯奎特卵石塔的低粗拱脚、很厚的宽方平台和四根斜中柱。上方粗圆柱收分，宽扁蘑菇形顶帽。"
+    },
+    "us-kings-island-ohio-eiffel-tower-topiary": {
+      "name": "俄亥俄州国王岛铁塔造型绿植",
+      "summary": "国王岛植物塔由浓密的短叶绿面组成，低部四腿分开。上方为近直立绿色柱，顶部仅部分可见。"
+    },
+    "ua-dnipro-eiffel-tower-wind-farm-in-the-yard-of-a-private-house": {
+      "name": "第聂伯罗·私人庭院铁塔造型风机",
+      "summary": "第聂伯庭院风力塔的窄小四脚和近直立细格构支架。顶部实际可见五片白色桨叶、机舱和很长的尾翼杆。"
+    },
+    "ua-kamyanyi-mist-7th-sky-airport-restaurant": {
+      "name": "Kamyanyi mist·\"7th Sky Airport\" restaurant铁塔",
+      "summary": "卡米亚内米斯特餐厅塔的底段很低，长细上轴占主要高度。两道薄方平台、小尖顶方亭，格构疏而规则。"
+    },
+    "ua-kyiv-andriivskyi-descent": {
+      "name": "基辅·安德烈斜坡铁塔",
+      "summary": "基辅Baguette露台角上的金褐色小塔，两道薄平台。上轴以很细的近竖向杆为主，顶端是阶梯小方帽。"
+    },
+    "ua-lutsk-beside-a-restaurant-next-to-a-car-garage": {
+      "name": "卢茨克·餐馆与车库旁铁塔",
+      "summary": "卢茨克餐厅旁的橙红塔有细长格构轴与薄双平台。大开口拱、圆肋冠笼和很长针顶。"
+    },
+    "ua-maryanivka-eiffel-tower-in-a-park": {
+      "name": "Maryanivka·Eiffel Tower in a park铁塔",
+      "summary": "马里亚尼夫卡公园灰塔的直细轴和深边双平台。顶部为阶梯方帽与特别长的尖针，脚部被树木遮挡。"
+    },
+    "ua-novodnistrovsk-tower-at-a-travel-agency": {
+      "name": "新德涅斯特罗夫斯克·旅行社铁塔",
+      "summary": "新德尼斯特罗夫斯克门前浅色塔为较宽的扁平交叉构件。双薄平台、高圆拱、狭长轴上是小开口穹笼和针。"
+    },
+    "ua-shatsk-yard-of-a-private-house": {
+      "name": "沙茨克·私人住宅庭院铁塔",
+      "summary": "沙茨克庭院塔的深色稀疏格构与异常宽开的四腿。白色双平台和白顶亭，长直轴上有很长针杆。"
+    },
+    "ua-shypyntsi-shale-restaurant": {
+      "name": "希平齐·'Shale' restaurant铁塔",
+      "summary": "希平齐Shale餐厅浅米灰塔有深弧格构拱、宽栏首平台。上轴可见蓝紫灯点与底部暖光，冠为开放圆穹和长针。"
+    },
+    "ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral": {
+      "name": "乌日霍罗德·希腊天主教堂旁铁塔",
+      "summary": "乌日霍罗德灯柱上的小型固定铜塔，大部分表面呈实心浅浮雕格纹。低部半圆开口、两道连续宽带和细长轴，顶部有小圆帽。"
+    }
+  }
+}

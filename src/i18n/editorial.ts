@@ -1,0 +1,32 @@
+import base from '../../data/locales/en-editorial.json';
+import round8 from '../../data/locales/round8-en-editorial.json';
+import nameFixes from '../../data/locales/round8-en-language-fixes.json';
+import chinese from '../../data/locales/round8-zh-editorial.json';
+import french from '../../data/locales/fr-editorial.v1.json';
+import round9 from '../../data/locales/round9-en-editorial.json';
+import followup from '../../data/locales/round9-followup-en.json';
+import chineseUpdates from '../../data/locales/round9-zh-presentation.json';
+import mediaContext from '../../data/locales/round9-media-context-en.json';
+import jonworthEnglish from '../../data/locales/jonworth-20261007-en.json';
+import jonworthFrench from '../../data/locales/jonworth-20261007-fr.json';
+import jonworthChinese from '../../data/locales/jonworth-20261007-zh.json';
+import completionEnglish from '../../data/locales/completion-20261007-en.json';
+import completionFrench from '../../data/locales/completion-20261007-fr.json';
+import completionChinese from '../../data/locales/completion-20261007-zh.json';
+import remainingEnglish from '../../data/locales/remaining-20261007-en.json';
+import remainingFrench from '../../data/locales/remaining-20261007-fr.json';
+import remainingChinese from '../../data/locales/remaining-20261007-zh.json';
+import expansionEnglish from '../../data/enrichment/expansion-20261008/editorial-en.json';
+import expansionFrench from '../../data/enrichment/expansion-20261008/editorial-fr.json';
+import expansionChinese from '../../data/enrichment/expansion-20261008/editorial-zh.json';
+import type { Language } from './messages';
+import { mergeEnglishEditorial } from '../domain/editorial.mjs';
+const english=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(base,nameFixes), round8),round9),followup),mediaContext),jonworthEnglish),completionEnglish),remainingEnglish);
+const frenchComplete=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(french,jonworthFrench),completionFrench),remainingFrench);
+const expandedEnglish=mergeEnglishEditorial(english,expansionEnglish);
+const expandedFrench=mergeEnglishEditorial(frenchComplete,expansionFrench);
+export default expandedEnglish;
+export function getEditorial(language:Language){return language==='fr'?expandedFrench:expandedEnglish;}
+const chineseComplete=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(chinese,chineseUpdates),jonworthChinese),completionChinese),remainingChinese);
+
+export const chineseEditorial=mergeEnglishEditorial(chineseComplete,expansionChinese);

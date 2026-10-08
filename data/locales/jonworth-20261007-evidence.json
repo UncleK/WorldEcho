@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "en": {
+      "核实实体身份、永久设置及当前现状；补运营方或政府来源。": "Verify the object, permanent installation and current status against operator or government evidence.",
+      "地图中的点位仅作发现线索；核对塔体位置与坐标系后再启用地球位置。": "The source map point is a discovery lead. Verify the tower location and coordinate system before enabling its globe position.",
+      "高度仅保留来源说法；核对尺寸与端点后再参与高度比较。": "Retain height claims as observations; verify the dimension and endpoints before height comparison.",
+      "实景照片的主体、拍摄日期及使用许可仍需逐张核对。": "Check the subject, capture date and reuse rights of each real photograph.",
+      "来源将此记录列为已拆除或未建成；具体状态与事件日期仍待交叉核对。": "The source lists this record as removed or never built; its precise status and event dates still need corroboration.",
+      "来源将此对象列为衍生或外形相似建筑，暂不纳入复刻塔地球。": "The source classifies this object as a derivative or resemblance; it is excluded from the replica globe.",
+      "可能与已有记录重复或存在迁移关系；未确认前保留独立候选，不能计作已确认的新塔。": "This may duplicate an existing record or describe a relocation. Keep it as a separate candidate until resolved; do not count it as a confirmed new tower.",
+      "户外塔的现状存在冲突，暂时撤下地球位置；博物馆室内模型不能证明这座户外塔仍存在。": "The outdoor tower has conflicting status evidence, so its globe position is withheld. An indoor museum model does not establish that this outdoor tower still exists."
+    },
+    "fr": {
+      "核实实体身份、永久设置及当前现状；补运营方或政府来源。": "Vérifier l’identité, le caractère permanent et l’état actuel auprès de l’exploitant ou des autorités.",
+      "地图中的点位仅作发现线索；核对塔体位置与坐标系后再启用地球位置。": "Le point de la carte est une piste. Vérifier la position de la tour et le système de coordonnées avant de l’ajouter au globe.",
+      "高度仅保留来源说法；核对尺寸与端点后再参与高度比较。": "Conserver les hauteurs annoncées comme observations ; vérifier la dimension et les extrémités avant toute comparaison.",
+      "实景照片的主体、拍摄日期及使用许可仍需逐张核对。": "Vérifier le sujet, la date de prise de vue et les droits de réutilisation de chaque photographie.",
+      "来源将此记录列为已拆除或未建成；具体状态与事件日期仍待交叉核对。": "La source classe cette fiche comme retirée ou jamais construite ; l’état précis et les dates restent à corroborer.",
+      "来源将此对象列为衍生或外形相似建筑，暂不纳入复刻塔地球。": "La source classe cet objet comme dérivé ou ressemblant ; il est exclu du globe des répliques.",
+      "可能与已有记录重复或存在迁移关系；未确认前保留独立候选，不能计作已确认的新塔。": "Cette fiche peut faire doublon ou décrire un déplacement. La conserver comme candidate distincte jusqu’à vérification, sans la compter comme nouvelle tour confirmée.",
+      "户外塔的现状存在冲突，暂时撤下地球位置；博物馆室内模型不能证明这座户外塔仍存在。": "L’état de la tour extérieure est contradictoire ; sa position sur le globe est suspendue. Un modèle intérieur du musée ne prouve pas que cette tour extérieure existe toujours."
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<title>Towerworld · 模型正视图制作</title>
+<style>html,body{margin:0;background:#516374}canvas{display:block;width:960px;height:1320px}</style>
+<script type="module">
+  import { renderTowerPortrait } from '/src/scene/portrait-renderer.ts';
+  import { isTowerModelKey } from '/src/scene/tower-model.ts';
+  const key = new URLSearchParams(location.search).get('model') ?? 'paris';
+  if (!isTowerModelKey(key)) throw new Error('Unknown tower model');
+  const view=new URLSearchParams(location.search).get('view')??'front';
+  if(!['axonometric','front','side'].includes(view))throw new Error('Unknown model view');
+  document.body.append(renderTowerPortrait(key,960,1320,view));
+  document.body.dataset.ready = key;
+</script>
+</html>

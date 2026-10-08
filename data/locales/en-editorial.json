@@ -1,0 +1,1152 @@
+{
+  "towers": {
+    "at-klagenfurt-minimundus": {
+      "label": "Minimundus",
+      "name": "Minimundus Eiffel Tower, Klagenfurt",
+      "summary": "The Eiffel Tower model at Minimundus in Klagenfurt has a history of growing larger. The first version, built in 1962, was at 1:50 scale. In 1967 it was rebuilt at the park's usual 1:25 scale. Today the approximately 12.8-metre tower stands among miniature buildings from around the world, inviting visitors to compare familiar landmarks in one garden.",
+      "currentUses": [
+        "Miniature architecture exhibition",
+        "Theme park sightseeing"
+      ]
+    },
+    "au-brisbane-la-dolce-vita": {
+      "label": "Brisbane",
+      "name": "La Dolce Vita Eiffel Tower, Brisbane",
+      "summary": "This replica stands on Park Road in Milton, Brisbane, its slender frame rising above the blue awnings of La Dolce Vita. It is both a streetscape landmark and part of an outdoor dining setting. A French silhouette, Italian dining and an Australian street meet here, giving a small tower its own place in city life.",
+      "currentUses": [
+        "Streetscape landmark",
+        "Restaurant setting"
+      ]
+    },
+    "be-brussels-europe-eiffel-tower": {
+      "label": "Mini-Europe",
+      "name": "Mini-Europe Eiffel Tower, Brussels",
+      "summary": "Mini-Europe in Brussels brings European landmarks together at 1:25 scale. Even in miniature, its Eiffel Tower is about 13 metres tall, higher than an ordinary three-storey building. Tiny figures, buildings and landscaping form a walkable map of Europe, where visitors can compare the size of different landmarks at a shared scale.",
+      "currentUses": [
+        "Miniature architecture exhibition",
+        "Theme park sightseeing"
+      ]
+    },
+    "bg-varna-golden-sands-eiffel-tower": {
+      "label": "Golden Sands",
+      "name": "Golden Sands Eiffel Tower, Bulgaria",
+      "summary": "Bulgaria's Golden Sands resort has its own Paris-like tower. The replica, described as approximately 1:10 scale, creates a familiar landmark beside the Black Sea. It connects a seaside setting with the image of France. Historical reports mention a cafe in the tower, although its current operation remains unconfirmed.",
+      "currentUses": [
+        "Seaside resort landmark"
+      ]
+    },
+    "br-bauru-bauru-eiffel-tower": {
+      "label": "Bauru",
+      "name": "ITE Eiffel Tower, Bauru",
+      "summary": "A replica completed in 1978 stands in front of the ITE campus in Bauru, Brazil. Beyond reproducing a Parisian silhouette, it expresses the ideals of liberty, equality and fraternity valued by the school's founder. Over the years, the tower in front of the early campus buildings has become a symbol of the institution, connecting architecture with local educational history.",
+      "currentUses": [
+        "Campus memorial landmark"
+      ]
+    },
+    "br-santos-dumont-minas-gerais-santos-dumont-eiffel-tower-replica": {
+      "label": "Santos Dumont",
+      "name": "Santos Dumont Memorial Eiffel Tower, Brazil",
+      "summary": "In central Santos Dumont, Brazil, a replica stands beside a model airship, recalling the life of aviation pioneer Alberto Santos Dumont. Near the city hall and a public square, the French landmark's silhouette becomes part of a local memorial setting and an everyday sight for residents and visitors.",
+      "currentUses": [
+        "Aviation history memorial",
+        "Public square landmark"
+      ]
+    },
+    "br-umuarama-torre-eiffel-umuarama": {
+      "label": "Umuarama",
+      "name": "Umuarama Eiffel Tower, Brazil",
+      "summary": "Umuarama's replica stands beside the PR-323 highway in Brazil and is described as about one tenth the scale of the original. It features in local tourism promotion as a symbol of the city. A 160-step staircase leads to a viewing area, giving this roadside steel landmark a second role as a place to look across its surroundings and take photographs.",
+      "currentUses": [
+        "Observation tower",
+        "City landmark"
+      ]
+    },
+    "by-paryz-eiffel-tower": {
+      "label": "Paryž",
+      "name": "Paryž Cross-Topped Eiffel Tower, Belarus",
+      "summary": "Belarus also has a place named Paris, and the village's replica makes that name visible. A large cross rises from the tower's top, giving the familiar silhouette a local interpretation. Travellers stop for photographs, while sculptures around the footings and a viewing platform distinguish this tower from the French original.",
+      "currentUses": [
+        "Local landmark"
+      ]
+    },
+    "ca-montmartre-saskatchewan-montmartre-eiffel-tower": {
+      "label": "Montmartre",
+      "name": "Montmartre Eiffel Tower, Saskatchewan",
+      "summary": "Montmartre in Saskatchewan calls itself the Paris of the Prairies. Its approximately 9.1-metre replica stands on the former railway station grounds in Eiffel Tower Park, celebrating the village's culture. Lawn, picnic space and a familiar silhouette make this small tower a relaxed roadside stop.",
+      "currentUses": [
+        "Park landmark",
+        "Picnics and recreation",
+        "Sightseeing and photography"
+      ]
+    },
+    "cn-beijing-world-park": {
+      "label": "Beijing",
+      "name": "Eiffel Tower at Beijing World Park",
+      "summary": "Beijing World Park brings architecture from different countries into one garden, with the replica tower as a prominent French landmark. It is a sightseeing attraction and a backdrop for performances and festivals. Youth arts events have taken place in front of it, while summer evening visits use lights and fireworks to bring the miniature landmark into Beijing's weekend life.",
+      "currentUses": [
+        "Theme park landmark",
+        "Performance and event backdrop"
+      ]
+    },
+    "cn-hangzhou-tianducheng": {
+      "label": "Tianducheng",
+      "name": "Eiffel Tower at Tianducheng, Hangzhou",
+      "summary": "This 108-metre replica rises among the French-style streets of Tianducheng in Hangzhou, forming a visual centre for homes, squares and shops. It retains the original's spreading legs and gradually narrowing silhouette, surrounded by the everyday lives of Hangzhou residents. The tower is primarily a neighbourhood landmark, with the space beneath it closely connected to new commercial development.",
+      "currentUses": [
+        "Neighbourhood landmark"
+      ]
+    },
+    "cn-shenzhen-window-of-world": {
+      "label": "Shenzhen",
+      "name": "Eiffel Tower at Window of the World, Shenzhen",
+      "summary": "Window of the World in Shenzhen gathers landmarks from different continents in one theme park. Its 108-metre replica is one of the park's prominent tall structures. By day, visitors can see the spreading legs and narrowing latticework; at night it becomes the stage for a tower light show, joining performances and attractions in the city's evening sightseeing experience.",
+      "currentUses": [
+        "Theme park landmark",
+        "Light shows"
+      ]
+    },
+    "es-torrejon-parque-europa": {
+      "label": "Parque Europa",
+      "name": "Parque Europa Eiffel Tower, Torrejón de Ardoz",
+      "summary": "In Torrejón de Ardoz, near Madrid, Parque Europa brings buildings from across Europe within walking distance. The 30-metre tower represents France, retaining broad arches and a silhouette that narrows in stages. It is an outdoor display where visitors can compare architecture from different cities in a single park.",
+      "currentUses": [
+        "Park exhibition",
+        "Architectural sightseeing"
+      ]
+    },
+    "fr-buhl-tower-at-the-entrance-to-the-village": {
+      "label": "Buhl",
+      "name": "Buhl Eiffel Tower, France",
+      "summary": "Buhl has placed a small replica beside a road roundabout, making the familiar Parisian silhouette a local junction landmark. Its size and public setting belong to the everyday life of a small French town. Here, the interest lies in seeing the same tower form leave the capital and enter streets that residents pass through daily.",
+      "currentUses": [
+        "Roundabout landmark"
+      ]
+    },
+    "fr-elancourt-france-miniature": {
+      "label": "France Miniature",
+      "name": "France Miniature Eiffel Tower, Élancourt",
+      "summary": "France Miniature recreates buildings from across the country near Paris. Its Eiffel Tower stands in the Île-de-France section beside models such as the Arc de Triomphe and Notre-Dame. Visitors can cross different French regions on foot, while periodic repainting keeps the model's familiar silhouette in colours that echo the original.",
+      "currentUses": [
+        "Miniature architecture exhibition",
+        "Theme park sightseeing"
+      ]
+    },
+    "fr-paris-eiffel-tower": {
+      "label": "Paris",
+      "name": "Eiffel Tower, Paris",
+      "summary": "Built for the 1889 World's Fair, the original tower's open iron lattice and four arched legs became one of Paris's most recognisable silhouettes. It is both a landmark that visitors can ascend and a platform for broadcasting. A digital radio antenna installed in 2022 brought its total height to 330 metres. Replicas around the world carry this form into their own local stories.",
+      "currentUses": [
+        "Tower sightseeing",
+        "Dining",
+        "Broadcast transmission"
+      ]
+    },
+    "gr-filiatra-town-entrance": {
+      "label": "Filiatra",
+      "name": "Filiatra Eiffel Tower, Greece",
+      "summary": "A small replica welcomes visitors at Filiatra's northwestern entrance, with night lighting making it a prominent landmark. It was created by physician and sculptor Charalambos Fournarakis and later rebuilt by the municipality. The Parisian silhouette appears among Greek olive groves and vineyards, giving the town a distinctive symbol.",
+      "currentUses": [
+        "Town entrance landmark",
+        "Illuminated landmark"
+      ]
+    },
+    "in-delhi-waste-to-wonder": {
+      "label": "Delhi",
+      "name": "Waste to Wonder Eiffel Tower, Delhi",
+      "summary": "Delhi's Waste to Wonder Park rebuilds world landmarks from discarded metal, including nuts, bolts and rods used in this tower. Alongside models such as the Leaning Tower of Pisa and the Taj Mahal, it forms an outdoor exhibition that turns familiar architecture into a case of material reuse. Daylight reveals the components; evening illumination gives the silhouette another expression.",
+      "currentUses": [
+        "Park sightseeing",
+        "Recycled-material art exhibition"
+      ]
+    },
+    "it-pojana-maggiore-replica": {
+      "label": "Pojana Maggiore",
+      "name": "Pojana Maggiore Eiffel Tower, Italy",
+      "summary": "In the Cagnano industrial area of Pojana Maggiore, Italy, a replica stands in front of factory buildings, placing a familiar Parisian silhouette beside a metalworking setting. It serves primarily as a landmark on company premises and attracts passing photographers. Its interest comes from the relationship between a recognisable monument and its new surroundings.",
+      "currentUses": [
+        "Company premises landmark"
+      ]
+    },
+    "jp-tochigi-prefecture-eiffel-tower": {
+      "label": "Tobu World Square",
+      "name": "Tobu World Square Eiffel Tower, Nikko",
+      "summary": "Tobu World Square in Nikko recreates world architecture at a shared scale of 1:25, with the Eiffel Tower in its European section. Tiny figures, trees and street scenes form a miniature city around it. Visitors can study the silhouette up close or use a low camera angle to create the impression of being in Paris. The tower is an architectural model for exhibition.",
+      "currentUses": [
+        "Miniature architecture exhibition",
+        "Theme park sightseeing"
+      ]
+    },
+    "mo-cotai-parisian": {
+      "label": "Macao",
+      "name": "Eiffel Tower at The Parisian Macao",
+      "summary": "The Parisian Macao's replica stands in the Cotai resort district, bringing the Parisian landmark's silhouette into a hotel and shopping setting. Observation decks look across the city and resorts, while changing coloured lights make the tower part of Cotai's night skyline. Different levels offer different views of the surrounding buildings.",
+      "currentUses": [
+        "Observation decks",
+        "Light shows",
+        "Resort landmark"
+      ],
+      "visitorNotice": {
+        "text": "The official page lists a private-event closure from 5 to 11 October. The year 2026 is inferred from other dated information on the same page; the closure sentence does not state a year. Check the operator’s latest notice before visiting."
+      }
+    },
+    "mx-gomez-palacio-durango-torre-eiffel": {
+      "label": "Gómez Palacio",
+      "name": "Gómez Palacio Eiffel Tower, Mexico",
+      "summary": "Gómez Palacio's replica stands at a road junction and, together with the nearby Plaza del Amor, provides a place for photographs and recreation. It brings a French silhouette into everyday life in northern Mexico. Families, friends and travellers gather in the square, making the replica part of the background to local life.",
+      "currentUses": [
+        "City landmark",
+        "Square recreation",
+        "Sightseeing and photography"
+      ]
+    },
+    "pk-karachi-bahria-town": {
+      "label": "Karachi",
+      "name": "Bahria Town Karachi Eiffel Tower",
+      "summary": "Completed in 2019, the approximately 80-metre replica is a prominent landmark in the large Bahria Town community in Karachi. Slender latticework links its platforms, while the central enclosure and platform forms give it distinctive features. It presents a Paris-like silhouette in a neighbourhood setting and includes a sound system serving the outdoor area.",
+      "currentUses": [
+        "Community landmark"
+      ]
+    },
+    "pk-lahore-bahria-town": {
+      "label": "Lahore",
+      "name": "Bahria Town Lahore Eiffel Tower",
+      "summary": "Near Bahria Town's E and F sectors in Lahore, this replica is a prominent meeting landmark in a community park. Its narrowing latticework recalls the original, with a central enclosure and platform facilities of its own. Celebrations and fireworks use the tower park as a backdrop, bringing the familiar Parisian image into local recreation.",
+      "currentUses": [
+        "Community park landmark",
+        "Celebration backdrop"
+      ]
+    },
+    "ro-slobozia-eiffel-tower": {
+      "label": "Slobozia",
+      "name": "Slobozia Eiffel Tower, Romania",
+      "summary": "This replica near Slobozia rises above the trees, leaving a Paris-like silhouette in the Romanian countryside. It stands around the former Hermes holiday complex, which also featured replicas of other foreign buildings. Local travel programmes still visit it as a landmark, although access to the complex and tower facilities requires separate confirmation.",
+      "currentUses": [
+        "Local landmark"
+      ]
+    },
+    "us-las-vegas-paris": {
+      "label": "Las Vegas",
+      "name": "Paris Las Vegas Eiffel Tower",
+      "summary": "Paris Las Vegas brings a half-scale tower to the Strip, weaving its legs through the hotel spaces. Visitors can look across the city from the observation deck or dine in a tower restaurant. After dark, coloured and sparkling lights make the steel replica a central feature of the resort's night skyline.",
+      "currentUses": [
+        "Observation deck",
+        "Dining",
+        "Light shows"
+      ]
+    },
+    "us-mason-kings-island": {
+      "label": "Kings Island",
+      "name": "Kings Island Eiffel Tower, Ohio",
+      "summary": "Kings Island's replica has stood at the end of International Street since the park opened in 1972, helping visitors recognise their position within the grounds. It also offers an observation attraction, joining roller coasters and landscaped spaces in the park's skyline. Here, the tower's role is primarily that of a leisure attraction and orientation landmark.",
+      "currentUses": [
+        "Theme park landmark",
+        "Observation attraction"
+      ]
+    },
+    "us-paris-michigan-paris-michigan-eiffel-tower": {
+      "label": "Paris, Michigan",
+      "name": "Eiffel Tower, Paris, Michigan",
+      "summary": "The replica in Paris Park is a playful landmark in this American town named Paris. The public park occupies a former fish hatchery, surrounded by shade trees, ponds, picnic areas and paths. The tower is mainly a landscape feature and a place for photographs, adding a small Parisian silhouette to an outdoor visit.",
+      "currentUses": [
+        "Public park landmark",
+        "Sightseeing and photography"
+      ]
+    },
+    "us-paris-tennessee": {
+      "label": "Paris, Tennessee",
+      "name": "Eiffel Tower, Paris, Tennessee",
+      "summary": "Paris, Tennessee has made a steel replica the centrepiece of Eiffel Tower Park. Paths, sports fields, playgrounds and picnic spaces bring the French landmark's image into the weekend life of a small American city. Primarily viewed and photographed from the ground, it also expresses a connection with the French city that shares its name.",
+      "currentUses": [
+        "Public park landmark",
+        "Sightseeing and photography"
+      ]
+    },
+    "us-paris-texas": {
+      "label": "Paris, Texas",
+      "name": "Cowboy Hat Eiffel Tower, Paris, Texas",
+      "summary": "Texas has its own Paris, whose replica wears a striking red cowboy hat. Built through a community effort beginning in 1993, the landmark later gained its hat, connecting a French city name with Texas culture. Beside the Love Civic Center, it is a place for photographs and close-up viewing, with coloured lights marking celebrations and local events at night.",
+      "currentUses": [
+        "City landmark",
+        "Sightseeing and photography",
+        "Celebration lighting"
+      ]
+    },
+    "za-bloemfontein-nomc": {
+      "label": "Bloemfontein",
+      "name": "NOMC Eiffel Tower, Bloemfontein",
+      "summary": "NOMC's replica stands beside a steel construction factory in Bloemfontein, its company sign revealing the tower's origins. Built from factory off-cuts, it originally served as an advertisement and carried internal radio communication equipment. Four concrete foundations support an open framework, bringing the Parisian silhouette into a South African industrial street.",
+      "currentUses": [
+        "Company landmark"
+      ]
+    },
+    "br-caxias-copy": {
+      "label": "Caxias",
+      "name": "Eiffel Tower Replica, Caxias",
+      "summary": "A small replica in Caxias follows the familiar four-legged silhouette with a slender upper frame and two platforms. The reference photo shows the tower illuminated at dusk. Its lighting does not establish its daytime paint colour.",
+      "currentUses": []
+    },
+    "fr-vigeville-tour-eiffel-de-vigeville": {
+      "label": "Vigeville",
+      "name": "Vigeville Eiffel Tower",
+      "summary": "The Eiffel-shaped monument in Vigeville’s cemetery is made of granite. A local heritage record says a former mayor commissioned the replica as his funerary monument and records a restoration in 2006. Stone gives it a solid silhouette unlike an open lattice tower. The source presents the commissioner’s ideological motive only as a rumour, which remains unconfirmed.",
+      "currentUses": [
+        "Funerary monument"
+      ]
+    },
+    "mn-sainshand-clock-eiffel-tower": {
+      "label": "Sainshand",
+      "name": "Clock-Topped Eiffel Tower, Sainshand",
+      "summary": "The local version in central Sainshand adds a prominent square clock to an Eiffel-like frame. A specific historical photograph records its pink body, long needle and clock face, showing its adaptation as a town time marker. The image represents its appearance when photographed. Current clock operation, repainting history and construction date require further evidence.",
+      "currentUses": [
+        "Town clock landmark"
+      ]
+    },
+    "sa-riyadh-boulevard-world": {
+      "label": "Riyadh",
+      "name": "Boulevard World Eiffel Tower, Riyadh",
+      "summary": "Boulevard World has a replica with dense latticework, broad platforms and a glass-fronted lower level. The checked night photograph shows its illuminated silhouette. The light colours are separate from the unknown daytime paint.",
+      "currentUses": []
+    },
+    "dk-taastrup-taastrup-eiffel-tower": {
+      "label": "Taastrup",
+      "name": "Taastrup Eiffel Tower",
+      "summary": "Taastrup’s yellow replica brings the French imagery associated with the Tour de France into the local streetscape. A place inventory records it as a town installation, and a specific site photograph documents its open platforms and flagpole. An event association is distinct from proof of permanent use. The construction date and uninterrupted presence at this site remain unconfirmed.",
+      "currentUses": [
+        "Town themed installation"
+      ]
+    },
+    "in-yanam-obelisk-tower": {
+      "label": "Yanam",
+      "name": "Yanam Eiffel Tower Replica",
+      "summary": "Yanam’s replica stands in an Indian east-coast town with historical ties to France. Reports cover its planned construction in 2010 and later tourist visits, documenting a Parisian landmark added to the town’s French-themed landscape. It serves as a leisure-area landmark. Planning, completion and opening are different events, and the available evidence does not establish a precise construction year.",
+      "currentUses": [
+        "Leisure-area landmark"
+      ]
+    },
+    "ir-malayer-tower-at-a-miniature-park-in-a-housing-development": {
+      "label": "Malayer",
+      "name": "Mini World Eiffel Tower, Malayer",
+      "summary": "Mini World in Malayer brings Iranian architecture and international landmarks together in an outdoor visitor space, including an Eiffel replica. Travel material and a specific site image concern the lattice tower viewed along the park’s route. Collection-wide development dates and material descriptions do not substitute for this tower’s manufacture record. Construction year and a defined height remain unselected.",
+      "currentUses": [
+        "Miniature architecture exhibition"
+      ]
+    },
+    "pk-rawalpindi-bahria-phase-8": {
+      "label": "Rawalpindi",
+      "name": "Bahria Town Phase 8 Eiffel Tower, Rawalpindi",
+      "summary": "Bahria Town Phase 8 uses international landmarks within its community landscape, with the operator listing the Eiffel Tower alongside the Statue of Liberty. Its main boulevard also takes inspiration from the Champs-Élysées. The replica belongs to that residential development theme, separately from Bahria towers in Lahore and Karachi. Tower dining, observation access and daily opening arrangements remain unconfirmed.",
+      "currentUses": [
+        "Residential community themed landmark"
+      ]
+    },
+    "za-stellenbosch-dagbreek-tower": {
+      "label": "Dagbreek",
+      "name": "Dagbreek Eiffel Tower, Stellenbosch",
+      "summary": "Dagbreek men’s residence uses the Eiffel as a shared symbol for its emblem, publications and choir. A 2026 university booklet dates the first model, made by Koos du Pisani for a float procession, to 1954. Replacements followed in 1958 and 1962, and Fanie and Abie Nel built a new tower in 2004 for the fiftieth anniversary. The site’s history includes several versions rather than one construction date.",
+      "currentUses": [
+        "Student residence cultural symbol",
+        "Campus quadrangle landmark"
+      ]
+    },
+    "us-raleigh-north-carolina-lafayette-village": {
+      "label": "Lafayette Village",
+      "name": "Lafayette Village Eiffel Tower, Raleigh",
+      "summary": "Lafayette Village in North Raleigh combines European streetscape themes with shops and dining, with a small tower extending the theme at its entrance. The official visitor blog mentions it during a 2013 visit, and a photographer recorded it under construction in 2012. It is an open-air commercial landmark. The construction photograph identifies a stage rather than a precise completion date.",
+      "currentUses": [
+        "Open-air commercial landmark"
+      ]
+    },
+    "lt-mazeikiai-copy": {
+      "label": "Mažeikiai",
+      "name": "Mažeikiai Eiffel Tower",
+      "summary": "A specific streetscape photograph documents this small replica beside a commercial building in Mažeikiai. Spreading legs, two platforms and a slender upper frame support identification of its outline. Maker, any business connection with France and manufacture year remain unconfirmed. The distant image does not provide fine construction detail or a height measurement.",
+      "currentUses": []
+    },
+    "by-homiel-copy": {
+      "label": "Homieĺ",
+      "name": "Miniature Eiffel Tower, Homieĺ",
+      "summary": "This small dark replica has an open framework and a rounded summit enclosure with a long straight needle. Two thin platform rings interrupt the tapering silhouette. Its dimensions and current condition are recorded separately from the photograph.",
+      "currentUses": []
+    },
+    "by-stolin-lenina-copy": {
+      "label": "Stolin",
+      "name": "Eiffel Tower Model near Lenina Square, Stolin",
+      "summary": "A small replica can be seen in the park near Lenina Square in Stolin. The distant photograph confirms the tower subject but gives limited detail of its platforms and summit. The prototype therefore uses a conservative outline.",
+      "currentUses": []
+    },
+    "ru-valday-valday-eiffel-tower": {
+      "label": "Valday",
+      "name": "Valday Eiffel Tower",
+      "summary": "Solovyov Park on the shore of Lake Valday displays a replica among paths, trees and lakeside views. Travel material and a site photograph concern the same landmark, with Russian tricolour sections and local summit decoration. It is a park art feature. A visitor’s claimed donation year and dimensions lack municipal or maker confirmation, and an older photograph does not establish today’s paint.",
+      "currentUses": [
+        "Lakeside park art landmark"
+      ]
+    },
+    "dk-ejby-ejby-eiffel-tower": {
+      "label": "Ejby",
+      "name": "Ejby Eiffel Tower",
+      "summary": "This miniature decorates the minigolf setting at Ejby Sommerby. The specific image description identifies the venue, and the photograph shows the feet beside the course surface, with open platforms and a slender summit. Its documented role is themed scenery within a recreational sports site. Construction date, maker and current course operation remain unconfirmed.",
+      "currentUses": [
+        "Minigolf themed scenery"
+      ]
+    },
+    "co-sabaneta-eiffel-tower": {
+      "label": "Sabaneta",
+      "name": "Eiffel Tower Replica, Sabaneta",
+      "summary": "París Parque Residencial in Sabaneta places its replica within a French-themed residential development. A 2024 report discusses a design that brings a Parisian image close to local residents, and a night photograph records coloured lighting. It serves as a community visual landmark. The illuminated colours are a dated light state rather than evidence of permanent frame paint.",
+      "currentUses": [
+        "Residential community landmark"
+      ]
+    },
+    "fr-bussieres-les-belmont-wicker-eiffel-tower": {
+      "label": "Champsevraine",
+      "name": "Wicker Eiffel Tower, Bussières-lès-Belmont",
+      "summary": "The local version at Bussières-lès-Belmont uses wicker to recreate the Eiffel silhouette; the specific site-image description identifies the material as osier. Woven surfaces enclose the tapering body, giving it a craft interpretation different from open metal replicas. It is documented in a village public setting. Maker, first installation date and restoration history remain unconfirmed.",
+      "currentUses": [
+        "Village craft landmark"
+      ]
+    },
+    "ru-kabardinka-kabardinka-eiffel-tower": {
+      "label": "Kabardinka",
+      "name": "Kabardinka Eiffel Tower",
+      "summary": "A white replica forms part of the visitor streetscape along Kabardinka’s seafront walking area. A specific site image records its spreading legs, platforms and surroundings, identifying an installation in public space. It is viewed from outside. Commissioner, manufacture date and access inside remain unconfirmed; pedestrians in the photograph do not prove that the tower is open for ascent.",
+      "currentUses": [
+        "Seafront walking-area landmark"
+      ]
+    },
+    "lt-andriejaiciai-homestead": {
+      "label": "Andriejaičiai",
+      "name": "Eiffel Tower at Andriejaičiai Homestead",
+      "summary": "A small tower is visible in the grounds of a Lithuanian homestead at Andriejaičiai. The distant image supports its outline but not precise summit details or a reliable paint colour. Public access and present-day status remain separate research questions.",
+      "currentUses": []
+    },
+    "mx-culiacan-motel-paris": {
+      "label": "Culiacán",
+      "name": "Motel Paris Eiffel Tower, Culiacán",
+      "summary": "A dark lattice replica rises from the setting of Motel Paris near Culiacán. Its summit has a prominent rounded enclosure, while two platform bands and broad arches define the lower silhouette. The photograph is a dated appearance reference.",
+      "currentUses": []
+    },
+    "fr-issy-les-moulineaux-mayer": {
+      "label": "Issy-les-Moulineaux",
+      "name": "Mayer Eiffel Tower Sign, Issy-les-Moulineaux",
+      "summary": "This miniature at 42 rue Ernest Renan in Issy-les-Moulineaux is fixed to the shop exterior as a Mayer sign. A specific photograph and named place object concern the same location, showing the use of a landmark silhouette in a commercial street sign. Visitor floors are not documented. Its maker, date and closer structural details remain unconfirmed.",
+      "currentUses": [
+        "Shop exterior sign"
+      ]
+    },
+    "fr-sainte-vaubourg-tour-eiffel-en-bois": {
+      "label": "Sainte-Vaubourg",
+      "name": "Wooden Eiffel Tower, Sainte-Vaubourg",
+      "summary": "The photograph shows a wooden Eiffel-shaped tower with heavy uprights and cross-bracing. Its permanent public setting and precise replica identity remain under review.",
+      "currentUses": []
+    },
+    "fr-sains-en-gohelle-tower-on-a-roundabout": {
+      "label": "Sains-en-Gohelle",
+      "name": "Sains-en-Gohelle Eiffel Tower",
+      "summary": "At Sains-en-Gohelle, the silhouette stands on a roundabout named Tour Eiffel. The site photograph shows solid legs and thick platforms, differing from conventional open lattice miniatures. A place record also links the setting with the former Eiffel inn nearby. It is a junction landscape feature, with its exact origin, material composition and installation year unconfirmed.",
+      "currentUses": [
+        "Roundabout landscape feature"
+      ]
+    },
+    "mx-durango-parque-guadiana": {
+      "label": "Parque Guadiana",
+      "name": "Parque Guadiana Eiffel Tower, Durango",
+      "summary": "An Eiffel-like miniature appears among the landmark replicas of Parque Guadiana in Durango. The checked photograph shows it behind a larger Christ statue and vegetation. Only the visible outline is used for a conservative prototype.",
+      "currentUses": []
+    },
+    "de-lauterstein-private-garden": {
+      "label": "Lauterstein",
+      "name": "Lauterstein Miniature Garden Eiffel Tower",
+      "summary": "A private garden in Lauterstein brings miniature landmarks together, including an Eiffel model beside the Atomium and Golden Gate Bridge. The checked photograph records the tower as a small, distant subject at the lower left. It confirms the work’s place in the garden without establishing detailed summit geometry or dimensions. The maker’s motivation and visitor arrangements remain unconfirmed.",
+      "currentUses": [
+        "Private miniature garden display"
+      ]
+    },
+    "de-hamburg-moorfleet-moorfleet-eiffelturm": {
+      "label": "Hamburg-Moorfleet",
+      "name": "Moorfleet Eiffel Tower, Hamburg",
+      "summary": "Site photographs document this small replica in Hamburg’s Moorfleet district. Substantial platform bands, broad base arches and a square summit with rectangular openings distinguish its treatment from the Paris original. The evidence supports appearance and place identification. Its builder, historical use and construction year lack traceable written records, so an origin story remains unconfirmed.",
+      "currentUses": []
+    },
+    "pl-krajno-zagorze-eiffel-tower-miniature": {
+      "label": "Sabat Krajno",
+      "name": "Sabat Krajno Eiffel Tower, Krajno-Zagórze",
+      "summary": "Sabat Krajno expanded from a ski station into a resort with a miniature landmark avenue and other leisure facilities. The Eiffel Tower is one of its world-architecture displays. The operator presents the route for families and school visits and mentions the illuminated tower near the ski area. Individual dimensions, materials and construction year require tower-specific evidence rather than inference from the collection’s scale.",
+      "currentUses": [
+        "Miniature architecture exhibition",
+        "Educational visit feature"
+      ]
+    },
+    "bd-rangpur-vinna-jogot": {
+      "label": "Rangpur",
+      "name": "Vinna Jogot Eiffel Tower, Rangpur",
+      "summary": "A large replica stands beside the lake at Vinna Jogot amusement park near Rangpur. The checked 2014 photograph shows open silver-grey latticework, spreading legs and two platforms. Current tower access and exact dimensions remain unconfirmed.",
+      "currentUses": []
+    },
+    "pl-klodzko-minieuroland": {
+      "label": "Minieuroland",
+      "name": "Minieuroland Eiffel Tower, Kłodzko",
+      "summary": "Minieuroland in Kłodzko combines miniature buildings with flower gardens, including an Eiffel replica among its world landmarks. The operator describes handmade models, and a 2025 site photograph documents the tower and its visitor setting. Park paths let visitors examine the miniature architecture. General park scale statements are kept separate from a measured height for this tower.",
+      "currentUses": [
+        "Miniature architecture exhibition",
+        "Garden sightseeing"
+      ]
+    },
+    "fr-plumelin-kingoland": {
+      "label": "Kingoland",
+      "name": "Kingoland Eiffel Tower, Plumelin",
+      "summary": "This fixed replica stands in Kingoland amusement park at Plumelin. The checked 2025 photograph shows broad grey lattice beams, two thick platform bands and a small summit enclosure with a flag. Its precise height and current access remain unconfirmed.",
+      "currentUses": []
+    },
+    "in-gondia-mini-eiffel-tower": {
+      "label": "Gondia",
+      "name": "Mini Eiffel Tower, Gondia",
+      "summary": "Gondia’s outdoor replica is explicitly named in the city’s Wikipedia image caption and a specific site file. The photograph records warm-toned latticework, spreading arches and a small summit, matched with a named place object. The venue’s official name, maker and construction purpose remain unconfirmed. Stories and dimensions from other Indian theme parks are not applied to it.",
+      "currentUses": []
+    },
+    "tn-tunis-dahdah": {
+      "label": "Dahdah, Tunis",
+      "name": "Dahdah, Tunis Eiffel Tower",
+      "summary": "The silver-grey lattice replica stands among the rides at Dahdah. Two platforms, broad arches and a small top platform form its outline.",
+      "currentUses": []
+    },
+    "gb-brockham-eiffel-tower-brockham": {
+      "label": "Brockham",
+      "name": "Brockham Eiffel Tower",
+      "summary": "This small lattice tower has two light platforms and a French flag at its summit. Whether it is a permanent public installation remains unconfirmed.",
+      "currentUses": []
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "label": "Bourgoin-Jallieu",
+      "name": "Bourgoin-Jallieu Eiffel Tower",
+      "summary": "A historical postcard records a tower with several stepped tiers and a pointed summit. The image does not establish that the structure survives today.",
+      "currentUses": []
+    },
+    "ee-reigi-eiffeli-torni-puidust-koopia": {
+      "label": "Reigi wooden tower",
+      "name": "Reigi wooden tower Eiffel Tower",
+      "summary": "Jaan Alliksoo made a one-tenth wooden interpretation of the Paris tower in 2007. He gradually added a ship, labyrinth and other works around it, forming a private adventure park in Reigi. Hiiumaa’s tourism information continues to describe the site and says groups need advance booking. Tower condition and ascent rules require venue confirmation; a removal report about a separate smaller tower is not applied to this main structure.",
+      "currentUses": [
+        "Private handmade adventure-park landmark"
+      ]
+    },
+    "fr-apach-apach-tower": {
+      "label": "Apach",
+      "name": "Apach Eiffel Tower",
+      "summary": "Near Apach’s entrance on France’s northeastern border, a small replica places a French landmark in an everyday roadside setting. A specific site photograph documents the tower on a tall rectangular pedestal beside the street. It supports identification as a streetscape feature. Manufacture date, commissioner and any town-twinning significance remain unconfirmed.",
+      "currentUses": [
+        "Streetscape installation"
+      ]
+    },
+    "fr-mamers-place-de-la-republique": {
+      "label": "Mamers rooftop tower",
+      "name": "Mamers rooftop tower Eiffel Tower",
+      "summary": "Look up at the roof of 26 Place de la République in Mamers to find a 1:100 replica. The local tourism office dates it to 1889 and recounts a friend’s suggestion to decorate the Hôtel du Cygne’s rooftop terrace with the tower. Officers of the 115th Infantry Regiment once gathered on that terrace. Today it is a small heritage feature visible during a walk through the town.",
+      "currentUses": [
+        "Rooftop decoration",
+        "Local heritage feature"
+      ]
+    },
+    "in-chandigarh-leisure-valley": {
+      "label": "Chandigarh Leisure Valley",
+      "name": "Chandigarh Leisure Valley Eiffel Tower",
+      "summary": "India’s national tourism material identifies this replica in Chandigarh’s Leisure Valley. Park paths, gardens and leisure activities surround it, bringing a miniature Parisian silhouette into a walk through the city’s green space. The Leisure Valley and Sector 10 references concern the same tower and are kept as one canonical site.",
+      "currentUses": [
+        "City park landmark"
+      ]
+    },
+    "pl-inwald-miniatures": {
+      "label": "Inwałd miniature park",
+      "name": "Inwałd miniature park Eiffel Tower",
+      "summary": "Park Miniatur Świat Marzeń in Inwałd presents world landmarks in miniature, with an Eiffel model near an Arc de Triomphe. A specific site photograph documents this French architectural group and its walking setting. It is an architectural display viewed at close range. The park’s name and theme do not establish the individual tower’s manufacture year, exact scale or measured height.",
+      "currentUses": [
+        "Miniature architecture exhibition"
+      ]
+    },
+    "in-kota-rajasthan-kota-eiffel-tower": {
+      "label": "Kota Seven Wonders Park",
+      "name": "Kota Seven Wonders Park Eiffel Tower",
+      "summary": "Kota’s Seven Wonders Park gathers miniature versions of well-known world buildings, with the Eiffel Tower representing France. Visitors follow park paths between the models, and a night photograph records purple and white lighting. The tower is an architectural display and photography setting. The park’s theme does not classify the Eiffel Tower as one of the ancient Seven Wonders.",
+      "currentUses": [
+        "Miniature architecture exhibition",
+        "Sightseeing and photography"
+      ]
+    },
+    "ru-parizh-chelyabinsk-oblast-eiffel-tower": {
+      "label": "Parizh communications tower",
+      "name": "Parizh communications tower Eiffel Tower",
+      "summary": "The village of Parizh in Chelyabinsk Oblast connects its name with Paris through this replica. A village reference records it as a mobile communications tower constructed in 2005, and summit equipment is visible in the site photograph. It combines a local landmark with working infrastructure. Equipment platforms do not establish public observation-deck access.",
+      "currentUses": [
+        "Mobile communications infrastructure",
+        "Village landmark"
+      ]
+    },
+    "ru-krasnoyarsk-bonjour": {
+      "label": "Krasnoyarsk Bonjour",
+      "name": "Krasnoyarsk Bonjour Eiffel Tower",
+      "summary": "Local visitor material links Krasnoyarsk’s replica to the former French restaurant Bonjour and attributes the 2007 project to its owner. The neighbouring small square, benches and trees made it a streetscape photo stop beyond the original restaurant setting. Closure of the restaurant and the tower’s continued presence are separate questions. A general description as metal does not establish a specific steel type.",
+      "currentUses": [
+        "Neighbourhood landmark",
+        "Photography backdrop"
+      ]
+    },
+    "ua-vinnytsia-copy": {
+      "label": "Vinnytsia",
+      "name": "Vinnytsia Eiffel Tower",
+      "summary": "A specific city-identified site file documents this small replica in Vinnytsia, with a dark lattice frame, two platforms and a flared summit cage. It supports the model’s appearance reference but does not fully identify the hosting institution, maker’s motivation or manufacture date. The local image and source are retained while premises identity and construction records remain gaps.",
+      "currentUses": []
+    },
+    "fr-damery-namur-grave": {
+      "label": "Damery cemetery monument",
+      "name": "Damery cemetery monument Eiffel Tower",
+      "summary": "Solid sloping legs, thick square platforms and an urn-shaped summit form this cemetery monument. Its exact relationship to an Eiffel replica remains under review.",
+      "currentUses": []
+    },
+    "cz-hradec-kralove-namesti-5-kvetna-eiffelovka": {
+      "label": "Hradec Králové playground tower",
+      "name": "Hradec Králové playground tower Eiffel Tower",
+      "summary": "Pink perforated panels and gold platform rings form an Eiffel-shaped playground structure with a slide. Its permanent replica identity is still being checked.",
+      "currentUses": []
+    },
+    "br-rio-de-janeiro-barra-world-shopping-park": {
+      "label": "Barra World, Rio de Janeiro",
+      "name": "Barra World, Rio de Janeiro Eiffel Tower",
+      "summary": "Barra World arranges its shopping streets around architectural images from different countries and cities, with the tower representing Paris. A 2023 RFI report documents the steel replica and the surrounding commercial spaces. It serves as shopping-centre scenery and a backdrop for photographs. The reported height lacks a clearly defined engineering endpoint.",
+      "currentUses": [
+        "Shopping-centre scenery",
+        "Photography backdrop"
+      ]
+    },
+    "br-rio-claro-copy": {
+      "label": "Rio Claro",
+      "name": "Rio Claro Eiffel Tower",
+      "summary": "A site record and photographic reference document this replica in Rio Claro, São Paulo. Relatively few members form spreading legs and one clearly developed platform, retaining an Eiffel-like taper in a simplified interpretation. The photograph supports appearance identification. Builder, origin and any public ascent function remain unconfirmed.",
+      "currentUses": []
+    },
+    "fr-soing-tour-eiffel-eurosaone": {
+      "label": "Soing",
+      "name": "Soing Eiffel Tower",
+      "summary": "Soing’s replica stands in a leisure setting beside the Saône. Regional tourism information includes it among the features encountered along the La Voie Bleue cycling route. It is a local landmark for visitors passing through the village and riverside area. Its Eurosaône association places a European architectural symbol in a rural visitor setting; commissioning and first-installation dates remain unresolved.",
+      "currentUses": [
+        "Riverside leisure landmark",
+        "Cycling-route feature"
+      ]
+    },
+    "ca-terrebonne-solarium-international": {
+      "label": "Terrebonne Solarium International candidate",
+      "name": "Solarium International Eiffel tower candidate",
+      "summary": "Discovery sources mention a tower at a solarium company, with conflicting heights and an unresolved venue. The large tower photographed at 2275 boulevard des Entreprises is recorded separately.",
+      "currentUses": []
+    },
+    "de-berlin-centre-francais-de-berlin": {
+      "label": "Berlin Wedding wooden tower",
+      "name": "Berlin Wedding wooden tower Eiffel Tower",
+      "summary": "The wooden replica at the Centre Français de Berlin is linked to the departure of French forces from Berlin. A tower gifted in 1994 became a symbol of Franco-German friendship. The old structure was dismantled for safety in 2023; neighbourhood fundraising supported a replacement unveiled on 6 November 2024. Its timber frame preserves a local material interpretation at the centre’s entrance in Wedding.",
+      "currentUses": [
+        "Franco-German friendship landmark",
+        "Cultural-centre entrance feature"
+      ]
+    },
+    "us-doswell-kings-dominion": {
+      "label": "Kings Dominion",
+      "name": "Kings Dominion Eiffel Tower",
+      "summary": "Kings Dominion’s replica in Doswell, Virginia is a park observation attraction. The operator continues to list it in the attraction directory and describes its bird’s-eye view of the grounds. Its lift and viewing space offer a way to see paths and rides from above. The sister tower at Kings Island in Ohio has its own construction and photo record.",
+      "currentUses": [
+        "Theme park observation attraction",
+        "Park landmark"
+      ]
+    },
+    "us-epcot-theme-park-lake-buena-vista-florida-eiffel-tower": {
+      "label": "Epcot France pavilion",
+      "name": "Epcot France pavilion Eiffel Tower",
+      "summary": "Epcot’s France pavilion presents a French streetscape, with the replica rising above the roofs as a visual identifier for the area. The existing site reference shows the upper shaft and summit, while the pavilion buildings conceal the lower part. Its rooftop silhouette is part of the pavilion’s architectural scenery.",
+      "currentUses": [
+        "Themed pavilion visual identifier"
+      ]
+    },
+    "us-fayetteville-north-carolina-bordeaux-tower": {
+      "label": "Fayetteville Bordeaux Center",
+      "name": "Fayetteville Bordeaux Center Eiffel Tower",
+      "summary": "Bordeaux Center in Fayetteville uses its replica as a prominent identifier, with commercial space named Under the Tower. The operator includes it in the centre’s introduction and leasing material. A lighting project completed in 2022 supports white and celebratory coloured illumination. The centre’s development in 1964 is distinct from the tower’s construction, and conflicting height and scale claims remain separate.",
+      "currentUses": [
+        "Commercial-centre landmark",
+        "Celebration lighting"
+      ]
+    },
+    "us-salt-lake-city-international-peace-gardens": {
+      "label": "Salt Lake City Peace Gardens",
+      "name": "Salt Lake City Peace Gardens Eiffel Tower",
+      "summary": "Salt Lake City’s International Peace Gardens includes gardens representing different nations. The French Garden centres on a miniature Eiffel Tower by sculptor Richard Prazen. The city records the garden’s dedication on 12 June 1999, with the sculpture within its formal garden layout. It is a public garden sculpture; the dedication date does not establish its exact manufacture date.",
+      "currentUses": [
+        "Public garden sculpture",
+        "French cultural display"
+      ]
+    },
+    "za-hartbeespoort-french-toast": {
+      "label": "Hartbeespoort French Toast",
+      "name": "Hartbeespoort French Toast Eiffel Tower",
+      "summary": "Little Paris in Hartbeespoort began as a film setting for French Toast and retained its café, gallery and French-themed landscape. The replica and love-lock bridge provide sightseeing and photography features. The operator describes a height claim of 12.5 metres, while other sources differ; the display does not treat it as a measured height.",
+      "currentUses": [
+        "Preserved film-setting landscape",
+        "Sightseeing and photography"
+      ]
+    },
+    "de-satteldorf-rungis-express": {
+      "label": "Satteldorf Rungis Express",
+      "name": "Satteldorf Rungis Express Eiffel Tower",
+      "summary": "Historical photographs show the grey replica on the former Rungis Express roof in Satteldorf, with its lower section hidden by the building. Owner LEONHARD WEISS records its removal in March 2021 before demolition of the building, followed by refurbishment and reinstallation on the formwork workshop roof farther east. The old roof position is no longer its location. The exact reinstallation date, new tower coordinates and present condition remain unverified; the model retains the visible section recorded in historical photographs.",
+      "currentUses": []
+    },
+    "in-kolkata-eco-park": {
+      "label": "Kolkata Eco Park",
+      "name": "Kolkata Eco Park Eiffel Tower",
+      "summary": "Eco Park in Kolkata’s New Town combines gardens and themed features around a lake, including an Eiffel replica as a French architectural image. A park guide and a 2018 photograph concern this waterside tower, encountered along the visitor routes. It is separate from the tower at Nicco Park in Salt Lake, with its own height, date and photo evidence.",
+      "currentUses": [
+        "Lakeside park landmark"
+      ]
+    },
+    "id-rawa-pening-bamboo": {
+      "label": "Rawa Pening bamboo tower",
+      "name": "Rawa Pening bamboo tower Eiffel Tower",
+      "summary": "At Radesa Wisata beside Rawa Pening, a bamboo framework recreates the Eiffel silhouette. Tourism reporting links the visitor facility to local youth participation and records the park opening in July 2020. Waterside paths, timber platforms and external stairs give it a lakeside character. The park’s opening date does not establish the tower’s exact completion date.",
+      "currentUses": [
+        "Lakeside visitor attraction",
+        "Sightseeing and photography"
+      ]
+    },
+    "kz-almaty-french-house-tower": {
+      "label": "Almaty French House",
+      "name": "Almaty French House Eiffel Tower",
+      "summary": "Beside the curved glass entrance to French House in Almaty, a replica forms a French-themed commercial feature. The specific site reference shows a cream lattice frame, substantial platform edges and a small summit cage. It is an entrance landmark. The source’s mistaken description of Almaty as the current capital is not repeated, and manufacture date or ascent use remain unconfirmed.",
+      "currentUses": [
+        "Commercial building entrance feature"
+      ]
+    },
+    "th-pattaya-city-mini-siam": {
+      "label": "Pattaya Mini Siam",
+      "name": "Pattaya Mini Siam Eiffel Tower",
+      "summary": "Mini Siam in Pattaya combines Thai architectural models with international landmarks, including an Eiffel replica. Thailand’s tourism authority presents the park as a walk-through miniature-world attraction. An existing night reference records warm illumination on the tower. Park opening history and the manufacture date of this individual model are distinct information.",
+      "currentUses": [
+        "Miniature architecture exhibition"
+      ]
+    },
+    "in-kolkata-nicco-park": {
+      "label": "Kolkata Nicco Park",
+      "name": "Kolkata Nicco Park Eiffel Tower",
+      "summary": "Nicco Park lists its replica among the park’s attractions, while national tourism material describes its views over the grounds. It forms part of Kolkata’s leisure park experience. This site is Nicco Park in Salt Lake; the separate tower at Eco Park in New Town has its own record, photographs and location.",
+      "currentUses": [
+        "Theme park landmark",
+        "Observation attraction"
+      ]
+    },
+    "ru-voronezh-eiffel-tower-of-nikitin-s-gymnasium": {
+      "label": "Voronezh Nikitin Gymnasium",
+      "name": "Voronezh Nikitin Gymnasium Eiffel Tower",
+      "summary": "The miniature on the grounds of Nikitin Gymnasium in Voronezh stands on a raised circular base with four supporting posts. The site photograph and author’s title identify the school rather than a separate town called Nikitin. It is a campus landscape feature. Maker, construction date and any connection with French-language education require school records.",
+      "currentUses": [
+        "Campus landmark"
+      ]
+    },
+    "id-batu-museum-angkut": {
+      "label": "Batu Museum Angkut",
+      "name": "Batu Museum Angkut Eiffel Tower",
+      "summary": "The fixed indoor replica sits in the museum’s Paris scene. Two platforms, broad arches and a long lattice shaft appear beneath bright decorative lighting.",
+      "currentUses": []
+    },
+    "id-bogor-devoyage": {
+      "label": "Bogor DeVoyage",
+      "name": "Bogor DeVoyage Eiffel Tower",
+      "summary": "The brown-grey lattice replica stands on raised concrete feet on an island walkway. The reference shows two open platforms and arches, while the enlarged view cuts off the finest summit details.",
+      "currentUses": []
+    },
+    "id-purwokerto-small-world": {
+      "label": "Purwokerto Small World",
+      "name": "Purwokerto Small World Eiffel Tower",
+      "summary": "Grey latticework and dark platform edges form the replica at Small World. People in the photograph hide the lower feet, so the visible evidence mainly covers the shaft, platforms and small summit.",
+      "currentUses": []
+    },
+    "id-sleman-merapi-park": {
+      "label": "Sleman Merapi Park",
+      "name": "Sleman Merapi Park Eiffel Tower",
+      "summary": "The park replica has dark latticework, thick platform edges and broad arches on small square foundations. A low-resolution research photograph supports its outline with limited summit detail.",
+      "currentUses": []
+    },
+    "at-vienna-prater-children-s-park": {
+      "label": "Vienna Prater Paris ride",
+      "name": "Vienna Prater Paris ride Eiffel Tower",
+      "summary": "At Vienna’s Prater, a replica forms the centrepiece of the Paris track ride. Small vehicles travel around it, letting children turn a steering wheel while remaining on a fixed track. The tower is part of the ride’s scenery. The operator continues to list the attraction in its children’s programme.",
+      "currentUses": [
+        "Children’s ride scenery"
+      ]
+    },
+    "de-bexbach-gulliver": {
+      "label": "Bexbach Gulliver Welt",
+      "name": "Bexbach Gulliver Welt Eiffel Tower",
+      "summary": "Gulliver Welt brings miniature world buildings together, including an Eiffel Tower. The collection was previously displayed in Saarbrücken and was restored for public display in Bexbach in 2017 after the earlier park closed. Field reporting shows the tower among landscaped models. The reopening date is distinct from the model’s original manufacture date.",
+      "currentUses": [
+        "Miniature architecture exhibition"
+      ]
+    },
+    "gb-windsor-legoland-windsor": {
+      "label": "Windsor Legoland Miniland",
+      "name": "Windsor Legoland Miniland Eiffel Tower",
+      "summary": "Miniland at LEGOLAND Windsor rebuilds city landmarks from bricks, with the Eiffel model forming part of its Paris scene. A specific 2018 site photograph records the fixed outdoor model and neighbouring miniature architecture. Visitors view it from park paths. The brick construction and venue theme identify the medium, while its manufacture year and brick count remain unconfirmed.",
+      "currentUses": [
+        "Brick-built miniature architecture display"
+      ]
+    },
+    "tj-kulob-eiffel-tower": {
+      "label": "Kulob French Street",
+      "name": "Kulob French Street Eiffel Tower",
+      "summary": "A 2019 field report described a French-themed public leisure space in Kulob that was scheduled to be unveiled on 11 September, with a replica as one of its prominent architectural images. RFE/RL’s field report records the park, paths and visitors and discusses residents’ reactions to the project. The tower is a themed park landmark. Conflicting height descriptions are retained without selecting a measured total height.",
+      "currentUses": [
+        "Public leisure feature",
+        "French-themed landmark"
+      ]
+    },
+    "de-lichtenstein-miniwelt": {
+      "label": "Lichtenstein Miniwelt",
+      "name": "Lichtenstein Miniwelt Eiffel Tower",
+      "summary": "Miniwelt in Lichtenstein, Saxony opened in 1999 and arranges world buildings in an outdoor park. Its Eiffel replica stands among the architectural models, viewed from paths through the grounds. The operator describes the collection’s 1:25 scale and gives a height claim for the tower. Scale and promotional dimensions remain distinct from a clearly defined measurement endpoint.",
+      "currentUses": [
+        "Miniature architecture exhibition"
+      ]
+    },
+    "fr-sancerre-former-station-replica": {
+      "label": "Sancerre former station",
+      "name": "Sancerre former station Eiffel Tower",
+      "summary": "A sparse weathered frame stands beside the former railway station. Straight sloping legs, one clear light platform and a small curved summit crown differ from the ornate Paris structure.",
+      "currentUses": []
+    },
+    "pl-rybnik-tower-on-a-roundabout": {
+      "label": "Rybnik Niedobczyce-Paryż",
+      "name": "Rybnik Niedobczyce-Paryż Eiffel Tower",
+      "summary": "A neighbourhood in Rybnik’s Niedobczyce district is known as Paris. A residents’ budget project brought it an Eiffel replica, whose arrival was reported by the city in 2022. The municipality includes the roundabout in its local landscape guide. The sculpture makes the neighbourhood’s nickname visible as a public junction landmark.",
+      "currentUses": [
+        "Public roundabout sculpture",
+        "Neighbourhood landmark"
+      ]
+    },
+    "vn-long-an-province-phu-sinh-cat-tuong-eiffel-tower": {
+      "label": "Cát Tường Phú Sinh",
+      "name": "Cát Tường Phú Sinh Eiffel Tower",
+      "summary": "The Cát Tường Phú Sinh residential development in Đức Hòa includes a world-landmark park, where the replica stands beside water among other miniature buildings. Residents and visitors can walk through the ensemble. Local reporting presents it as Seven Wonders Park, and a 2020 photograph records the white tower. Materials described for the collection do not establish every component of this individual structure.",
+      "currentUses": [
+        "Residential park landmark",
+        "Architectural model exhibition"
+      ]
+    },
+    "de-bad-durrheim-10-years-town-twinning-tower": {
+      "label": "Bad Dürrheim Kurpark",
+      "name": "Bad Dürrheim Kurpark Eiffel Tower",
+      "summary": "The small white tower in Bad Dürrheim’s Kurpark commemorates the town’s partnership with Enghien-les-Bains in France. A field record associates it with the tenth anniversary in 2002, and photographs show it on a square paved base beside the park path. It is viewed as a park memorial. The exact metal type and height endpoint remain unconfirmed.",
+      "currentUses": [
+        "Town-twinning memorial",
+        "Park sightseeing"
+      ]
+    },
+    "us-paris-arkansas-eiffel-tower-park-paris": {
+      "label": "Paris, Arkansas",
+      "name": "Paris, Arkansas Eiffel replica",
+      "summary": "Paris, Arkansas displays its replica above a downtown fountain as a public reference to the French city that shares its name. The local chamber records it as a gift to the city in 2014 and distinguishes the tower’s height from the fountain beneath it. Visitors can view and photograph it in the square. The combined fountain-and-tower height is distinct from the metal frame alone.",
+      "currentUses": [
+        "Public fountain landmark",
+        "Sightseeing and photography"
+      ]
+    },
+    "am-goris-tower-in-front-of-the-town-hall": {
+      "label": "Goris central square",
+      "name": "Goris central square Eiffel replica",
+      "summary": "This small replica stands in the central square of Goris, Armenia, near the civic centre. A visitor’s illustrated account records it as part of the townscape, standing on the paved square. Its documented role is a public landscape feature; the builder, construction date and any access to the tower remain unconfirmed.",
+      "currentUses": [
+        "Public square landmark"
+      ]
+    },
+    "us-queens-paris-suites": {
+      "label": "Queens Paris Suites Hotel",
+      "name": "Queens Paris Suites Hotel Eiffel replica",
+      "summary": "Paris Suites Hotel in Queens, New York uses a rooftop replica alongside its Paris-themed name. A site reference and accommodation exterior photographs match the same building, with the tower above the hotel sign. It is an exterior hotel identifier, distinct from temporary New York tower installations. Coloured night lighting does not establish daytime paint, manufacture date or roof visitor access.",
+      "currentUses": [
+        "Hotel rooftop identifier"
+      ]
+    },
+    "id-bitung-mini-eiffel-tower": {
+      "label": "Bitung maritime tower",
+      "name": "Bitung maritime tower Eiffel replica",
+      "summary": "Bitung’s replica is recorded near Sam Ratulangi Road. A community city account traces it to the late 1980s and links the project to a mayor who had studied in Paris, describing how a Parisian image entered this North Sulawesi port town. That origin account remains attributed to the blog; an exact construction year, designer and visitor access require stronger records.",
+      "currentUses": [
+        "Townscape landmark"
+      ]
+    },
+    "ph-norzagaray-bulakan-adventure-resort": {
+      "label": "Norzagaray Adventure Resort",
+      "name": "Norzagaray Adventure Resort Eiffel replica",
+      "summary": "Adventure Resort in Norzagaray, Bulacan displays this replica within its leisure grounds. A visitor’s account presents it as a European-themed sightseeing feature close to home. Red access steps and the gold-yellow frame make it recognisable in photographs. Earlier material also discusses resort rappelling, but a rappelling start height is distinct from the tower’s total height.",
+      "currentUses": [
+        "Resort landmark",
+        "Sightseeing and photography"
+      ]
+    },
+    "jp-kanzaki-saga-tower-in-fields-in-the-country": {
+      "label": "Kanzaki Baba Body",
+      "name": "Kanzaki Baba Body Eiffel replica",
+      "summary": "Beside Baba Body in Kanzaki, Saga, the replica is the result of Kenji Baba’s long personal construction project. A 2026 RKB interview describes about seven and a half years of work. Small decorative turrets flank the main tower as part of one composition. A sign welcoming visitors makes it an accessible landmark to discover, without establishing that the tower is open for ascent.",
+      "currentUses": [
+        "Private craftsmanship display",
+        "Factory-side landmark"
+      ]
+    },
+    "fr-capdenac-gare-tour-eiffel-de-capdenac-gare": {
+      "label": "Capdenac-Gare",
+      "name": "Capdenac-Gare Eiffel replica",
+      "summary": "Capdenac-Gare’s replica was made by local craftsman Alain Lacombe and appears in the town’s heritage material. The current record concerns the tower near La Locomotive. A 2024 photograph shows Olympic rings added for that year. Earlier references to Jardin de Fer belong to its location history, and the rings are temporary decoration rather than permanent structure.",
+      "currentUses": [
+        "Town landmark",
+        "Local craftsmanship display"
+      ]
+    },
+    "de-ulm-autohaus-sayler": {
+      "label": "Ulm Autohaus Sayler",
+      "name": "Ulm Autohaus Sayler Eiffel replica",
+      "summary": "At Autohaus Sayler on Herrlinger Straße in Ulm, the replica forms an entrance landmark associated with a French car dealership. The site record and business photographs match the same structure, with four round foundations and ring-shaped summit details. The dealership has other premises nearby; this record concerns the Herrlinger Straße site, without an established independent tower visitor attraction.",
+      "currentUses": [
+        "Car-dealership entrance feature"
+      ]
+    },
+    "fr-sainte-croix-aux-mines-eiffel-alsace": {
+      "label": "Sainte-Croix-aux-Mines Alsace",
+      "name": "Sainte-Croix-aux-Mines Alsace Eiffel replica",
+      "summary": "Jean-Claude and Killian Fassler spent years making this red replica, choosing the Paris tower’s 1889 summit form. AFP and RTL reported its completed assembly in August 2025, visible at the village entrance with broad arches and a historical crown. The makers describe a dismantlable structure that was offered for sale. Visibility from outside does not establish permission to ascend or a current visitor programme.",
+      "currentUses": [
+        "Privately made outdoor landmark"
+      ]
+    },
+    "ua-kharkiv-eiffel-tower": {
+      "label": "Kharkiv French Boulevard",
+      "name": "Kharkiv French Boulevard Eiffel replica",
+      "summary": "French Boulevard shopping centre in Kharkiv displays a replica on its paved terrace. The operator and regional tourism material identify it as a feature of the centre, with visitors using the space beneath and around it. It extends the French theme into the exterior shopping setting. Flags are scene decoration; centre operation and the tower’s maintenance condition are separate matters.",
+      "currentUses": [
+        "Shopping-centre landmark",
+        "Photography backdrop"
+      ]
+    },
+    "ca-terrebonne-le-roi-du-plancher": {
+      "label": "Terrebonne 2275 tower",
+      "name": "Former Solarium de Paris Eiffel replica",
+      "summary": "This large replica stands on a landscaped stone mound at 2275 boulevard des Entreprises in Terrebonne. A Waymarking field record links it to the former Solarium de Paris business, and photographs from 2015 and 2019 match the tower, mound and neighbouring industrial building. It is a fixed commercial landscape feature. A separately reported smaller Solarium International tower remains a different investigation.",
+      "currentUses": [
+        "Commercial premises landmark"
+      ]
+    },
+    "mx-guadalajara-tower-on-periferico": {
+      "label": "Guadalajara Bethel garden",
+      "name": "Guadalajara Eiffel replica",
+      "summary": "The replica beside Guadalajara’s Periférico stands in the garden of the Bethel religious premises. A local account and two site photographs document its position between trees and a garden wall, with relatively open latticework and platforms. It is a garden feature, distinct from buildings at the Hermosa Provincia headquarters. The photographs do not reveal all of its footings.",
+      "currentUses": [
+        "Garden landmark"
+      ]
+    },
+    "nl-ijzendijke-petit-paris": {
+      "label": "IJzendijke Petit Paris",
+      "name": "IJzendijke Petit Paris Eiffel replica",
+      "summary": "IJzendijke’s Petit Paris nickname is made visible by a replica in the village. A Rover walking article and cycling information link it to a work donated to the village by Benno Hinneman. A site photograph shows it near the Petit Paris bus stop. It is a public sculpture encountered on walking and cycling routes.",
+      "currentUses": [
+        "Public sculpture",
+        "Walking and cycling landmark"
+      ]
+    },
+    "ua-donetsk-forged-figures-park": {
+      "label": "Donetsk Forged Figures Park",
+      "name": "Donetsk Forged Figures Park Eiffel replica",
+      "summary": "Donetsk’s Forged Figures Park gathers city images in metal sculpture, including this small Eiffel replica. A photographer documented it with visitors on the park lawn in 2010, and a 2013 account mentions it again as a park installation. It is a public forged sculpture rather than a handheld souvenir. Earlier photographs do not by themselves establish its 2026 condition or access.",
+      "currentUses": [
+        "Public forged sculpture"
+      ]
+    },
+    "ua-uman-cherkasy-oblast-central-park": {
+      "label": "Uman central park",
+      "name": "Uman central park Eiffel replica",
+      "summary": "A small replica stands on the lawn beside a path in Uman’s central park. Tourism teachers from Kryvyi Rih State Pedagogical University documented it during a May 2024 field trip, with visitors, paths and the full structure visible. It is a park landscape feature recorded during a study of local tourism resources. Its builder and construction year remain unconfirmed.",
+      "currentUses": [
+        "Park landmark"
+      ]
+    },
+    "ua-kyiv-kyiv-s-eiffel-tower": {
+      "label": "Kyiv French Quarter",
+      "name": "Kyiv French Quarter Eiffel replica",
+      "summary": "Kyiv’s French Quarter residential project places a small Eiffel replica in its courtyard as part of its French architectural theme. The developer records construction and commissioning during 2014–2016, while two visitor photographs show the frame and decorative arches. It is a residential landscape feature. The project’s commissioning period is distinct from the tower’s completion date and does not guarantee unrestricted courtyard access.",
+      "currentUses": [
+        "Residential courtyard feature"
+      ]
+    },
+    "ca-abitibi-ouest-lawn-in-rural-quebec": {
+      "label": "Abitibi-Ouest",
+      "name": "Lawn in rural Quebec",
+      "summary": "In Poularies, Quebec, Jean-Luc Deschênes promised his 14-year-old daughter that he would make an iron tower in their yard if she built one from toothpicks. When she finished, the welder fabricated five sections in the garage and assembled them outdoors. A 2015 interview describes a personal project that later attracted visitors seeking photographs. It remains a private residential landmark, with no established public climbing programme.",
+      "currentUses": [
+        "Private garden craftsmanship"
+      ]
+    },
+    "ca-sainte-angele-de-merici-quebec-gite-de-la-tour-eiffel": {
+      "label": "Sainte-Angele-de-Merici, Quebec",
+      "name": "Gite de la Tour Eiffel",
+      "summary": "This record concerns the surroundings of Gîte de la Tour Eiffel in Sainte-Angèle-de-Mérici, Quebec. Mont-Comi’s 2019–2020 accommodation directory and a guest listing establish the lodging name and local context; the replica itself is recorded by a separate location inventory. The lodging name does not substitute for a tower photograph. Its maker, origin and present visitor access remain unconfirmed.",
+      "currentUses": []
+    },
+    "ch-binningen-bl-tower-on-a-street-corner": {
+      "label": "Binningen, BL",
+      "name": "Tower on a street corner",
+      "summary": "A replica stands on a street corner in front of a metalworking business in Binningen. Waymarking contributor fi67 recorded in 2016 that it had been erected in late autumn 2015 as an eye-catching feature for the factory. It is a commercial streetscape landmark. The source’s approximately six metres and 1:50 scale are claims without a defined measurement endpoint.",
+      "currentUses": [
+        "Commercial streetscape landmark"
+      ]
+    },
+    "ch-nenzlingen-bl-tower-in-a-garden": {
+      "label": "Nenzlingen, BL",
+      "name": "Tower in a garden",
+      "summary": "This small replica stands in front of a residential building in southern Nenzlingen. A 2018 Waymarking record describes a metal structure and an unusually tall flagpole, while explicitly saying the reason for its construction is unknown. It is a residential garden feature. Its maker, construction year and public access remain unconfirmed; 1889 belongs to the Paris original.",
+      "currentUses": [
+        "Residential garden feature"
+      ]
+    },
+    "fr-ares-tower-at-an-antiques-shop": {
+      "label": "Arès",
+      "name": "Tower at an antiques shop",
+      "summary": "Brocante Chez Garden at 18 avenue de la Libération in Arès uses a wooden Eiffel tower as an eye-catching feature. A travel guide describes it alongside baskets, chairs and fishing objects, identifying the premises as an antiques and second-hand shop. The tower belongs to that commercial display setting. Its maker, manufacture year and exact dimensions are unrecorded.",
+      "currentUses": [
+        "Antiques-shop display feature"
+      ]
+    },
+    "fr-la-guerche-de-bretagne-tower-in-a-pensioner-s-garden": {
+      "label": "La Guerche-de-Bretagne",
+      "name": "Tower in a pensioner's garden",
+      "summary": "In 2023, Ouest-France introduced a replica made by 80-year-old Maurice Chevrier in his garden at La Guerche-de-Bretagne. The public lead describes his mechanical, wood and metal skills, and captions record a miniature windmill as another project. The tower represents personal retirement craftsmanship. Only the visible lead and captions are used; subscription-only details and public visitor access remain unconfirmed.",
+      "currentUses": [
+        "Private garden craftsmanship"
+      ]
+    },
+    "rs-plazane-tower-in-pensioner-s-garden": {
+      "label": "Plažane",
+      "name": "Tower in pensioner's garden",
+      "summary": "After living in France for 42 years, Dragiša Milanović placed a replica in his home village of Plažane as a personal tribute to Paris. A 2020 interview says three workers helped build it and describes neighbours and visitors stopping for photographs. It is a private garden work. The owner’s account of drinking coffee on it does not establish public climbing access.",
+      "currentUses": [
+        "Private garden commemorative work"
+      ]
+    },
+    "za-pretoria-university-of-pretoria": {
+      "label": "Pretoria",
+      "name": "University of Pretoria",
+      "summary": "Boekenhout residence at the University of Pretoria uses the Eiffel Tower as its symbol, with four legs representing pride, tradition, respect and brotherhood. The university’s 2018 first-year booklet recounts its placement on the roof and relocation to the quadrangle in 1964. It is a student-community landmark. Relocation is distinct from original manufacture, and the residence is not a general public attraction.",
+      "currentUses": [
+        "Student residence symbol",
+        "Campus quadrangle landmark"
+      ]
+    },
+    "cz-police-nad-metuji-tower-beside-a-toy-store": {
+      "label": "Police nad Metují",
+      "name": "Tower beside a toy store",
+      "summary": "This place record concerns a replica beside a toy shop in Police nad Metují. The town is associated with Merkur metal construction kits, and its museum displays other Eiffel models; those indoor exhibits are not automatically identified with this outdoor site. The inventory establishes the shop-side lead. This tower’s maker, origin, date and photographic identity still require separate evidence.",
+      "currentUses": []
+    },
+    "de-berlin-bed-springs-tower": {
+      "label": "Berlin",
+      "name": "Bed Springs Tower",
+      "summary": "The Berlin inventory records this local version as Bed Springs Tower, separately from the wooden replica at the Centre Français. The name suggests a distinctive construction lead but does not establish component materials or the origin of any bed frames. A maker’s account, construction date and useful close-up remain missing. It is retained as a specific location lead without claiming an observation attraction.",
+      "currentUses": []
+    },
+    "de-meckenheim-rungis-express": {
+      "label": "Meckenheim",
+      "name": "Rungis Express",
+      "summary": "The rooftop replica at Rungis Express in Meckenheim brings the company’s French connection into an industrial skyline. German radio reporting explains its origins in sourcing from Paris’s Rungis market in 1978, with Eiffel imagery also used on its trucks. That company history does not establish the rooftop tower’s manufacture date. The former Satteldorf tower is a separate record, without evidence of a transfer between the sites.",
+      "currentUses": [
+        "Company rooftop landmark"
+      ]
+    },
+    "dk-billund-legoland-billund": {
+      "label": "Billund",
+      "name": "Legoland Billund",
+      "summary": "The inventory records an Eiffel model around Miniland at LEGOLAND Billund and identifies LEGO bricks as a material lead. A photograph that clearly identifies this individual model has not yet been obtained; general park views and other LEGO towers do not substitute for it. The specific investigation is retained, with its version, manufacture date and current display condition awaiting operator or site-image evidence.",
+      "currentUses": []
+    },
+    "es-tacoronte-tower-in-an-abandoned-restaurant-car-park": {
+      "label": "Tacoronte",
+      "name": "Tower in an abandoned restaurant car park",
+      "summary": "The Tacoronte record on Tenerife concerns a replica in the car park of a former restaurant. The inventory describes the restaurant as disused, giving the site a different context from an operating dining attraction. Closure of the restaurant does not prove removal of the tower. Maker, maintenance or relocation history and a current identifiable photograph remain unconfirmed.",
+      "currentUses": []
+    },
+    "fr-nuits-s-armancon-tower-in-a-yard": {
+      "label": "Nuits s/ Armançon",
+      "name": "Tower in a yard",
+      "summary": "The replica inventory records a tower in a yard at Nuits-sur-Armançon. A traceable maker’s account and a photograph independently identifying the structure have not been obtained. A yard installation does not establish a public attraction. This specific private-site lead is retained, while origin, date, materials and visitor permission remain research gaps.",
+      "currentUses": []
+    },
+    "fr-saint-ouen-sur-seine-tower-at-the-entrance-to-a-shopping-centre": {
+      "label": "Marché Malassis",
+      "name": "Eiffel replica at the Marché Malassis entrance, Saint-Ouen",
+      "summary": "A small dark-blue Eiffel replica stands at the entrance to Marché Malassis in Saint-Ouen. A native photograph attached to the public post shows both the tower and the MARCHÉ MALASSIS sign, identifying it as an entrance feature of the antiques market. The image records the streetscape at the time of capture; maker, installation year and current presence remain unconfirmed.",
+      "currentUses": [
+        "Antiques-market entrance feature"
+      ]
+    },
+    "id-tangerang-green-lake-city": {
+      "label": "Tangerang",
+      "name": "Eiffel Tower Green Lake City",
+      "summary": "The replica directory identifies an Eiffel feature in the Green Lake City residential development in Tangerang. It is distinct from towers in other visitor parks in the city, and the directory’s scale and height claims lack a tower-specific measurement endpoint. The residential setting is documented; maker, construction date and an identifiable site photograph require developer or field evidence.",
+      "currentUses": []
+    },
+    "it-ispra-jrc-ispra-grounds": {
+      "label": "Ispra",
+      "name": "JRC Ispra Grounds",
+      "summary": "A specific replica inventory records a small tower in the Joint Research Centre grounds at Ispra. General institutional descriptions explain the premises but do not supply this tower’s maker’s record or photograph; the earlier social-image link was inaccessible. The individual site investigation is retained, with purpose, materials, origin and visitor access still unknown.",
+      "currentUses": []
+    },
+    "kr-seoul-tower-at-the-roadside": {
+      "label": "Seoul",
+      "name": "Tower at the roadside",
+      "summary": "The Seoul inventory concerns a roadside replica rather than N Seoul Tower. Local reporting identifying its maker, official premises name and construction date has not been found, and a matching site photograph is still required. The specific location lead is retained. N Seoul Tower’s dimensions, history and observation uses are not assigned to this small replica.",
+      "currentUses": []
+    },
+    "nl-dordrecht-go-kart-tower": {
+      "label": "Dordrecht",
+      "name": "Go Kart Tower",
+      "summary": "The replica beside a restaurant at Merwehal became part of a local dispute over building appearance rules. Rijnmond reported in 2015 that Dordrecht would reduce the controlled zone beside industrial-area main roads, allowing the tower at Jacqueline and Eelco Zweedijk’s restaurant to remain. It documents a commercial landmark and a municipal debate, without establishing the tower’s 2026 condition.",
+      "currentUses": [
+        "Restaurant landscape feature"
+      ]
+    },
+    "nl-gouda-tower-at-a-car-dealership": {
+      "label": "Gouda",
+      "name": "Tower at a car dealership",
+      "summary": "The Gouda record concerns a replica beside a car dealership. It is distinct from Paris-themed ceramic murals in the town centre and LEGO models sold in shops. Independent evidence identifying the dealership and a close site photograph is still missing. Maker, historical use and year remain unrecorded, while the inventory’s specific commercial-premises lead is retained.",
+      "currentUses": []
+    },
+    "nl-udenhout-t-achterhuis": {
+      "label": "’t Achterhuis, Udenhout",
+      "name": "’t Achterhuis Eiffel replica, Udenhout",
+      "summary": "’t Achterhuis in Udenhout lists a large Eiffel replica as product 7002 among building materials and special objects. The catalogue specifies iron, black, a height of 600 cm and a width and depth of 270 cm each; its matching photograph shows the tower on the premises’ lawn. These are product parameters rather than measured dimensions for the present site version. Manufacture year and permanent placement remain unconfirmed.",
+      "currentUses": [
+        "Building-material and special-object product display"
+      ]
+    },
+    "ru-zvenigovo-eiffel-tower": {
+      "label": "Zvenigovo, Mari El",
+      "name": "town centre",
+      "summary": "The replica directory and a site inventory place this small tower on the main street in central Zvenigovo, Mari El. It is a local French architectural image, separately recorded from large communications replicas. An identifiable site photograph and a reliable maker or origin record have not been obtained. Directory scale and height claims are not treated as measurements.",
+      "currentUses": []
+    }
+  },
+  "routes": {
+    "many-parises": {
+      "title": "More Than One Paris",
+      "intro": "Begin with the original and see how one silhouette becomes part of different cities."
+    },
+    "local-accents": {
+      "title": "Towers With Local Accents",
+      "intro": "A cowboy hat, a small town's memories and a resort's glass bridge: familiar architecture takes on a character of its own."
+    },
+    "tiny-worlds": {
+      "title": "The World in a Park",
+      "intro": "Visit miniature worlds in different countries and rediscover landmarks at another scale."
+    }
+  }
+}

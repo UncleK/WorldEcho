@@ -1,0 +1,4 @@
+Night, cloud and bump/roughness textures: Solar System Scope (CC BY 4.0); resized and merged by Three.js r186; packed data downsampled, WebP converted and cloud channel extracted by World Echo.
+Source: https://www.solarsystemscope.com/textures/
+License: https://creativecommons.org/licenses/by/4.0/
+Static maps; not live satellite imagery or weather. R is display bump intensity, not a DEM.

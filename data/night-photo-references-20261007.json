@@ -1,0 +1,624 @@
+{
+  "version": 1,
+  "entries": {
+    "br-caxias-copy": {
+      "entityId": "br-caxias-copy",
+      "city": "南卡希亚斯",
+      "colors": [
+        "#fff0ba",
+        "#efd18a",
+        "#ffc85f"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Torre_Eiffel_em_Caxias_-_panoramio.jpg",
+      "localPath": "",
+      "date": "Taken on 29 December 2009",
+      "pixelViewedAt": "2026-10-07",
+      "photoId": "img_00d0843e4e123740",
+      "observation": "Warm white lower structure and golden upper outline, individually inspected full pixels.",
+      "dynamicSiteProgramme": "unknown"
+    },
+    "co-sabaneta-eiffel-tower": {
+      "entityId": "co-sabaneta-eiffel-tower",
+      "city": "萨瓦内塔",
+      "colors": [
+        "#ffe5c5",
+        "#ebd3b4",
+        "#d8c2a5"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Sabaneta_Eiffel_Tower.jpg",
+      "localPath": "",
+      "date": "2023-11-29",
+      "pixelViewedAt": "2026-10-07",
+      "photoId": "img_68d992203ba90089",
+      "observation": "Warm-white arches and gallery lighting observed in full pixels.",
+      "dynamicSiteProgramme": "unknown"
+    },
+    "in-delhi-waste-to-wonder": {
+      "entityId": "in-delhi-waste-to-wonder",
+      "city": "新德里",
+      "colors": [
+        "#ddb47b",
+        "#e2c494",
+        "#f5e1b9"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Waste_to_Wonder_Park_04.jpg",
+      "localPath": "",
+      "date": "2024-09-19",
+      "pixelViewedAt": "2026-10-07",
+      "photoId": "img_ad60f6991d52f225",
+      "observation": "Amber internal structure and warm white highlights observed in full pixels.",
+      "dynamicSiteProgramme": "unknown"
+    },
+    "in-kota-rajasthan-kota-eiffel-tower": {
+      "entityId": "in-kota-rajasthan-kota-eiffel-tower",
+      "city": "科塔",
+      "colors": [
+        "#ccdaeb",
+        "#cc98ee",
+        "#9289e4"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:7_wonders_in_kota,india.jpg",
+      "localPath": "",
+      "date": "2017-12-18 19:44:59",
+      "pixelViewedAt": "2026-10-07",
+      "photoId": "img_f3ee32ff35f09634",
+      "observation": "Cool-white feet, pink/violet upper sections observed in full pixels.",
+      "dynamicSiteProgramme": "unknown"
+    },
+    "ru-volzhskiy-frantsuzskiy-bul-var": {
+      "entityId": "ru-volzhskiy-frantsuzskiy-bul-var",
+      "city": "Volzhskiy",
+      "colors": [
+        "#e8dcad",
+        "#ede8d0",
+        "#fff9e6"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%B2%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%B8%D0%B9.jpg",
+      "localPath": "",
+      "date": "2021-10-15",
+      "pixelViewedAt": "2026-10-07",
+      "photoId": "img_0d9408a88b4b82ef",
+      "observation": "Warm-neutral structure and white gallery/tip fixtures observed in full pixels.",
+      "dynamicSiteProgramme": "unknown"
+    },
+    "sa-riyadh-boulevard-world": {
+      "entityId": "sa-riyadh-boulevard-world",
+      "city": "利雅得",
+      "colors": [
+        "#ddb067",
+        "#efd089",
+        "#ded9dd"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_Boulevard_World.jpg",
+      "localPath": "",
+      "date": "2024-10-19 19:32:22",
+      "pixelViewedAt": "2026-10-07",
+      "photoId": "img_45f59da8fe9d3cae",
+      "observation": "Golden tower body and pale upper tip observed in full pixels.",
+      "dynamicSiteProgramme": "unknown"
+    },
+    "th-nakhon-ratchasima-terminal-21-korat": {
+      "entityId": "th-nakhon-ratchasima-terminal-21-korat",
+      "city": "呵叻",
+      "colors": [
+        "#bea17b",
+        "#bf96ca",
+        "#d8c098"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:2019_0210_Terminal_21_Korat_05.jpg",
+      "localPath": "",
+      "date": "2019-02-10",
+      "pixelViewedAt": "2026-10-07",
+      "photoId": "img_2c461681354d43e4",
+      "observation": "Indoor illumination: gold body, violet/blue highlights and red points observed. Not outdoor night.",
+      "dynamicSiteProgramme": "unknown"
+    },
+    "th-pattaya-city-terminal-21-pattaya": {
+      "entityId": "th-pattaya-city-terminal-21-pattaya",
+      "city": "芭堤雅",
+      "colors": [
+        "#544cc9",
+        "#7053e3",
+        "#514bd8"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Terminal_21_Pattaya_20190825_11.jpg",
+      "localPath": "",
+      "date": "2019-08-25",
+      "pixelViewedAt": "2026-10-07",
+      "photoId": "img_02098081318ff79c",
+      "observation": "Indoor violet-blue wash and pink points observed in full pixels. Not outdoor night.",
+      "dynamicSiteProgramme": "unknown"
+    },
+    "ca-toronto-lantern-festival": {
+      "entityId": "ca-toronto-lantern-festival",
+      "city": "Toronto",
+      "colors": [
+        "#ab71ff",
+        "#dfafff",
+        "#edf0ff"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_at_the_Toronto_Chinese_Lantern_Festival_in_2008.jpg",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T05:31:04.338Z",
+      "observation": "Purple and pale white illuminated lattice observed in the actual night photograph; no dynamic timing inferred.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root source/front/side contact sheet inspected; original static photo palette only. Brightness animation is artistic."
+    },
+    "fr-chanverrie-tower-in-an-industrial-yard": {
+      "entityId": "fr-chanverrie-tower-in-an-industrial-yard",
+      "city": "Chanverrie",
+      "colors": [
+        "#388fef",
+        "#80dcff",
+        "#d452ee"
+      ],
+      "source": "https://www.ludylab.fr/news/tour-eiffel-eyffela-vendee/",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T05:31:04.339Z",
+      "observation": "Operator photograph shows blue/cyan lower structure and magenta/violet upper shaft. Operator article confirms programmable lighting, but this still photograph does not establish any exact sequence.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root source/front/side contact sheet inspected; original static photo palette only. Brightness animation is artistic.",
+      "operatorProgrammeSource": "https://www.ludylab.fr/news/tour-eiffel-eyffela-vendee/",
+      "heightStops": [
+        {
+          "y": 0,
+          "color": "#388fef"
+        },
+        {
+          "y": 0.3,
+          "color": "#5fbdff"
+        },
+        {
+          "y": 0.4,
+          "color": "#c252e3"
+        },
+        {
+          "y": 1,
+          "color": "#cf56e9"
+        }
+      ],
+      "heightStopsScope": "Approximate normalized-display color zones aligned with the inspected photograph. These are artistic model-lighting parameters, not surveyed fixture elevations or evidence of real animation timing."
+    },
+    "in-kolkata-further-kolkata-tower": {
+      "entityId": "in-kolkata-further-kolkata-tower",
+      "city": "Kolkata",
+      "colors": [
+        "#e8f1ff",
+        "#bad9ff",
+        "#639fe7"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:An_Illuminating_replica_of_Eiffel_Tower,.jpg",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T05:31:04.339Z",
+      "observation": "Cool white dense light lines and a blue lower band observed in the actual event photograph; no real show timing inferred.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root source/front/side contact sheet inspected; original static photo palette only. Brightness animation is artistic."
+    },
+    "ir-kish-island-kish-eiffel-tower": {
+      "entityId": "ir-kish-island-kish-eiffel-tower",
+      "city": "Kish Island",
+      "colors": [
+        "#ef676c",
+        "#f2e5ef",
+        "#9ac6a3"
+      ],
+      "source": "https://blog.safartop.com/tourist-attractions/eiffel-tower-in-kish/",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T05:44:28.360Z",
+      "observation": "Red lower outline, pale middle lights and green upper illumination observed in the night photograph; cue timing is not known.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected actual reference photograph beside GPU front/side renders; only the observed light palette is adopted, not an inferred show.",
+      "heightStops": [
+        {
+          "y": 0,
+          "color": "#ef4658"
+        },
+        {
+          "y": 0.23,
+          "color": "#ef4658"
+        },
+        {
+          "y": 0.28,
+          "color": "#ecf1ff"
+        },
+        {
+          "y": 0.44,
+          "color": "#ecf1ff"
+        },
+        {
+          "y": 0.49,
+          "color": "#44cd94"
+        },
+        {
+          "y": 1,
+          "color": "#44cd94"
+        }
+      ],
+      "heightStopsScope": "Approximate normalized-display color zones aligned with the inspected photograph. These are artistic model-lighting parameters, not surveyed fixture elevations or evidence of real animation timing."
+    },
+    "id-menara-keagungan-limboto-menara-keagungan-limboto": {
+      "entityId": "id-menara-keagungan-limboto-menara-keagungan-limboto",
+      "city": "Limboto",
+      "colors": [
+        "#eda741",
+        "#ffd270",
+        "#fff1be"
+      ],
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Menara_Keagungan.jpg/519px-Menara_Keagungan.jpg?20200111213530",
+      "localPath": "",
+      "date": "12 April 2019, 21:55:17",
+      "pixelViewedAt": "2026-10-08T05:44:28.360Z",
+      "observation": "Warm golden upper structure, deck edges and small summit light observed; background searchlight beams are not part of the tower model.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected actual reference photograph beside GPU front/side renders; only the observed light palette is adopted, not an inferred show."
+    },
+    "ru-yeysk-amusement-park-tower": {
+      "entityId": "ru-yeysk-amusement-park-tower",
+      "city": "Yeysk",
+      "colors": [
+        "#ec8c48",
+        "#f2b765",
+        "#f1cb92"
+      ],
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tour_De_Paris_-Yeysk-_Russia_panoramio.jpg/401px-Tour_De_Paris_-Yeysk-_Russia_panoramio.jpg?20161112074508",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T05:44:28.360Z",
+      "observation": "Warm orange/yellow lamps trace the frame; red TOUR DE PARIS lettering is visible in the source but not used to infer a dynamic programme.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected actual reference photograph beside GPU front/side renders; only the observed light palette is adopted, not an inferred show."
+    },
+    "de-tubingen-boxenstop-tubingen": {
+      "entityId": "de-tubingen-boxenstop-tubingen",
+      "city": "Tübingen",
+      "colors": [
+        "#7798ee",
+        "#b3c6ff",
+        "#cee4ff"
+      ],
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boxenstop_T%C3%BCbingen_M06.JPG/450px-Boxenstop_T%C3%BCbingen_M06.JPG?20131110155520",
+      "localPath": "",
+      "date": "13 October 2013, 09:38:28",
+      "pixelViewedAt": "2026-10-08T05:44:28.360Z",
+      "observation": "Blue and cool-white light strips run along the display tower; the green construction strips and red decks are the underlying object colours.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected actual reference photograph beside GPU front/side renders; only the observed light palette is adopted, not an inferred show."
+    },
+    "ar-alicia-marchetti": {
+      "entityId": "ar-alicia-marchetti",
+      "city": "Villa Parque Síquiman",
+      "colors": [
+        "#fa3130",
+        "#ffdc91",
+        "#2864ff"
+      ],
+      "source": "https://www.carlospazvivo.com/como-en-paris-pero-en-siquiman-se-inauguro-la-torre-eiffel-con-una-fiesta-enorme/",
+      "localPath": "",
+      "date": "2025-01-20",
+      "pixelViewedAt": "2026-10-08T08:38:24.532Z",
+      "observation": "Original opening photograph with visible date overlay shows red lower stage, gold-white lower shaft and blue upper shaft. White antenna lights are also visible. Static color evidence only.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root viewed the actual photograph in source/front/side contact sheets; brightness animation is artistic.",
+      "heightStops": [
+        {
+          "y": 0,
+          "color": "#ed4037"
+        },
+        {
+          "y": 0.18,
+          "color": "#ed4037"
+        },
+        {
+          "y": 0.23,
+          "color": "#ffe1a0"
+        },
+        {
+          "y": 0.39,
+          "color": "#ffe1a0"
+        },
+        {
+          "y": 0.44,
+          "color": "#2867f3"
+        },
+        {
+          "y": 0.92,
+          "color": "#2867f3"
+        },
+        {
+          "y": 0.97,
+          "color": "#edf5ff"
+        },
+        {
+          "y": 1,
+          "color": "#edf5ff"
+        }
+      ],
+      "heightStopsScope": "Approximate normalized-display color zones aligned with the inspected photograph. These are artistic model-lighting parameters, not surveyed fixture elevations or evidence of real animation timing."
+    },
+    "id-batu-museum-angkut": {
+      "entityId": "id-batu-museum-angkut",
+      "city": "Batu",
+      "colors": [
+        "#70d943",
+        "#ffdf56",
+        "#e8f3d3"
+      ],
+      "source": "https://jtp.id/museumangkut/menara-eiffel-paris/index.html",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T08:38:24.533Z",
+      "observation": "Museum operator interior photograph shows lime-green leg edges, yellow-gold lattice above and pale tower cap. Decorative museum lighting, not evidence of daylight paint or a recorded changing programme.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root opened official attraction page and viewed exact local source image."
+    },
+    "co-barrancabermeja-parque-tapias": {
+      "entityId": "co-barrancabermeja-parque-tapias",
+      "city": "Barrancabermeja, Santander",
+      "colors": [
+        "#3930ea",
+        "#4775ff",
+        "#9b77ee"
+      ],
+      "source": "https://www.eltiempo.com/colombia/santander/crean-torre-eiffel-en-barrancabermeja-y-elementos-del-polo-norte-en-donde-hay-mas-de-40-grados-centigrados-3403629",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T08:55:35.407Z",
+      "observation": "Blue/violet illuminated state selected from the fuller independent city-credited photograph. Separate close-up shows a gold state; that alternative is retained as evidence, not combined into an asserted simultaneous fixture layout.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected the actual night photograph; brightness animation is artistic and still photographs do not establish site choreography.",
+      "additionalReferences": [
+        ""
+      ]
+    },
+    "co-tunja-puente-de-boyaca": {
+      "entityId": "co-tunja-puente-de-boyaca",
+      "city": "Tunja",
+      "colors": [
+        "#ffd65a",
+        "#b6e573",
+        "#fff0ba"
+      ],
+      "source": "https://www.wonders-of-the-world.net/Eiffel-Tower/Copies-of-the-Eiffel-tower.php",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T08:55:35.408Z",
+      "observation": "Warm white/gold contour/grid lights and green/cyan intermediate band",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected the actual night photograph; brightness animation is artistic and still photographs do not establish site choreography."
+    },
+    "kg-aksy-tower-built-by-school-pupils": {
+      "entityId": "kg-aksy-tower-built-by-school-pupils",
+      "city": "Aksy",
+      "colors": [
+        "#efedff",
+        "#ad85ef",
+        "#ffe6b3"
+      ],
+      "source": "https://akipress.com/news:592427:_b_Life_in_rural_Kyrgyzstan_/b___Jalal-Abad_village_s_got_its_own_Eiffel_Tower/",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T08:55:35.408Z",
+      "observation": "White/violet linear edge lighting on legs and shaft; bright crown",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected the actual night photograph; brightness animation is artistic and still photographs do not establish site choreography."
+    },
+    "kg-bishkek-vostok-5-microdistrict": {
+      "entityId": "kg-bishkek-vostok-5-microdistrict",
+      "city": "Bishkek",
+      "colors": [
+        "#bddfff",
+        "#6aa3f5",
+        "#f3bd66"
+      ],
+      "source": "https://www.google.de/maps/place/Vostok-5+Microdistrict,+Bishkek,+Kyrgyzstan/@42.8725552,74.6327236,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO6PP_m5kiimWqq3gqjSo4kBqoeJ_c_fgQryeS_!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO6PP_m5kiimWqq3gqjSo4kBqoeJ_c_fgQryeS_%3Dw203-h359-k-no!7i2256!8i4000!4m7!3m6!1s0x389eb7aefd001863:0x2cb6c66ca4d4e24!8m2!3d42.8725552!4d74.6327236!10e5!16s%2Fg%2F1tfhdsw2?entry=ttu",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T08:55:35.409Z",
+      "observation": "Cold white/blue edge lines and amber crown",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected the actual night photograph; brightness animation is artistic and still photographs do not establish site choreography."
+    },
+    "ph-boracay-la-reserve": {
+      "entityId": "ph-boracay-la-reserve",
+      "city": "Boracay / Malay",
+      "colors": [
+        "#4dd980",
+        "#a3ef9e",
+        "#eac880"
+      ],
+      "source": "https://www.wonders-of-the-world.net/Eiffel-Tower/Copies-of-the-Eiffel-tower.php",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T09:19:41.642Z",
+      "observation": "Green uplighting with some warm low-edge fill",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected actual night photograph in source/front/side contact sheet; static photographic colors only, animated brightness artistic."
+    },
+    "ph-tablas-bantigue-resort": {
+      "entityId": "ph-tablas-bantigue-resort",
+      "city": "Tablas",
+      "colors": [
+        "#ffbd3e",
+        "#ffdb7b",
+        "#e34d32"
+      ],
+      "source": "https://reymos.wordpress.com/2016/04/11/bamboo-eiffel-tower-stands-up-high-in-tablas-romblon/",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T09:19:41.642Z",
+      "observation": "Warm amber/gold lattice lighting and red illuminated needle; colored lanterns are surroundings, not assumed tower fixtures",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected actual night photograph in source/front/side contact sheet; static photographic colors only, animated brightness artistic."
+    },
+    "fi-nivala-crazyland-maliskyla": {
+      "entityId": "fi-nivala-crazyland-maliskyla",
+      "city": "Nivala",
+      "colors": [
+        "#fff1cf",
+        "#e1e7de",
+        "#d4c3a1"
+      ],
+      "source": "https://www.is.fi/oulun-seutu/art-2000007695129.html",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T09:35:02.452Z",
+      "observation": "The actual source photograph shows white to warm-white illumination over the timber body and bright summit. Dark surrounding grounds are not modeled; no changing site programme verified.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected actual night photograph with model front and side; static palette reference only."
+    },
+    "ua-shypyntsi-shale-restaurant": {
+      "entityId": "ua-shypyntsi-shale-restaurant",
+      "city": "Shypyntsi",
+      "colors": [
+        "#eac28a",
+        "#eee6db",
+        "#8987ea"
+      ],
+      "source": "https://www.google.com/maps/d/u/0/viewer?mid=19EwpS1Wym23peEoSuTiwwb62ERkSNqk",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T10:11:47.580Z",
+      "observation": "Daylight photograph with lights switched on: blue-violet points on the upper shaft and warm amber illumination below the first deck. It is not a nighttime photograph or evidence of a dynamic programme.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root enlarged and inspected the exact source image. Static visible lighting colors retained; nighttime brightness and motion are artistic.",
+      "heightStops": [
+        {
+          "y": 0,
+          "color": "#e8c792"
+        },
+        {
+          "y": 0.22,
+          "color": "#e8c792"
+        },
+        {
+          "y": 0.35,
+          "color": "#eee6db"
+        },
+        {
+          "y": 0.46,
+          "color": "#eee6db"
+        },
+        {
+          "y": 0.55,
+          "color": "#8987ea"
+        },
+        {
+          "y": 0.91,
+          "color": "#8987ea"
+        },
+        {
+          "y": 0.96,
+          "color": "#e5e4fb"
+        },
+        {
+          "y": 1,
+          "color": "#e5e4fb"
+        }
+      ],
+      "heightStopsScope": "Approximate normalized-display color zones aligned with the inspected photograph. These are artistic model-lighting parameters, not surveyed fixture elevations or evidence of real animation timing."
+    },
+    "me-budva-paris-night-club": {
+      "entityId": "me-budva-paris-night-club",
+      "city": "Budva",
+      "colors": [
+        "#716cdd",
+        "#97d5ef",
+        "#dc6e93"
+      ],
+      "source": "https://wanderlog.com/place/details/10044855/paris",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T11:26:04.015Z",
+      "observation": "Blue-violet club washes and diagonal white-blue stage beams actually visible; dynamic rhythm is original design rather than reproduced现场 show.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected the exact static illuminated photograph; palette retained while movement and fixture positions remain artistic."
+    },
+    "ua-berehove-crimea-tower-at-the-seaside": {
+      "entityId": "ua-berehove-crimea-tower-at-the-seaside",
+      "city": "Berehove (Crimea)",
+      "colors": [
+        "#ffdb83",
+        "#ffe9b5",
+        "#fff2d3"
+      ],
+      "source": "https://maps.app.goo.gl/FVDkgT5dcj5pzf4e8",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T11:26:04.016Z",
+      "observation": "Photo-reference-static: actual warm-white dense string bulbs across four legs, collars and shaft; any animated sequence is original.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected the exact static illuminated photograph; palette retained while movement and fixture positions remain artistic."
+    },
+    "ua-volnovakha-central-park-in-the-town": {
+      "entityId": "ua-volnovakha-central-park-in-the-town",
+      "city": "Volnovakha",
+      "colors": [
+        "#e9f0ff",
+        "#cedbf5",
+        "#ffffff"
+      ],
+      "source": "https://www.google.com/maps/@47.6029643,37.4923221,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPxoPBS3O0AeMXjrYo8oNAOjwxJ1-sAYfwZgJc!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPxoPBS3O0AeMXjrYo8oNAOjwxJ1-sAYfwZgJc%3Dw86-h114-k-no!7i2448!8i3264?entry=ttu",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T11:26:04.016Z",
+      "observation": "Photo-reference-static: cool-white structural illumination, bright apex, white vertical strips at legs/shaft; dynamic timing is original.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected the exact static illuminated photograph; palette retained while movement and fixture positions remain artistic."
+    },
+    "ru-perm-tower-in-front-of-offices": {
+      "entityId": "ru-perm-tower-in-front-of-offices",
+      "city": "Perm",
+      "colors": [
+        "#53c9ed",
+        "#ffd48a",
+        "#eee1b7"
+      ],
+      "source": "https://permyachok.ru/eyfeleva-bashnya/",
+      "localPath": "",
+      "date": null,
+      "pixelViewedAt": "2026-10-08T11:26:04.016Z",
+      "observation": "Use observed blue/cyan middle with warm-gold upper and lower bands; animation remains original and labelled.",
+      "dynamicSiteProgramme": "unknown",
+      "reviewMethod": "Root inspected the exact static illuminated photograph; palette retained while movement and fixture positions remain artistic.",
+      "heightStops": [
+        {
+          "y": 0,
+          "color": "#f2c06d"
+        },
+        {
+          "y": 0.19,
+          "color": "#f2c06d"
+        },
+        {
+          "y": 0.24,
+          "color": "#32b8df"
+        },
+        {
+          "y": 0.39,
+          "color": "#32b8df"
+        },
+        {
+          "y": 0.44,
+          "color": "#f6cf87"
+        },
+        {
+          "y": 0.9,
+          "color": "#f6cf87"
+        },
+        {
+          "y": 0.94,
+          "color": "#299ee5"
+        },
+        {
+          "y": 1,
+          "color": "#299ee5"
+        }
+      ],
+      "heightStopsScope": "Approximate normalized-display color zones aligned with the inspected photograph. These are artistic model-lighting parameters, not surveyed fixture elevations or evidence of real animation timing."
+    }
+  }
+}

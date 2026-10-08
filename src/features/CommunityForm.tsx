@@ -1,0 +1,6 @@
+import {useEffect,useRef} from 'react';
+import {X,ExternalLink} from 'lucide-react';
+import {t,useLanguage} from '../i18n';
+import './community.css';
+export type CommunityMode={type:'feedback';towerId:string;name:string;initialField?:'height'|'location'|'name'|'status'|'photo'|'other'}|{type:'submission'};
+export default function CommunityForm({onClose}:{mode:CommunityMode;onClose:()=>void}){const lang=useLanguage(),dialog=useRef<HTMLDialogElement>(null);useEffect(()=>{dialog.current?.showModal();return()=>dialog.current?.close();},[]);const message=lang==='zh-CN'?'此公开源码副本使用本地资料快照，不收集或提交个人资料。家乡补充与核对请前往正式网站。':lang==='fr'?'Cette copie publique utilise un instantané local et ne recueille aucune contribution. Utilisez le site officiel pour proposer une correction.':'This public source copy uses a local data snapshot and does not collect submissions. Please use the official website for corrections.';return <dialog ref={dialog} className="community-dialog" onCancel={onClose}><header><h2>World Echo</h2><button onClick={onClose} aria-label={t('关闭')}><X size={21}/></button></header><p>{message}</p><p><a href="https://worldecho.beaverstudio.net/" target="_blank" rel="noreferrer">worldecho.beaverstudio.net <ExternalLink size={14}/></a></p></dialog>;}

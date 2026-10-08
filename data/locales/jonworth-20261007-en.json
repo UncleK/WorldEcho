@@ -1,0 +1,1620 @@
+{
+  "towers": {
+    "ua-cherkasy-bonjour-underwear-store": {
+      "name": "'Bonjour' underwear store, Cherkasy",
+      "label": "Cherkasy",
+      "city": "Cherkasy",
+      "venue": "'Bonjour' underwear store",
+      "summary": "Jon Worth's map records “'Bonjour' underwear store” in Cherkasy. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-vinnytsya-d-a-k-s-market-grocery-store": {
+      "name": "'D.A.K.S. market' grocery store, Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "'D.A.K.S. market' grocery store",
+      "summary": "Jon Worth's map records “'D.A.K.S. market' grocery store” in Vinnytsya. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kostyantynikka-euro-city-restaurant": {
+      "name": "'Euro-city' restaurant, Kostyantynikka",
+      "label": "Kostyantynikka",
+      "city": "Kostyantynikka",
+      "venue": "'Euro-city' restaurant",
+      "summary": "Jon Worth's map records “'Euro-city' restaurant” in Kostyantynikka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-vinnytsya-mirazh-curtains-shop": {
+      "name": "'Mirazh' curtains shop, Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "'Mirazh' curtains shop",
+      "summary": "Jon Worth's map records “'Mirazh' curtains shop” in Vinnytsya. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-shypyntsi-shale-restaurant": {
+      "name": "'Shale' restaurant, Shypyntsi",
+      "label": "Shypyntsi",
+      "city": "Shypyntsi",
+      "venue": "'Shale' restaurant",
+      "summary": "Jon Worth's map records “'Shale' restaurant” in Shypyntsi. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-malyn-french-boutique-shop": {
+      "name": "\"French boutique\" shop, Malyn",
+      "label": "Malyn",
+      "city": "Malyn",
+      "venue": "\"French boutique\" shop",
+      "summary": "Jon Worth's map records “\"French boutique\" shop” in Malyn. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-yalta-across-the-river": {
+      "name": "Across the river, Yalta",
+      "label": "Yalta",
+      "city": "Yalta",
+      "venue": "Across the river",
+      "summary": "Jon Worth's map records “Across the river” in Yalta. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ru-yeysk-amusement-park-tower": {
+      "name": "Amusement Park Tower, Yeysk",
+      "label": "Yeysk",
+      "city": "Yeysk",
+      "venue": "Amusement Park Tower",
+      "summary": "Jon Worth's map records “Amusement Park Tower” in Yeysk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-andriivskyi-descent": {
+      "name": "Andriivskyi descent, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Andriivskyi descent",
+      "summary": "Jon Worth's map records “Andriivskyi descent” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-lviv-beauty-salon-l-etoile": {
+      "name": "Beauty salon L'Etoile, Lviv",
+      "label": "Lviv",
+      "city": "Lviv",
+      "venue": "Beauty salon L'Etoile",
+      "summary": "Jon Worth's map records “Beauty salon L'Etoile” in Lviv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-berdyansk-berdyansk-mechanical-engineering-lyceum": {
+      "name": "Berdyansk Mechanical Engineering Lyceum, Berdyansk",
+      "label": "Berdyansk",
+      "city": "Berdyansk",
+      "venue": "Berdyansk Mechanical Engineering Lyceum",
+      "summary": "Jon Worth's map records “Berdyansk Mechanical Engineering Lyceum” in Berdyansk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-lutsk-beside-a-restaurant-next-to-a-car-garage": {
+      "name": "Beside a restaurant, next to a car garage, Lutsk",
+      "label": "Lutsk",
+      "city": "Lutsk",
+      "venue": "Beside a restaurant, next to a car garage",
+      "summary": "Jon Worth's map records “Beside a restaurant, next to a car garage” in Lutsk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "de-tubingen-boxenstop-tubingen": {
+      "name": "Boxenstop Tübingen, Tübingen",
+      "label": "Tübingen",
+      "city": "Tübingen",
+      "venue": "Boxenstop Tübingen",
+      "summary": "Jon Worth's map records “Boxenstop Tübingen” in Tübingen. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-mankivka-central-park-tower": {
+      "name": "Central park tower, Mankivka",
+      "label": "Mankivka",
+      "city": "Mankivka",
+      "venue": "Central park tower",
+      "summary": "Jon Worth's map records “Central park tower” in Mankivka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "es-las-palmas-tenerife-cita-shopping-center": {
+      "name": "Cita Shopping Center, Las Palmas, Tenerife",
+      "label": "Las Palmas, Tenerife",
+      "city": "Las Palmas, Tenerife",
+      "venue": "Cita Shopping Center",
+      "summary": "Jon Worth's map records “Cita Shopping Center” in Las Palmas, Tenerife. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-citroen-car-dealership": {
+      "name": "Citroen car dealership, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Citroen car dealership",
+      "summary": "Jon Worth's map records “Citroen car dealership” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ec-quito-eiffel-center": {
+      "name": "Eiffel Center, Quito",
+      "label": "Quito",
+      "city": "Quito",
+      "venue": "Eiffel Center",
+      "summary": "Jon Worth's map records “Eiffel Center” in Quito. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "us-tyndall-sd-eiffel-tower-flagpole": {
+      "name": "Eiffel Tower Flagpole, Tyndall, SD",
+      "label": "Tyndall, SD",
+      "city": "Tyndall, SD",
+      "venue": "Eiffel Tower Flagpole",
+      "summary": "Jon Worth's map records “Eiffel Tower Flagpole” in Tyndall, SD. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-baryshivka-eiffel-tower-near-a-coffee-shop": {
+      "name": "Eiffel Tower near a coffee shop, Baryshivka",
+      "label": "Baryshivka",
+      "city": "Baryshivka",
+      "venue": "Eiffel Tower near a coffee shop",
+      "summary": "Jon Worth's map records “Eiffel Tower near a coffee shop” in Baryshivka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-ivano-frankivsk-eiffel-tower-near-a-shop": {
+      "name": "Eiffel Tower near a shop, Ivano-Frankivsk",
+      "label": "Ivano-Frankivsk",
+      "city": "Ivano-Frankivsk",
+      "venue": "Eiffel Tower near a shop",
+      "summary": "Jon Worth's map records “Eiffel Tower near a shop” in Ivano-Frankivsk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-eiffel-tower-on-a-balcony-of-a-travel-agency": {
+      "name": "Eiffel Tower on a balcony of a travel agency, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Eiffel Tower on a balcony of a travel agency",
+      "summary": "Jon Worth's map records “Eiffel Tower on a balcony of a travel agency” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-vinnytsya-entrance-to-versal-hotel-and-restaurant": {
+      "name": "entrance to 'Versal' hotel and restaurant, Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "entrance to 'Versal' hotel and restaurant",
+      "summary": "Jon Worth's map records “entrance to 'Versal' hotel and restaurant” in Vinnytsya. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "az-nakhchivan-yl-nc-adas": {
+      "name": "Əyləncə Adası, Nakhchivan",
+      "label": "Nakhchivan",
+      "city": "Nakhchivan",
+      "venue": "Əyləncə Adası",
+      "summary": "Jon Worth's map records “Əyləncə Adası” in Nakhchivan. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-koriukivka-flower-stand-near-the-city-council": {
+      "name": "flower stand near the city council, Koriukivka",
+      "label": "Koriukivka",
+      "city": "Koriukivka",
+      "venue": "flower stand near the city council",
+      "summary": "Jon Worth's map records “flower stand near the city council” in Koriukivka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "it-chioggia-front-garden-tower": {
+      "name": "Front garden tower, Chioggia",
+      "label": "Chioggia",
+      "city": "Chioggia",
+      "venue": "Front garden tower",
+      "summary": "Jon Worth's map records “Front garden tower” in Chioggia. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-horodok-front-yard-of-a-private-house": {
+      "name": "Front yard of a private house, Horodok",
+      "label": "Horodok",
+      "city": "Horodok",
+      "venue": "Front yard of a private house",
+      "summary": "Jon Worth's map records “Front yard of a private house” in Horodok. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ar-cordoba-galeria-jardin": {
+      "name": "Galeria Jardin, Córdoba",
+      "label": "Córdoba",
+      "city": "Córdoba",
+      "venue": "Galeria Jardin",
+      "summary": "Jon Worth's map records “Galeria Jardin” in Córdoba. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-mykolayiv-kids-park-kazka": {
+      "name": "kids park 'Kazka', Mykolayiv",
+      "label": "Mykolayiv",
+      "city": "Mykolayiv",
+      "venue": "kids park 'Kazka'",
+      "summary": "Jon Worth's map records “kids park 'Kazka'” in Mykolayiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-odesa-korolyova-79": {
+      "name": "Korolyova 79, Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Korolyova 79",
+      "summary": "Jon Worth's map records “Korolyova 79” in Odesa. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-iskorost-korosten-heating-pipe-plant": {
+      "name": "Korosten Heating Pipe Plant, Iskorost",
+      "label": "Iskorost",
+      "city": "Iskorost",
+      "venue": "Korosten Heating Pipe Plant",
+      "summary": "Jon Worth's map records “Korosten Heating Pipe Plant” in Iskorost. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-kyiv-national-university-of-trade-and-economics": {
+      "name": "Kyiv National University of Trade and Economics, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Kyiv National University of Trade and Economics",
+      "summary": "Jon Worth's map records “Kyiv National University of Trade and Economics” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "us-carlsbad-legoland-california": {
+      "name": "Legoland California, Carlsbad",
+      "label": "Carlsbad",
+      "city": "Carlsbad",
+      "venue": "Legoland California",
+      "summary": "Jon Worth's map records “Legoland California” in Carlsbad. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "us-cypress-gardens-legoland-florida": {
+      "name": "Legoland Florida, Cypress Gardens",
+      "label": "Cypress Gardens",
+      "city": "Cypress Gardens",
+      "venue": "Legoland Florida",
+      "summary": "Jon Worth's map records “Legoland Florida” in Cypress Gardens. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "de-gunzburg-legoland-germany": {
+      "name": "Legoland Germany, Günzburg",
+      "label": "Günzburg",
+      "city": "Günzburg",
+      "venue": "Legoland Germany",
+      "summary": "Jon Worth's map records “Legoland Germany” in Günzburg. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-yalta-massandrovsky-beach": {
+      "name": "Massandrovsky beach, Yalta",
+      "label": "Yalta",
+      "city": "Yalta",
+      "venue": "Massandrovsky beach",
+      "summary": "Jon Worth's map records “Massandrovsky beach” in Yalta. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-medical-center-entrance": {
+      "name": "Medical center entrance, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Medical center entrance",
+      "summary": "Jon Worth's map records “Medical center entrance” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "id-menara-keagungan-limboto-menara-keagungan-limboto": {
+      "name": "Menara Keagungan Limboto, Menara Keagungan Limboto",
+      "label": "Menara Keagungan Limboto",
+      "city": "Menara Keagungan Limboto",
+      "venue": "Menara Keagungan Limboto",
+      "summary": "Jon Worth's map records “Menara Keagungan Limboto” in Menara Keagungan Limboto. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "es-denia-valencia-metal-merchant-tower": {
+      "name": "Metal merchant tower, Dénia, Valencia",
+      "label": "Dénia, Valencia",
+      "city": "Dénia, Valencia",
+      "venue": "Metal merchant tower",
+      "summary": "Jon Worth's map records “Metal merchant tower” in Dénia, Valencia. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "uz-samarkand-neat-tower-at-the-roadside": {
+      "name": "Neat tower at the roadside, Samarkand",
+      "label": "Samarkand",
+      "city": "Samarkand",
+      "venue": "Neat tower at the roadside",
+      "summary": "Jon Worth's map records “Neat tower at the roadside” in Samarkand. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "lt-letukai-new-miniature-park": {
+      "name": "New miniature park, Letūkai",
+      "label": "Letūkai",
+      "city": "Letūkai",
+      "venue": "New miniature park",
+      "summary": "Jon Worth's map records “New miniature park” in Letūkai. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "by-minsk-next-to-a-playground": {
+      "name": "Next to a playground, Minsk",
+      "label": "Minsk",
+      "city": "Minsk",
+      "venue": "Next to a playground",
+      "summary": "Jon Worth's map records “Next to a playground” in Minsk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "vn-bac-giang-nha-hang-cua-o": {
+      "name": "Nhà Hàng Cua Đỏ, Bac Giang",
+      "label": "Bac Giang",
+      "city": "Bac Giang",
+      "venue": "Nhà Hàng Cua Đỏ",
+      "summary": "Jon Worth's map records “Nhà Hàng Cua Đỏ” in Bac Giang. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-myrhorod-paris-dakar-bar": {
+      "name": "Paris Dakar Bar, Myrhorod",
+      "label": "Myrhorod",
+      "city": "Myrhorod",
+      "venue": "Paris Dakar Bar",
+      "summary": "Jon Worth's map records “Paris Dakar Bar” in Myrhorod. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kushuhum-park-tower": {
+      "name": "Park tower, Kushuhum",
+      "label": "Kushuhum",
+      "city": "Kushuhum",
+      "venue": "Park tower",
+      "summary": "Jon Worth's map records “Park tower” in Kushuhum. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "pl-rabka-zdroj-rabkoland": {
+      "name": "Rabkoland, Rabka-Zdrój",
+      "label": "Rabka-Zdrój",
+      "city": "Rabka-Zdrój",
+      "venue": "Rabkoland",
+      "summary": "Jon Worth's map records “Rabkoland” in Rabka-Zdrój. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "in-telangana-ramoji-film-city": {
+      "name": "Ramoji Film City, Telangana",
+      "label": "Telangana",
+      "city": "Telangana",
+      "venue": "Ramoji Film City",
+      "summary": "Jon Worth's map records “Ramoji Film City” in Telangana. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "es-san-juan-del-puerto-andalusia-school-patio-tower": {
+      "name": "School patio tower, San Juan del Puerto, Andalusia",
+      "label": "San Juan del Puerto, Andalusia",
+      "city": "San Juan del Puerto, Andalusia",
+      "venue": "School patio tower",
+      "summary": "Jon Worth's map records “School patio tower” in San Juan del Puerto, Andalusia. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-pusey-small-tower-in-a-garden": {
+      "name": "Small tower in a garden, Pusey",
+      "label": "Pusey",
+      "city": "Pusey",
+      "venue": "Small tower in a garden",
+      "summary": "Jon Worth's map records “Small tower in a garden” in Pusey. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "nl-harselaar-staal-bouw": {
+      "name": "Staal Bouw, Harselaar",
+      "label": "Harselaar",
+      "city": "Harselaar",
+      "venue": "Staal Bouw",
+      "summary": "Jon Worth's map records “Staal Bouw” in Harselaar. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "th-nakhon-ratchasima-terminal-21-korat": {
+      "name": "Terminal 21 Korat, Nakhon Ratchasima",
+      "label": "Nakhon Ratchasima",
+      "city": "Nakhon Ratchasima",
+      "venue": "Terminal 21 Korat",
+      "summary": "Jon Worth's map records “Terminal 21 Korat” in Nakhon Ratchasima. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "th-pattaya-city-terminal-21-pattaya": {
+      "name": "Terminal 21 Pattaya, Pattaya City",
+      "label": "Pattaya City",
+      "city": "Pattaya City",
+      "venue": "Terminal 21 Pattaya",
+      "summary": "Jon Worth's map records “Terminal 21 Pattaya” in Pattaya City. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "it-andria-tm-tecnometal": {
+      "name": "TM Tecnometal, Andria",
+      "label": "Andria",
+      "city": "Andria",
+      "venue": "TM Tecnometal",
+      "summary": "Jon Worth's map records “TM Tecnometal” in Andria. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "de-freiburg-breisgau-tower-at-a-adventure-play-ground": {
+      "name": "Tower at a adventure play ground, Freiburg (Breisgau)",
+      "label": "Freiburg (Breisgau)",
+      "city": "Freiburg (Breisgau)",
+      "venue": "Tower at a adventure play ground",
+      "summary": "Jon Worth's map records “Tower at a adventure play ground” in Freiburg (Breisgau). The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "it-bibbiano-tower-at-a-road-junction-by-an-office": {
+      "name": "Tower at a road junction by an office, Bibbiano",
+      "label": "Bibbiano",
+      "city": "Bibbiano",
+      "venue": "Tower at a road junction by an office",
+      "summary": "Jon Worth's map records “Tower at a road junction by an office” in Bibbiano. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ps-ramallah-tower-at-a-sweet-shop": {
+      "name": "Tower at a sweet shop, Ramallah",
+      "label": "Ramallah",
+      "city": "Ramallah",
+      "venue": "Tower at a sweet shop",
+      "summary": "Jon Worth's map records “Tower at a sweet shop” in Ramallah. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kotelva-tower-at-kalyna-restaurant": {
+      "name": "Tower at Kalyna Restaurant, Kotelva",
+      "label": "Kotelva",
+      "city": "Kotelva",
+      "venue": "Tower at Kalyna Restaurant",
+      "summary": "Jon Worth's map records “Tower at Kalyna Restaurant” in Kotelva. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-nikopol-tower-at-the-edge-of-the-river": {
+      "name": "Tower at the edge of the river, Nikopol",
+      "label": "Nikopol",
+      "city": "Nikopol",
+      "venue": "Tower at the edge of the river",
+      "summary": "Jon Worth's map records “Tower at the edge of the river” in Nikopol. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "by-gomel-tower-at-the-riverbank-park": {
+      "name": "Tower at the riverbank park, Gomel",
+      "label": "Gomel",
+      "city": "Gomel",
+      "venue": "Tower at the riverbank park",
+      "summary": "Jon Worth's map records “Tower at the riverbank park” in Gomel. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-berehove-crimea-tower-at-the-seaside": {
+      "name": "Tower at the seaside, Berehove (Crimea)",
+      "label": "Berehove (Crimea)",
+      "city": "Berehove (Crimea)",
+      "venue": "Tower at the seaside",
+      "summary": "Jon Worth's map records “Tower at the seaside” in Berehove (Crimea). The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ru-arzamas-tower-beside-a-large-road": {
+      "name": "Tower beside a large road, Arzamas",
+      "label": "Arzamas",
+      "city": "Arzamas",
+      "venue": "Tower beside a large road",
+      "summary": "Jon Worth's map records “Tower beside a large road” in Arzamas. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "za-parys-tower-between-the-street-and-shops": {
+      "name": "Tower between the street and shops, Parys",
+      "label": "Parys",
+      "city": "Parys",
+      "venue": "Tower between the street and shops",
+      "summary": "Jon Worth's map records “Tower between the street and shops” in Parys. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-poyans-tower-in-a-back-garden": {
+      "name": "Tower in a back garden, Poyans",
+      "label": "Poyans",
+      "city": "Poyans",
+      "venue": "Tower in a back garden",
+      "summary": "Jon Worth's map records “Tower in a back garden” in Poyans. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ru-abakan-tower-in-a-landscape-garden": {
+      "name": "Tower in a landscape garden, Abakan",
+      "label": "Abakan",
+      "city": "Abakan",
+      "venue": "Tower in a landscape garden",
+      "summary": "Jon Worth's map records “Tower in a landscape garden” in Abakan. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-chanverrie-tower-in-an-industrial-yard": {
+      "name": "Tower in an industrial yard, Chanverrie",
+      "label": "Chanverrie",
+      "city": "Chanverrie",
+      "venue": "Tower in an industrial yard",
+      "summary": "Jon Worth's map records “Tower in an industrial yard” in Chanverrie. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "za-parys-tower-in-arts-quarter": {
+      "name": "Tower in arts quarter, Parys",
+      "label": "Parys",
+      "city": "Parys",
+      "venue": "Tower in arts quarter",
+      "summary": "Jon Worth's map records “Tower in arts quarter” in Parys. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "br-ivaipora-tower-in-the-middle-of-a-boulevard": {
+      "name": "Tower in the middle of a boulevard, Ivaiporã",
+      "label": "Ivaiporã",
+      "city": "Ivaiporã",
+      "venue": "Tower in the middle of a boulevard",
+      "summary": "Jon Worth's map records “Tower in the middle of a boulevard” in Ivaiporã. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-alchevsk-tower-on-stilts-in-park": {
+      "name": "Tower on stilts in park, Alchevsk",
+      "label": "Alchevsk",
+      "city": "Alchevsk",
+      "venue": "Tower on stilts in park",
+      "summary": "Jon Worth's map records “Tower on stilts in park” in Alchevsk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-anglet-tower-on-the-roof-of-a-house": {
+      "name": "Tower on the roof of a house, Anglet",
+      "label": "Anglet",
+      "city": "Anglet",
+      "venue": "Tower on the roof of a house",
+      "summary": "Jon Worth's map records “Tower on the roof of a house” in Anglet. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ee-reigi-tower-pointing-to-the-bigger-tower-down-the-road": {
+      "name": "Tower pointing to the bigger tower down the road, Reigi",
+      "label": "Reigi",
+      "city": "Reigi",
+      "venue": "Tower pointing to the bigger tower down the road",
+      "summary": "Jon Worth's map records “Tower pointing to the bigger tower down the road” in Reigi. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "it-trescore-balneario-tower-suspended-over-a-sort-of-trench": {
+      "name": "Tower suspended over a sort of trench, Trescore Balneario",
+      "label": "Trescore Balneario",
+      "city": "Trescore Balneario",
+      "venue": "Tower suspended over a sort of trench",
+      "summary": "Jon Worth's map records “Tower suspended over a sort of trench” in Trescore Balneario. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-ternopil-travel-agency": {
+      "name": "travel agency, Ternopil",
+      "label": "Ternopil",
+      "city": "Ternopil",
+      "venue": "travel agency",
+      "summary": "Jon Worth's map records “travel agency” in Ternopil. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kryvyi-rih-yuvileinyi-park": {
+      "name": "Yuvileinyi park, Kryvyi Rih",
+      "label": "Kryvyi Rih",
+      "city": "Kryvyi Rih",
+      "venue": "Yuvileinyi park",
+      "summary": "Jon Worth's map records “Yuvileinyi park” in Kryvyi Rih. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-auchan-supermarket": {
+      "name": "'Auchan' supermarket, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "'Auchan' supermarket",
+      "summary": "Jon Worth's map records “'Auchan' supermarket” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-zaporizhzhya-dejavu-cafe": {
+      "name": "'Dejavu' cafe, Zaporizhzhya",
+      "label": "Zaporizhzhya",
+      "city": "Zaporizhzhya",
+      "venue": "'Dejavu' cafe",
+      "summary": "Jon Worth's map records “'Dejavu' cafe” in Zaporizhzhya. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-marganets-dnipro-club": {
+      "name": "'Dnipro' club, Marganets",
+      "label": "Marganets",
+      "city": "Marganets",
+      "venue": "'Dnipro' club",
+      "summary": "Jon Worth's map records “'Dnipro' club” in Marganets. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-dream-town-shopping-mall": {
+      "name": "'Dream Town' shopping mall, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "'Dream Town' shopping mall",
+      "summary": "Jon Worth's map records “'Dream Town' shopping mall” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-chornomorsk-modigliani-restaurant": {
+      "name": "'Modigliani' restaurant, Chornomorsk",
+      "label": "Chornomorsk",
+      "city": "Chornomorsk",
+      "venue": "'Modigliani' restaurant",
+      "summary": "Jon Worth's map records “'Modigliani' restaurant” in Chornomorsk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-ocean-plaza-shopping-mall": {
+      "name": "'Ocean Plaza' shopping mall, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "'Ocean Plaza' shopping mall",
+      "summary": "Jon Worth's map records “'Ocean Plaza' shopping mall” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-mariupol-paris-cafe": {
+      "name": "'Paris' cafe, Mariupol",
+      "label": "Mariupol",
+      "city": "Mariupol",
+      "venue": "'Paris' cafe",
+      "summary": "Jon Worth's map records “'Paris' cafe” in Mariupol. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-zviahel-start-shoe-store": {
+      "name": "'Start' shoe store, Zviahel",
+      "label": "Zviahel",
+      "city": "Zviahel",
+      "venue": "'Start' shoe store",
+      "summary": "Jon Worth's map records “'Start' shoe store” in Zviahel. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-illintsi-varvara-restaurant": {
+      "name": "'Varvara' restaurant, Illintsi",
+      "label": "Illintsi",
+      "city": "Illintsi",
+      "venue": "'Varvara' restaurant",
+      "summary": "Jon Worth's map records “'Varvara' restaurant” in Illintsi. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-nerubaika-zastava-hotel-and-restaurant": {
+      "name": "'Zastava' hotel and restaurant, Nerubaika",
+      "label": "Nerubaika",
+      "city": "Nerubaika",
+      "venue": "'Zastava' hotel and restaurant",
+      "summary": "Jon Worth's map records “'Zastava' hotel and restaurant” in Nerubaika. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kamyanyi-mist-7th-sky-airport-restaurant": {
+      "name": "\"7th Sky Airport\" restaurant, Kamyanyi mist",
+      "label": "Kamyanyi mist",
+      "city": "Kamyanyi mist",
+      "venue": "\"7th Sky Airport\" restaurant",
+      "summary": "Jon Worth's map records “\"7th Sky Airport\" restaurant” in Kamyanyi mist. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-vynnyky-a-cross-in-a-shape-of-an-eiffel-tower": {
+      "name": "a cross in a shape of an Eiffel Tower, Vynnyky",
+      "label": "Vynnyky",
+      "city": "Vynnyky",
+      "venue": "a cross in a shape of an Eiffel Tower",
+      "summary": "Jon Worth's map records “a cross in a shape of an Eiffel Tower” in Vynnyky. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral": {
+      "name": "a tower near the greek catholic cathedral, Uzhgorod",
+      "label": "Uzhgorod",
+      "city": "Uzhgorod",
+      "venue": "a tower near the greek catholic cathedral",
+      "summary": "Jon Worth's map records “a tower near the greek catholic cathedral” in Uzhgorod. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "vn-ansapa-village-ansapa-park": {
+      "name": "Ansapa Park, Ansapa Village",
+      "label": "Ansapa Village",
+      "city": "Ansapa Village",
+      "venue": "Ansapa Park",
+      "summary": "Jon Worth's map records “Ansapa Park” in Ansapa Village. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-poltava-arevik-flower-shop": {
+      "name": "Arevik Flower Shop, Poltava",
+      "label": "Poltava",
+      "city": "Poltava",
+      "venue": "Arevik Flower Shop",
+      "summary": "Jon Worth's map records “Arevik Flower Shop” in Poltava. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "at-zwingendorf-back-garden-tower-built-by-twin-brothers": {
+      "name": "Back garden tower built by twin brothers, Zwingendorf",
+      "label": "Zwingendorf",
+      "city": "Zwingendorf",
+      "venue": "Back garden tower built by twin brothers",
+      "summary": "Jon Worth's map records “Back garden tower built by twin brothers” in Zwingendorf. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kostopil-back-yard-of-a-private-house": {
+      "name": "Back yard of a private house, Kostopil",
+      "label": "Kostopil",
+      "city": "Kostopil",
+      "venue": "Back yard of a private house",
+      "summary": "Jon Worth's map records “Back yard of a private house” in Kostopil. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-rodynske-bank": {
+      "name": "bank, Rodynske",
+      "label": "Rodynske",
+      "city": "Rodynske",
+      "venue": "bank",
+      "summary": "Jon Worth's map records “bank” in Rodynske. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-odesa-cafe-closed": {
+      "name": "cafe (closed), Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "cafe (closed)",
+      "summary": "Jon Worth's map records “cafe (closed)” in Odesa. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "al-tirana-cafe-paris": {
+      "name": "Café Paris, Tirana",
+      "label": "Tirana",
+      "city": "Tirana",
+      "venue": "Café Paris",
+      "summary": "Jon Worth's map records “Café Paris” in Tirana. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-volnovakha-central-park-in-the-town": {
+      "name": "Central park in the town, Volnovakha",
+      "label": "Volnovakha",
+      "city": "Volnovakha",
+      "venue": "Central park in the town",
+      "summary": "Jon Worth's map records “Central park in the town” in Volnovakha. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-nadezhdivka-centre-of-the-village-edge-of-a-small-park": {
+      "name": "Centre of the village, edge of a small park, Nadezhdivka",
+      "label": "Nadezhdivka",
+      "city": "Nadezhdivka",
+      "venue": "Centre of the village, edge of a small park",
+      "summary": "Jon Worth's map records “Centre of the village, edge of a small park” in Nadezhdivka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-reshetylivka-city-center-park": {
+      "name": "City center park, Reshetylivka",
+      "label": "Reshetylivka",
+      "city": "Reshetylivka",
+      "venue": "City center park",
+      "summary": "Jon Worth's map records “City center park” in Reshetylivka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ru-ekaterinoslavka-edge-of-town": {
+      "name": "Edge of town, Ekaterinoslavka",
+      "label": "Ekaterinoslavka",
+      "city": "Ekaterinoslavka",
+      "venue": "Edge of town",
+      "summary": "Jon Worth's map records “Edge of town” in Ekaterinoslavka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-drohobych-eiffel-tower-in-city-center": {
+      "name": "Eiffel Tower in city center, Drohobych",
+      "label": "Drohobych",
+      "city": "Drohobych",
+      "venue": "Eiffel Tower in city center",
+      "summary": "Jon Worth's map records “Eiffel Tower in city center” in Drohobych. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-bilopillya-eiffel-tower-near-a-coffee-shop": {
+      "name": "Eiffel Tower near a coffee shop, Bilopillya",
+      "label": "Bilopillya",
+      "city": "Bilopillya",
+      "venue": "Eiffel Tower near a coffee shop",
+      "summary": "Jon Worth's map records “Eiffel Tower near a coffee shop” in Bilopillya. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-nizhyn-eiffel-tower-near-a-shop-at-a-bus-stop": {
+      "name": "Eiffel Tower near a shop at a bus stop, Nizhyn",
+      "label": "Nizhyn",
+      "city": "Nizhyn",
+      "venue": "Eiffel Tower near a shop at a bus stop",
+      "summary": "Jon Worth's map records “Eiffel Tower near a shop at a bus stop” in Nizhyn. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-smila-eiffel-tower-near-a-shopping-mall": {
+      "name": "Eiffel Tower near a shopping mall, Smila",
+      "label": "Smila",
+      "city": "Smila",
+      "venue": "Eiffel Tower near a shopping mall",
+      "summary": "Jon Worth's map records “Eiffel Tower near a shopping mall” in Smila. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-yahotyn-eiffel-tower-near-a-soviet-tank-monument": {
+      "name": "Eiffel Tower near a Soviet tank monument, Yahotyn",
+      "label": "Yahotyn",
+      "city": "Yahotyn",
+      "venue": "Eiffel Tower near a Soviet tank monument",
+      "summary": "Jon Worth's map records “Eiffel Tower near a Soviet tank monument” in Yahotyn. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-yahotyn-eiffel-tower-on-a-shop": {
+      "name": "Eiffel Tower on a shop, Yahotyn",
+      "label": "Yahotyn",
+      "city": "Yahotyn",
+      "venue": "Eiffel Tower on a shop",
+      "summary": "Jon Worth's map records “Eiffel Tower on a shop” in Yahotyn. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kyiv-eiffel-tower-on-the-entrance-to-a-residential-building": {
+      "name": "Eiffel Tower on the entrance to a residential building, Kyiv",
+      "label": "Kyiv",
+      "city": "Kyiv",
+      "venue": "Eiffel Tower on the entrance to a residential building",
+      "summary": "Jon Worth's map records “Eiffel Tower on the entrance to a residential building” in Kyiv. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-dnipro-eiffel-tower-wind-farm-in-the-yard-of-a-private-house": {
+      "name": "Eiffel Tower wind farm in the yard of a private house, Dnipro",
+      "label": "Dnipro",
+      "city": "Dnipro",
+      "venue": "Eiffel Tower wind farm in the yard of a private house",
+      "summary": "Jon Worth's map records “Eiffel Tower wind farm in the yard of a private house” in Dnipro. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-odesa-fontanka": {
+      "name": "Fontanka, Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Fontanka",
+      "summary": "Jon Worth's map records “Fontanka” in Odesa. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-hrushkivka-forestry": {
+      "name": "forestry, Hrushkivka",
+      "label": "Hrushkivka",
+      "city": "Hrushkivka",
+      "venue": "forestry",
+      "summary": "Jon Worth's map records “forestry” in Hrushkivka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ru-volzhskiy-frantsuzskiy-bul-var": {
+      "name": "Frantsuzskiy Bul'var, Volzhskiy",
+      "label": "Volzhskiy",
+      "city": "Volzhskiy",
+      "venue": "Frantsuzskiy Bul'var",
+      "summary": "Jon Worth's map records “Frantsuzskiy Bul'var” in Volzhskiy. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-bila-tserkva-french-pastry-in-residential-area": {
+      "name": "French pastry in residential area, Bila Tserkva",
+      "label": "Bila Tserkva",
+      "city": "Bila Tserkva",
+      "venue": "French pastry in residential area",
+      "summary": "Jon Worth's map records “French pastry in residential area” in Bila Tserkva. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-puscha-vodytsya-french-school": {
+      "name": "French school, Puscha Vodytsya",
+      "label": "Puscha Vodytsya",
+      "city": "Puscha Vodytsya",
+      "venue": "French school",
+      "summary": "Jon Worth's map records “French school” in Puscha Vodytsya. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-rivne-haidamatska-str": {
+      "name": "Haidamatska str, Rivne",
+      "label": "Rivne",
+      "city": "Rivne",
+      "venue": "Haidamatska str",
+      "summary": "Jon Worth's map records “Haidamatska str” in Rivne. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-sadove-hotel-butterfly": {
+      "name": "Hotel Butterfly, Sadove",
+      "label": "Sadove",
+      "city": "Sadove",
+      "venue": "Hotel Butterfly",
+      "summary": "Jon Worth's map records “Hotel Butterfly” in Sadove. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "kr-chungju-si-hotel-the-base": {
+      "name": "Hotel the Base, Chungju-si",
+      "label": "Chungju-si",
+      "city": "Chungju-si",
+      "venue": "Hotel the Base",
+      "summary": "Jon Worth's map records “Hotel the Base” in Chungju-si. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "sv-san-salvador-inti-tower": {
+      "name": "INTI Tower, San Salvador",
+      "label": "San Salvador",
+      "city": "San Salvador",
+      "venue": "INTI Tower",
+      "summary": "Jon Worth's map records “INTI Tower” in San Salvador. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-odesa-kobleska-37": {
+      "name": "Kobleska 37, Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Kobleska 37",
+      "summary": "Jon Worth's map records “Kobleska 37” in Odesa. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-skvyra-kyiv-restaurant-tower": {
+      "name": "Kyiv Restaurant Tower, Skvyra",
+      "label": "Skvyra",
+      "city": "Skvyra",
+      "venue": "Kyiv Restaurant Tower",
+      "summary": "Jon Worth's map records “Kyiv Restaurant Tower” in Skvyra. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-bila-tserkva-leone": {
+      "name": "Leone, Bila Tserkva",
+      "label": "Bila Tserkva",
+      "city": "Bila Tserkva",
+      "venue": "Leone",
+      "summary": "Jon Worth's map records “Leone” in Bila Tserkva. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-odesa-mini-golf-course-in-a-park": {
+      "name": "Mini golf course in a park, Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Mini golf course in a park",
+      "summary": "Jon Worth's map records “Mini golf course in a park” in Odesa. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-saint-georges-des-gardes-ndc-bar": {
+      "name": "NDC Bar, Saint-Georges-des-Gardes",
+      "label": "Saint-Georges-des-Gardes",
+      "city": "Saint-Georges-des-Gardes",
+      "venue": "NDC Bar",
+      "summary": "Jon Worth's map records “NDC Bar” in Saint-Georges-des-Gardes. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "de-monchengladbach-nightclub-tower": {
+      "name": "Nightclub tower, Mönchengladbach",
+      "label": "Mönchengladbach",
+      "city": "Mönchengladbach",
+      "venue": "Nightclub tower",
+      "summary": "Jon Worth's map records “Nightclub tower” in Mönchengladbach. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-nova-kakhovka-nova-kakhovka-higher-politechnic-school": {
+      "name": "Nova Kakhovka higher politechnic school, Nova Kakhovka",
+      "label": "Nova Kakhovka",
+      "city": "Nova Kakhovka",
+      "venue": "Nova Kakhovka higher politechnic school",
+      "summary": "Jon Worth's map records “Nova Kakhovka higher politechnic school” in Nova Kakhovka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "za-parys-old-ferry-house-restaurant": {
+      "name": "Old Ferry House Restaurant, Parys",
+      "label": "Parys",
+      "city": "Parys",
+      "venue": "Old Ferry House Restaurant",
+      "summary": "Jon Worth's map records “Old Ferry House Restaurant” in Parys. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-melitopol-on-the-roof-of-a-pharmacy": {
+      "name": "On the roof of a pharmacy, Melitopol",
+      "label": "Melitopol",
+      "city": "Melitopol",
+      "venue": "On the roof of a pharmacy",
+      "summary": "Jon Worth's map records “On the roof of a pharmacy” in Melitopol. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-ivanivka-odesa-oblast-ostrich-farm-tower": {
+      "name": "Ostrich farm tower, Ivanivka, Odesa Oblast",
+      "label": "Ivanivka, Odesa Oblast",
+      "city": "Ivanivka, Odesa Oblast",
+      "venue": "Ostrich farm tower",
+      "summary": "Jon Worth's map records “Ostrich farm tower” in Ivanivka, Odesa Oblast. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-odesa-osypova-37": {
+      "name": "Osypova 37, Odesa",
+      "label": "Odesa",
+      "city": "Odesa",
+      "venue": "Osypova 37",
+      "summary": "Jon Worth's map records “Osypova 37” in Odesa. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-zavodske-park-in-city-center": {
+      "name": "park in city center, Zavodske",
+      "label": "Zavodske",
+      "city": "Zavodske",
+      "venue": "park in city center",
+      "summary": "Jon Worth's map records “park in city center” in Zavodske. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-sarny-park-in-town-centre": {
+      "name": "Park in town centre, Sarny",
+      "label": "Sarny",
+      "city": "Sarny",
+      "venue": "Park in town centre",
+      "summary": "Jon Worth's map records “Park in town centre” in Sarny. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-pomichna-park-near-railway-station": {
+      "name": "Park near railway station, Pomichna",
+      "label": "Pomichna",
+      "city": "Pomichna",
+      "venue": "Park near railway station",
+      "summary": "Jon Worth's map records “Park near railway station” in Pomichna. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-olshanske-park-near-the-village-council": {
+      "name": "Park near the village council, Olshanske",
+      "label": "Olshanske",
+      "city": "Olshanske",
+      "venue": "Park near the village council",
+      "summary": "Jon Worth's map records “Park near the village council” in Olshanske. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach": {
+      "name": "Pilgrimage Center of Symeon Lukach, Bohorodchans'kyi",
+      "label": "Bohorodchans'kyi",
+      "city": "Bohorodchans'kyi",
+      "venue": "Pilgrimage Center of Symeon Lukach",
+      "summary": "Jon Worth's map records “Pilgrimage Center of Symeon Lukach” in Bohorodchans'kyi. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-pisochyn-replica-at-a-sanitorium-resort": {
+      "name": "Replica at a sanitorium resort, Pisochyn",
+      "label": "Pisochyn",
+      "city": "Pisochyn",
+      "venue": "Replica at a sanitorium resort",
+      "summary": "Jon Worth's map records “Replica at a sanitorium resort” in Pisochyn. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ru-nazran-replica-in-residential-area": {
+      "name": "Replica in residential area, Nazran",
+      "label": "Nazran",
+      "city": "Nazran",
+      "venue": "Replica in residential area",
+      "summary": "Jon Worth's map records “Replica in residential area” in Nazran. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "nz-coromandel-replica-inside-the-eyefull-tower": {
+      "name": "Replica inside the Eyefull Tower, Coromandel",
+      "label": "Coromandel",
+      "city": "Coromandel",
+      "venue": "Replica inside the Eyefull Tower",
+      "summary": "Jon Worth's map records “Replica inside the Eyefull Tower” in Coromandel. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kriukivschshyna-residential-complex-european-city": {
+      "name": "Residential complex European city, Kriukivschshyna",
+      "label": "Kriukivschshyna",
+      "city": "Kriukivschshyna",
+      "venue": "Residential complex European city",
+      "summary": "Jon Worth's map records “Residential complex European city” in Kriukivschshyna. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-bantzenheim-roundabout-tower-route-de-mulhouse": {
+      "name": "Roundabout tower Route de Mulhouse, Bantzenheim",
+      "label": "Bantzenheim",
+      "city": "Bantzenheim",
+      "venue": "Roundabout tower Route de Mulhouse",
+      "summary": "Jon Worth's map records “Roundabout tower Route de Mulhouse” in Bantzenheim. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "in-pune-seven-wonders-dream-park": {
+      "name": "Seven Wonders Dream Park, Pune",
+      "label": "Pune",
+      "city": "Pune",
+      "venue": "Seven Wonders Dream Park",
+      "summary": "Jon Worth's map records “Seven Wonders Dream Park” in Pune. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-rivne-small-coffee-shop": {
+      "name": "small coffee shop, Rivne",
+      "label": "Rivne",
+      "city": "Rivne",
+      "venue": "small coffee shop",
+      "summary": "Jon Worth's map records “small coffee shop” in Rivne. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-khmelnytskyi-so-called-monument-to-ukrainian-inferiority": {
+      "name": "So called 'Monument to Ukrainian inferiority', Khmelnytskyi",
+      "label": "Khmelnytskyi",
+      "city": "Khmelnytskyi",
+      "venue": "So called 'Monument to Ukrainian inferiority'",
+      "summary": "Jon Worth's map records “So called 'Monument to Ukrainian inferiority'” in Khmelnytskyi. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-korosten-spartak-stadium": {
+      "name": "Spartak Stadium, Korosten",
+      "label": "Korosten",
+      "city": "Korosten",
+      "venue": "Spartak Stadium",
+      "summary": "Jon Worth's map records “Spartak Stadium” in Korosten. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ph-naic-torres-farm-and-resort": {
+      "name": "Torres Farm and Resort, Naic",
+      "label": "Naic",
+      "city": "Naic",
+      "venue": "Torres Farm and Resort",
+      "summary": "Jon Worth's map records “Torres Farm and Resort” in Naic. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ro-cincu-tower-at-a-farm": {
+      "name": "Tower at a farm, Cincu",
+      "label": "Cincu",
+      "city": "Cincu",
+      "venue": "Tower at a farm",
+      "summary": "Jon Worth's map records “Tower at a farm” in Cincu. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-novodnistrovsk-tower-at-a-travel-agency": {
+      "name": "Tower at a travel agency, Novodnistrovsk",
+      "label": "Novodnistrovsk",
+      "city": "Novodnistrovsk",
+      "venue": "Tower at a travel agency",
+      "summary": "Jon Worth's map records “Tower at a travel agency” in Novodnistrovsk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-vesoul-tower-in-a-back-garden": {
+      "name": "Tower in a back garden, Vesoul",
+      "label": "Vesoul",
+      "city": "Vesoul",
+      "venue": "Tower in a back garden",
+      "summary": "Jon Worth's map records “Tower in a back garden” in Vesoul. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ar-carlos-paz-tower-in-a-pensioner-s-garden": {
+      "name": "Tower in a pensioner’s garden, Carlos Paz",
+      "label": "Carlos Paz",
+      "city": "Carlos Paz",
+      "venue": "Tower in a pensioner’s garden",
+      "summary": "Jon Worth's map records “Tower in a pensioner’s garden” in Carlos Paz. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-montlouis-sur-loire-tower-in-chateau-gardens": {
+      "name": "Tower in chateau gardens, Montlouis-sur-Loire",
+      "label": "Montlouis-sur-Loire",
+      "city": "Montlouis-sur-Loire",
+      "venue": "Tower in chateau gardens",
+      "summary": "Jon Worth's map records “Tower in chateau gardens” in Montlouis-sur-Loire. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "at-st-polten-tower-on-a-small-road-beside-the-railway-line": {
+      "name": "Tower on a small road beside the railway line, St Pölten",
+      "label": "St Pölten",
+      "city": "St Pölten",
+      "venue": "Tower on a small road beside the railway line",
+      "summary": "Jon Worth's map records “Tower on a small road beside the railway line” in St Pölten. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "cz-benatky-nad-jizerou-toy-museum-tower": {
+      "name": "Toy museum tower, Benátky nad Jizerou",
+      "label": "Benátky nad Jizerou",
+      "city": "Benátky nad Jizerou",
+      "venue": "Toy museum tower",
+      "summary": "Jon Worth's map records “Toy museum tower” in Benátky nad Jizerou. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "lb-jounieh-trocadero-lb": {
+      "name": "Trocadéro LB, Jounieh",
+      "label": "Jounieh",
+      "city": "Jounieh",
+      "venue": "Trocadéro LB",
+      "summary": "Jon Worth's map records “Trocadéro LB” in Jounieh. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-vinnytsya-vinnytsya-cooperative-institute": {
+      "name": "Vinnytsya cooperative institute, Vinnytsya",
+      "label": "Vinnytsya",
+      "city": "Vinnytsya",
+      "venue": "Vinnytsya cooperative institute",
+      "summary": "Jon Worth's map records “Vinnytsya cooperative institute” in Vinnytsya. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "kg-bishkek-vostok-5-microdistrict": {
+      "name": "Vostok-5 microdistrict, Bishkek",
+      "label": "Bishkek",
+      "city": "Bishkek",
+      "venue": "Vostok-5 microdistrict",
+      "summary": "Jon Worth's map records “Vostok-5 microdistrict” in Bishkek. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-rivne-yard-of-a-residential-building": {
+      "name": "yard of a residential building, Rivne",
+      "label": "Rivne",
+      "city": "Rivne",
+      "venue": "yard of a residential building",
+      "summary": "Jon Worth's map records “yard of a residential building” in Rivne. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-zhytomyr-zarichanske-forestry": {
+      "name": "Zarichanske forestry, Zhytomyr",
+      "label": "Zhytomyr",
+      "city": "Zhytomyr",
+      "venue": "Zarichanske forestry",
+      "summary": "Jon Worth's map records “Zarichanske forestry” in Zhytomyr. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-koropovo-carnaval-resort-spa": {
+      "name": "Гостиница Carnaval Resort & Spa, Koropovo",
+      "label": "Koropovo",
+      "city": "Koropovo",
+      "venue": "Гостиница Carnaval Resort & Spa",
+      "summary": "Jon Worth's map records “Гостиница Carnaval Resort & Spa” in Koropovo. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "my-langkawi-maha-tower": {
+      "name": "Maha Tower, Langkawi",
+      "label": "Langkawi",
+      "city": "Langkawi",
+      "venue": "Maha Tower",
+      "summary": "Jon Worth's map records “Maha Tower” in Langkawi. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "us-glendale-americana-at-brand": {
+      "name": "Americana at Brand, Glendale",
+      "label": "Glendale",
+      "city": "Glendale",
+      "venue": "Americana at Brand",
+      "summary": "Jon Worth's map records “Americana at Brand” in Glendale. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "rs-belgrade-avalski-toranj": {
+      "name": "Avalski toranj, Belgrade",
+      "label": "Belgrade",
+      "city": "Belgrade",
+      "venue": "Avalski toranj",
+      "summary": "Jon Worth's map records “Avalski toranj” in Belgrade. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "tw-chiayi-clock-tower": {
+      "name": "Clock tower, Chiayi",
+      "label": "Chiayi",
+      "city": "Chiayi",
+      "venue": "Clock tower",
+      "summary": "Jon Worth's map records “Clock tower” in Chiayi. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "vn-ha-giang-communication-tower": {
+      "name": "Communication tower, Hà Giang",
+      "label": "Hà Giang",
+      "city": "Hà Giang",
+      "venue": "Communication tower",
+      "summary": "Jon Worth's map records “Communication tower” in Hà Giang. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "es-alava-cruz-del-monte-gorbea": {
+      "name": "Cruz Del Monte Gorbea, Álava",
+      "label": "Álava",
+      "city": "Álava",
+      "venue": "Cruz Del Monte Gorbea",
+      "summary": "Jon Worth's map records “Cruz Del Monte Gorbea” in Álava. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "gb-crystal-palace-london-crystal-palace-transmitting-station": {
+      "name": "Crystal Palace transmitting station, Crystal Palace, London",
+      "label": "Crystal Palace, London",
+      "city": "Crystal Palace, London",
+      "venue": "Crystal Palace transmitting station",
+      "summary": "Jon Worth's map records “Crystal Palace transmitting station” in Crystal Palace, London. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-mulhouse-emetteur-du-belvedere": {
+      "name": "Émetteur du Belvédère, Mulhouse",
+      "label": "Mulhouse",
+      "city": "Mulhouse",
+      "venue": "Émetteur du Belvédère",
+      "summary": "Jon Worth's map records “Émetteur du Belvédère” in Mulhouse. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "in-fazilka-fazilka-tv-tower": {
+      "name": "Fazilka TV Tower, Fazilka",
+      "label": "Fazilka",
+      "city": "Fazilka",
+      "venue": "Fazilka TV Tower",
+      "summary": "Jon Worth's map records “Fazilka TV Tower” in Fazilka. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "pl-gliwice-gliwice-radio-tower": {
+      "name": "Gliwice Radio Tower, Gliwice",
+      "label": "Gliwice",
+      "city": "Gliwice",
+      "venue": "Gliwice Radio Tower",
+      "summary": "Jon Worth's map records “Gliwice Radio Tower” in Gliwice. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "de-lauchhammer-liegender-eiffelturm": {
+      "name": "Liegender Eiffelturm, Lauchhammer",
+      "label": "Lauchhammer",
+      "city": "Lauchhammer",
+      "venue": "Liegender Eiffelturm",
+      "summary": "Jon Worth's map records “Liegender Eiffelturm” in Lauchhammer. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "lv-riga-rigas-radio-un-televizijas-tornis": {
+      "name": "Rīgas radio un televīzijas tornis, Riga",
+      "label": "Riga",
+      "city": "Riga",
+      "venue": "Rīgas radio un televīzijas tornis",
+      "summary": "Jon Worth's map records “Rīgas radio un televīzijas tornis” in Riga. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ru-st-petersburg-saint-petersburg-tv-tower": {
+      "name": "Saint Petersburg TV Tower, St Petersburg",
+      "label": "St Petersburg",
+      "city": "St Petersburg",
+      "venue": "Saint Petersburg TV Tower",
+      "summary": "Jon Worth's map records “Saint Petersburg TV Tower” in St Petersburg. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "jp-sapporo-sapporo-television-tower": {
+      "name": "Sapporo Television Tower, Sapporo",
+      "label": "Sapporo",
+      "city": "Sapporo",
+      "venue": "Sapporo Television Tower",
+      "summary": "Jon Worth's map records “Sapporo Television Tower” in Sapporo. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "gq-bata-torre-de-bata": {
+      "name": "Torre de Bata, Bata",
+      "label": "Bata",
+      "city": "Bata",
+      "venue": "Torre de Bata",
+      "summary": "Jon Worth's map records “Torre de Bata” in Bata. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "am-yerevan-yerevani-herustaashtarak": {
+      "name": "Yerevani herustaashtarak, Yerevan",
+      "label": "Yerevan",
+      "city": "Yerevan",
+      "venue": "Yerevani herustaashtarak",
+      "summary": "Jon Worth's map records “Yerevani herustaashtarak” in Yerevan. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-strilkivtsi-ozirna-cave": {
+      "name": "'Ozirna' cave, Strilkivtsi",
+      "label": "Strilkivtsi",
+      "city": "Strilkivtsi",
+      "venue": "'Ozirna' cave",
+      "summary": "Jon Worth's map records “'Ozirna' cave” in Strilkivtsi. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-kamyanets-podilskyi-margaret-pizzeria": {
+      "name": "\"Margaret\" pizzeria, Kamyanets-Podilskyi",
+      "label": "Kamyanets-Podilskyi",
+      "city": "Kamyanets-Podilskyi",
+      "venue": "\"Margaret\" pizzeria",
+      "summary": "Jon Worth's map records “\"Margaret\" pizzeria” in Kamyanets-Podilskyi. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "lb-broummana-chez-alain": {
+      "name": "Chez Alain, Broummana",
+      "label": "Broummana",
+      "city": "Broummana",
+      "venue": "Chez Alain",
+      "summary": "Jon Worth's map records “Chez Alain” in Broummana. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ph-dipolog-city-dipolog": {
+      "name": "Dipolog, Dipolog City",
+      "label": "Dipolog City",
+      "city": "Dipolog City",
+      "venue": "Dipolog",
+      "summary": "Jon Worth's map records “Dipolog” in Dipolog City. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-maryanivka-eiffel-tower-in-a-park": {
+      "name": "Eiffel Tower in a park, Maryanivka",
+      "label": "Maryanivka",
+      "city": "Maryanivka",
+      "venue": "Eiffel Tower in a park",
+      "summary": "Jon Worth's map records “Eiffel Tower in a park” in Maryanivka. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "in-kolkata-further-kolkata-tower": {
+      "name": "Further Kolkata Tower, Kolkata",
+      "label": "Kolkata",
+      "city": "Kolkata",
+      "venue": "Further Kolkata Tower",
+      "summary": "Jon Worth's map records “Further Kolkata Tower” in Kolkata. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "cn-shanghai-i-do-tower": {
+      "name": "I Do Tower, Shanghai",
+      "label": "Shanghai",
+      "city": "Shanghai",
+      "venue": "I Do Tower",
+      "summary": "Jon Worth's map records “I Do Tower” in Shanghai. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "cn-zhouzhou-large-tower-at-a-roundabout": {
+      "name": "Large tower at a roundabout, Zhouzhou",
+      "label": "Zhouzhou",
+      "city": "Zhouzhou",
+      "venue": "Large tower at a roundabout",
+      "summary": "Jon Worth's map records “Large tower at a roundabout” in Zhouzhou. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-hertsa-notary-office": {
+      "name": "Notary Office, Hertsa",
+      "label": "Hertsa",
+      "city": "Hertsa",
+      "venue": "Notary Office",
+      "summary": "Jon Worth's map records “Notary Office” in Hertsa. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "cn-lishui-rapeseed-field-in-china": {
+      "name": "Rapeseed field in China, Lishui",
+      "label": "Lishui",
+      "city": "Lishui",
+      "venue": "Rapeseed field in China",
+      "summary": "Jon Worth's map records “Rapeseed field in China” in Lishui. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-saujon-record-breaking-tower-made-of-matches": {
+      "name": "Record breaking tower made of matches, Saujon",
+      "label": "Saujon",
+      "city": "Saujon",
+      "venue": "Record breaking tower made of matches",
+      "summary": "Jon Worth's map records “Record breaking tower made of matches” in Saujon. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "sa-madinah-replica-on-a-roof-top": {
+      "name": "Replica on a roof top, Madinah",
+      "label": "Madinah",
+      "city": "Madinah",
+      "venue": "Replica on a roof top",
+      "summary": "Jon Worth's map records “Replica on a roof top” in Madinah. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "kg-aksy-tower-built-by-school-pupils": {
+      "name": "Tower built by school pupils, Aksy",
+      "label": "Aksy",
+      "city": "Aksy",
+      "venue": "Tower built by school pupils",
+      "summary": "Jon Worth's map records “Tower built by school pupils” in Aksy. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-severodonetsk-tower-in-the-yard-of-impuls-institute": {
+      "name": "Tower in the yard of Impuls Institute, Severodonetsk",
+      "label": "Severodonetsk",
+      "city": "Severodonetsk",
+      "venue": "Tower in the yard of Impuls Institute",
+      "summary": "Jon Worth's map records “Tower in the yard of Impuls Institute” in Severodonetsk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-sevastopol-tower-near-a-cafe": {
+      "name": "Tower near a cafe, Sevastopol",
+      "label": "Sevastopol",
+      "city": "Sevastopol",
+      "venue": "Tower near a cafe",
+      "summary": "Jon Worth's map records “Tower near a cafe” in Sevastopol. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "cn-taiyuan-tower-on-police-station-roof": {
+      "name": "Tower on police station roof, Taiyuan",
+      "label": "Taiyuan",
+      "city": "Taiyuan",
+      "venue": "Tower on police station roof",
+      "summary": "Jon Worth's map records “Tower on police station roof” in Taiyuan. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ua-shatsk-yard-of-a-private-house": {
+      "name": "Yard of a private house, Shatsk",
+      "label": "Shatsk",
+      "city": "Shatsk",
+      "venue": "Yard of a private house",
+      "summary": "Jon Worth's map records “Yard of a private house” in Shatsk. The object and its current status still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "us-boise-idaho-cafe-de-paris": {
+      "name": "Cafe de Paris, Boise, Idaho",
+      "label": "Boise, Idaho",
+      "city": "Boise, Idaho",
+      "venue": "Cafe de Paris",
+      "summary": "Jon Worth's map records “Cafe de Paris” in Boise, Idaho. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "br-manaus-centro-cultural-palacio-da-justica-do-amazonas": {
+      "name": "Centro Cultural Palácio da Justiça do Amazonas, Manaus",
+      "label": "Manaus",
+      "city": "Manaus",
+      "venue": "Centro Cultural Palácio da Justiça do Amazonas",
+      "summary": "Jon Worth's map records “Centro Cultural Palácio da Justiça do Amazonas” in Manaus. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-paris-bassin-de-la-villette-eiffel-tower-rocket-sculpture": {
+      "name": "Eiffel Tower Rocket Sculpture, Paris, Bassin de la Villette",
+      "label": "Paris, Bassin de la Villette",
+      "city": "Paris, Bassin de la Villette",
+      "venue": "Eiffel Tower Rocket Sculpture",
+      "summary": "Jon Worth's map records “Eiffel Tower Rocket Sculpture” in Paris, Bassin de la Villette. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "us-mount-clemens-michigan-harper-metro-mini-golf": {
+      "name": "Harper Metro Mini Golf, Mount Clemens, Michigan",
+      "label": "Mount Clemens, Michigan",
+      "city": "Mount Clemens, Michigan",
+      "venue": "Harper Metro Mini Golf",
+      "summary": "Jon Worth's map records “Harper Metro Mini Golf” in Mount Clemens, Michigan. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "us-kings-island-topiary-kings-island-topiary-tower": {
+      "name": "Kings Island topiary tower, Kings Island (Topiary)",
+      "label": "Kings Island (Topiary)",
+      "city": "Kings Island (Topiary)",
+      "venue": "Kings Island topiary tower",
+      "summary": "Jon Worth's map records “Kings Island topiary tower” in Kings Island (Topiary). It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "se-vanersborg-lilla-paris": {
+      "name": "Lilla Paris, Vänersborg",
+      "label": "Vänersborg",
+      "city": "Vänersborg",
+      "venue": "Lilla Paris",
+      "summary": "Jon Worth's map records “Lilla Paris” in Vänersborg. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "cz-most-mostecke-jezero-olympic-tower": {
+      "name": "Mostecké jezero – Olympic tower, Most",
+      "label": "Most",
+      "city": "Most",
+      "venue": "Mostecké jezero – Olympic tower",
+      "summary": "Jon Worth's map records “Mostecké jezero – Olympic tower” in Most. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "nz-dunedin-new-zealand-and-south-seas-exhibition-1889": {
+      "name": "New Zealand and South Seas Exhibition (1889), Dunedin",
+      "label": "Dunedin",
+      "city": "Dunedin",
+      "venue": "New Zealand and South Seas Exhibition (1889)",
+      "summary": "Jon Worth's map records “New Zealand and South Seas Exhibition (1889)” in Dunedin. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "in-parle-point-parle-point-surat": {
+      "name": "Parle Point Surat, Parle Point",
+      "label": "Parle Point",
+      "city": "Parle Point",
+      "venue": "Parle Point Surat",
+      "summary": "Jon Worth's map records “Parle Point Surat” in Parle Point. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "fr-waldighoffen-tall-wooden-tower-at-an-exhibition": {
+      "name": "Tall wooden tower at an exhibition, Waldighoffen",
+      "label": "Waldighoffen",
+      "city": "Waldighoffen",
+      "venue": "Tall wooden tower at an exhibition",
+      "summary": "Jon Worth's map records “Tall wooden tower at an exhibition” in Waldighoffen. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "gb-chertsey-thorpe-park": {
+      "name": "Thorpe Park, Chertsey",
+      "label": "Chertsey",
+      "city": "Chertsey",
+      "venue": "Thorpe Park",
+      "summary": "Jon Worth's map records “Thorpe Park” in Chertsey. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "cu-cienfuegos-torre-eiffel-de-cienfuegos": {
+      "name": "Torre Eiffel de Cienfuegos, Cienfuegos",
+      "label": "Cienfuegos",
+      "city": "Cienfuegos",
+      "venue": "Torre Eiffel de Cienfuegos",
+      "summary": "Jon Worth's map records “Torre Eiffel de Cienfuegos” in Cienfuegos. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ru-samara-tower-at-a-road-junction": {
+      "name": "Tower at a road junction, Samara",
+      "label": "Samara",
+      "city": "Samara",
+      "venue": "Tower at a road junction",
+      "summary": "Jon Worth's map records “Tower at a road junction” in Samara. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "name": "Vinson’s Miniature Golf, Taylor, Michigan",
+      "label": "Taylor, Michigan",
+      "city": "Taylor, Michigan",
+      "venue": "Vinson’s Miniature Golf",
+      "summary": "Jon Worth's map records “Vinson’s Miniature Golf” in Taylor, Michigan. It is listed as removed or never built; the precise status and dates still need corroboration. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "dk-slagelse-wooden-tower-at-an-exhibition": {
+      "name": "Wooden tower at an exhibition, Slagelse",
+      "label": "Slagelse",
+      "city": "Slagelse",
+      "venue": "Wooden tower at an exhibition",
+      "summary": "Jon Worth's map records “Wooden tower at an exhibition” in Slagelse. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.",
+      "currentUses": []
+    },
+    "ad-andorra-tower-at-a-restaurant": {
+      "name": "Café terrace Eiffel replica, Andorra (Aragon)",
+      "label": "Andorra (Aragon)",
+      "city": "Andorra, Aragon",
+      "venue": "Café terrace",
+      "summary": "This restaurant replica lead is in Andorra, Aragon, Spain. The old coordinate and the new map identify the same locality. Current status and dimensions remain unverified.",
+      "currentUses": []
+    },
+    "cz-police-nad-metuji-tower-beside-a-toy-store": {
+      "name": "Outdoor Merkur Eiffel statue, Police nad Metují (historical lead)",
+      "label": "Police Merkur",
+      "city": "Police nad Metují",
+      "venue": "Former outdoor Merkur statue",
+      "summary": "A 2015 cycling diary documented this outdoor Merkur Eiffel statue. The newer map reports removal between 2019 and 2023. Municipal records and a September 2026 visit describe indoor museum models, which do not establish the continued presence of this outdoor statue. Its historical photographs and simplified model are retained; its globe position is withheld.",
+      "currentUses": []
+    }
+  }
+}

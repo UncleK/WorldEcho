@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#080e1d" />
+    <meta name="description" content="World Echo 世界回响：从一座地标，看见世界。旋转微缩地球，探索各地埃菲尔铁塔的实景、建筑特点与城市故事。" />
+    <title>World Echo · 世界回响</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script>
+      window.__consoleErrors = [];
+      function recordError(message) {
+        window.__consoleErrors.push(String(message));
+        if (window.__consoleErrors.length > 40) window.__consoleErrors.shift();
+      }
+      window.addEventListener('error', function(event) { recordError(event.message); });
+      window.addEventListener('unhandledrejection', function(event) { recordError(event.reason); });
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript><p style="color:#dae1ef;background:#080e1d;padding:24px;font-family:system-ui">World Echo 世界回响需要 JavaScript 显示交互地球。<a href="/catalog-static.html" style="color:#8acfff">查看地标资料目录</a></p></noscript>
+    <a class="static-directory-link" href="/catalog-static.html">备用资料目录</a>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

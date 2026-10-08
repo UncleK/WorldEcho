@@ -1,0 +1,2128 @@
+{
+  "towers": {
+    "am-goris-tower-in-front-of-the-town-hall": {
+      "name": "戈里斯中央广场埃菲尔铁塔",
+      "label": "戈里斯",
+      "city": "戈里斯",
+      "venue": "市政厅前广场"
+    },
+    "at-klagenfurt-minimundus": {
+      "name": "克拉根福迷你世界公园铁塔",
+      "label": "克拉根福",
+      "city": "克拉根福",
+      "venue": "迷你世界公园"
+    },
+    "at-vienna-prater-children-s-park": {
+      "name": "维也纳普拉特巴黎轨道车铁塔",
+      "label": "维也纳",
+      "city": "维也纳",
+      "venue": "普拉特儿童乐园"
+    },
+    "au-brisbane-la-dolce-vita": {
+      "name": "布里斯班甜蜜生活餐厅铁塔",
+      "label": "布里斯班",
+      "city": "布里斯班",
+      "venue": "甜蜜生活餐厅"
+    },
+    "be-brussels-europe-eiffel-tower": {
+      "name": "布鲁塞尔迷你欧洲公园铁塔",
+      "label": "布鲁塞尔",
+      "city": "布鲁塞尔",
+      "venue": "迷你欧洲公园"
+    },
+    "bg-varna-golden-sands-eiffel-tower": {
+      "name": "瓦尔纳金沙滩迷你铁塔鸡尾酒吧铁塔",
+      "label": "瓦尔纳金沙滩",
+      "city": "瓦尔纳金沙滩",
+      "venue": "迷你铁塔鸡尾酒吧"
+    },
+    "br-bauru-bauru-eiffel-tower": {
+      "name": "包鲁托莱多教育学院校园铁塔",
+      "label": "包鲁",
+      "city": "包鲁",
+      "venue": "托莱多教育学院校园"
+    },
+    "br-rio-claro-copy": {
+      "name": "里奥克拉罗埃菲尔复制塔",
+      "label": "里奥克拉罗",
+      "city": "里奥克拉罗",
+      "venue": ""
+    },
+    "br-rio-de-janeiro-barra-world-shopping-park": {
+      "name": "里约热内卢巴拉世界购物公园铁塔",
+      "label": "里约热内卢",
+      "city": "里约热内卢",
+      "venue": "巴拉世界购物公园"
+    },
+    "br-santos-dumont-minas-gerais-santos-dumont-eiffel-tower-replica": {
+      "name": "桑托斯杜蒙航空百年纪念地铁塔",
+      "label": "桑托斯杜蒙",
+      "city": "桑托斯杜蒙",
+      "venue": "航空百年纪念地"
+    },
+    "br-umuarama-torre-eiffel-umuarama": {
+      "name": "乌穆阿拉马省道323号路旁铁塔",
+      "label": "乌穆阿拉马",
+      "city": "乌穆阿拉马",
+      "venue": "省道323号路旁"
+    },
+    "by-paryz-eiffel-tower": {
+      "name": "帕里日村内天主教纪念地铁塔",
+      "label": "帕里日",
+      "city": "帕里日",
+      "venue": "村内天主教纪念地"
+    },
+    "ca-abitibi-ouest-lawn-in-rural-quebec": {
+      "name": "普拉里父女赌约铁塔",
+      "label": "普拉里",
+      "city": "普拉里",
+      "venue": "私人庭院"
+    },
+    "ca-montmartre-saskatchewan-montmartre-eiffel-tower": {
+      "name": "蒙马特原火车站铁塔公园铁塔",
+      "label": "蒙马特",
+      "city": "蒙马特",
+      "venue": "原火车站铁塔公园"
+    },
+    "ca-sainte-angele-de-merici-quebec-gite-de-la-tour-eiffel": {
+      "name": "圣昂热勒德梅里西旅舍铁塔",
+      "label": "圣昂热勒德梅里西",
+      "city": "圣昂热勒德梅里西",
+      "venue": "埃菲尔铁塔旅舍"
+    },
+    "ca-terrebonne-le-roi-du-plancher": {
+      "name": "泰尔博讷2275商业铁塔",
+      "label": "泰尔博讷",
+      "city": "泰尔博讷",
+      "venue": "地板之王商店"
+    },
+    "ch-binningen-bl-tower-on-a-street-corner": {
+      "name": "比宁根金属工厂铁塔",
+      "label": "比宁根",
+      "city": "比宁根",
+      "venue": "金属工厂街角"
+    },
+    "ch-nenzlingen-bl-tower-in-a-garden": {
+      "name": "嫩茨林根住宅庭院铁塔",
+      "label": "嫩茨林根",
+      "city": "嫩茨林根",
+      "venue": "住宅庭院"
+    },
+    "cn-beijing-world-park": {
+      "name": "北京世界公园埃菲尔铁塔",
+      "label": "北京",
+      "city": "北京",
+      "venue": "世界公园"
+    },
+    "cn-hangzhou-tianducheng": {
+      "name": "杭州天都城埃菲尔铁塔",
+      "label": "杭州",
+      "city": "杭州",
+      "venue": "天都城"
+    },
+    "cn-shenzhen-window-of-world": {
+      "name": "深圳世界之窗埃菲尔铁塔",
+      "label": "深圳",
+      "city": "深圳",
+      "venue": "世界之窗"
+    },
+    "co-sabaneta-eiffel-tower": {
+      "name": "萨瓦内塔巴黎住宅公园铁塔",
+      "label": "萨瓦内塔",
+      "city": "萨瓦内塔",
+      "venue": "巴黎住宅公园"
+    },
+    "cz-police-nad-metuji-tower-beside-a-toy-store": {
+      "name": "梅图耶河畔波利采玩具店旁铁塔",
+      "label": "梅图耶河畔波利采",
+      "city": "梅图耶河畔波利采",
+      "venue": "玩具店旁"
+    },
+    "de-bad-durrheim-10-years-town-twinning-tower": {
+      "name": "巴特迪尔海姆友城铁塔",
+      "label": "巴特迪尔海姆",
+      "city": "巴特迪尔海姆",
+      "venue": "友城纪念地"
+    },
+    "de-berlin-bed-springs-tower": {
+      "name": "柏林床弹簧地方铁塔",
+      "label": "柏林",
+      "city": "柏林",
+      "venue": "床弹簧铁塔"
+    },
+    "de-berlin-centre-francais-de-berlin": {
+      "name": "柏林法国中心木制铁塔",
+      "label": "柏林韦丁区",
+      "city": "柏林韦丁区",
+      "venue": "法国中心"
+    },
+    "de-bexbach-gulliver": {
+      "name": "贝克斯巴赫格列佛微缩世界铁塔",
+      "label": "贝克斯巴赫",
+      "city": "贝克斯巴赫",
+      "venue": "格列佛微缩世界"
+    },
+    "de-hamburg-moorfleet-moorfleet-eiffelturm": {
+      "name": "汉堡默尔弗莱特埃菲尔铁塔",
+      "label": "汉堡默尔弗莱特",
+      "city": "汉堡默尔弗莱特",
+      "venue": ""
+    },
+    "de-lauterstein-private-garden": {
+      "name": "劳特施泰因微缩庭园铁塔",
+      "label": "劳特施泰因",
+      "city": "劳特施泰因",
+      "venue": "私人微缩庭园"
+    },
+    "de-meckenheim-rungis-express": {
+      "name": "梅肯海姆荣吉斯快运公司铁塔",
+      "label": "梅肯海姆",
+      "city": "梅肯海姆",
+      "venue": "荣吉斯快运公司"
+    },
+    "de-ulm-autohaus-sayler": {
+      "name": "乌尔姆赛勒汽车销售店铁塔",
+      "label": "乌尔姆",
+      "city": "乌尔姆",
+      "venue": "赛勒汽车销售店"
+    },
+    "dk-billund-legoland-billund": {
+      "name": "比隆乐高乐园铁塔",
+      "label": "比隆",
+      "city": "比隆",
+      "venue": "乐高乐园"
+    },
+    "dk-ejby-ejby-eiffel-tower": {
+      "name": "艾比夏日村迷你高尔夫铁塔",
+      "label": "艾比",
+      "city": "艾比",
+      "venue": "夏日村迷你高尔夫场"
+    },
+    "dk-taastrup-taastrup-eiffel-tower": {
+      "name": "措斯楚普环法主题铁塔",
+      "label": "措斯楚普",
+      "city": "措斯楚普",
+      "venue": "环法主题装置"
+    },
+    "ee-reigi-eiffeli-torni-puidust-koopia": {
+      "name": "雷吉希乌马岛木制铁塔",
+      "label": "雷吉",
+      "city": "雷吉",
+      "venue": "希乌马岛木制铁塔"
+    },
+    "es-tacoronte-tower-in-an-abandoned-restaurant-car-park": {
+      "name": "塔科龙特餐馆停车场铁塔",
+      "label": "塔科龙特",
+      "city": "塔科龙特",
+      "venue": "旧餐馆停车场"
+    },
+    "es-torrejon-parque-europa": {
+      "name": "西班牙欧洲公园铁塔",
+      "label": "托雷洪德阿尔多斯",
+      "city": "托雷洪德阿尔多斯",
+      "venue": "欧洲公园"
+    },
+    "fr-apach-apach-tower": {
+      "name": "阿帕什边境铁塔",
+      "label": "阿帕什",
+      "city": "阿帕什",
+      "venue": "法德边境入口"
+    },
+    "fr-ares-tower-at-an-antiques-shop": {
+      "name": "阿雷斯花园古董店铁塔",
+      "label": "阿雷斯",
+      "city": "阿雷斯",
+      "venue": "花园古董店"
+    },
+    "fr-buhl-tower-at-the-entrance-to-the-village": {
+      "name": "比尔村口环岛铁塔",
+      "label": "比尔",
+      "city": "比尔",
+      "venue": "村口环岛"
+    },
+    "fr-bussieres-les-belmont-wicker-eiffel-tower": {
+      "name": "比西耶尔莱贝尔蒙柳编铁塔",
+      "label": "比西耶尔莱贝尔蒙",
+      "city": "比西耶尔莱贝尔蒙",
+      "venue": "村镇广场"
+    },
+    "fr-capdenac-gare-tour-eiffel-de-capdenac-gare": {
+      "name": "卡普德纳克火车站镇埃菲尔铁塔",
+      "label": "卡普德纳克火车站镇",
+      "city": "卡普德纳克火车站镇",
+      "venue": "铁艺花园"
+    },
+    "fr-elancourt-france-miniature": {
+      "name": "埃朗库尔法国迷你世界铁塔",
+      "label": "埃朗库尔",
+      "city": "埃朗库尔",
+      "venue": "法国迷你世界"
+    },
+    "fr-issy-les-moulineaux-mayer": {
+      "name": "伊西莱穆利诺迈耶商店铁塔",
+      "label": "伊西莱穆利诺",
+      "city": "伊西莱穆利诺",
+      "venue": "迈耶商店"
+    },
+    "fr-la-guerche-de-bretagne-tower-in-a-pensioner-s-garden": {
+      "name": "拉盖尔什德布列塔尼手作铁塔",
+      "label": "拉盖尔什德布列塔尼",
+      "city": "拉盖尔什德布列塔尼",
+      "venue": "私人庭院"
+    },
+    "fr-mamers-place-de-la-republique": {
+      "name": "马梅尔屋顶埃菲尔铁塔",
+      "label": "马梅尔",
+      "city": "马梅尔",
+      "venue": "共和国广场天鹅酒店"
+    },
+    "fr-nuits-s-armancon-tower-in-a-yard": {
+      "name": "阿尔芒松河畔尼伊庭院铁塔",
+      "label": "阿尔芒松河畔尼伊",
+      "city": "阿尔芒松河畔尼伊",
+      "venue": "庭院"
+    },
+    "fr-paris-eiffel-tower": {
+      "name": "巴黎埃菲尔铁塔",
+      "label": "巴黎",
+      "city": "巴黎",
+      "venue": "战神广场"
+    },
+    "fr-sains-en-gohelle-tower-on-a-roundabout": {
+      "name": "桑昂戈埃勒环岛铁塔",
+      "label": "桑昂戈埃勒",
+      "city": "桑昂戈埃勒",
+      "venue": "原埃菲尔旅店附近环岛"
+    },
+    "fr-saint-ouen-sur-seine-tower-at-the-entrance-to-a-shopping-centre": {
+      "name": "圣旺马拉西市场入口铁塔",
+      "label": "塞纳河畔圣旺",
+      "city": "塞纳河畔圣旺",
+      "venue": "马拉西市场"
+    },
+    "fr-sainte-croix-aux-mines-eiffel-alsace": {
+      "name": "圣克鲁瓦欧米讷阿尔萨斯铁塔",
+      "label": "圣克鲁瓦欧米讷",
+      "city": "圣克鲁瓦欧米讷",
+      "venue": "阿尔萨斯铁塔私人场地"
+    },
+    "fr-soing-tour-eiffel-eurosaone": {
+      "name": "索安索恩河畔铁塔",
+      "label": "索安",
+      "city": "索安",
+      "venue": "索恩河休闲区"
+    },
+    "fr-vigeville-tour-eiffel-de-vigeville": {
+      "name": "维热维尔花岗岩铁塔墓碑",
+      "label": "维热维尔",
+      "city": "维热维尔",
+      "venue": "市政公墓"
+    },
+    "gb-windsor-legoland-windsor": {
+      "name": "温莎乐高乐园微缩铁塔",
+      "label": "温莎",
+      "city": "温莎",
+      "venue": "乐高乐园微缩世界"
+    },
+    "gr-filiatra-town-entrance": {
+      "name": "菲利亚特拉城镇西北入口铁塔",
+      "label": "菲利亚特拉",
+      "city": "菲利亚特拉",
+      "venue": "城镇西北入口"
+    },
+    "id-bitung-mini-eiffel-tower": {
+      "name": "比通萨姆拉图兰吉路铁塔",
+      "label": "比通",
+      "city": "比通",
+      "venue": "萨姆拉图兰吉路"
+    },
+    "id-rawa-pening-bamboo": {
+      "name": "拉瓦珀宁拉德萨竹制铁塔",
+      "label": "三宝垄县",
+      "city": "三宝垄县",
+      "venue": "拉瓦珀宁拉德萨景区"
+    },
+    "id-tangerang-green-lake-city": {
+      "name": "唐格朗绿湖城住宅区铁塔",
+      "label": "唐格朗",
+      "city": "唐格朗",
+      "venue": "绿湖城住宅区"
+    },
+    "in-chandigarh-leisure-valley": {
+      "name": "昌迪加尔休闲谷铁塔",
+      "label": "昌迪加尔",
+      "city": "昌迪加尔",
+      "venue": "休闲谷"
+    },
+    "in-delhi-waste-to-wonder": {
+      "name": "新德里废物变奇迹公园铁塔",
+      "label": "新德里",
+      "city": "新德里",
+      "venue": "废物变奇迹公园"
+    },
+    "in-kolkata-eco-park": {
+      "name": "加尔各答新城生态公园铁塔",
+      "label": "加尔各答",
+      "city": "加尔各答",
+      "venue": "新城生态公园"
+    },
+    "in-kolkata-nicco-park": {
+      "name": "加尔各答尼科公园铁塔",
+      "label": "加尔各答",
+      "city": "加尔各答",
+      "venue": "尼科公园"
+    },
+    "in-kota-rajasthan-kota-eiffel-tower": {
+      "name": "科塔七大奇迹公园铁塔",
+      "label": "科塔",
+      "city": "科塔",
+      "venue": "七大奇迹公园"
+    },
+    "in-yanam-obelisk-tower": {
+      "name": "亚南埃菲尔复制塔",
+      "label": "亚南",
+      "city": "亚南",
+      "venue": "吉里扬佩塔"
+    },
+    "ir-malayer-tower-at-a-miniature-park-in-a-housing-development": {
+      "name": "马拉耶尔迷你世界公园铁塔",
+      "label": "马拉耶尔",
+      "city": "马拉耶尔",
+      "venue": "迷你世界公园"
+    },
+    "it-ispra-jrc-ispra-grounds": {
+      "name": "伊斯普拉欧盟联合研究中心铁塔",
+      "label": "伊斯普拉",
+      "city": "伊斯普拉",
+      "venue": "欧盟联合研究中心"
+    },
+    "it-pojana-maggiore-replica": {
+      "name": "波亚纳马焦雷公司庭院铁塔",
+      "label": "波亚纳马焦雷",
+      "city": "波亚纳马焦雷",
+      "venue": "雷瑟杰特公司院内"
+    },
+    "jp-kanzaki-saga-tower-in-fields-in-the-country": {
+      "name": "佐贺县神埼市田野铁塔",
+      "label": "佐贺县神埼市",
+      "city": "佐贺县神埼市",
+      "venue": "乡间田野"
+    },
+    "jp-tochigi-prefecture-eiffel-tower": {
+      "name": "日光东武世界广场埃菲尔铁塔",
+      "label": "日光",
+      "city": "日光",
+      "venue": "东武世界广场"
+    },
+    "kr-seoul-tower-at-the-roadside": {
+      "name": "首尔路边复制塔",
+      "label": "首尔",
+      "city": "首尔",
+      "venue": "路旁"
+    },
+    "kz-almaty-french-house-tower": {
+      "name": "阿拉木图法兰西之家铁塔",
+      "label": "阿拉木图",
+      "city": "阿拉木图",
+      "venue": "法兰西之家"
+    },
+    "lt-mazeikiai-copy": {
+      "name": "马热伊基艾热迈蒂约斯街铁塔",
+      "label": "马热伊基艾",
+      "city": "马热伊基艾",
+      "venue": "热迈蒂约斯街购物区"
+    },
+    "mn-sainshand-clock-eiffel-tower": {
+      "name": "赛音山达时钟铁塔",
+      "label": "赛音山达",
+      "city": "赛音山达",
+      "venue": "市中心"
+    },
+    "mo-cotai-parisian": {
+      "name": "澳门巴黎人巴黎铁塔",
+      "label": "澳门",
+      "city": "澳门",
+      "venue": "路氹巴黎人酒店"
+    },
+    "mx-gomez-palacio-durango-torre-eiffel": {
+      "name": "戈麦斯帕拉西奥公共广场铁塔",
+      "label": "戈麦斯帕拉西奥",
+      "city": "戈麦斯帕拉西奥",
+      "venue": "公共广场"
+    },
+    "mx-guadalajara-tower-on-periferico": {
+      "name": "瓜达拉哈拉贝特尔庭园铁塔",
+      "label": "瓜达拉哈拉",
+      "city": "瓜达拉哈拉",
+      "venue": "贝特尔庭园"
+    },
+    "nl-dordrecht-go-kart-tower": {
+      "name": "多德雷赫特梅尔韦哈尔娱乐中心铁塔",
+      "label": "多德雷赫特",
+      "city": "多德雷赫特",
+      "venue": "梅尔韦哈尔娱乐中心"
+    },
+    "nl-gouda-tower-at-a-car-dealership": {
+      "name": "豪达车行复制塔",
+      "label": "豪达",
+      "city": "豪达",
+      "venue": "汽车经销店"
+    },
+    "nl-ijzendijke-petit-paris": {
+      "name": "艾曾代克小巴黎铁塔",
+      "label": "艾曾代克",
+      "city": "艾曾代克",
+      "venue": "小巴黎"
+    },
+    "nl-udenhout-t-achterhuis": {
+      "name": "乌登豪特后屋古董店铁塔",
+      "label": "乌登豪特",
+      "city": "乌登豪特",
+      "venue": "后屋古董店"
+    },
+    "ph-norzagaray-bulakan-adventure-resort": {
+      "name": "诺尔扎加赖探险度假村铁塔",
+      "label": "诺尔扎加赖",
+      "city": "诺尔扎加赖",
+      "venue": "探险度假村"
+    },
+    "pk-karachi-bahria-town": {
+      "name": "卡拉奇巴赫里亚城铁塔",
+      "label": "卡拉奇",
+      "city": "卡拉奇",
+      "venue": "巴赫里亚城"
+    },
+    "pk-lahore-bahria-town": {
+      "name": "拉合尔巴赫里亚城第五区铁塔",
+      "label": "拉合尔",
+      "city": "拉合尔",
+      "venue": "巴赫里亚城第五区"
+    },
+    "pk-rawalpindi-bahria-phase-8": {
+      "name": "拉瓦尔品第巴赫里亚城第八区铁塔",
+      "label": "拉瓦尔品第",
+      "city": "拉瓦尔品第",
+      "venue": "巴赫里亚城第八区"
+    },
+    "pl-inwald-miniatures": {
+      "name": "因瓦乌德世界梦想微缩铁塔",
+      "label": "因瓦乌德",
+      "city": "因瓦乌德",
+      "venue": "世界梦想微缩公园"
+    },
+    "pl-krajno-zagorze-eiffel-tower-miniature": {
+      "name": "克赖诺扎古热萨巴特克赖诺微缩公园铁塔",
+      "label": "克赖诺扎古热",
+      "city": "克赖诺扎古热",
+      "venue": "萨巴特克赖诺微缩公园"
+    },
+    "pl-rybnik-tower-on-a-roundabout": {
+      "name": "雷布尼克巴黎环岛铁塔",
+      "label": "雷布尼克",
+      "city": "雷布尼克",
+      "venue": "涅多布奇采巴黎环岛"
+    },
+    "ro-slobozia-eiffel-tower": {
+      "name": "斯洛博齐亚赫尔墨斯庄园铁塔",
+      "label": "斯洛博齐亚",
+      "city": "斯洛博齐亚",
+      "venue": "赫尔墨斯庄园"
+    },
+    "rs-plazane-tower-in-pensioner-s-garden": {
+      "name": "普拉扎内德拉吉沙庭院铁塔",
+      "label": "普拉扎内",
+      "city": "普拉扎内",
+      "venue": "德拉吉沙私人庭院"
+    },
+    "ru-kabardinka-kabardinka-eiffel-tower": {
+      "name": "卡巴尔金卡海滨复制塔",
+      "label": "卡巴尔金卡",
+      "city": "卡巴尔金卡",
+      "venue": "海滨步道"
+    },
+    "ru-krasnoyarsk-bonjour": {
+      "name": "克拉斯诺亚尔斯克原你好餐厅附近铁塔",
+      "label": "克拉斯诺亚尔斯克",
+      "city": "克拉斯诺亚尔斯克",
+      "venue": "原你好餐厅附近"
+    },
+    "ru-parizh-chelyabinsk-oblast-eiffel-tower": {
+      "name": "车里雅宾斯克州巴黎通信铁塔",
+      "label": "车里雅宾斯克州巴黎村",
+      "city": "车里雅宾斯克州巴黎村",
+      "venue": "通信铁塔"
+    },
+    "ru-valday-valday-eiffel-tower": {
+      "name": "瓦尔代索洛维约夫公园铁塔",
+      "label": "瓦尔代",
+      "city": "瓦尔代",
+      "venue": "索洛维约夫公园"
+    },
+    "ru-voronezh-eiffel-tower-of-nikitin-s-gymnasium": {
+      "name": "沃罗涅日尼基京学校铁塔",
+      "label": "沃罗涅日",
+      "city": "沃罗涅日",
+      "venue": "尼基京学校"
+    },
+    "ru-zvenigovo-eiffel-tower": {
+      "name": "兹韦尼戈沃中心小铁塔",
+      "label": "兹韦尼戈沃",
+      "city": "兹韦尼戈沃",
+      "venue": "市中心"
+    },
+    "th-pattaya-city-mini-siam": {
+      "name": "芭堤雅迷你暹罗公园铁塔",
+      "label": "芭堤雅",
+      "city": "芭堤雅",
+      "venue": "迷你暹罗公园"
+    },
+    "tj-kulob-eiffel-tower": {
+      "name": "库洛布法国街铁塔",
+      "label": "库洛布",
+      "city": "库洛布",
+      "venue": "法国街"
+    },
+    "ua-donetsk-forged-figures-park": {
+      "name": "顿涅茨克锻造公园铁塔",
+      "label": "顿涅茨克",
+      "city": "顿涅茨克",
+      "venue": "锻造人物公园"
+    },
+    "ua-kharkiv-eiffel-tower": {
+      "name": "哈尔科夫法国大道购物中心铁塔",
+      "label": "哈尔科夫",
+      "city": "哈尔科夫",
+      "venue": "法国大道购物中心"
+    },
+    "ua-kyiv-kyiv-s-eiffel-tower": {
+      "name": "基辅法国区住宅社区铁塔",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "法国区住宅社区"
+    },
+    "ua-uman-cherkasy-oblast-central-park": {
+      "name": "乌曼中央公园铁塔",
+      "label": "乌曼",
+      "city": "乌曼",
+      "venue": "中央公园"
+    },
+    "ua-vinnytsia-copy": {
+      "name": "文尼察埃菲尔复制塔",
+      "label": "文尼察",
+      "city": "文尼察",
+      "venue": "基辅街与射手街转角"
+    },
+    "us-doswell-kings-dominion": {
+      "name": "多斯韦尔国王领地乐园铁塔",
+      "label": "多斯韦尔",
+      "city": "多斯韦尔",
+      "venue": "国王领地乐园"
+    },
+    "us-epcot-theme-park-lake-buena-vista-florida-eiffel-tower": {
+      "name": "艾波卡特法国馆屋顶铁塔",
+      "label": "湾湖",
+      "city": "湾湖",
+      "venue": "艾波卡特法国馆"
+    },
+    "us-fayetteville-north-carolina-bordeaux-tower": {
+      "name": "费耶特维尔波尔多商业中心铁塔",
+      "label": "费耶特维尔",
+      "city": "费耶特维尔",
+      "venue": "波尔多商业中心"
+    },
+    "us-las-vegas-paris": {
+      "name": "拉斯维加斯巴黎酒店铁塔",
+      "label": "拉斯维加斯",
+      "city": "拉斯维加斯",
+      "venue": "巴黎酒店"
+    },
+    "us-mason-kings-island": {
+      "name": "梅森国王岛铁塔",
+      "label": "梅森",
+      "city": "梅森",
+      "venue": "国王岛乐园"
+    },
+    "us-paris-arkansas-eiffel-tower-park-paris": {
+      "name": "阿肯色州巴黎喷泉铁塔",
+      "label": "阿肯色州巴黎",
+      "city": "阿肯色州巴黎",
+      "venue": "城镇广场公园"
+    },
+    "us-paris-michigan-paris-michigan-eiffel-tower": {
+      "name": "密歇根州巴黎铁塔",
+      "label": "密歇根州巴黎",
+      "city": "密歇根州巴黎",
+      "venue": "巴黎公园"
+    },
+    "us-paris-tennessee": {
+      "name": "田纳西州巴黎铁塔",
+      "label": "田纳西州巴黎",
+      "city": "田纳西州巴黎",
+      "venue": "埃菲尔铁塔公园"
+    },
+    "us-paris-texas": {
+      "name": "得州巴黎牛仔帽铁塔",
+      "label": "得克萨斯州巴黎",
+      "city": "得克萨斯州巴黎",
+      "venue": "拉夫市民中心"
+    },
+    "us-queens-paris-suites": {
+      "name": "纽约皇后区巴黎套房酒店铁塔",
+      "label": "纽约皇后区",
+      "city": "纽约皇后区",
+      "venue": "巴黎套房酒店"
+    },
+    "us-raleigh-north-carolina-lafayette-village": {
+      "name": "罗利拉法叶村铁塔",
+      "label": "罗利",
+      "city": "罗利",
+      "venue": "拉法叶村"
+    },
+    "us-salt-lake-city-international-peace-gardens": {
+      "name": "盐湖城国际和平花园铁塔",
+      "label": "盐湖城",
+      "city": "盐湖城",
+      "venue": "国际和平花园"
+    },
+    "vn-long-an-province-phu-sinh-cat-tuong-eiffel-tower": {
+      "name": "德和吉祥富生住宅公园铁塔",
+      "label": "德和",
+      "city": "德和",
+      "venue": "吉祥富生住宅公园"
+    },
+    "za-bloemfontein-nomc": {
+      "name": "布隆方丹大型埃菲尔铁塔",
+      "label": "布隆方丹",
+      "city": "布隆方丹",
+      "venue": "大型复制铁塔"
+    },
+    "za-hartbeespoort-french-toast": {
+      "name": "哈特比斯普特法式吐司咖啡馆铁塔",
+      "label": "哈特比斯普特",
+      "city": "哈特比斯普特",
+      "venue": "法式吐司咖啡馆"
+    },
+    "za-pretoria-university-of-pretoria": {
+      "name": "比勒陀利亚山毛榉宿舍铁塔",
+      "label": "比勒陀利亚",
+      "city": "比勒陀利亚",
+      "venue": "大学山毛榉宿舍"
+    },
+    "za-stellenbosch-dagbreek-tower": {
+      "name": "斯泰伦博斯黎明宿舍铁塔",
+      "label": "斯泰伦博斯",
+      "city": "斯泰伦博斯",
+      "venue": "黎明宿舍"
+    },
+    "pl-klodzko-minieuroland": {
+      "name": "克沃兹科迷你欧洲公园铁塔",
+      "label": "克沃兹科",
+      "city": "克沃兹科",
+      "venue": "迷你欧洲公园"
+    },
+    "in-gondia-mini-eiffel-tower": {
+      "name": "贡迪亚欢乐街餐饮商业区铁塔",
+      "label": "贡迪亚",
+      "city": "贡迪亚",
+      "venue": "欢乐街餐饮商业区"
+    },
+    "de-lichtenstein-miniwelt": {
+      "name": "利希滕施泰因迷你世界公园铁塔",
+      "label": "利希滕施泰因",
+      "city": "利希滕施泰因",
+      "venue": "迷你世界公园"
+    },
+    "br-caxias-copy": {
+      "name": "南卡希亚斯埃菲尔复制塔",
+      "label": "南卡希亚斯",
+      "city": "南卡希亚斯",
+      "venue": ""
+    },
+    "by-homiel-copy": {
+      "name": "戈梅利埃菲尔微缩塔",
+      "label": "戈梅利",
+      "city": "戈梅利",
+      "venue": ""
+    },
+    "by-stolin-lenina-copy": {
+      "name": "斯托林列宁广场小铁塔",
+      "label": "斯托林",
+      "city": "斯托林",
+      "venue": ""
+    },
+    "de-satteldorf-rungis-express": {
+      "name": "萨特尔多夫荣吉斯快运旧屋顶铁塔",
+      "label": "萨特尔多夫",
+      "city": "萨特尔多夫",
+      "venue": ""
+    },
+    "id-batu-museum-angkut": {
+      "name": "巴图交通博物馆埃菲尔铁塔",
+      "label": "巴图",
+      "city": "巴图",
+      "venue": ""
+    },
+    "id-bogor-devoyage": {
+      "name": "茂物欧洲风情乐园铁塔",
+      "label": "茂物",
+      "city": "茂物",
+      "venue": ""
+    },
+    "id-purwokerto-small-world": {
+      "name": "普沃克托小世界公园铁塔",
+      "label": "普沃克托",
+      "city": "普沃克托",
+      "venue": ""
+    },
+    "id-sleman-merapi-park": {
+      "name": "斯莱曼默拉皮公园铁塔",
+      "label": "斯莱曼",
+      "city": "斯莱曼",
+      "venue": ""
+    },
+    "lt-andriejaiciai-homestead": {
+      "name": "安德里耶伊恰伊庭院铁塔",
+      "label": "安德里耶伊恰伊",
+      "city": "安德里耶伊恰伊",
+      "venue": ""
+    },
+    "mx-culiacan-motel-paris": {
+      "name": "库利亚坎巴黎汽车旅馆铁塔",
+      "label": "库利亚坎",
+      "city": "库利亚坎",
+      "venue": ""
+    },
+    "mx-durango-parque-guadiana": {
+      "name": "杜兰戈瓜迪亚纳公园铁塔",
+      "label": "杜兰戈",
+      "city": "杜兰戈",
+      "venue": ""
+    },
+    "sa-riyadh-boulevard-world": {
+      "name": "利雅得林荫大道世界铁塔",
+      "label": "利雅得",
+      "city": "利雅得",
+      "venue": ""
+    },
+    "tn-tunis-dahdah": {
+      "name": "突尼斯市达赫达赫乐园铁塔",
+      "label": "突尼斯市",
+      "city": "突尼斯市",
+      "venue": ""
+    },
+    "bd-rangpur-vinna-jogot": {
+      "name": "朗布尔异世界乐园铁塔",
+      "label": "朗布尔",
+      "city": "朗布尔",
+      "venue": ""
+    },
+    "fr-plumelin-kingoland": {
+      "name": "普吕姆兰国王乐园铁塔",
+      "label": "普吕姆兰",
+      "city": "普吕姆兰",
+      "venue": ""
+    },
+    "fr-sancerre-former-station-replica": {
+      "name": "桑塞尔旧车站埃菲尔复制塔",
+      "label": "桑塞尔",
+      "city": "桑塞尔",
+      "venue": ""
+    },
+    "ad-andorra-tower-at-a-restaurant": {
+      "name": "安道尔餐厅铁塔（候选）",
+      "label": "安道尔",
+      "city": "安道尔",
+      "venue": "餐厅"
+    },
+    "ae-dubai-falconcity-of-wonders": {
+      "name": "迪拜猎鹰奇迹城铁塔（候选）",
+      "label": "迪拜",
+      "city": "迪拜",
+      "venue": "猎鹰奇迹城"
+    },
+    "al-tirana-tower-on-a-shopping-street": {
+      "name": "地拉那购物街铁塔（候选）",
+      "label": "地拉那",
+      "city": "地拉那",
+      "venue": "购物街"
+    },
+    "am-yerevan-club-parisian": {
+      "name": "埃里温巴黎人俱乐部铁塔（候选）",
+      "label": "埃里温",
+      "city": "埃里温",
+      "venue": "巴黎人俱乐部"
+    },
+    "ar-alicia-marchetti": {
+      "name": "阿利西亚克劳迪奥·马尔凯蒂私人庭院铁塔",
+      "label": "阿利西亚",
+      "city": "阿利西亚",
+      "venue": "克劳迪奥·马尔凯蒂私人庭院"
+    },
+    "at-mattersburg-tower-on-a-roundabout": {
+      "name": "马特斯堡环岛铁塔（候选）",
+      "label": "马特斯堡",
+      "city": "马特斯堡",
+      "venue": "环岛"
+    },
+    "au-sydney-new-south-wales-awa-tower": {
+      "name": "悉尼阿瓦大楼铁塔（暂不收录）",
+      "label": "悉尼",
+      "city": "悉尼",
+      "venue": "阿瓦大楼"
+    },
+    "au-tasmazia-the-village-of-lower-crackpot-tower-at-a-miniature-park": {
+      "name": "塔斯马齐亚微缩村庄乐园铁塔（候选）",
+      "label": "塔斯马齐亚",
+      "city": "塔斯马齐亚",
+      "venue": "微缩村庄乐园"
+    },
+    "az-baku-eiffel-tower": {
+      "name": "巴库埃菲尔铁塔（候选）",
+      "label": "巴库",
+      "city": "巴库",
+      "venue": "埃菲尔铁塔"
+    },
+    "be-jurbise-tower-in-a-front-garden": {
+      "name": "于尔比斯前庭铁塔（候选）",
+      "label": "于尔比斯",
+      "city": "于尔比斯",
+      "venue": "前庭"
+    },
+    "be-kampenhout-tower-in-front-of-a-house": {
+      "name": "坎彭豪特住宅前铁塔（候选）",
+      "label": "坎彭豪特",
+      "city": "坎彭豪特",
+      "venue": "住宅前"
+    },
+    "bo-sucre-parque-simon-bolivar": {
+      "name": "苏克雷玻利瓦尔公园铁塔",
+      "label": "苏克雷",
+      "city": "苏克雷",
+      "venue": "玻利瓦尔公园"
+    },
+    "br-rio-claro-sao-paulo-eiffel-tower-rio-claro": {
+      "name": "里奥克拉罗埃菲尔铁塔（候选）",
+      "label": "里奥克拉罗",
+      "city": "里奥克拉罗",
+      "venue": "埃菲尔铁塔"
+    },
+    "br-sao-paulo-hopi-hari": {
+      "name": "圣保罗霍皮哈里乐园铁塔（候选）",
+      "label": "圣保罗",
+      "city": "圣保罗",
+      "venue": "霍皮哈里乐园"
+    },
+    "br-sao-paulo-rooftop-unresolved": {
+      "name": "圣保罗商场屋顶线索，场所待核铁塔",
+      "label": "圣保罗",
+      "city": "圣保罗",
+      "venue": "商场屋顶线索，场所待核"
+    },
+    "ca-beloeil-cypress-tree": {
+      "name": "贝勒伊柏树造型铁塔（候选）",
+      "label": "贝勒伊",
+      "city": "贝勒伊",
+      "venue": "柏树造型"
+    },
+    "ca-terrebonne-solarium-international": {
+      "name": "泰尔博讷国际阳光房公司，历史地点线索铁塔",
+      "label": "泰尔博讷",
+      "city": "泰尔博讷",
+      "venue": "国际阳光房公司，历史地点线索"
+    },
+    "ca-toronto-lantern-festival": {
+      "name": "多伦多2008年中国灯会铁塔",
+      "label": "多伦多",
+      "city": "多伦多",
+      "venue": "2008年中国灯会"
+    },
+    "ca-vancouver-woodwards": {
+      "name": "温哥华伍德沃兹大楼铁塔",
+      "label": "温哥华",
+      "city": "温哥华",
+      "venue": "伍德沃兹大楼"
+    },
+    "cl-santiago-guinguette": {
+      "name": "圣地亚哥2023年露天酒馆节铁塔",
+      "label": "圣地亚哥",
+      "city": "圣地亚哥",
+      "venue": "2023年露天酒馆节"
+    },
+    "cn-harbin-heilongjiang-province-dragon-tower": {
+      "name": "哈尔滨龙塔（候选）",
+      "label": "哈尔滨",
+      "city": "哈尔滨",
+      "venue": "龙塔"
+    },
+    "cn-longkou-shandong-tower-on-seafront": {
+      "name": "山东龙口海滨铁塔（候选）",
+      "label": "山东龙口",
+      "city": "山东龙口",
+      "venue": "海滨"
+    },
+    "cn-ma-anshan-children-s-park-tower": {
+      "name": "马鞍山儿童公园铁塔（候选）",
+      "label": "马鞍山",
+      "city": "马鞍山",
+      "venue": "儿童公园"
+    },
+    "cn-shanghai-tower-at-shopping-centre": {
+      "name": "上海购物中心铁塔（候选）",
+      "label": "上海",
+      "city": "上海",
+      "venue": "购物中心"
+    },
+    "cn-shenyang-city-square": {
+      "name": "沈阳城市广场铁塔（候选）",
+      "label": "沈阳",
+      "city": "沈阳",
+      "venue": "城市广场"
+    },
+    "cn-suzhou-dong-wu-inspired": {
+      "name": "苏州东吴塔（暂不收录）",
+      "label": "苏州",
+      "city": "苏州",
+      "venue": "东吴塔"
+    },
+    "cn-zhurihe-chinese-army-tower": {
+      "name": "朱日和基地埃菲尔铁塔复刻",
+      "label": "朱日和",
+      "city": "朱日和",
+      "venue": "训练基地"
+    },
+    "co-barrancabermeja-parque-tapias": {
+      "name": "巴兰卡韦梅哈塔皮亚斯公园",
+      "label": "巴兰卡韦梅哈",
+      "city": "巴兰卡韦梅哈",
+      "venue": "塔皮亚斯公园"
+    },
+    "co-tunja-puente-de-boyaca": {
+      "name": "通哈博亚卡桥铁塔（候选）",
+      "label": "通哈",
+      "city": "通哈",
+      "venue": "博亚卡桥"
+    },
+    "cu-caibarien-roadside-tower": {
+      "name": "凯巴连路旁铁塔（候选）",
+      "label": "凯巴连",
+      "city": "凯巴连",
+      "venue": "路旁"
+    },
+    "cu-havana-jorge-enrique-salgado-tower": {
+      "name": "哈瓦那豪尔赫·恩里克·萨尔加多铁塔（候选）",
+      "label": "哈瓦那",
+      "city": "哈瓦那",
+      "venue": "豪尔赫·恩里克·萨尔加多铁塔"
+    },
+    "cu-santa-clara-1895-replica": {
+      "name": "圣克拉拉1895年临时复制塔（候选）",
+      "label": "圣克拉拉",
+      "city": "圣克拉拉",
+      "venue": "1895年临时复制塔"
+    },
+    "cz-hradec-kralove-namesti-5-kvetna-eiffelovka": {
+      "name": "赫拉德茨克拉洛韦五月五日广场铁塔（候选）",
+      "label": "赫拉德茨克拉洛韦",
+      "city": "赫拉德茨克拉洛韦",
+      "venue": "五月五日广场"
+    },
+    "cz-ostrava-miniuni": {
+      "name": "俄斯特拉发迷你世界铁塔（候选）",
+      "label": "俄斯特拉发",
+      "city": "俄斯特拉发",
+      "venue": "迷你世界"
+    },
+    "cz-prague-petrin-lookout-tower-petrinska-rozhledna": {
+      "name": "布拉格佩特任山铁塔",
+      "label": "布拉格",
+      "city": "布拉格",
+      "venue": "佩特任山"
+    },
+    "de-abbensen-vorgarten": {
+      "name": "阿本森前庭铁塔（候选）",
+      "label": "阿本森",
+      "city": "阿本森",
+      "venue": "前庭"
+    },
+    "de-berlin-funkturm-berlin": {
+      "name": "柏林柏林展览中心铁塔",
+      "label": "柏林",
+      "city": "柏林",
+      "venue": "柏林展览中心"
+    },
+    "de-bexbach-eiffelturm": {
+      "name": "贝克斯巴赫埃菲尔铁塔（候选）",
+      "label": "贝克斯巴赫",
+      "city": "贝克斯巴赫",
+      "venue": "埃菲尔铁塔"
+    },
+    "de-hollage-tower-on-a-roundabout": {
+      "name": "霍拉格环岛铁塔（候选）",
+      "label": "霍拉格",
+      "city": "霍拉格",
+      "venue": "环岛"
+    },
+    "de-ismaning-bavaria-ismaning-radio-tower": {
+      "name": "伊斯马宁广播塔（候选）",
+      "label": "伊斯马宁",
+      "city": "伊斯马宁",
+      "venue": "广播塔"
+    },
+    "de-lauterstein-eiffelturm-im-privaten-miniaturpark": {
+      "name": "劳特施泰因私人微缩公园铁塔（候选）",
+      "label": "劳特施泰因",
+      "city": "劳特施泰因",
+      "venue": "私人微缩公园"
+    },
+    "de-leipzig-restaurant-salu": {
+      "name": "莱比锡萨吕餐厅铁塔（候选）",
+      "label": "莱比锡",
+      "city": "莱比锡",
+      "venue": "萨吕餐厅"
+    },
+    "de-lichtentein-tower-at-a-miniature-park": {
+      "name": "利希滕施泰因微缩公园铁塔（候选）",
+      "label": "利希滕施泰因",
+      "city": "利希滕施泰因",
+      "venue": "微缩公园"
+    },
+    "de-odenthal-tower-at-a-boulodrome": {
+      "name": "奥登塔尔法式滚球场铁塔（候选）",
+      "label": "奥登塔尔",
+      "city": "奥登塔尔",
+      "venue": "法式滚球场"
+    },
+    "de-sielenbach-town-partnership-tower": {
+      "name": "西伦巴赫友城纪念塔（候选）",
+      "label": "西伦巴赫",
+      "city": "西伦巴赫",
+      "venue": "友城纪念塔"
+    },
+    "dk-copenhagen-copenhagen-zoo-tower": {
+      "name": "丹麦动物园塔",
+      "label": "哥本哈根",
+      "city": "哥本哈根",
+      "venue": "动物园"
+    },
+    "ec-quito-lycee-la-condamine": {
+      "name": "基多拉孔达明学校铁塔（候选）",
+      "label": "基多",
+      "city": "基多",
+      "venue": "拉孔达明学校"
+    },
+    "es-la-jonquera-tower-in-a-shopping-centre": {
+      "name": "拉洪克拉购物中心铁塔（候选）",
+      "label": "拉洪克拉",
+      "city": "拉洪克拉",
+      "venue": "购物中心"
+    },
+    "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade": {
+      "name": "圣巴托洛梅德蒂拉哈纳购物廊铁塔（候选）",
+      "label": "圣巴托洛梅德蒂拉哈纳",
+      "city": "圣巴托洛梅德蒂拉哈纳",
+      "venue": "购物廊"
+    },
+    "fi-nivala-crazyland-maliskyla": {
+      "name": "尼瓦拉马利斯屈莱疯狂乐园铁塔（候选）",
+      "label": "尼瓦拉",
+      "city": "尼瓦拉",
+      "venue": "马利斯屈莱疯狂乐园"
+    },
+    "fr-aix-les-bains-tower-in-a-garden": {
+      "name": "艾克斯莱班庭园铁塔（候选）",
+      "label": "艾克斯莱班",
+      "city": "艾克斯莱班",
+      "venue": "庭园"
+    },
+    "fr-altkirch-tower-in-the-garden-of-a-bistro": {
+      "name": "阿尔特基什小酒馆庭园铁塔（候选）",
+      "label": "阿尔特基什",
+      "city": "阿尔特基什",
+      "venue": "小酒馆庭园"
+    },
+    "fr-biarritz-tower-on-a-house-roof": {
+      "name": "比亚里茨住宅屋顶铁塔（候选）",
+      "label": "比亚里茨",
+      "city": "比亚里茨",
+      "venue": "住宅屋顶"
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "name": "布尔关雅里厄埃菲尔铁塔",
+      "label": "布尔关雅里厄",
+      "city": "布尔关雅里厄",
+      "venue": ""
+    },
+    "fr-breil-rue-des-cedres": {
+      "name": "布雷伊雪松街铁塔",
+      "label": "布雷伊",
+      "city": "布雷伊",
+      "venue": "雪松街"
+    },
+    "fr-breil-small-tower-on-the-edge-of-a-village": {
+      "name": "布雷伊村边铁塔（候选）",
+      "label": "布雷伊",
+      "city": "布雷伊",
+      "venue": "村边"
+    },
+    "fr-buhl-tower-in-a-garden-on-the-edge-of-the-village": {
+      "name": "比尔村边庭园铁塔（候选）",
+      "label": "比尔",
+      "city": "比尔",
+      "venue": "村边庭园"
+    },
+    "fr-buhl-tower-in-a-yard": {
+      "name": "比尔院落铁塔（候选）",
+      "label": "比尔",
+      "city": "比尔",
+      "venue": "院落"
+    },
+    "fr-buhl-tower-in-the-centre-of-the-village": {
+      "name": "比尔村中心铁塔（候选）",
+      "label": "比尔",
+      "city": "比尔",
+      "venue": "村中心"
+    },
+    "fr-burnhaupt-le-bas-tower-at-a-fire-station": {
+      "name": "下比尔诺普特消防站铁塔",
+      "label": "下比尔诺普特",
+      "city": "下比尔诺普特",
+      "venue": "消防站"
+    },
+    "fr-cajarc-tower-in-village-square": {
+      "name": "卡雅尔克村庄广场铁塔（候选）",
+      "label": "卡雅尔克",
+      "city": "卡雅尔克",
+      "venue": "村庄广场"
+    },
+    "fr-capendac-tower-next-to-the-railway-station": {
+      "name": "卡普德纳克火车站旁铁塔（候选）",
+      "label": "卡普德纳克",
+      "city": "卡普德纳克",
+      "venue": "火车站旁"
+    },
+    "fr-champagne-sur-seine-tower-in-an-industrial-yard": {
+      "name": "塞纳河畔香槟工业院落铁塔（候选）",
+      "label": "塞纳河畔香槟",
+      "city": "塞纳河畔香槟",
+      "venue": "工业院落"
+    },
+    "fr-chanverrie-eyffela": {
+      "name": "尚韦里尚布勒托埃菲拉装置铁塔（候选）",
+      "label": "尚韦里尚布勒托",
+      "city": "尚韦里尚布勒托",
+      "venue": "埃菲拉装置"
+    },
+    "fr-chanverrie-tower-on-a-building": {
+      "name": "尚韦里建筑屋顶铁塔（候选）",
+      "label": "尚韦里",
+      "city": "尚韦里",
+      "venue": "建筑屋顶"
+    },
+    "fr-damery-namur-grave": {
+      "name": "达姆里纳米尔家族墓地铁塔",
+      "label": "达姆里",
+      "city": "达姆里",
+      "venue": "纳米尔家族墓地"
+    },
+    "fr-erstein-tower-at-a-roundabout": {
+      "name": "埃尔斯坦环岛铁塔（候选）",
+      "label": "埃尔斯坦",
+      "city": "埃尔斯坦",
+      "venue": "环岛"
+    },
+    "fr-la-doree-tower-at-a-metal-worker-s-house": {
+      "name": "拉多雷金属工人住宅铁塔（候选）",
+      "label": "拉多雷",
+      "city": "拉多雷",
+      "venue": "金属工人住宅"
+    },
+    "fr-lacapelle-biron-tower-in-a-garden": {
+      "name": "拉卡佩勒比龙庭园铁塔（候选）",
+      "label": "拉卡佩勒比龙",
+      "city": "拉卡佩勒比龙",
+      "venue": "庭园"
+    },
+    "fr-le-touquet-sandcastle": {
+      "name": "勒图凯巴黎普拉日百年广场铁塔",
+      "label": "勒图凯巴黎普拉日",
+      "city": "勒图凯巴黎普拉日",
+      "venue": "百年广场"
+    },
+    "fr-le-trevoux-festival-tower-made-of-wood": {
+      "name": "勒特雷武节庆木塔（候选）",
+      "label": "勒特雷武",
+      "city": "勒特雷武",
+      "venue": "节庆木塔"
+    },
+    "fr-lyon-metallic-tower-of-fourviere": {
+      "name": "里昂富维耶山铁塔",
+      "label": "里昂",
+      "city": "里昂",
+      "venue": "富维耶山"
+    },
+    "fr-menton-copy": {
+      "name": "芒通埃菲尔铁塔",
+      "label": "芒通",
+      "city": "芒通",
+      "venue": ""
+    },
+    "fr-menton-tower-with-lemons": {
+      "name": "芒通柠檬装饰塔（候选）",
+      "label": "芒通",
+      "city": "芒通",
+      "venue": "柠檬装饰塔"
+    },
+    "fr-mobile-location-tour-eiffel-mobile-maindron": {
+      "name": "流动展出巡游活动装置，无固定塔体点位",
+      "label": "流动展出",
+      "city": "流动展出",
+      "venue": "巡游活动装置，无固定塔体点位"
+    },
+    "fr-prisse-tower-in-the-grounds-of-a-store-called-fermob": {
+      "name": "普里塞费尔莫布商店场地铁塔（候选）",
+      "label": "普里塞",
+      "city": "普里塞",
+      "venue": "费尔莫布商店场地"
+    },
+    "fr-saint-hilaire-de-riez-tower-at-the-beach": {
+      "name": "圣伊莱尔德里耶海滩铁塔（候选）",
+      "label": "圣伊莱尔德里耶",
+      "city": "圣伊莱尔德里耶",
+      "venue": "海滩"
+    },
+    "fr-saint-hilaire-en-woevre-meuse-graveyard-part-tower": {
+      "name": "圣伊莱尔昂沃埃夫尔公墓塔段（候选）",
+      "label": "圣伊莱尔昂沃埃夫尔",
+      "city": "圣伊莱尔昂沃埃夫尔",
+      "venue": "公墓塔段"
+    },
+    "fr-sainte-vaubourg-tour-eiffel-en-bois": {
+      "name": "圣沃布尔埃菲尔铁塔",
+      "label": "圣沃布尔",
+      "city": "圣沃布尔",
+      "venue": ""
+    },
+    "fr-soussans-tower-at-an-aluminium-company": {
+      "name": "苏桑铝业公司铁塔（候选）",
+      "label": "苏桑",
+      "city": "苏桑",
+      "venue": "铝业公司"
+    },
+    "fr-thieblemont-faremont-copy": {
+      "name": "蒂耶布勒蒙法雷蒙埃菲尔铁塔",
+      "label": "蒂耶布勒蒙法雷蒙",
+      "city": "蒂耶布勒蒙法雷蒙",
+      "venue": ""
+    },
+    "gb-belfast-la-bastille-restaurant": {
+      "name": "贝尔法斯特巴士底餐厅铁塔（候选）",
+      "label": "贝尔法斯特",
+      "city": "贝尔法斯特",
+      "venue": "巴士底餐厅"
+    },
+    "gb-blackpool-tower": {
+      "name": "黑潭黑潭塔马戏团建筑群",
+      "label": "黑潭",
+      "city": "黑潭",
+      "venue": "黑潭塔马戏团建筑群"
+    },
+    "gb-brockham-eiffel-tower-brockham": {
+      "name": "布罗克姆埃菲尔铁塔",
+      "label": "布罗克姆",
+      "city": "布罗克姆",
+      "venue": ""
+    },
+    "gb-harrogate-tour-de-france-sculpture": {
+      "name": "哈罗盖特环法雕塑铁塔（候选）",
+      "label": "哈罗盖特",
+      "city": "哈罗盖特",
+      "venue": "环法雕塑"
+    },
+    "gb-hastings-garden-eiffel-tower": {
+      "name": "黑斯廷斯庭院铁塔（候选）",
+      "label": "黑斯廷斯",
+      "city": "黑斯廷斯",
+      "venue": "庭院铁塔"
+    },
+    "gb-new-brighton-merseyside-new-brighton-tower": {
+      "name": "新布赖顿新布赖顿塔（候选）",
+      "label": "新布赖顿",
+      "city": "新布赖顿",
+      "venue": "新布赖顿塔"
+    },
+    "gb-wembley-greater-london-watkin-s-tower": {
+      "name": "温布利沃特金塔（候选）",
+      "label": "温布利",
+      "city": "温布利",
+      "venue": "沃特金塔"
+    },
+    "gr-athens-king-s-theatre": {
+      "name": "雅典国王剧院铁塔（候选）",
+      "label": "雅典",
+      "city": "雅典",
+      "venue": "国王剧院"
+    },
+    "gr-attica-tower-at-a-metalworker-shop": {
+      "name": "阿提卡金属加工店铁塔（候选）",
+      "label": "阿提卡",
+      "city": "阿提卡",
+      "venue": "金属加工店"
+    },
+    "gr-filiatra-messinia-filiatra-eiffel-tower": {
+      "name": "菲利亚特拉埃菲尔铁塔（候选）",
+      "label": "菲利亚特拉",
+      "city": "菲利亚特拉",
+      "venue": "埃菲尔铁塔"
+    },
+    "gr-heraklion-tower-in-a-garden-in-a-narrow-street": {
+      "name": "伊拉克利翁小巷庭园铁塔（候选）",
+      "label": "伊拉克利翁",
+      "city": "伊拉克利翁",
+      "venue": "小巷庭园"
+    },
+    "gt-guatemala-city-torre-del-reformador": {
+      "name": "危地马拉改革者塔",
+      "label": "危地马拉城",
+      "city": "危地马拉城",
+      "venue": "城市铁塔"
+    },
+    "hn-tegucigalpa-copy": {
+      "name": "特古西加尔巴埃菲尔铁塔",
+      "label": "特古西加尔巴",
+      "city": "特古西加尔巴",
+      "venue": ""
+    },
+    "hn-tegucilgapa-los-dolores-square": {
+      "name": "特古西加尔巴多洛雷斯广场铁塔（候选）",
+      "label": "特古西加尔巴",
+      "city": "特古西加尔巴",
+      "venue": "多洛雷斯广场"
+    },
+    "hn-tegucilgapa-plaza-paris-tower": {
+      "name": "特古西加尔巴巴黎广场铁塔（候选）",
+      "label": "特古西加尔巴",
+      "city": "特古西加尔巴",
+      "venue": "巴黎广场"
+    },
+    "hu-bekescsaba-tower-in-a-back-yard": {
+      "name": "贝凯什乔包后院铁塔（候选）",
+      "label": "贝凯什乔包",
+      "city": "贝凯什乔包",
+      "venue": "后院"
+    },
+    "hu-budapest-car-showroom-tower": {
+      "name": "布达佩斯汽车展示厅铁塔（候选）",
+      "label": "布达佩斯",
+      "city": "布达佩斯",
+      "venue": "汽车展示厅"
+    },
+    "id-lake-toba-world-heritage-mini-mini": {
+      "name": "多巴湖世界遗产微缩园铁塔（候选）",
+      "label": "多巴湖",
+      "city": "多巴湖",
+      "venue": "世界遗产微缩园"
+    },
+    "id-lembang-minimania": {
+      "name": "伦邦迷你狂想乐园铁塔",
+      "label": "伦邦",
+      "city": "伦邦",
+      "venue": "迷你狂想乐园"
+    },
+    "id-lembang-reddit-replica": {
+      "name": "伦邦埃菲尔铁塔（候选）",
+      "label": "伦邦",
+      "city": "伦邦",
+      "venue": ""
+    },
+    "id-limboto-pakaya-unresolved": {
+      "name": "林博托帕卡亚塔（关系待核，默认排除）",
+      "label": "林博托",
+      "city": "林博托",
+      "venue": "帕卡亚塔"
+    },
+    "id-madiun-pahlawan-street-center": {
+      "name": "茉莉芬英雄街中心铁塔",
+      "label": "茉莉芬",
+      "city": "茉莉芬",
+      "venue": "英雄街中心"
+    },
+    "id-megamendung-minimania-puncak": {
+      "name": "梅加门东本扎克迷你狂想乐园铁塔",
+      "label": "梅加门东",
+      "city": "梅加门东",
+      "venue": "本扎克迷你狂想乐园"
+    },
+    "id-palembang-punti-kayu": {
+      "name": "巨港蓬蒂卡尤森林旅游公园铁塔",
+      "label": "巨港",
+      "city": "巨港",
+      "venue": "蓬蒂卡尤森林旅游公园"
+    },
+    "id-semarang-bamboo-reddit-lead": {
+      "name": "三宝垄埃菲尔铁塔（候选）",
+      "label": "三宝垄",
+      "city": "三宝垄",
+      "venue": ""
+    },
+    "id-tasikmalaya-regency-bamboo-eiffel-tower": {
+      "name": "塔西马拉亚加冕时期竹塔，历史装置（历史）",
+      "label": "塔西马拉亚",
+      "city": "塔西马拉亚",
+      "venue": "加冕时期竹塔，历史装置"
+    },
+    "id-tasikmalaya-west-java-menara-eiffel": {
+      "name": "塔西马拉亚埃菲尔铁塔（候选）",
+      "label": "塔西马拉亚",
+      "city": "塔西马拉亚",
+      "venue": "埃菲尔铁塔"
+    },
+    "il-jerusalem-festival-of-lights": {
+      "name": "耶路撒冷灯光节铁塔（候选）",
+      "label": "耶路撒冷",
+      "city": "耶路撒冷",
+      "venue": "灯光节"
+    },
+    "il-netivot-paris-center": {
+      "name": "内提沃特购物廊中央铁塔",
+      "label": "内提沃特",
+      "city": "内提沃特",
+      "venue": "购物廊中央"
+    },
+    "in-ajmer-seven-wonders": {
+      "name": "阿杰梅尔七大奇迹公园铁塔（候选）",
+      "label": "阿杰梅尔",
+      "city": "阿杰梅尔",
+      "venue": "七大奇迹公园"
+    },
+    "in-ambikapur-scrap-park": {
+      "name": "安比卡布尔废物再造市政公园，名称待核铁塔",
+      "label": "安比卡布尔",
+      "city": "安比卡布尔",
+      "venue": "废物再造市政公园，名称待核"
+    },
+    "in-chandigarh-eiffel-tower-replica": {
+      "name": "昌迪加尔埃菲尔复制塔（候选）",
+      "label": "昌迪加尔",
+      "city": "昌迪加尔",
+      "venue": "埃菲尔复制塔"
+    },
+    "ir-kish-island-kish-eiffel-tower": {
+      "name": "基什岛埃菲尔铁塔",
+      "label": "基什岛",
+      "city": "基什岛",
+      "venue": "埃菲尔铁塔"
+    },
+    "it-amiata-monte-amiata-summit-cross": {
+      "name": "阿米亚塔山山顶十字架",
+      "label": "阿米亚塔山",
+      "city": "阿米亚塔山",
+      "venue": "山顶十字架"
+    },
+    "it-avola-sicily-tower-in-a-car-park": {
+      "name": "阿沃拉停车场铁塔（候选）",
+      "label": "阿沃拉",
+      "city": "阿沃拉",
+      "venue": "停车场"
+    },
+    "it-cagnano-tower-at-energreen-factory": {
+      "name": "卡尼亚诺恩纳格林工厂铁塔（候选）",
+      "label": "卡尼亚诺",
+      "city": "卡尼亚诺",
+      "venue": "恩纳格林工厂"
+    },
+    "it-cascina-tower-at-a-roundabout": {
+      "name": "卡希纳环岛铁塔（候选）",
+      "label": "卡希纳",
+      "city": "卡希纳",
+      "venue": "环岛"
+    },
+    "it-marche-tower-in-a-field": {
+      "name": "马尔凯田野铁塔（候选）",
+      "label": "马尔凯",
+      "city": "马尔凯",
+      "venue": "田野"
+    },
+    "it-vallesaccarda-piazzetta-buhl": {
+      "name": "瓦莱萨卡尔达比尔小广场铁塔",
+      "label": "瓦莱萨卡尔达",
+      "city": "瓦莱萨卡尔达",
+      "venue": "比尔小广场"
+    },
+    "it-vergiate-corgeno-copy": {
+      "name": "科尔杰诺韦尔贾泰铁塔",
+      "label": "科尔杰诺",
+      "city": "科尔杰诺",
+      "venue": "韦尔贾泰"
+    },
+    "jp-minato-tokyo-tokyo-tower": {
+      "name": "东京塔（暂不收录）",
+      "label": "东京",
+      "city": "东京",
+      "venue": "东京塔"
+    },
+    "jp-nagoya-nagoya-tv-tower": {
+      "name": "名古屋电视塔（关系待核，默认排除）",
+      "label": "名古屋",
+      "city": "名古屋",
+      "venue": "电视塔"
+    },
+    "jp-osaka-tsutenkaku-tower-reaching-heaven": {
+      "name": "大阪通天阁（候选）",
+      "label": "大阪",
+      "city": "大阪",
+      "venue": "通天阁"
+    },
+    "kg-bishkek-consulate-or-pet-shop-tower": {
+      "name": "比什凯克领事馆或宠物店，场所待核铁塔（候选）",
+      "label": "比什凯克",
+      "city": "比什凯克",
+      "venue": "领事馆或宠物店，场所待核"
+    },
+    "kh-phnom-penh-eiffel-map-candidate": {
+      "name": "金边已命名地图景点，场所归属待核铁塔（候选）",
+      "label": "金边",
+      "city": "金边",
+      "venue": "已命名地图景点，场所归属待核"
+    },
+    "kr-bucheon-aiins-world": {
+      "name": "富川爱仁世界微缩公园铁塔",
+      "label": "富川",
+      "city": "富川",
+      "venue": "爱仁世界微缩公园"
+    },
+    "kz-aktau-oil-company-tower": {
+      "name": "阿克套石油公司铁塔（候选）",
+      "label": "阿克套",
+      "city": "阿克套",
+      "venue": "石油公司"
+    },
+    "lb-unlocated-blue-helmet-camp": {
+      "name": "地点未定蓝盔营地铁塔（候选）",
+      "label": "地点未定",
+      "city": "地点未定",
+      "venue": "蓝盔营地"
+    },
+    "lt-marijampole-tower-at-a-hotel-beside-the-motorway": {
+      "name": "马里扬波莱高速公路旁酒店铁塔（候选）",
+      "label": "马里扬波莱",
+      "city": "马里扬波莱",
+      "venue": "高速公路旁酒店"
+    },
+    "lt-mazeikiai-telsiai-county-eifilis-shopping-centre": {
+      "name": "马热伊基艾埃菲利斯购物中心铁塔（候选）",
+      "label": "马热伊基艾",
+      "city": "马热伊基艾",
+      "venue": "埃菲利斯购物中心"
+    },
+    "ma-fez-tour-d-eiffel-de-fes": {
+      "name": "菲斯埃菲尔铁塔（历史）",
+      "label": "菲斯",
+      "city": "菲斯",
+      "venue": "埃菲尔铁塔"
+    },
+    "md-corjeuti-tower-at-a-french-restaurant": {
+      "name": "科尔热乌茨法式餐厅铁塔（候选）",
+      "label": "科尔热乌茨",
+      "city": "科尔热乌茨",
+      "venue": "法式餐厅"
+    },
+    "md-tiraspol-tower-in-front-of-a-store": {
+      "name": "蒂拉斯波尔商店前铁塔（候选）",
+      "label": "蒂拉斯波尔",
+      "city": "蒂拉斯波尔",
+      "venue": "商店前"
+    },
+    "me-budva-paris-night-club": {
+      "name": "布德瓦巴黎夜总会铁塔（候选）",
+      "label": "布德瓦",
+      "city": "布德瓦",
+      "venue": "巴黎夜总会"
+    },
+    "my-ayer-hitam-tropical-village": {
+      "name": "亚依淡热带村乐园铁塔",
+      "label": "亚依淡",
+      "city": "亚依淡",
+      "venue": "热带村乐园"
+    },
+    "my-genting-highlands-skytropolis-first-world-plaza": {
+      "name": "云顶高原第一世界广场铁塔（候选）",
+      "label": "云顶高原",
+      "city": "云顶高原",
+      "venue": "第一世界广场"
+    },
+    "nl-alkmaar-tower-on-shipping-containers": {
+      "name": "阿尔克马尔集装箱上方铁塔（候选）",
+      "label": "阿尔克马尔",
+      "city": "阿尔克马尔",
+      "venue": "集装箱上方"
+    },
+    "nl-friesland-renault-car-garage": {
+      "name": "德拉赫滕雷诺汽车维修店铁塔（候选）",
+      "label": "德拉赫滕",
+      "city": "德拉赫滕",
+      "venue": "雷诺汽车维修店"
+    },
+    "nl-grootebroek-tower-in-the-grounds-of-a-college": {
+      "name": "赫罗特布鲁克学院场地铁塔（候选）",
+      "label": "赫罗特布鲁克",
+      "city": "赫罗特布鲁克",
+      "venue": "学院场地"
+    },
+    "nl-toldijk-achterhoeks-planetarium": {
+      "name": "托尔代克阿赫特胡克天文馆铁塔（候选）",
+      "label": "托尔代克",
+      "city": "托尔代克",
+      "venue": "阿赫特胡克天文馆"
+    },
+    "nl-utrecht-tower-in-an-industrial-park": {
+      "name": "乌得勒支工业园铁塔（候选）",
+      "label": "乌得勒支",
+      "city": "乌得勒支",
+      "venue": "工业园"
+    },
+    "ph-boracay-la-reserve": {
+      "name": "长滩岛拉雷塞夫餐厅铁塔",
+      "label": "长滩岛",
+      "city": "长滩岛",
+      "venue": "拉雷塞夫餐厅"
+    },
+    "ph-iloilo-jaro-1889-bamboo": {
+      "name": "伊洛伊洛哈罗广场铁塔（历史）",
+      "label": "伊洛伊洛",
+      "city": "伊洛伊洛",
+      "venue": "哈罗广场"
+    },
+    "ph-manila-megamall": {
+      "name": "马尼拉超级购物中心铁塔（候选）",
+      "label": "马尼拉",
+      "city": "马尼拉",
+      "venue": "超级购物中心"
+    },
+    "ph-megamall-temporary-display": {
+      "name": "地点未定超级购物中心铁塔",
+      "label": "地点未定",
+      "city": "地点未定",
+      "venue": "超级购物中心"
+    },
+    "ph-tablas-bantigue-resort": {
+      "name": "塔布拉斯岛班蒂格度假村铁塔（候选）",
+      "label": "塔布拉斯岛",
+      "city": "塔布拉斯岛",
+      "venue": "班蒂格度假村"
+    },
+    "pk-islamabad-outskirts-bahria-town": {
+      "name": "伊斯兰堡郊区巴赫里亚城铁塔（候选）",
+      "label": "伊斯兰堡郊区",
+      "city": "伊斯兰堡郊区",
+      "venue": "巴赫里亚城"
+    },
+    "pk-karachi-bent-tower-with-a-lamp-on-top": {
+      "name": "卡拉奇顶带灯具的弯塔（候选）",
+      "label": "卡拉奇",
+      "city": "卡拉奇",
+      "venue": "顶带灯具的弯塔"
+    },
+    "pl-inwa-d-miniatura-placu-sw-piotra-w-rzymie": {
+      "name": "因瓦乌德罗马圣彼得广场微缩场景铁塔（候选）",
+      "label": "因瓦乌德",
+      "city": "因瓦乌德",
+      "venue": "罗马圣彼得广场微缩场景"
+    },
+    "pl-krakow-friendship-copy": {
+      "name": "克拉科夫波法友好协会铁塔",
+      "label": "克拉科夫",
+      "city": "克拉科夫",
+      "venue": "波法友好协会"
+    },
+    "pl-krakow-tower-in-a-builder-s-yard": {
+      "name": "克拉科夫建筑商院内铁塔（候选）",
+      "label": "克拉科夫",
+      "city": "克拉科夫",
+      "venue": "建筑商院内"
+    },
+    "pl-mys-akowice-eiffel-tower-at-a-miniature-park": {
+      "name": "梅斯瓦科维采微缩公园铁塔（候选）",
+      "label": "梅斯瓦科维采",
+      "city": "梅斯瓦科维采",
+      "venue": "微缩公园"
+    },
+    "ps-ramallah-3-rooftop-towers": {
+      "name": "拉姆安拉三座屋顶塔（候选）",
+      "label": "拉姆安拉",
+      "city": "拉姆安拉",
+      "venue": "三座屋顶塔"
+    },
+    "pt-monte-redondo-tower-at-a-small-museum": {
+      "name": "蒙特雷东杜小型博物馆铁塔（候选）",
+      "label": "蒙特雷东杜",
+      "city": "蒙特雷东杜",
+      "venue": "小型博物馆"
+    },
+    "rs-lozovik-tower-in-a-garden": {
+      "name": "洛佐维克庭园铁塔（候选）",
+      "label": "洛佐维克",
+      "city": "洛佐维克",
+      "venue": "庭园"
+    },
+    "rs-markovac-small-tower-in-a-back-yard": {
+      "name": "马尔科瓦茨后院铁塔（候选）",
+      "label": "马尔科瓦茨",
+      "city": "马尔科瓦茨",
+      "venue": "后院"
+    },
+    "rs-velika-plana-tower-in-a-front-garden": {
+      "name": "大普拉纳前庭铁塔（候选）",
+      "label": "大普拉纳",
+      "city": "大普拉纳",
+      "venue": "前庭"
+    },
+    "ru-beliy-island-eiffel-tower-of-the-arctic": {
+      "name": "别雷岛北极埃菲尔塔（候选）",
+      "label": "别雷岛",
+      "city": "别雷岛",
+      "venue": "北极埃菲尔塔"
+    },
+    "ru-irkutsk-small-tower": {
+      "name": "伊尔库茨克小型铁塔（候选）",
+      "label": "伊尔库茨克",
+      "city": "伊尔库茨克",
+      "venue": "小型铁塔"
+    },
+    "ru-krasnoyarsk-krasnoyarsk-eiffel-tower": {
+      "name": "克拉斯诺亚尔斯克埃菲尔铁塔（候选）",
+      "label": "克拉斯诺亚尔斯克",
+      "city": "克拉斯诺亚尔斯克",
+      "venue": "埃菲尔铁塔"
+    },
+    "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower": {
+      "name": "莫赫索戈洛赫迷你埃菲尔铁塔（候选）",
+      "label": "莫赫索戈洛赫",
+      "city": "莫赫索戈洛赫",
+      "venue": "迷你埃菲尔铁塔"
+    },
+    "ru-moscow-moskabelmet-factory": {
+      "name": "莫斯科莫斯科电缆金属厂铁塔（候选）",
+      "label": "莫斯科",
+      "city": "莫斯科",
+      "venue": "莫斯科电缆金属厂"
+    },
+    "ru-obninsk-tower-in-front-of-some-kind-of-office": {
+      "name": "奥布宁斯克办公场所前，具体机构待核铁塔（候选）",
+      "label": "奥布宁斯克",
+      "city": "奥布宁斯克",
+      "venue": "办公场所前，具体机构待核"
+    },
+    "ru-perm-tower-in-front-of-offices": {
+      "name": "彼尔姆办公楼前铁塔（候选）",
+      "label": "彼尔姆",
+      "city": "彼尔姆",
+      "venue": "办公楼前"
+    },
+    "ru-yekaterinburg-tower-in-a-small-park": {
+      "name": "叶卡捷琳堡小公园铁塔（候选）",
+      "label": "叶卡捷琳堡",
+      "city": "叶卡捷琳堡",
+      "venue": "小公园"
+    },
+    "se-jorna-wooden-tower-beside-a-road-junction": {
+      "name": "约尔纳道路交叉口旁木塔（候选）",
+      "label": "约尔纳",
+      "city": "约尔纳",
+      "venue": "道路交叉口旁木塔"
+    },
+    "sk-svrcinovec-paris-hotel": {
+      "name": "斯弗尔奇诺韦茨巴黎酒店铁塔（候选）",
+      "label": "斯弗尔奇诺韦茨",
+      "city": "斯弗尔奇诺韦茨",
+      "venue": "巴黎酒店"
+    },
+    "th-udon-thani-unknown": {
+      "name": "乌隆他尼场所待核铁塔（候选）",
+      "label": "乌隆他尼",
+      "city": "乌隆他尼",
+      "venue": "场所待核"
+    },
+    "tj-dushanbe-shopping-mall-tower": {
+      "name": "杜尚别购物中心铁塔（候选）",
+      "label": "杜尚别",
+      "city": "杜尚别",
+      "venue": "购物中心"
+    },
+    "tw-taichung-carton-king": {
+      "name": "台中纸箱王铁塔（候选）",
+      "label": "台中",
+      "city": "台中",
+      "venue": "纸箱王"
+    },
+    "tw-taipei-shopping-street": {
+      "name": "台北购物街铁塔（候选）",
+      "label": "台北",
+      "city": "台北",
+      "venue": "购物街"
+    },
+    "tw-taoyuan-baleng-tower": {
+      "name": "桃园巴陵铁塔（候选）",
+      "label": "桃园",
+      "city": "桃园",
+      "venue": "巴陵铁塔"
+    },
+    "ua-chernihiv-tower-on-a-street-corner": {
+      "name": "切尔尼戈夫街角铁塔（候选）",
+      "label": "切尔尼戈夫",
+      "city": "切尔尼戈夫",
+      "venue": "街角"
+    },
+    "ua-dnipro-tower-on-pavement-in-front-of-a-restaurant": {
+      "name": "第聂伯罗餐厅前人行道铁塔（候选）",
+      "label": "第聂伯罗",
+      "city": "第聂伯罗",
+      "venue": "餐厅前人行道"
+    },
+    "ua-dovzhans-ka-tower-mounted-on-brick-pillars": {
+      "name": "多夫然斯卡砖柱上的塔（候选）",
+      "label": "多夫然斯卡",
+      "city": "多夫然斯卡",
+      "venue": "砖柱上的塔"
+    },
+    "ua-kamyanets-podilskyi-tower-outside-a-restaurant": {
+      "name": "卡缅涅茨波多利斯基餐厅外铁塔（候选）",
+      "label": "卡缅涅茨波多利斯基",
+      "city": "卡缅涅茨波多利斯基",
+      "venue": "餐厅外"
+    },
+    "ua-korosten-tower-beside-a-road": {
+      "name": "科罗斯坚路旁铁塔（候选）",
+      "label": "科罗斯坚",
+      "city": "科罗斯坚",
+      "venue": "路旁"
+    },
+    "ua-kyiv-near-darytsia-metro": {
+      "name": "基辅达尔尼察地铁站附近铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "达尔尼察地铁站附近"
+    },
+    "ua-kyiv-tower-in-front-of-tres-fransais-restaurant": {
+      "name": "基辅很法国餐厅门前铁塔（候选）",
+      "label": "基辅",
+      "city": "基辅",
+      "venue": "很法国餐厅门前"
+    },
+    "ua-lviv-tower-outside-a-creperie": {
+      "name": "利沃夫可丽饼店外铁塔（候选）",
+      "label": "利沃夫",
+      "city": "利沃夫",
+      "venue": "可丽饼店外"
+    },
+    "ua-novoselivka-tower-in-a-play-park": {
+      "name": "新塞利夫卡儿童游乐园铁塔（候选）",
+      "label": "新塞利夫卡",
+      "city": "新塞利夫卡",
+      "venue": "儿童游乐园"
+    },
+    "ua-pereyaslav-khmelnytsky-wedding-gift-tower": {
+      "name": "佩列亚斯拉夫婚礼赠塔（候选）",
+      "label": "佩列亚斯拉夫",
+      "city": "佩列亚斯拉夫",
+      "venue": "婚礼赠塔"
+    },
+    "ua-sumy-tower-outside-a-shop-in-a-side-street": {
+      "name": "苏梅小街商店外铁塔（候选）",
+      "label": "苏梅",
+      "city": "苏梅",
+      "venue": "小街商店外"
+    },
+    "ua-uman-uman-eiffel-tower": {
+      "name": "乌曼埃菲尔铁塔（候选）",
+      "label": "乌曼",
+      "city": "乌曼",
+      "venue": "埃菲尔铁塔"
+    },
+    "ua-vinnytsya-tower-in-a-zoo-park": {
+      "name": "文尼察动物园铁塔（候选）",
+      "label": "文尼察",
+      "city": "文尼察",
+      "venue": "动物园"
+    },
+    "ua-vinnytsya-tower-outside-a-tower-block": {
+      "name": "文尼察高层住宅楼外铁塔（候选）",
+      "label": "文尼察",
+      "city": "文尼察",
+      "venue": "高层住宅楼外"
+    },
+    "ua-zhytomyr-polytechnic-state-university": {
+      "name": "日托米尔国立理工大学铁塔（候选）",
+      "label": "日托米尔",
+      "city": "日托米尔",
+      "venue": "国立理工大学"
+    },
+    "us-abington-ma-back-yard-tower": {
+      "name": "马萨诸塞州阿宾顿后院铁塔（候选）",
+      "label": "马萨诸塞州阿宾顿",
+      "city": "马萨诸塞州阿宾顿",
+      "venue": "后院"
+    },
+    "us-atlanta-georgia-meccano-model": {
+      "name": "亚特兰大原科学探索博物馆铁塔",
+      "label": "亚特兰大",
+      "city": "亚特兰大",
+      "venue": "原科学探索博物馆"
+    },
+    "us-austin-texas-dreyfus-eiffel-tower": {
+      "name": "奥斯汀原德雷福斯古董店铁塔",
+      "label": "奥斯汀",
+      "city": "奥斯汀",
+      "venue": "原德雷福斯古董店"
+    },
+    "us-bemidji-lac-du-bois": {
+      "name": "伯米吉林中湖法语营地铁塔",
+      "label": "伯米吉",
+      "city": "伯米吉",
+      "venue": "林中湖法语营地"
+    },
+    "us-columbus-oh-liberty-street-tower": {
+      "name": "俄亥俄州哥伦布自由街铁塔（候选）",
+      "label": "俄亥俄州哥伦布",
+      "city": "俄亥俄州哥伦布",
+      "venue": "自由街"
+    },
+    "us-corona-ny-louvre-hotel-nyc": {
+      "name": "纽约科罗纳卢浮宫酒店铁塔（候选）",
+      "label": "纽约科罗纳",
+      "city": "纽约科罗纳",
+      "venue": "卢浮宫酒店"
+    },
+    "us-fountain-valley-ca-mini-golf-eiffel-tower": {
+      "name": "加利福尼亚州芳泉谷迷你高尔夫球场铁塔（候选）",
+      "label": "加利福尼亚州芳泉谷",
+      "city": "加利福尼亚州芳泉谷",
+      "venue": "迷你高尔夫球场"
+    },
+    "us-gasquet-gasquet-market": {
+      "name": "加斯凯特市场铁塔（候选）",
+      "label": "加斯凯特",
+      "city": "加斯凯特",
+      "venue": "市场"
+    },
+    "us-gettysburg-pennsylvania-devenshire-apartment-complex": {
+      "name": "葛底斯堡原国际村及德文郡公寓场地铁塔",
+      "label": "葛底斯堡",
+      "city": "葛底斯堡",
+      "venue": "原国际村及德文郡公寓场地"
+    },
+    "us-kings-island-ohio-eiffel-tower-topiary": {
+      "name": "俄亥俄州国王岛铁塔造型绿植（候选）",
+      "label": "俄亥俄州国王岛",
+      "city": "俄亥俄州国王岛",
+      "venue": "铁塔造型绿植"
+    },
+    "us-kingston-washington-crepes-restaurant": {
+      "name": "华盛顿州金斯顿可丽饼餐厅铁塔（候选）",
+      "label": "华盛顿州金斯顿",
+      "city": "华盛顿州金斯顿",
+      "venue": "可丽饼餐厅"
+    },
+    "us-lacrosse-wi-mini-golf-eiffel-tower": {
+      "name": "威斯康星州拉克罗斯迷你高尔夫球场铁塔（候选）",
+      "label": "威斯康星州拉克罗斯",
+      "city": "威斯康星州拉克罗斯",
+      "venue": "迷你高尔夫球场"
+    },
+    "us-leonia-nj-tower-in-a-garden": {
+      "name": "新泽西州利奥尼亚庭园铁塔（候选）",
+      "label": "新泽西州利奥尼亚",
+      "city": "新泽西州利奥尼亚",
+      "venue": "庭园"
+    },
+    "us-milwaukee-msoe-eiffel-tower": {
+      "name": "密尔沃基巴士底日活动与大教堂广场公园铁塔",
+      "label": "密尔沃基",
+      "city": "密尔沃基",
+      "venue": "巴士底日活动与大教堂广场公园"
+    },
+    "us-napa-napa-county-courthouse": {
+      "name": "加利福尼亚州纳帕高等法院场地铁塔",
+      "label": "加利福尼亚州纳帕",
+      "city": "加利福尼亚州纳帕",
+      "venue": "高等法院场地"
+    },
+    "us-paris-kentucky-tower-on-a-small-square": {
+      "name": "肯塔基州巴黎小广场铁塔（候选）",
+      "label": "肯塔基州巴黎",
+      "city": "肯塔基州巴黎",
+      "venue": "小广场"
+    },
+    "us-riverside-ca-indoor-mini-golf-eiffel-tower": {
+      "name": "加利福尼亚州里弗赛德室内迷你高尔夫球场铁塔（候选）",
+      "label": "加利福尼亚州里弗赛德",
+      "city": "加利福尼亚州里弗赛德",
+      "venue": "室内迷你高尔夫球场"
+    },
+    "us-roanoke-front-yard-tower": {
+      "name": "罗阿诺克前院铁塔（候选）",
+      "label": "罗阿诺克",
+      "city": "罗阿诺克",
+      "venue": "前院"
+    },
+    "us-skokie-il-mini-golf-eiffel-tower": {
+      "name": "伊利诺伊州斯科基迷你高尔夫球场铁塔（候选）",
+      "label": "伊利诺伊州斯科基",
+      "city": "伊利诺伊州斯科基",
+      "venue": "迷你高尔夫球场"
+    },
+    "us-washington-dc-tower-on-a-restaurant-roof": {
+      "name": "华盛顿哥伦比亚特区餐厅屋顶铁塔（候选）",
+      "label": "华盛顿哥伦比亚特区",
+      "city": "华盛顿哥伦比亚特区",
+      "venue": "餐厅屋顶"
+    },
+    "us-wellfleet-comment-replica": {
+      "name": "马萨诸塞州韦尔弗利特埃菲尔铁塔（候选）",
+      "label": "马萨诸塞州韦尔弗利特",
+      "city": "马萨诸塞州韦尔弗利特",
+      "venue": ""
+    },
+    "uz-samarkand-eiffel-tower": {
+      "name": "撒马尔罕埃菲尔铁塔",
+      "label": "撒马尔罕",
+      "city": "撒马尔罕",
+      "venue": "埃菲尔铁塔"
+    },
+    "vn-da-lat-viettel-telecommunication-tower": {
+      "name": "大叻越南军队电信通信塔（候选）",
+      "label": "大叻",
+      "city": "大叻",
+      "venue": "越南军队电信通信塔"
+    },
+    "vn-dalat-post-office-unresolved": {
+      "name": "大叻越南邮政电信通信塔（关系待核，默认排除）",
+      "label": "大叻",
+      "city": "大叻",
+      "venue": "越南邮政电信通信塔"
+    },
+    "vn-phu-thuy-tall-mast-like-tower": {
+      "name": "富水高杆状铁塔（候选）",
+      "label": "富水",
+      "city": "富水",
+      "venue": "高杆状铁塔"
+    },
+    "xk-janjeve-anija-restaurant-eiffel-tower": {
+      "name": "亚涅沃阿尼亚餐厅铁塔（候选）",
+      "label": "亚涅沃",
+      "city": "亚涅沃",
+      "venue": "阿尼亚餐厅"
+    },
+    "za-parys-eiffel-toring-tower": {
+      "name": "帕赖斯埃菲尔铁塔（候选）",
+      "label": "帕赖斯",
+      "city": "帕赖斯",
+      "venue": "埃菲尔铁塔"
+    },
+    "za-parys-julio-art-gallery": {
+      "name": "帕赖斯布里街胡利奥艺廊铁塔",
+      "label": "帕赖斯",
+      "city": "帕赖斯",
+      "venue": "布里街胡利奥艺廊"
+    }
+  }
+}

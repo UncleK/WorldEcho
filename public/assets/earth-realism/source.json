@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 1,
+  "preparedAt": "2026-10-07T04:18:13.131Z",
+  "preparedBy": "node scripts/prepare-realistic-earth-assets.mjs",
+  "threeReference": {
+    "tag": "r186",
+    "exampleUrl": "https://raw.githubusercontent.com/mrdoob/three.js/r186/examples/webgpu_tsl_earth.html",
+    "use": "Texture provenance and channel definitions only; the app remains WebGL/R3F."
+  },
+  "attribution": {
+    "creator": "Solar System Scope / INOVE",
+    "sourcePage": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "displayText": "Night, cloud and bump/roughness textures: Solar System Scope (CC BY 4.0); resized and merged by Three.js r186; packed data downsampled, WebP converted and cloud channel extracted by World Echo.",
+    "modifications": [
+      "Three.js source example identifies the upstream maps as resized and merged.",
+      "World Echo decoded the cached JPEG files, spatially downsampled packed RGB to 2048x1024, encoded WebP copies, and extracted the resulting B cloud channel."
+    ]
+  },
+  "temporalScope": "Historical/static artist-adjusted texture collection; capture and composite dates are unspecified by the source. Not current satellite imagery, live night-light observation, or real-time weather.",
+  "elevationScope": "The packed R channel is a rendering bump map. It has no verified vertical datum, metre scale, geodetic accuracy, or DEM provenance. Do not use it as measured elevation or silently replace location coordinates.",
+  "projection": {
+    "type": "Equirectangular / Plate Carree",
+    "longitudeBounds": [
+      -180,
+      180
+    ],
+    "latitudeBounds": [
+      -90,
+      90
+    ],
+    "imageTop": "north",
+    "u": "(longitude + 180) / 360",
+    "imageY": "(90 - latitude) / 180",
+    "projectAxes": "+Y north, +Z latitude/longitude 0, +X 90 degrees east",
+    "processing": "Original orientation retained; packed RGB spatially downsampled to 2048x1024. No rotation, flip, crop, gamma conversion, or position changes.",
+    "threeTextureLoaderFlipY": true,
+    "orientationEvidence": "Visible continents and 12 geographic sample points agree with the existing Natural Earth mask and city-light locations.",
+    "boundary": "Projection/UV alignment is checked for rendering; a geodetic datum and positional accuracy are not specified by this artistic texture collection."
+  },
+  "sourceVerification": {
+    "url": "https://www.solarsystemscope.com/textures/",
+    "verifiedAt": "2026-10-07T04:15:12.354Z",
+    "method": "web tool opened original source page; readable content was inspected",
+    "claims": {
+      "projection": "Source describes equirectangular planetary maps.",
+      "license": "Source links CC BY 4.0 and permits adapting and sharing textures.",
+      "origin": "Source describes merging and adjusting NASA imagery and geographic data.",
+      "scope": "Textures are edited for visual appearance; Earth seasonal vegetation and snow state are fixed."
+    },
+    "htmlSnapshotSaved": false,
+    "terminalSnapshotBoundary": "An independent Invoke-WebRequest attempt returned HTTP 403; no successful local HTML snapshot is claimed."
+  },
+  "storedDocuments": [
+    {
+      "file": "three-r186-earth-example.html",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-07T04:12:40.4713715Z",
+      "etag": "W/\"9eb34d6a302c61b7751eb9abb5d839a4a98b0d2bdf694b8c351264576fd7f8f7\"",
+      "downloadUrl": "https://raw.githubusercontent.com/mrdoob/three.js/r186/examples/webgpu_tsl_earth.html",
+      "contentType": "text/plain; charset=utf-8",
+      "kind": "document",
+      "localPath": "",
+      "bytes": 6981,
+      "sha256": "ced7e417b97d6b25ea03fa9cdbf84e9ec90c543be316d50cd18ebeeabfb49fc8"
+    },
+    {
+      "file": "cc-by-4.0.html",
+      "httpStatus": 200,
+      "retrievedAt": "2026-10-07T04:12:43.2277379Z",
+      "etag": "",
+      "downloadUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "contentType": "text/html",
+      "kind": "document",
+      "localPath": "",
+      "bytes": 31950,
+      "sha256": "8dda1ccec4be91fc80821d4e4fd5c568072b9a3a74b2fdc07c249a27e920ef01"
+    }
+  ],
+  "inputs": {
+    "night": {
+      "file": "data/geography/realism/earth_night_4096.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/mrdoob/three.js/r186/examples/textures/planets/earth_night_4096.jpg",
+      "sourcePage": "https://www.solarsystemscope.com/textures/",
+      "bytes": 267061,
+      "sha256": "17a868f79c7be40fa1f557e6114d7889d907f18f7a3fce51f33b0b830ef50242",
+      "width": 4096,
+      "height": 2048,
+      "channels": 3,
+      "format": "jpeg",
+      "jpegChromaSubsampling": "4:4:4",
+      "retrievedAt": "2026-10-07T04:12:23.173Z",
+      "packedJpegBoundary": null
+    },
+    "surface": {
+      "file": "data/geography/realism/earth_bump_roughness_clouds_4096.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/mrdoob/three.js/r186/examples/textures/planets/earth_bump_roughness_clouds_4096.jpg",
+      "sourcePage": "https://www.solarsystemscope.com/textures/",
+      "bytes": 1508389,
+      "sha256": "0796f4211c209d1afe9e26a06a283cdc21434430a780a25457b2417568a8591e",
+      "width": 4096,
+      "height": 2048,
+      "channels": 3,
+      "format": "jpeg",
+      "jpegChromaSubsampling": "4:2:0",
+      "retrievedAt": "2026-10-07T04:12:39.7659191Z",
+      "packedJpegBoundary": "Original JPEG is already chroma-subsampled 4:2:0. Lossless WebP preserves its decoded RGB, but cannot restore precision absent from that JPEG."
+    }
+  },
+  "outputs": {
+    "night": {
+      "file": "public/assets/earth-realism/night.webp",
+      "sourceKey": "night",
+      "bytes": 418896,
+      "sha256": "4364fbfa0fee6bf87bc81ccb30bd060ba6b9e2b6fd7818a1e43297a7e565f86b",
+      "width": 4096,
+      "height": 2048,
+      "channels": 3,
+      "colorSpace": "SRGBColorSpace",
+      "encoding": {
+        "quality": 94,
+        "effort": 6
+      },
+      "processing": "JPEG RGB decoded without spatial changes, then WebP quality 94; historical artist-adjusted night map, no new lighting painted in.",
+      "usage": "Color texture: assign THREE.SRGBColorSpace; use on the night side in the renderer."
+    },
+    "surface": {
+      "file": "public/assets/earth-realism/surface.webp",
+      "sourceKey": "surface",
+      "bytes": 2688692,
+      "sha256": "50b1ba130f716ac95965f4caa3f25d84f4e33dfb47fd1d406fc96ac84b9c9c41",
+      "width": 2048,
+      "height": 1024,
+      "channels": 3,
+      "colorSpace": "NoColorSpace",
+      "encoding": {
+        "lossless": true,
+        "effort": 6
+      },
+      "processing": "JPEG decoded to RGB, independently spatially downsampled from 4096x2048 to 2048x1024 with Lanczos3, then lossless WebP; R=bump, G=roughness/land, B=cloud. No gamma/ICC conversion or lossy YUV channel mixing.",
+      "usage": "Data texture: assign THREE.NoColorSpace; shader samples .r/.g/.b independently. R is visual bump intensity, without a known metre scale or DEM contract."
+    },
+    "clouds": {
+      "file": "public/assets/earth-realism/clouds.webp",
+      "sourceKey": "surface",
+      "bytes": 1304102,
+      "sha256": "f9e62a038f889ff4d086c15a8bec3c458fd987c3237ad4d28e1944191c47c236",
+      "width": 2048,
+      "height": 1024,
+      "channels": 3,
+      "colorSpace": "NoColorSpace",
+      "encoding": {
+        "lossless": true,
+        "effort": 6
+      },
+      "processing": "Extract B from the independently downsampled packed surface to a lossless grayscale WebP without thresholding or recoloring. WebP stores repeated RGB grayscale values; each equals surface.webp B.",
+      "usage": "Data texture: assign THREE.NoColorSpace. R/G/B have identical cloud strength, suitable for an alphaMap or shader mask. Static clouds, not live weather."
+    }
+  },
+  "validation": {
+    "cachedInputHashesMatch": true,
+    "dimensionsMatchDeclaredOutput": true,
+    "packedRgbEqualsIndependentlyDownsampledSource": true,
+    "cloudRgbEqualsSurfaceBlue": true,
+    "packedResampling": {
+      "input": [
+        4096,
+        2048
+      ],
+      "output": [
+        2048,
+        1024
+      ],
+      "kernel": "lanczos3",
+      "gammaOrColorTransform": false
+    },
+    "nightCompression": {
+      "meanAbsoluteError": 0.357535441716512,
+      "maximumAbsoluteError": 68,
+      "scale": "0..255 per channel"
+    },
+    "sampleCount": 12,
+    "samples": [
+      {
+        "id": "pacific",
+        "lat": 0,
+        "lon": -150,
+        "type": "ocean",
+        "uv": {
+          "u": 0.08333333333333333,
+          "imageY": 0.5
+        },
+        "packed": {
+          "x": 170,
+          "y": 512,
+          "values": [
+            1,
+            0,
+            6
+          ]
+        },
+        "night": {
+          "x": 341,
+          "y": 1024,
+          "values": [
+            4,
+            6,
+            21
+          ]
+        },
+        "existingLandMask": {
+          "x": 341,
+          "y": 1024,
+          "values": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "id": "atlantic",
+        "lat": 0,
+        "lon": -30,
+        "type": "ocean",
+        "uv": {
+          "u": 0.4166666666666667,
+          "imageY": 0.5
+        },
+        "packed": {
+          "x": 853,
+          "y": 512,
+          "values": [
+            2,
+            0,
+            60
+          ]
+        },
+        "night": {
+          "x": 1706,
+          "y": 1024,
+          "values": [
+            4,
+            6,
+            21
+          ]
+        },
+        "existingLandMask": {
+          "x": 1706,
+          "y": 1024,
+          "values": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "id": "indian",
+        "lat": -25,
+        "lon": 85,
+        "type": "ocean",
+        "uv": {
+          "u": 0.7361111111111112,
+          "imageY": 0.6388888888888888
+        },
+        "packed": {
+          "x": 1507,
+          "y": 654,
+          "values": [
+            0,
+            1,
+            69
+          ]
+        },
+        "night": {
+          "x": 3015,
+          "y": 1308,
+          "values": [
+            4,
+            6,
+            21
+          ]
+        },
+        "existingLandMask": {
+          "x": 3015,
+          "y": 1308,
+          "values": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "id": "sahara",
+        "lat": 25,
+        "lon": 15,
+        "type": "land",
+        "uv": {
+          "u": 0.5416666666666666,
+          "imageY": 0.3611111111111111
+        },
+        "packed": {
+          "x": 1109,
+          "y": 369,
+          "values": [
+            37,
+            253,
+            1
+          ]
+        },
+        "night": {
+          "x": 2218,
+          "y": 739,
+          "values": [
+            13,
+            16,
+            28
+          ]
+        },
+        "existingLandMask": {
+          "x": 2218,
+          "y": 739,
+          "values": [
+            199,
+            199,
+            199
+          ]
+        }
+      },
+      {
+        "id": "australia",
+        "lat": -25,
+        "lon": 135,
+        "type": "land",
+        "uv": {
+          "u": 0.875,
+          "imageY": 0.6388888888888888
+        },
+        "packed": {
+          "x": 1792,
+          "y": 654,
+          "values": [
+            12,
+            255,
+            2
+          ]
+        },
+        "night": {
+          "x": 3584,
+          "y": 1308,
+          "values": [
+            7,
+            10,
+            23
+          ]
+        },
+        "existingLandMask": {
+          "x": 3584,
+          "y": 1308,
+          "values": [
+            199,
+            199,
+            199
+          ]
+        }
+      },
+      {
+        "id": "amazon",
+        "lat": -5,
+        "lon": -65,
+        "type": "land",
+        "uv": {
+          "u": 0.3194444444444444,
+          "imageY": 0.5277777777777778
+        },
+        "packed": {
+          "x": 654,
+          "y": 540,
+          "values": [
+            1,
+            254,
+            147
+          ]
+        },
+        "night": {
+          "x": 1308,
+          "y": 1080,
+          "values": [
+            2,
+            2,
+            14
+          ]
+        },
+        "existingLandMask": {
+          "x": 1308,
+          "y": 1080,
+          "values": [
+            199,
+            199,
+            199
+          ]
+        }
+      },
+      {
+        "id": "greenland",
+        "lat": 75,
+        "lon": -40,
+        "type": "land",
+        "uv": {
+          "u": 0.3888888888888889,
+          "imageY": 0.08333333333333333
+        },
+        "packed": {
+          "x": 796,
+          "y": 85,
+          "values": [
+            159,
+            255,
+            119
+          ]
+        },
+        "night": {
+          "x": 1592,
+          "y": 170,
+          "values": [
+            14,
+            16,
+            32
+          ]
+        },
+        "existingLandMask": {
+          "x": 1592,
+          "y": 170,
+          "values": [
+            199,
+            199,
+            199
+          ]
+        }
+      },
+      {
+        "id": "antarctica",
+        "lat": -85,
+        "lon": 0,
+        "type": "land",
+        "uv": {
+          "u": 0.5,
+          "imageY": 0.9722222222222222
+        },
+        "packed": {
+          "x": 1024,
+          "y": 995,
+          "values": [
+            148,
+            254,
+            202
+          ]
+        },
+        "night": {
+          "x": 2048,
+          "y": 1991,
+          "values": [
+            12,
+            16,
+            28
+          ]
+        },
+        "existingLandMask": {
+          "x": 2048,
+          "y": 1991,
+          "values": [
+            199,
+            199,
+            199
+          ]
+        }
+      },
+      {
+        "id": "arctic",
+        "lat": 85,
+        "lon": 0,
+        "type": "ocean",
+        "uv": {
+          "u": 0.5,
+          "imageY": 0.027777777777777776
+        },
+        "packed": {
+          "x": 1024,
+          "y": 28,
+          "values": [
+            3,
+            3,
+            109
+          ]
+        },
+        "night": {
+          "x": 2048,
+          "y": 56,
+          "values": [
+            15,
+            18,
+            33
+          ]
+        },
+        "existingLandMask": {
+          "x": 2048,
+          "y": 56,
+          "values": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "id": "paris",
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "type": "city-light",
+        "uv": {
+          "u": 0.506533888888889,
+          "imageY": 0.22857444444444444
+        },
+        "packed": {
+          "x": 1037,
+          "y": 234,
+          "values": [
+            1,
+            253,
+            12
+          ]
+        },
+        "night": {
+          "x": 2074,
+          "y": 468,
+          "values": [
+            251,
+            254,
+            208
+          ]
+        },
+        "existingLandMask": {
+          "x": 2074,
+          "y": 468,
+          "values": [
+            199,
+            199,
+            199
+          ]
+        }
+      },
+      {
+        "id": "tokyo",
+        "lat": 35.6762,
+        "lon": 139.6503,
+        "type": "city-light",
+        "uv": {
+          "u": 0.8879175,
+          "imageY": 0.3017988888888889
+        },
+        "packed": {
+          "x": 1818,
+          "y": 309,
+          "values": [
+            15,
+            246,
+            60
+          ]
+        },
+        "night": {
+          "x": 3636,
+          "y": 618,
+          "values": [
+            238,
+            239,
+            191
+          ]
+        },
+        "existingLandMask": {
+          "x": 3636,
+          "y": 618,
+          "values": [
+            199,
+            199,
+            199
+          ]
+        }
+      },
+      {
+        "id": "new-york",
+        "lat": 40.7128,
+        "lon": -74.006,
+        "type": "city-light",
+        "uv": {
+          "u": 0.2944277777777778,
+          "imageY": 0.27381777777777777
+        },
+        "packed": {
+          "x": 602,
+          "y": 280,
+          "values": [
+            13,
+            175,
+            43
+          ]
+        },
+        "night": {
+          "x": 1205,
+          "y": 560,
+          "values": [
+            247,
+            246,
+            197
+          ]
+        },
+        "existingLandMask": {
+          "x": 1205,
+          "y": 560,
+          "values": [
+            162,
+            162,
+            162
+          ]
+        }
+      }
+    ],
+    "existingMask": {
+      "path": "public/assets/earth-height.webp",
+      "sha256": "7582e8d9dc862a783364d99c58f0004947ca5acb6443c2fa7d46f53be52e96c7",
+      "purpose": "Read-only geographic orientation comparison, never modified by this script."
+    }
+  },
+  "toolchain": {
+    "node": "v24.15.0",
+    "sharp": "0.34.5",
+    "vips": "8.17.3",
+    "webp": "1.6.0"
+  }
+}

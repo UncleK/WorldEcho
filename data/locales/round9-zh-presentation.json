@@ -1,0 +1,29 @@
+{
+  "towers": {
+    "ca-sainte-angele-de-merici-quebec-gite-de-la-tour-eiffel": {
+      "name": "弗勒里奥第四乡道庭院铁塔",
+      "label": "弗勒里奥第四乡道",
+      "venue": "第四乡道旁庭院；原旅舍关联待核"
+    },
+    "nl-gouda-tower-at-a-car-dealership": {
+      "name": "豪达勒恩汽车维修站铁塔",
+      "label": "豪达",
+      "venue": "勒恩汽车维修站"
+    },
+    "nl-udenhout-t-achterhuis": {
+      "name": "乌登豪特后屋古董店铁塔",
+      "label": "乌登豪特",
+      "venue": "后屋古董店"
+    },
+    "id-tangerang-green-lake-city": {
+      "name": "唐格朗绿湖城住宅区铁塔",
+      "label": "唐格朗绿湖城",
+      "venue": "绿湖城住宅区"
+    },
+    "es-tacoronte-tower-in-an-abandoned-restaurant-car-park": {
+      "name": "塔科龙特餐馆停车场铁塔",
+      "label": "塔科龙特",
+      "venue": "旧餐馆停车入口"
+    }
+  }
+}

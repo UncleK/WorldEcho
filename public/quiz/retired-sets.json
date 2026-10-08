@@ -1,0 +1,86 @@
+{
+  "version": "1",
+  "retiredSets": [
+    {
+      "id": "photos-30c4d5ff52d49b5b",
+      "sha256": "6d5be5fd9606d1e6f1c12b8bebb432c18b0a522089c5d4047f6eb8ff0ebe6d2d",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    },
+    {
+      "id": "photos-33121ced955f4cce",
+      "sha256": "69aa6c91cf01d57c7a7dff3fb64110363e6fa58989fa3d9ea195ef119fa6852c",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    },
+    {
+      "id": "photos-51dfccdc6dd93475",
+      "sha256": "6f3a40edd586e1244493f43fc6aa345934ee78e5297544eeffa8a4f55c4b48ee",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    },
+    {
+      "id": "photos-60786d4c900e71e0",
+      "sha256": "9d11b465d6e015d98af9b519174311973676b483de82e7cc0c06a8468a69cfd3",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    },
+    {
+      "id": "photos-88c59e9c8fb65ac5",
+      "sha256": "99a7e0fb54a3c29f8affbad72ed1647a8f8c241e2984fdbad69a275f007a556e",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    },
+    {
+      "id": "photos-c165a438f3854046",
+      "sha256": "499c1cbcb357404a4f78b88fa58beecb092cd56a826aff40d34a3101bcce9009",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    },
+    {
+      "id": "photos-cc358ed9c6f9b4c6",
+      "sha256": "0634b1a2d2e422c1740118171e288b8cc232d6f352dd0fe1c8b2c1e6046f1ca3",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    },
+    {
+      "id": "photos-dd7f7c12c4b0ee27",
+      "sha256": "e57de09fdc47a44811d02fee3cdea101938486ba3416105458e6e1fd21990dfb",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    },
+    {
+      "id": "photos-ea6a242ad6f82abd",
+      "sha256": "af7ad9ce0969549ce2cc69725596043c504a41049ed1c228465fcc51fce6a5c1",
+      "reason": "photograph_reclassified_as_detail",
+      "retiredAt": "2026-10-07",
+      "mediaIds": [
+        "img_3a61c427abf5d9e7"
+      ]
+    }
+  ]
+}

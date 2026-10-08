@@ -1,0 +1,54 @@
+{
+  "towers": {
+    "nl-gouda-tower-at-a-car-dealership": {
+      "label": "Leen APK",
+      "name": "Leen APK Eiffel replica, Gouda",
+      "summary": "This white Eiffel model stands in the forecourt of Leen APK at Gouderaksedijk 1 in Gouda. Plates bearing the garage name and GARAGE at its top make it an advertising landmark. The workshop inspects and repairs classic cars and other vehicles; its own history describes a move from Graaf Florisweg to this site. The business began in 2004, which is not the tower's construction year. Its maker, installation year and measured height remain unknown.",
+      "currentUses": [
+        "Garage advertising and forecourt decoration"
+      ]
+    },
+    "nl-udenhout-t-achterhuis": {
+      "label": "’t Achterhuis",
+      "name": "’t Achterhuis Eiffel replica, Udenhout",
+      "summary": "’t Achterhuis in Udenhout lists this large Eiffel replica as special object 7002, pictured standing on grass at the premises. The historical building-material and antique-object business displays and sells such objects, establishing a commercial display role. The catalogue specifies iron, black,600 cm high and 270 cm wide and deep. Its maker, manufacturing year, earlier provenance and permanence at this particular spot remain unknown.",
+      "currentUses": [
+        "Large special-object display and sale"
+      ]
+    },
+    "id-tangerang-green-lake-city": {
+      "label": "Green Lake City",
+      "name": "Green Lake City Eiffel replica, Tangerang",
+      "summary": "This brown replica stands in a recreation green within Green Lake City Residence, with paths, grass and a children's seesaw visible beside it. The developer describes the township as an around-the-world theme, with residential clusters named after world cities. A photograph identified by its author as 27 January 2025 confirms this particular tower. Its maker, construction year and the measurement basis of the catalogue's 12 m claim remain unknown.",
+      "currentUses": [
+        "Residential recreation-green landmark"
+      ]
+    },
+    "es-tacoronte-tower-in-an-abandoned-restaurant-car-park": {
+      "label": "Tacoronte",
+      "name": "Tacoronte restaurant car-park Eiffel feature",
+      "summary": "This Eiffel-like lattice feature is associated with a restaurant car-park entrance in Tacoronte. A historical map screenshot shows it supporting a BAR RESTAURANTE sign beside RESTAURANTE and APARCAMIENTO entrance signs, establishing an advertising and wayfinding role. DORADA is a beer-brand sign and does not identify the restaurant's formal name. Fences and vegetation obscure the base; the complete structure, maker, installation year and present whereabouts still need confirmation.",
+      "currentUses": [
+        "Restaurant advertising and car-park entrance sign"
+      ]
+    },
+    "de-hamburg-moorfleet-moorfleet-eiffelturm": {
+      "label": "Moorfleet",
+      "name": "Moorfleet Eiffel replica, Hamburg",
+      "summary": "A photograph dated 23 October 2011 documents this small replica in Moorfleet, with broad arches, two thick platform bands and a square top pierced by rectangular openings. It shares a yard with old petrol pumps, animal sculptures and other outdoor objects. This establishes the photographed setting, but not the operator, commissioner or original purpose. The maker, build year, present location and current condition remain unknown.",
+      "currentUses": []
+    },
+    "ca-sainte-angele-de-merici-quebec-gite-de-la-tour-eiffel": {
+      "label": "Gîte de la Tour Eiffel",
+      "name": "Gîte de la Tour Eiffel candidate, Sainte-Angèle-de-Mérici",
+      "summary": "The specific tower inventory points to Gîte de la Tour Eiffel in Sainte-Angèle-de-Mérici. Mont-Comi's 2019–2020 lodging directory identifies the guesthouse at 180 route 234 Ouest and lists three guest rooms. It does not describe a physical tower, and the guesthouse name cannot substitute for a replica photograph. The tower's maker, origin, dimensions, actual connection to the guesthouse and current existence remain unconfirmed.",
+      "currentUses": []
+    },
+    "it-ispra-jrc-ispra-grounds": {
+      "label": "JRC Ispra",
+      "name": "JRC Ispra Eiffel candidate",
+      "summary": "A specific replica inventory records a small tower on the Joint Research Centre grounds in Ispra. A public copy of a French Semester closing speech dated 12 January 2009 thanks Leroy Merlin for sponsoring a tower, providing an early historical lead. The document contains no photograph, dimensions or exact location to establish that it is the same object. The individual tower's maker, installation year, role and current condition remain unconfirmed.",
+      "currentUses": []
+    }
+  }
+}

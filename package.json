@@ -1,0 +1,37 @@
+{
+  "name": "worldecho",
+  "version": "0.10.1",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.21.0",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "build": "pnpm typecheck && node scripts/verify-public-snapshot.mjs && vite build && node scripts/prepare-static-routes.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test src/scene/*.test.mjs src/catalog/*.test.mjs src/domain/*.test.mjs src/playground/*.test.mjs",
+    "verify:snapshot": "node scripts/verify-public-snapshot.mjs",
+    "showcase:generate": "node docs/generate-showcase-assets.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.1",
+    "lucide-react": "^0.577.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/three": "^0.186.0",
+    "@vitejs/plugin-react": "6.1.2",
+    "sharp": "^0.34.5",
+    "typescript": "7.0.2",
+    "vite": "8.3.2"
+  }
+}

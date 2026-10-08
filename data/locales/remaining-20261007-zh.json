@@ -1,0 +1,51 @@
+{
+  "asOf": "2026-10-07",
+  "towers": {
+    "il-netivot-paris-center": {
+      "name": "内提沃特Paris Center铁塔",
+      "label": "内提沃特",
+      "summary": "Paris Center商场的复制塔把埃菲尔轮廓带进内提沃特的步行空间。2021年的实景记录了深色密格构、两道宽平台和开放式小塔冠；左下塔脚受玻璃雨棚遮挡，模型只表示有依据的可见塔段。照片不代表今天的保留情况。"
+    },
+    "sk-svrcinovec-paris-hotel": {
+      "name": "Svrčinovec巴黎酒店铁塔",
+      "label": "Svrčinovec",
+      "summary": "2010年实景中的这座浅色复制塔有宽大的低拱门、带弧圈装饰的平台和细长塔身，顶部以交叉环收束。后来的资料提到2019年街景中疑似只剩瓦砾，因此模型保留历史外观，当前保留情况仍待核，旧酒店点不作为塔体位置。"
+    },
+    "ru-volzhskiy-frantsuzskiy-bul-var": {
+      "name": "伏尔日斯基法国大道铁塔",
+      "label": "伏尔日斯基",
+      "summary": "法国大道的复制塔在2021年夜照中展现出疏朗格构、大拱门、两道小栏杆平台与开放方形塔冠。运营方的塔专页邀请游客近看，并声明含尖顶高36米；这与旧地图15米说法仍有口径冲突，尚未选定实际高度。夜照不证明白天漆色或节目时序，模型夜景仍为艺术表现。"
+    },
+    "br-sao-paulo-hopi-hari": {
+      "name": "Hopi Hari埃菲尔式游乐塔（历史外观）",
+      "label": "Hopi Hari",
+      "summary": "Hopi Hari公园把埃菲尔式四腿格构基部与高耸的游乐设备轨柱组合在一起。模型依据2004年的实景，保留宽顶板、长轨柱和圆筒顶罩；被围栏和植物遮住的地面设备不补造。2026年1月16日行业报道记载已开始拆卸，尚不能据此确定拆卸完成日期。"
+    },
+    "in-parle-point-parle-point-surat": {
+      "name": "苏拉特Parle Point铁塔",
+      "label": "苏拉特Parle Point",
+      "city": "苏拉特",
+      "summary": "Parle Point交通岛的复制塔以密集格构、圆形节点装饰和两道大拱门形成苏拉特街景中的独特轮廓。实景文件的EXIF拍摄日期为2005年7月25日，2007年只是原上传时间。原图裁掉塔脚下端，模型只重现可见塔段，当前现状和真实高度仍待核。"
+    },
+    "in-pune-seven-wonders-dream-park": {
+      "name": "浦那七奇迹公园铁塔",
+      "label": "浦那七奇迹公园",
+      "city": "浦那",
+      "summary": "Yashwantrao Chavan Udyan七奇迹公园的复制塔，在2012年照片中呈现密格构、两道宽平台、细花纹大拱和放射状塔顶饰物。原图下端裁掉部分塔脚，模型只重现可见塔段。学校原文明确记录2025年1月15日到访并介绍这座埃菲尔复制塔，照片日期与参访日期分别保留。"
+    },
+    "ar-alicia-marchetti": {
+      "name": "Torre Alicia移址铁塔",
+      "label": "Torre Alicia",
+      "city": "Villa Parque Síquiman",
+      "venue": "Predio La Josefina",
+      "summary": "这座原先与Alicia及制作者Claudio Marchetti关联的复制塔，后来在Villa Parque Síquiman的La Josefina场地重新展示。2025年科尔多瓦省议会的报道已记录新场所和塔前活动，解决了此前只有移址计划的缺口；实际搬运日期仍未确认，它与2026年出现的另一座Torre Clanor分别记录。"
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "name": "鲁伊Thézieu城堡塔（旧称埃菲尔塔）",
+      "label": "鲁伊城堡塔",
+      "city": "Ruy-Montceau",
+      "venue": "Château de Thézieu, Avenue des Cantinières",
+      "summary": "旧照片中的“埃菲尔塔”名称线索指向鲁伊的Thézieu城堡塔，地方旅游资料称其Tour des Morts。已纠正原先Bourgoin-Jallieu的地点写法；名字相同不能证明复制关系，这条记录保持关系待核，不进入首期地球或公开复制塔模型。"
+    }
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "towers": {
+    "es-la-jonquera-tower-in-a-shopping-centre": {
+      "name": "Tower in a shopping centre, La Jonquera",
+      "summary": "Blue-gray four-legged lattice tower with curved lower arches and two broad square decks. Dense crossed upper shaft, dark compact summit cabin and thin needle."
+    },
+    "fr-breil-small-tower-on-the-edge-of-a-village": {
+      "name": "Small tower on the edge of a village, Breil",
+      "summary": "Rust-brown straight splayed legs with an open base and no decorative arch. Two thin decks, slender upper lattice and open rounded summit cage."
+    },
+    "us-milwaukee-msoe-eiffel-tower": {
+      "name": "Eiffel Tower, Milwaukee, Wisconsin",
+      "summary": "Tan-gold festival tower with square foot sleeves and broad arched base. Red sign panels above the second deck, open lattice shaft and small roofed crown."
+    },
+    "cz-benatky-nad-jizerou-toy-museum-tower": {
+      "name": "Toy museum tower, Benátky nad Jizerou",
+      "summary": "Red construction-strip tower with blue deck rims and a curved lower opening. Slender red upper lattice and an open blue-rimmed summit crown."
+    },
+    "ua-smila-eiffel-tower-near-a-shopping-mall": {
+      "name": "Eiffel Tower near a shopping mall, Smila",
+      "summary": "Charcoal open lattice with broad lower arches and square decks. Vertical gold PARIS letters and a gold arrow at the second deck."
+    },
+    "ua-poltava-arevik-flower-shop": {
+      "name": "Arevik Flower Shop, Poltava",
+      "summary": "Ochre-gold four-leg lattice, two thin square decks and a broad lower arch. Circular yellow 24 sign above the tower crown."
+    },
+    "ua-kyiv-near-darytsia-metro": {
+      "name": "Near Darytsia Metro, Kyiv",
+      "summary": "Dark open fine-rod frame, wide lower arch and two square-edged decks. Near-vertical shaft and a broad open square crown."
+    },
+    "ca-toronto-lantern-festival": {
+      "name": "Eiffel Tower, Toronto",
+      "summary": "Lantern-festival silhouette with broad arches, long shaft and small rounded crown. Purple-white night palette follows the photographed lighting."
+    },
+    "cl-santiago-guinguette": {
+      "name": "Torre Eiffel, Santiago",
+      "summary": "Light-gold event tower with an open lower frame and two thick-edged square decks. Straight tapered lattice and a small roofed pointed crown."
+    },
+    "cu-caibarien-roadside-tower": {
+      "name": "Roadside tower, Caibarién",
+      "summary": "Pale sparse frame with thin splayed legs and open platform rings. Upper shaft ends in a narrow flat rim, without an invented Paris cabin."
+    },
+    "de-gunzburg-legoland-germany": {
+      "name": "Legoland Germany, Günzburg",
+      "summary": "Gray brick-built tower with chunky lattice, stepped decks and pale foot blocks. Rounded lower arches and a tiered summit crown."
+    },
+    "fr-prisse-tower-in-the-grounds-of-a-store-called-fermob": {
+      "name": "Tower in the grounds of a store called Fermob, Prissé",
+      "summary": "Deep-red garden tower with curved splayed legs and two decks. Fine tapered shaft and a small open rounded crown."
+    },
+    "fr-soussans-tower-at-an-aluminium-company": {
+      "name": "Tower at an aluminium company, Soussans",
+      "summary": "Gold upper tower section confirmed above the vehicle obstruction. Narrow square deck, long tapering lattice shaft and small pointed crown."
+    },
+    "it-cascina-tower-at-a-roundabout": {
+      "name": "Tower at a roundabout, Cascina",
+      "summary": "Silver-gray sparse straight-truss tower with thin decks and an open base. Distinct red biplane retained at the summit."
+    },
+    "it-vallesaccarda-piazzetta-buhl": {
+      "name": "Tour Eiffel, Vallesaccarda",
+      "summary": "Silver-white twin-deck tower with a bulbous open summit cage. Only the tower section visible above the planter flowers is retained."
+    },
+    "se-jorna-wooden-tower-beside-a-road-junction": {
+      "name": "Wooden tower beside a road junction, Jörna",
+      "summary": "Heavy timber legs, broad fascia boards and a tall-railed first deck. Short middle stage and nearly parallel upper shaft, ending at the visible roof."
+    },
+    "id-madiun-pahlawan-street-center": {
+      "name": "Replika Menara Eiffel, Madiun, Madiun",
+      "summary": "Golden broad-arch tower with prominent deck railings and straight lattice legs. Small round basket crown and a locally broad silhouette."
+    },
+    "fr-bantzenheim-roundabout-tower-route-de-mulhouse": {
+      "name": "Roundabout tower Route de Mulhouse, Bantzenheim",
+      "summary": "Red-brown thin lattice, straight legs, slim arches and two railed decks. Open rounded cage above a square summit platform and a long needle."
+    },
+    "al-tirana-cafe-paris": {
+      "name": "Café Paris, Tirana",
+      "summary": "Charcoal indoor decorative tower with straight long legs and ladder-like crossbars. Broad lower square frame and a perforated top box, limited to the unoccluded section."
+    },
+    "cn-lishui-rapeseed-field-in-china": {
+      "name": "Rapeseed field in China, Lishui",
+      "summary": "Gray-brown lower tower section above rapeseed, with a broad deck and straight middle trusses. The crown is absent from the reference, so geometry stops at the photograph edge."
+    },
+    "fr-chanverrie-tower-in-an-industrial-yard": {
+      "name": "Tower in an industrial yard, Chanverrie",
+      "summary": "Industrial-yard tower retaining the small blue cube-shaped summit sign visible in the original night photograph."
+    },
+    "fr-le-touquet-sandcastle": {
+      "name": "Tour Eiffel d'Alain Godon, Le Touquet-Paris-Plage",
+      "summary": "Sandcastle-shaped solid artwork with a broad lower arch, thick platforms and a solid shaft. Sand-coloured sculpted masses retained; material is not inferred from colour."
+    },
+    "fr-saint-hilaire-en-woevre-meuse-graveyard-part-tower": {
+      "name": "Graveyard part tower, Saint-Hilaire en Woëvre, Meuse",
+      "summary": "Surviving truncated stone monument with a wide lower arch, decorative band and flat cut top. Only the photographed remnant is represented; no missing Eiffel summit is reconstructed."
+    },
+    "gr-athens-king-s-theatre": {
+      "name": "King's Theatre, Athens",
+      "summary": "Silver-gray upper tower section above the theatre roof. Small platform and fine tapering lattice retained without invented ground legs."
+    },
+    "in-kolkata-further-kolkata-tower": {
+      "name": "Further Kolkata Tower, Kolkata",
+      "summary": "Festival light-frame tower with a very tall broad lower opening. Short middle stage and a fine tapering illuminated shaft."
+    },
+    "my-genting-highlands-skytropolis-first-world-plaza": {
+      "name": "Eiffel Tower model at First World Plaza, Genting Highlands",
+      "summary": "Red indoor tower with broad sign-like deck fascias and decorative arches. Long straight shaft and a red square crown, limited to the photographed section."
+    },
+    "ps-ramallah-tower-at-a-sweet-shop": {
+      "name": "Tower at a sweet shop, Ramallah",
+      "summary": "Gold shop-sign tower with broad flattened feet and sparse lattice. Long narrow shaft with an oversized open square crown."
+    },
+    "us-carlsbad-legoland-california": {
+      "name": "Legoland California, Carlsbad",
+      "summary": "Light-gray brick tower with paired arches, lattice deck bands and a long shaft. Visible crown retained while the cropped needle is not completed."
+    },
+    "ua-kotelva-tower-at-kalyna-restaurant": {
+      "name": "Tower at Kalyna Restaurant, Kotelva",
+      "summary": "Extremely slender gold courtyard tower with low decks and a needle-like shaft. Four separate small feet and an open lower arch."
+    },
+    "ua-kyiv-kyiv-national-university-of-trade-and-economics": {
+      "name": "Kyiv National University of Trade and Economics, Kyiv",
+      "summary": "Brown campus tower with low arches, twin decks and fine lattice. Large open summit crown and a tall pole."
+    },
+    "ua-kyiv-tower-in-front-of-tres-fransais-restaurant": {
+      "name": "Tower in front of \"Tres Fransais\" Restaurant, Kyiv",
+      "summary": "Fine-wire restaurant tower with a low arch and light platforms. Sparse rods retained; climbing foliage belongs to surroundings."
+    },
+    "ua-lviv-beauty-salon-l-etoile": {
+      "name": "Beauty salon L'Etoile, Lviv",
+      "summary": "Small gold salon tower with a long narrow lattice shaft. Dark mid-level sign panel and a small rounded crown with a long needle."
+    },
+    "ua-lviv-tower-outside-a-creperie": {
+      "name": "Tower outside a creperie, Lviv",
+      "summary": "Gold crêperie tower with two thin decks and a finely braced shaft. Small square crown, brown pointed roof and slim pole."
+    },
+    "ua-mankivka-central-park-tower": {
+      "name": "Central park tower, Mankivka",
+      "summary": "Gray sparse-frame tower with a broad base and long open rectangular shaft. Large top square frame, pointed support and a long needle."
+    },
+    "ua-myrhorod-paris-dakar-bar": {
+      "name": "Paris Dakar Bar, Myrhorod",
+      "summary": "Silver-gray bar tower with broad diagonal braces, a wide arch and vertical deck rails. Long shaft topped by a stacked open square cage."
+    },
+    "ua-nadezhdivka-centre-of-the-village-edge-of-a-small-park": {
+      "name": "Centre of the village, edge of a small park, Nadezhdivka",
+      "summary": "Dark garden tower with broad decks, arched feet and a fine long shaft. A sharply pointed long summit needle defines the silhouette."
+    },
+    "ua-nizhyn-eiffel-tower-near-a-shop-at-a-bus-stop": {
+      "name": "Eiffel Tower near a shop at a bus stop, Nizhyn",
+      "summary": "Dark-brown bus-stop tower with broad lower arches and two railed decks. Fine shaft tapering to a small open triangular crown."
+    },
+    "ua-nova-kakhovka-nova-kakhovka-higher-politechnic-school": {
+      "name": "Nova Kakhovka higher politechnic school, Nova Kakhovka",
+      "summary": "Silver sparse-lattice campus tower with a thin arch and straight splayed legs. Wide-bay shaft, open square crown and short pointed tip."
+    },
+    "ua-novoselivka-tower-in-a-play-park": {
+      "name": "Tower in a play park, Novoselivka",
+      "summary": "Salmon play-park tower with broad arches and two lattice deck bands. Regular crossed shaft, tan small roof and long slim pole."
+    },
+    "ua-odesa-fontanka": {
+      "name": "Fontanka, Odesa",
+      "summary": "Dark-gray slender multilevel tower with a broad base arch and narrow intermediate rings. Long straight shaft and a two-level open square crown."
+    },
+    "ua-odesa-osypova-37": {
+      "name": "Osypova 37, Odesa",
+      "summary": "Silver-gray fine-wire courtyard tower with four open feet and two thin rings. Ivy-hidden crown omitted; only the visible lower and middle sections remain."
+    },
+    "ua-olshanske-park-near-the-village-council": {
+      "name": "Park near the village council, Olshanske",
+      "summary": "Rust-red park tower with broad straight legs, thick arch edges and open decks. Sparse long shaft ends in a square box without a long needle."
+    },
+    "ua-pereyaslav-khmelnytsky-wedding-gift-tower": {
+      "name": "Wedding gift tower, Pereyaslav-Khmelnytsky",
+      "summary": "Dark wedding-courtyard tower with low arches, a broad railed deck and fine lattice. Crossed rounded summit loops and a tall slim needle."
+    },
+    "ua-pisochyn-replica-at-a-sanitorium-resort": {
+      "name": "Replica at a sanitorium resort, Pisochyn",
+      "summary": "Brown resort-courtyard tower with short legs and two finely patterned decks. Long straight fine-lattice shaft with a small flat crown."
+    },
+    "ua-pomichna-park-near-railway-station": {
+      "name": "Park near railway station, Pomichna",
+      "summary": "Brown broad-footed park tower with long arches and bold straight braces. Two thin-edged decks, tapering shaft and a small square crown."
+    },
+    "ua-puscha-vodytsya-french-school": {
+      "name": "French school, Puscha Vodytsya",
+      "summary": "Slender school tower of pale-blue, yellow and occasional red rods. Sparse lattice, thin platform frames and a flat open summit."
+    },
+    "ua-reshetylivka-city-center-park": {
+      "name": "City center park, Reshetylivka",
+      "summary": "White fine-rod park tower with two thin rings and broad lower arches. Open globe-like summit loops and a straight pole."
+    },
+    "ua-rivne-haidamatska-str": {
+      "name": "Haidamatska str, Rivne",
+      "summary": "Eiffel-shaped coffee kiosk with an opaque dark-brown lower body and gold diagonals. Central machine panel and pale open upper frame."
+    },
+    "ua-sadove-hotel-butterfly": {
+      "name": "Hotel Butterfly, Sadove",
+      "summary": "Minimal garden tower formed by four curved white rods. Only two rings, a small summit globe and a larger lower globe."
+    },
+    "ua-sarny-park-in-town-centre": {
+      "name": "Park in town centre, Sarny",
+      "summary": "Dark small tower with fine lattice and two plain-edged decks. Open arched crown above four feet and broad lower curves."
+    },
+    "ua-skvyra-kyiv-restaurant-tower": {
+      "name": "Kyiv Restaurant Tower, Skvyra",
+      "summary": "Light-copper restaurant tower with very fine square lattice and widely spread feet. Broad square rail decks and a small pointed summit."
+    },
+    "ua-sumy-tower-outside-a-shop-in-a-side-street": {
+      "name": "Tower outside a shop in a side street, Sumy",
+      "summary": "Dark-brown compact street tower with short broad arched legs. Wide first deck, dense lattice and a small square crown."
+    },
+    "ua-vinnytsya-tower-in-a-zoo-park": {
+      "name": "Tower in a zoo park, Vinnytsya",
+      "summary": "Silver-gray perforated-sheet tower with a broad ornamental skirt and solid edge frames. Long patterned shaft and a notably tall slender spire."
+    },
+    "ua-vinnytsya-vinnytsya-cooperative-institute": {
+      "name": "Vinnytsya cooperative institute, Vinnytsya",
+      "summary": "Copper-brown decorative tower with broad arches and double ornamental deck bands. Open middle stage, long shaft and a small pale pointed crown."
+    },
+    "ua-zavodske-park-in-city-center": {
+      "name": "park in city center, Zavodske",
+      "summary": "Silver-blue park tower with bold diagonals and distinct pale foot blocks. Long lattice shaft and a square pierced summit box."
+    },
+    "ua-zhytomyr-polytechnic-state-university": {
+      "name": "Polytechnic State University, Zhytomyr",
+      "summary": "Dark-gray perforated-sheet campus tower with a broad patterned skirt and pale leg diagonals. Photographed lower and middle portions plus the cropped upper shaft retained."
+    },
+    "ua-zviahel-start-shoe-store": {
+      "name": "'Start' shoe store, Zviahel",
+      "summary": "Slender gray shoe-shop tower with broad lower arches and two narrow decks. Fine tapering lattice with a small cage crown."
+    },
+    "br-manaus-centro-cultural-palacio-da-justica-do-amazonas": {
+      "name": "Centro Cultural Palácio da Justiça do Amazonas, Manaus",
+      "summary": "Historical fine-lattice upper section and small open crown."
+    },
+    "cn-zhouzhou-large-tower-at-a-roundabout": {
+      "name": "Large tower at a roundabout, Zhouzhou",
+      "summary": "Zhuozhou photographed lower and middle tower with broad arches and thick decks."
+    },
+    "de-monchengladbach-nightclub-tower": {
+      "name": "Nightclub tower, Mönchengladbach",
+      "summary": "Silver sparse-bar nightclub tower with a wide arch and very long fine shaft."
+    },
+    "de-tubingen-boxenstop-tubingen": {
+      "name": "Boxenstop Tübingen, Tübingen",
+      "summary": "Green construction strips, red deck trims and a long narrow shaft."
+    },
+    "ec-quito-eiffel-center": {
+      "name": "Eiffel Center, Quito",
+      "summary": "Gold Eiffel outline attached to a glazed building facade."
+    },
+    "id-menara-keagungan-limboto-menara-keagungan-limboto": {
+      "name": "Menara Keagungan Limboto, Menara Keagungan Limboto",
+      "summary": "Broad arched architectural podium, two-level gallery and golden multi-deck lattice superstructure."
+    },
+    "id-tasikmalaya-regency-bamboo-eiffel-tower": {
+      "name": "Bamboo Eiffel Tower, Tasikmalaya, Tasikmalaya",
+      "summary": "Historical bamboo tower with wide decks, dense diagonals and a tiered small summit."
+    },
+    "in-telangana-ramoji-film-city": {
+      "name": "Ramoji Film City, Telangana",
+      "summary": "Silver-gray lower and middle film-city tower; top and base obscured."
+    },
+    "ir-kish-island-kish-eiffel-tower": {
+      "name": "Kish Eiffel Tower, Kish Island",
+      "summary": "Kish night-view broad-arch pale lattice with a small rounded crown."
+    },
+    "it-chioggia-front-garden-tower": {
+      "name": "Front garden tower, Chioggia",
+      "summary": "Silver-gray garden tower with twin decks and a tall pointed crown frame."
+    },
+    "nl-harselaar-staal-bouw": {
+      "name": "Staal Bouw, Harselaar",
+      "summary": "Slender gray industrial tower with a broad summit sign box and long pole."
+    },
+    "us-cypress-gardens-legoland-florida": {
+      "name": "Legoland Florida, Cypress Gardens",
+      "summary": "Florida brick display tower with stepped footings and a tall slender body."
+    },
+    "za-parys-julio-art-gallery": {
+      "name": "Julio Art Gallery, Bree Street, Parys",
+      "summary": "Separately photographed Parys upper assembly and rounded cap."
+    },
+    "pl-rabka-zdroj-rabkoland": {
+      "name": "Rabkoland, Rabka-Zdrój",
+      "summary": "Dark amusement-park tower with sparse square lattice and a stacked small crown."
+    },
+    "ru-yeysk-amusement-park-tower": {
+      "name": "Amusement Park Tower, Yeysk",
+      "summary": "Yeysk night-view lower and middle section with broad arches and two decks."
+    },
+    "ua-baryshivka-eiffel-tower-near-a-coffee-shop": {
+      "name": "Eiffel Tower near a coffee shop, Baryshivka",
+      "summary": "White wire café-courtyard tower with broad arches and an open pointed crown."
+    },
+    "ua-cherkasy-bonjour-underwear-store": {
+      "name": "'Bonjour' underwear store, Cherkasy",
+      "summary": "Taupe perforated-plate tower with broad flat feet, thick square decks and a long shaft."
+    },
+    "ua-chornomorsk-modigliani-restaurant": {
+      "name": "'Modigliani' restaurant, Chornomorsk",
+      "summary": "Gray-brown sparse restaurant tower with a low broad arch."
+    },
+    "ua-drohobych-eiffel-tower-in-city-center": {
+      "name": "Eiffel Tower in city center, Drohobych",
+      "summary": "Dark-brown sparse straight-bar tower with a broad base and fine rails."
+    },
+    "ua-hrushkivka-forestry": {
+      "name": "forestry, Hrushkivka",
+      "summary": "Silver-gray slender forestry tower with a small pale drum cap and tall flagpole."
+    },
+    "ua-illintsi-varvara-restaurant": {
+      "name": "'Varvara' restaurant, Illintsi",
+      "summary": "Pale silver lattice tower with a distinctive inverted diamond ornament."
+    },
+    "ua-iskorost-korosten-heating-pipe-plant": {
+      "name": "Korosten Heating Pipe Plant, Iskorost",
+      "summary": "Foreground white perforated factory tower with an exceptionally long pointed crown."
+    },
+    "ua-ivano-frankivsk-eiffel-tower-near-a-shop": {
+      "name": "Eiffel Tower near a shop, Ivano-Frankivsk",
+      "summary": "Orange-red storefront tower with a broad low arch, sparse lattice and small round cage."
+    },
+    "ua-khmelnytskyi-so-called-monument-to-ukrainian-inferiority": {
+      "name": "So called 'Monument to Ukrainian inferiority', Khmelnytskyi",
+      "summary": "Black plaza tower with broad arches and a densely braced long shaft."
+    },
+    "ua-koriukivka-flower-stand-near-the-city-council": {
+      "name": "flower stand near the city council, Koriukivka",
+      "summary": "Black Eiffel-shaped flower stand with four long rods, twin frames and a bare shaft."
+    },
+    "ua-korosten-tower-beside-a-road": {
+      "name": "Tower beside a road, Korosten",
+      "summary": "Visible silver-gray perforated memorial-tower lower and middle sections with broad arches."
+    },
+    "ua-kostopil-back-yard-of-a-private-house": {
+      "name": "Back yard of a private house, Kostopil",
+      "summary": "Gold-lit garden tower section with three horizontal rings."
+    },
+    "ua-kriukivschshyna-residential-complex-european-city": {
+      "name": "Residential complex European city, Kriukivschshyna",
+      "summary": "Brown-gray residential lattice tower with broad decks and a rounded tiered crown."
+    },
+    "ua-kryvyi-rih-yuvileinyi-park": {
+      "name": "Yuvileinyi park, Kryvyi Rih",
+      "summary": "Dark-brown park tower with squat broad lower stages, sparse diagonals and a long needle."
+    },
+    "ua-kyiv-auchan-supermarket": {
+      "name": "'Auchan' supermarket, Kyiv",
+      "summary": "Dark indoor supermarket tower with fine lattice and a small rounded crown."
+    },
+    "ua-kyiv-citroen-car-dealership": {
+      "name": "Citroen car dealership, Kyiv",
+      "summary": "Charcoal fine-lattice dealership tower with a broad low arch and a square cap."
+    },
+    "ua-kyiv-dream-town-shopping-mall": {
+      "name": "'Dream Town' shopping mall, Kyiv",
+      "summary": "Heavy-frame shopping-atrium tower section with two thick decks and a long shaft."
+    },
+    "ua-kyiv-eiffel-tower-on-a-balcony-of-a-travel-agency": {
+      "name": "Eiffel Tower on a balcony of a travel agency, Kyiv",
+      "summary": "Gray balcony-corner tower with broad arched legs and a compressed middle stage."
+    },
+    "ua-kyiv-eiffel-tower-on-the-entrance-to-a-residential-building": {
+      "name": "Eiffel Tower on the entrance to a residential building, Kyiv",
+      "summary": "Black entrance-canopy tower with three thick box-like platforms."
+    },
+    "ua-kyiv-medical-center-entrance": {
+      "name": "Medical center entrance, Kyiv",
+      "summary": "Curved-rod plant support at the medical courtyard with several horizontal rings."
+    },
+    "ua-kyiv-ocean-plaza-shopping-mall": {
+      "name": "'Ocean Plaza' shopping mall, Kyiv",
+      "summary": "Dark Eiffel-shaped cookware display frame, low arch and pierced top box."
+    },
+    "ua-nerubaika-zastava-hotel-and-restaurant": {
+      "name": "'Zastava' hotel and restaurant, Nerubaika",
+      "summary": "Tall slender dark courtyard tower with a densely braced straight shaft and pointed upper frame."
+    },
+    "ua-odesa-cafe-closed": {
+      "name": "cafe (closed), Odesa",
+      "summary": "Silver-gray café tower with a broad arch and vertical PARIS letters."
+    },
+    "ua-yalta-massandrovsky-beach": {
+      "name": "Massandrovsky beach, Yalta",
+      "summary": "Silver-white lattice tower on a seaward deck, with a flat small square crown."
+    },
+    "uz-samarkand-neat-tower-at-the-roadside": {
+      "name": "Neat tower at the roadside, Samarkand",
+      "summary": "Samarkand bronze-gold lattice tower with wide arches and an open onion-shaped crown."
+    },
+    "cu-cienfuegos-torre-eiffel-de-cienfuegos": {
+      "name": "Torre Eiffel de Cienfuegos, Cienfuegos",
+      "summary": "Historical Cienfuegos tower with an exceptionally broad arch and paneled rail."
+    },
+    "id-palembang-punti-kayu": {
+      "name": "Menara Eiffel Punti Kayu, Palembang",
+      "summary": "Photographed Punti Kayu lower and middle sections, bold lattice and thick twin decks."
+    },
+    "ua-bila-tserkva-french-pastry-in-residential-area": {
+      "name": "French pastry in residential area, Bila Tserkva",
+      "summary": "Silver-gray slender pastry-shop tower, wide low arch and fine shaft."
+    },
+    "ua-bila-tserkva-leone": {
+      "name": "Leone, Bila Tserkva",
+      "summary": "Small brown fine-lattice tower on the Leone balcony."
+    },
+    "ua-bilopillya-eiffel-tower-near-a-coffee-shop": {
+      "name": "Eiffel Tower near a coffee shop, Bilopillya",
+      "summary": "Light-copper café-corner tower with broad arches and thin decks."
+    },
+    "ua-chernihiv-tower-on-a-street-corner": {
+      "name": "Tower on a street corner, Chernihiv",
+      "summary": "Orange-red street-corner tower with projecting rail decks and a broad square crown."
+    },
+    "ua-dnipro-tower-on-pavement-in-front-of-a-restaurant": {
+      "name": "Tower on pavement in front of a restaurant, Dnipro",
+      "summary": "Silver-gray decorative restaurant tower with fine lattice, clustered deck bands and a rounded cage crown."
+    },
+    "ua-horodok-front-yard-of-a-private-house": {
+      "name": "Front yard of a private house, Horodok",
+      "summary": "Fine silver-gray private-garden frame with a long narrow shaft and small signs."
+    },
+    "ua-ivanivka-odesa-oblast-ostrich-farm-tower": {
+      "name": "Ostrich farm tower, Ivanivka, Odesa Oblast",
+      "summary": "Pale-gold farm lattice tower, broad low arch and elongated crown frame."
+    },
+    "ua-kamyanets-podilskyi-tower-outside-a-restaurant": {
+      "name": "Tower outside a restaurant, Kamyanets-Podilskyi",
+      "summary": "Gray perforated Versal restaurant section with broad arches and loop railings."
+    },
+    "ua-koropovo-carnaval-resort-spa": {
+      "name": "Гостиница Carnaval Resort & Spa, Koropovo",
+      "summary": "Pale fine-rod miniature-golf tower with three thin-edged decks."
+    },
+    "ua-korosten-spartak-stadium": {
+      "name": "Spartak Stadium, Korosten",
+      "summary": "Stadium scoreboard tower, slender frame and black score panel."
+    },
+    "ua-malyn-french-boutique-shop": {
+      "name": "\"French boutique\" shop, Malyn",
+      "summary": "Brown shop-entry tower with thick square decks and a long straight shaft."
+    },
+    "ua-mykolayiv-kids-park-kazka": {
+      "name": "kids park 'Kazka', Mykolayiv",
+      "summary": "Dark children’s-park tower with dense lattice and a multi-bracket crown."
+    },
+    "ua-odesa-kobleska-37": {
+      "name": "Kobleska 37, Odesa",
+      "summary": "Silver-gray courtyard tower with broad arches and a pale board covering the shaft."
+    },
+    "ua-odesa-korolyova-79": {
+      "name": "Korolyova 79, Odesa",
+      "summary": "Dark sparse storefront lattice with red edge accents."
+    },
+    "ua-odesa-mini-golf-course-in-a-park": {
+      "name": "Mini golf course in a park, Odesa",
+      "summary": "Blue-gray pond tower with a long curved shaft and open rounded crown."
+    },
+    "ua-rivne-yard-of-a-residential-building": {
+      "name": "yard of a residential building, Rivne",
+      "summary": "Brown courtyard fine-rod tower with low arches and a small open dome."
+    },
+    "ua-ternopil-travel-agency": {
+      "name": "travel agency, Ternopil",
+      "summary": "Silver-gray travel-agency tower with widely swept arched legs and a tall needle."
+    },
+    "ua-vinnytsya-d-a-k-s-market-grocery-store": {
+      "name": "'D.A.K.S. market' grocery store, Vinnytsya",
+      "summary": "White shop-window tower with two lime-green deck accents."
+    },
+    "ua-vinnytsya-entrance-to-versal-hotel-and-restaurant": {
+      "name": "entrance to 'Versal' hotel and restaurant, Vinnytsya",
+      "summary": "White entrance tower with fine lattice and a chunky short ornamental crown."
+    },
+    "ua-vinnytsya-mirazh-curtains-shop": {
+      "name": "'Mirazh' curtains shop, Vinnytsya",
+      "summary": "Pale-gold flat Eiffel window ornament with large triangular patterns."
+    },
+    "ua-yahotyn-eiffel-tower-near-a-soviet-tank-monument": {
+      "name": "Eiffel Tower near a Soviet tank monument, Yahotyn",
+      "summary": "Wide-based sparse tower with thick flat decks and a pale small pyramid cap."
+    },
+    "ua-yahotyn-eiffel-tower-on-a-shop": {
+      "name": "Eiffel Tower on a shop, Yahotyn",
+      "summary": "Pale-gold broad-arch rooftop tower section with a simple pyramid cap."
+    },
+    "ua-zhytomyr-zarichanske-forestry": {
+      "name": "Zarichanske forestry, Zhytomyr",
+      "summary": "Gold forestry-courtyard lower and middle section, broad rail deck and large opening."
+    },
+    "ps-ramallah-3-rooftop-towers": {
+      "name": "Ramallah rooftop aerial · nearest tower",
+      "summary": "Pale brown fine rods form a broad curved base and a long narrow lattice support. A slender radio aerial and several horizontal crossbars rise above the tower-shaped support."
+    },
+    "ad-andorra-tower-at-a-restaurant": {
+      "name": "Café terrace Eiffel replica, Andorra (Aragon)",
+      "summary": "Dark Andorra restaurant ironwork with dense diamond lattice and round foot discs. Two square ledges, ornamented lower arches and small upper-shaft plaque."
+    },
+    "by-minsk-next-to-a-playground": {
+      "name": "Next to a playground, Minsk",
+      "summary": "Silver Minsk playground tower with sparse large crossed members. High twin platforms, small round cage and long needle."
+    },
+    "de-sielenbach-town-partnership-tower": {
+      "name": "Town partnership tower, Sielenbach",
+      "summary": "Ochre-red Sielenbach partnership tower with fine arch ornament. Two thick-edged platforms and long slender lattice shaft."
+    },
+    "es-denia-valencia-metal-merchant-tower": {
+      "name": "Metal merchant tower, Dénia, Valencia",
+      "summary": "Rust-brown Dénia metal-merchant tower on tall pale blocks. High solid first-deck fascia, open guardrails and long pointed shaft."
+    },
+    "hu-budapest-car-showroom-tower": {
+      "name": "Car Showroom Tower, Budapest",
+      "summary": "Silver-gray Budapest M5 showroom tower with low broad arch. Dark solid first band, short middle stage and long straight shaft."
+    },
+    "pl-mys-akowice-eiffel-tower-at-a-miniature-park": {
+      "name": "Eiffel tower at a miniature park, Mysłakowice",
+      "summary": "Dark dense-lattice Mysłakowice miniature-park tower. Wide deep first deck, slender shaft and rounded solid summit cap."
+    },
+    "ru-obninsk-tower-in-front-of-some-kind-of-office": {
+      "name": "Tower in front of some kind of office, Obninsk",
+      "summary": "Golden-brown Obninsk tower with dense diamonds and a third shaft collar. Tall lower arches, square top room and pointed lattice roof."
+    },
+    "ru-yekaterinburg-tower-in-a-small-park": {
+      "name": "Tower in a small park, Yekaterinburg",
+      "summary": "Cream-white Yekaterinburg courtyard tower with sparse thick bars and shallow arch. Low fine-railed deck and long nearly straight four-corner shaft."
+    },
+    "de-odenthal-tower-at-a-boulodrome": {
+      "name": "Tower at a boulodrome, Odenthal",
+      "summary": "Golden slender-beam Odenthal tower with wide feet and low twin platforms. Ladder-like upper shaft and square perimeter members between feet."
+    },
+    "fi-nivala-crazyland-maliskyla": {
+      "name": "Crazyland Maliskylä, Nivala",
+      "summary": "White timber Crazyland tower in Nivala with dense crossed strips. Two broad platforms, an extra shaft taper and flared crown."
+    },
+    "fr-burnhaupt-le-bas-tower-at-a-fire-station": {
+      "name": "Tour Eiffel, Burnhaupt-le-Bas",
+      "summary": "Fine silver-wire tower at Burnhaupt fire station with low decks and long narrow shaft. Sparse splayed feet and compact crown."
+    },
+    "fr-cajarc-tower-in-village-square": {
+      "name": "Tower in village square, Cajarc",
+      "summary": "Large crossed members in the visible lower and middle Cajarc tower. Two very deep dark deck fascias with vertical ribs."
+    },
+    "fr-pusey-small-tower-in-a-garden": {
+      "name": "Small tower in a garden, Pusey",
+      "summary": "Fine-wire Pusey garden tower with broad footprint and deep square decks. Light double-line lower arches, silver shaft and four pale blocks."
+    },
+    "fr-vesoul-tower-in-a-back-garden": {
+      "name": "Tower in a back garden, Vesoul",
+      "summary": "Brown Vesoul garden tower with thick straight members and two trussed platforms. Twin extra shaft bands and open domed cage at the summit."
+    },
+    "fr-waldighoffen-tall-wooden-tower-at-an-exhibition": {
+      "name": "Tall wooden tower at an exhibition, Waldighoffen",
+      "summary": "Historical Waldighoffen timber tower with broad straight edge beams and close horizontal rungs. Three plain timber bands, long nearly straight shaft and open square top room."
+    },
+    "gb-chertsey-thorpe-park": {
+      "name": "Thorpe Park, Chertsey",
+      "summary": "Dark bronze Thorpe Park tower photographed in1979, with broad arches and deep deck bands. Long lattice shaft and layered pointed open crown."
+    },
+    "de-leipzig-restaurant-salu": {
+      "name": "Restaurant Salü, Leipzig",
+      "summary": "Dark narrow lattice shaft emerging above Salü restaurant in Leipzig. Tall open polygonal crown and fine pointed tip."
+    },
+    "fr-le-trevoux-festival-tower-made-of-wood": {
+      "name": "Festival tower made of wood, Le Trévoux",
+      "summary": "Visible heavy diagonal planks and large crosses of the Le Trévoux festival tower. Stacked thick deck edges, rectangular lower opening and perimeter base timbers."
+    },
+    "fr-mobile-location-tour-eiffel-mobile-maindron": {
+      "name": "EIFFELA / EYFFELA",
+      "summary": "Rust-brown Maindron travelling tower with broad round lower arches. Two plain deck bands and prominent circular peace symbol at the summit."
+    },
+    "fr-saujon-record-breaking-tower-made-of-matches": {
+      "name": "Record breaking tower made of matches, Saujon",
+      "summary": "Pale densely assembled matchstick beams of the Saujon tower. Broad arches, tiny crossed infill and two deep platform edges."
+    },
+    "hu-bekescsaba-tower-in-a-back-yard": {
+      "name": "Tower in a back yard, Békéscsaba",
+      "summary": "Red-brown Békéscsaba yard tower with low thin bands and very long shaft. Crossed members and small open square crown."
+    },
+    "it-andria-tm-tecnometal": {
+      "name": "TM Tecnometal, Andria",
+      "summary": "Dark bronze Tecnometal rooftop tower in Andria with broad deep arches. Two railed decks, fine dense shaft and compact layered crown."
+    },
+    "it-cagnano-tower-at-energreen-factory": {
+      "name": "Tower at Energreen Factory, Cagnano",
+      "summary": "Dark Energreen factory tower with broad lower arches and dense lattice. Two deep decks, long slim shaft and tiered square crown."
+    },
+    "lt-letukai-new-miniature-park": {
+      "name": "New miniature park, Letūkai",
+      "summary": "Silver-gray Letukai miniature-park tower with broad legs and tall concrete feet. Deep first-deck band, upright guardrail and open polygonal crown."
+    },
+    "md-corjeuti-tower-at-a-french-restaurant": {
+      "name": "Tower at a French restaurant, Corjeuți",
+      "summary": "White Corjeuti restaurant tower raised on four tall stone piers. High vertical rails around a broad gallery, long shaft and large open square crown."
+    },
+    "me-budva-paris-night-club": {
+      "name": "Paris Night Club, Budva",
+      "summary": "Visible heavy dark Eiffel foot in Budva’s Paris club. Large curved arch ribs and crossed members under blue-violet light."
+    },
+    "nl-friesland-renault-car-garage": {
+      "name": "Renault Car Garage, Drachten, Friesland",
+      "summary": "White Friesland Renault dealership tower with blue first-deck edge. Long slender shaft, small square cage and radial finial."
+    },
+    "nl-utrecht-tower-in-an-industrial-park": {
+      "name": "Tower in an industrial park, Utrecht",
+      "summary": "Gray Utrecht industrial-yard tower behind trees with two small ledges. Visible slender shaft and broad faceted crown."
+    },
+    "pl-krakow-tower-in-a-builder-s-yard": {
+      "name": "Tower in a builder's yard, Krakow",
+      "summary": "Dense dark-brown Kraków yard tower with high first-platform rails. Projecting support skirt, long shaft and irregular open square top frame."
+    },
+    "pt-monte-redondo-tower-at-a-small-museum": {
+      "name": "Tower at a small museum, Monte Redondo",
+      "summary": "Broad red-brown flat members of the Monte Redondo community-museum tower. Deep platform skirts, simple curved arch and open event-use middle stage."
+    },
+    "ro-cincu-tower-at-a-farm": {
+      "name": "Tower at a farm, Cincu",
+      "summary": "Thin brown Cincu farm tower with long narrow shaft and small domed cage. Large five-point star, curled rails and reddish lower roof-tile edging."
+    },
+    "rs-markovac-small-tower-in-a-back-yard": {
+      "name": "Small tower in a back yard, Markovac",
+      "summary": "Red Markovac garden tower with broad feet and two open railed decks. Small round crown carrying a very long television-aerial-like mast."
+    },
+    "ua-berdyansk-berdyansk-mechanical-engineering-lyceum": {
+      "name": "Berdyansk Mechanical Engineering Lyceum, Berdyansk",
+      "summary": "Silver-gray fine-lattice tower in Berdyansk’s smiths alley. Four splayed feet, round arches and two thin deck bands."
+    },
+    "ua-berehove-crimea-tower-at-the-seaside": {
+      "name": "Tower at the seaside, Berehove (Crimea)",
+      "summary": "Berehove seaside tower with thin crossed feet and two upright-railed collars. Dense warm-white bulb strings on feet, platforms and shaft."
+    },
+    "ua-dovzhans-ka-tower-mounted-on-brick-pillars": {
+      "name": "Tower mounted on brick pillars, Dovzhans'ka",
+      "summary": "Tan Dovzhansk tower on four very tall stone-brick supports. Solid curved arch bands, twin railed decks and pointed long shaft."
+    },
+    "ua-kushuhum-park-tower": {
+      "name": "Park tower, Kushuhum",
+      "summary": "Dark Kushuhum park tower with broad arch and two slim railed decks. Small cylindrical crown and needle; nearby red heart is separate decoration."
+    },
+    "ua-marganets-dnipro-club": {
+      "name": "'Dnipro' club, Marganets",
+      "summary": "Silver-gray tower before the Dnipro club in Marhanets. Broad sparse four-foot base, thin decks and small square top cage."
+    },
+    "ua-nikopol-tower-at-the-edge-of-the-river": {
+      "name": "Tower at the edge of the river, Nikopol",
+      "summary": "Tubular Nikopol riverfront tower with wide feet of large straight crosses. Two open frame bands, no decorative round arch and long aerial."
+    },
+    "ua-rodynske-bank": {
+      "name": "bank, Rodynske",
+      "summary": "Pale-gray Rodynske strip-metal tower with low broad railed deck and tall middle stage. Long straight shaft, gridded top box and projecting small light housings."
+    },
+    "ua-volnovakha-central-park-in-the-town": {
+      "name": "Central park in the town, Volnovakha",
+      "summary": "Dark dense-lattice Volnovakha tower with broad round arches and fine rectangular arch edging. Semicircular first-deck rails, deep fascia and cold-white structural illumination."
+    },
+    "fr-montlouis-sur-loire-tower-in-chateau-gardens": {
+      "name": "Tower in chateau gardens, Montlouis-sur-Loire",
+      "summary": "Four heavy splayed timbers and thick layered decks of the Montlouis garden tower. Four large shaft crosses, narrow long silhouette and open pointed cap."
+    },
+    "ru-abakan-tower-in-a-landscape-garden": {
+      "name": "Tower in a landscape garden, Abakan",
+      "summary": "White Abakan landscape-garden tower with broad arch and projecting railed decks. Fine long shaft, small rounded cap and slender needle."
+    },
+    "ru-arzamas-tower-beside-a-large-road": {
+      "name": "Tower beside a large road, Arzamas",
+      "summary": "Detailed bronze-brown Arzamas tower with dense lattice and deep twin fascias. Ornamented lower arches, wide crown and small segmented aerial."
+    },
+    "ru-perm-tower-in-front-of-offices": {
+      "name": "Tower in front of offices, Perm",
+      "summary": "Dark Perm tower with broad substantial base and two decks. Small open round crown; photographed cyan-blue middle/crown rings and warm-gold shaft/arches."
+    },
+    "ru-samara-tower-at-a-road-junction": {
+      "name": "Tower at a road junction, Samara",
+      "summary": "Golden Samara tower photographed in2015 with broad railed decks and round arches. Fine crossed shaft, square top room and pointed cap."
+    },
+    "ua-yalta-across-the-river": {
+      "name": "Across the river, Yalta",
+      "summary": "Visible pale-gray technical lattice tower across the river in Yalta. Straight crossed members, angular knees and upper equipment arm."
+    },
+    "ua-zaporizhzhya-dejavu-cafe": {
+      "name": "'Dejavu' cafe, Zaporizhzhya",
+      "summary": "Thin brown tower before Zaporizhzhia’s Dejavu cafe. Low curved arch, two fine deck bands and long narrow shaft."
+    },
+    "cz-most-mostecke-jezero-olympic-tower": {
+      "name": "Mostecké jezero – Olympic tower, Most",
+      "summary": "Visible blue-gray heavy-edged lattice and lower arch of the Most lake Olympic tower. Colored five rings across the middle and pale square foot pads."
+    },
+    "de-abbensen-vorgarten": {
+      "name": "Vorgarten, Abbensen",
+      "summary": "Solid pale-gray Abbensen garden tower with round lower arch and simple bands. Brown inset fields divided by pale X seams and a solid long tapered shaft."
+    },
+    "fr-lacapelle-biron-tower-in-a-garden": {
+      "name": "Tower in a garden, Lacapelle-Biron",
+      "summary": "Large X members and broad middle opening of the pale blue-silver Lacapelle-Biron tower. Outward-leaning platform rails are its distinctive handmade feature."
+    },
+    "gb-harrogate-tour-de-france-sculpture": {
+      "name": "Tour de France Sculpture, Harrogate",
+      "summary": "Harrogate tree-trunk Eiffel relief with solid broad feet and a single round arch. Middle window, narrow upper recess and carved X marks beneath a chunky rounded cap."
+    },
+    "se-vanersborg-lilla-paris": {
+      "name": "Lilla Paris, Vänersborg",
+      "summary": "White wooden Lilla Paris structure in Vänersborg with broad solid lower arch panels. Woven diamond middle and solid triangular upper sheet with a few large diamond windows."
+    },
+    "ua-alchevsk-tower-on-stilts-in-park": {
+      "name": "Tower on stilts in park, Alchevsk",
+      "summary": "Fine golden Alchevsk park tower with two small collars. Its feet rest on a separate pale open square stilt frame."
+    },
+    "ua-vynnyky-a-cross-in-a-shape-of-an-eiffel-tower": {
+      "name": "a cross in a shape of an Eiffel Tower, Vynnyky",
+      "summary": "Actual Vynnyky memorial cross: broad flared cross dominates the upper body. Dense brown lattice border and Eiffel-like splayed lower legs."
+    },
+    "ar-alicia-marchetti": {
+      "name": "Relocated Torre Alicia Eiffel replica",
+      "summary": "Relocated Alicia tower with low twin decks and an exceptionally long slender shaft. Square open crown and fine antenna cluster."
+    },
+    "ar-carlos-paz-tower-in-a-pensioner-s-garden": {
+      "name": "Tower in a pensioner’s garden, Carlos Paz",
+      "summary": "Visible lower and middle sections of the handmade Carlos Paz garden tower. Broad curved arch, fine members and two deck bands."
+    },
+    "ar-cordoba-galeria-jardin": {
+      "name": "Galeria Jardin, Córdoba",
+      "summary": "Córdoba chain-built tower with deep arches and dense dark lattice. Broad low deck, long shaft and compact square crown."
+    },
+    "br-ivaipora-tower-in-the-middle-of-a-boulevard": {
+      "name": "Tower in the middle of a boulevard, Ivaiporã",
+      "summary": "Dark Ivaiporã boulevard tower with broad arches and projecting twin decks. Long fine lattice, rounded cage and pointed mast."
+    },
+    "cn-longkou-shandong-tower-on-seafront": {
+      "name": "Tower on seafront, Longkou, Shandong",
+      "summary": "Dark-brown Longkou seafront tower with broad deep arches and two open decks. Long lattice shaft and small pale summit crown."
+    },
+    "cn-shanghai-i-do-tower": {
+      "name": "I Do Tower, Shanghai",
+      "summary": "White fine-lattice I DO tower in Shanghai with broad arches and two decks. Slender shaft, small crown and retained sign-panel position."
+    },
+    "cn-shanghai-tower-at-shopping-centre": {
+      "name": "Tower at shopping centre, Shanghai",
+      "summary": "Light-gold tower section above the Shanghai mall carousel. Broad railed deck, long shaft and square summit cap."
+    },
+    "cn-shenyang-city-square": {
+      "name": "City square, Shenyang",
+      "summary": "Golden Shenyang city-square tower with dense lattice and bold deck rims. Dark arch openings and a small tiered crown."
+    },
+    "cn-taiyuan-tower-on-police-station-roof": {
+      "name": "Tower on police station roof, Taiyuan",
+      "summary": "Silver-gray Taiyuan rooftop tower with curved splayed legs and thin decks. Pointed upper shaft and a delicate tiered crown."
+    },
+    "co-barrancabermeja-parque-tapias": {
+      "name": "Torre Eiffel, Barrancabermeja, Santander",
+      "summary": "Dense long lattice and broad square decks visible on the Tapias festival tower. Photographs show warm-gold and blue-violet lighting states."
+    },
+    "co-tunja-puente-de-boyaca": {
+      "name": "Puente de Boyacá, Tunja",
+      "summary": "Four-leg outline, broad arch and slender shaft of the Tunja festival light structure. Photo shows warm-white gold lights and green-cyan middle accents."
+    },
+    "cu-havana-jorge-enrique-salgado-tower": {
+      "name": "Jorge Enrique Salgado Tower, Havana",
+      "summary": "White fine-rod rooftop tower in Havana, light decks and a tall thin shaft. Broad square summit balcony, rounded cover and long needle."
+    },
+    "cu-santa-clara-1895-replica": {
+      "name": "1895 temporary replica, Santa Clara",
+      "summary": "Timber-frame tower, broad gallery and long shaft visible in the1895 Santa Clara photograph. Small tiered lantern-like summit silhouette."
+    },
+    "ec-quito-lycee-la-condamine": {
+      "name": "Lycée La Condamine, Quito",
+      "summary": "Red-white-blue sections and short legs of Quito’s French-school tower. Long straight shaft, light decks and a small flat crown."
+    },
+    "hn-tegucilgapa-plaza-paris-tower": {
+      "name": "Plaza París Tower, Tegucilgapa",
+      "summary": "Copper-colored slender shaft and low twin decks visible in Tegucigalpa. Small rounded crown, with the lowest structure obscured by people."
+    },
+    "id-lembang-minimania": {
+      "name": "Menara Eiffel Minimania Lembang, Lembang",
+      "summary": "Pale long lattice shaft and small summit cap in Lembang’s official park photograph. Visible middle platform, lower body screened by trees and track."
+    },
+    "id-megamendung-minimania-puncak": {
+      "name": "Menara Eiffel Minimania Puncak, Megamendung",
+      "summary": "Cream-gold Puncak tower with broad arches and two delicately railed decks. Long shaft and a small rounded cap."
+    },
+    "id-semarang-bamboo-reddit-lead": {
+      "name": "Semarang, Semarang",
+      "summary": "Segmented bamboo lattice and broad platforms of the Rawapening tower. Slender upper shaft and a small Indonesian red-white flag."
+    },
+    "id-tasikmalaya-west-java-menara-eiffel": {
+      "name": "Menara Eiffel, Tasikmalaya, West Java",
+      "summary": "Broad lower body, bamboo-sided first gallery and shorter shaft in Tasikmalaya. Straight bamboo cross bracing and a fine summit pole."
+    },
+    "il-jerusalem-festival-of-lights": {
+      "name": "Festival of Lights, Jerusalem",
+      "summary": "White fine-wire lattice and light square decks in Jerusalem’s festival photograph. Tram and trees obscure the lower body; tip extends beyond the frame."
+    },
+    "in-ajmer-seven-wonders": {
+      "name": "Eiffel Tower, Seven Wonders Park Ajmer, Ajmer",
+      "summary": "Dense dark-grey lattice and two broad decks still visible in the Ajmer demolition photograph. Long narrow shaft, compact rounded crown and obscured feet."
+    },
+    "in-ambikapur-scrap-park": {
+      "name": "Scrap Eiffel Tower, Ambikapur, Ambikapur",
+      "summary": "Broad open arch and wide railed gallery of Ambikapur’s scrap tower. Narrow collar midway up the shaft; open square summit cage and long pole."
+    },
+    "kg-aksy-tower-built-by-school-pupils": {
+      "name": "Tower built by school pupils, Aksy",
+      "summary": "Wide splayed legs and nearly straight-tapered shaft of the Aksy students’ tower. Photographed white-violet edges, bright summit and dark-framed first deck."
+    },
+    "kg-bishkek-consulate-or-pet-shop-tower": {
+      "name": "Consulate or Pet Shop Tower, Bishkek",
+      "summary": "Brown fine lattice, low arch and thin platforms of the Bishkek street tower. Small rounded hat and needle above a long shaft."
+    },
+    "kg-bishkek-vostok-5-microdistrict": {
+      "name": "Vostok-5 microdistrict, Bishkek",
+      "summary": "Blue-white shaft edge lights and warm-gold crown in the Vostok-5 photograph. Fine four-legged lattice and two light decks."
+    },
+    "kr-chungju-si-hotel-the-base": {
+      "name": "Hotel the Base, Chungju-si",
+      "summary": "Bronze-brown Chungju hotel tower with high double arches, strong legs and thin-railed decks. Dense crossed shaft and a loop ornament above the open square summit."
+    },
+    "lb-unlocated-blue-helmet-camp": {
+      "name": "Blue Helmet Camp",
+      "summary": "Sand-brown fine lattice, broad feet and thin decks in the Lebanese blue-helmet camp photograph. Long straight shaft and a very small flat summit cage."
+    },
+    "ma-fez-tour-d-eiffel-de-fes": {
+      "name": "Tour d'Eiffel de Fes, Fez",
+      "summary": "Long straight lattice shaft ending flat without a large crown in the historical Fez image. Two very thin decks and tall straight legs."
+    },
+    "nz-coromandel-replica-inside-the-eyefull-tower": {
+      "name": "Replica inside the Eyefull Tower, Coromandel",
+      "summary": "Perforated metal strips, four legs and two decks of Coromandel’s indoor display tower. A long narrow shaft topped by an open rounded cage and fine needle."
+    },
+    "ph-boracay-la-reserve": {
+      "name": "Eiffel Tower at La Réserve, Boracay / Malay",
+      "summary": "Brown dense lattice, broad open arch and light decks of La Réserve’s Boracay tower. Photograph shows green uplighting and localized warm fill."
+    },
+    "ph-iloilo-jaro-1889-bamboo": {
+      "name": "Bamboo Eiffel Tower at Jaro Plaza, Iloilo City",
+      "summary": "Bamboo tower with broad lower body and long fine shaft in the1889 Jaro photograph. Low decks and a small lantern-like summit silhouette."
+    },
+    "ph-manila-megamall": {
+      "name": "Megamall, Manila",
+      "summary": "Strong dark lattice and thick square decks of the Manila mall tower. Tall narrow barred box at the shaft top; people and parasols obscure the lower body."
+    },
+    "ph-naic-torres-farm-and-resort": {
+      "name": "Torres Farm and Resort, Naic",
+      "summary": "Very widely flared legs, deep lattice arches and broad thick first deck at Torres Farm in Naic. Shorter middle stage, fine long shaft and small open summit cage."
+    },
+    "ph-tablas-bantigue-resort": {
+      "name": "Bantigue Resort, Tablas",
+      "summary": "Strong bamboo lattice, tall first-gallery railing and thick second deck on Tablas. Photograph shows warm-gold lighting and a red summit beacon."
+    },
+    "sa-madinah-replica-on-a-roof-top": {
+      "name": "Replica on a roof top, Madinah",
+      "summary": "Silver-white rooftop tower with open arch and thin platforms in the distant Madinah photo. Fine shaft, compact rounded crown and long summit pole."
+    },
+    "th-udon-thani-unknown": {
+      "name": "Unknown, Udon Thani",
+      "summary": "Silver-white lower body and orange-brown upper structure in the Udon Thani photo, with looped gallery railing. Open fine-rod lattice, small flat summit balcony and looped needle crown."
+    },
+    "tj-dushanbe-shopping-mall-tower": {
+      "name": "Shopping Mall Tower, Dushanbe",
+      "summary": "Broad heavy dark-grey members, large arch and two thick square decks in Dushanbe. Regular large X bracing and compact rounded cap; an adjacent glazed bridge joins the tower."
+    },
+    "tw-taichung-carton-king": {
+      "name": "Carton King, Taichung",
+      "summary": "Broad flat triangular braces, wide arch and thick deck edges of Carton King’s white tower in Taichung. Long white needle and pierced decoration below the platform."
+    },
+    "us-atlanta-georgia-meccano-model": {
+      "name": "Meccano Eiffel Tower, Atlanta, Georgia",
+      "summary": "Dense white lattice, gold deck edges and deep curved arches in the Atlanta-linked image. Tiered summit pavilion, very long flagpole and warm edge light points."
+    },
+    "us-austin-texas-dreyfus-eiffel-tower": {
+      "name": "Dreyfus Eiffel Tower, Austin, Texas",
+      "summary": "Red-brown dense lattice and low broad arch of Austin’s Dreyfus tower. Very thin decks, long slender shaft and small rounded pavilion crown."
+    },
+    "us-boise-idaho-cafe-de-paris": {
+      "name": "Cafe de Paris, Boise, Idaho",
+      "summary": "Grey fine-grid splayed legs, square base frame and broad shallow platform in the Boise café photograph. A near-vertical grid shaft continues above the platform beyond the image."
+    },
+    "us-gettysburg-pennsylvania-devenshire-apartment-complex": {
+      "name": "Eiffel Tower, Gettysburg, Pennsylvania",
+      "summary": "Cream-colored sparse large X bracing and tall straight legs of the Gettysburg residential tower. Long narrow shaft, broad open square cage and no needle."
+    },
+    "us-kingston-washington-crepes-restaurant": {
+      "name": "Crepes Restaurant, Kingston , Washington",
+      "summary": "Bronze fine lattice and high arch of the tower outside Kingston’s crêpe shop. Thin decks, long straight shaft and compact tiered square crown."
+    },
+    "us-paris-kentucky-tower-on-a-small-square": {
+      "name": "Tower on. a small square, Paris, Kentucky",
+      "summary": "White fine lattice, two light decks and wide arch on the Paris Kentucky square. White stepped summit housing and fine needle."
+    },
+    "uz-samarkand-eiffel-tower": {
+      "name": "Eiffel Tower, Samarkand",
+      "summary": "Grey-silver fine lattice and broad square-railed decks in the Samarkand pool photograph. Small cage and very long antenna above the shaft; building masks the lower body."
+    },
+    "vn-ansapa-village-ansapa-park": {
+      "name": "Ansapa Park, Ansapa Village",
+      "summary": "Dark bronze tower at Ansapa, with a broad high arch, thin decks and a long straight shaft. Distinct large dark dome crown with golden edges."
+    },
+    "vn-bac-giang-nha-hang-cua-o": {
+      "name": "Nhà Hàng Cua Đỏ, Bac Giang",
+      "summary": "Deep lattice arches, dense decorative skirt and broad high-railed first deck in Bac Giang. Grey-bronze long shaft; square summit cage with upright fins and fine needle."
+    },
+    "za-parys-eiffel-toring-tower": {
+      "name": "Eiffel Toring/Tower, Parys",
+      "summary": "Sparse rusty-brown lattice and light decks of the Parys Eiffel Toring event-site tower. Tall straight shaft topped by a broad open square railing and long antenna."
+    },
+    "za-parys-old-ferry-house-restaurant": {
+      "name": "Old Ferry House Restaurant, Parys",
+      "summary": "Very sparse dark frame, low deck and long open shaft at Parys Old Ferry House. Large clock housing and warm light string; needle tip lies beyond the photo."
+    },
+    "za-parys-tower-between-the-street-and-shops": {
+      "name": "Tower between the street and shops, Parys",
+      "summary": "Very sparse white straight rods and four broadly curved legs of the Parys street tower. Two open-railed decks, small square pavilion and pointed roof."
+    },
+    "za-parys-tower-in-arts-quarter": {
+      "name": "Tower in arts quarter, Parys",
+      "summary": "Red-brown main frame, grey crossed rods and long straight shaft in Parys Arts Quarter. Wide open small cage, distinct rounded dome and long needle."
+    },
+    "ca-beloeil-cypress-tree": {
+      "name": "Cypress Tree, Beloeil",
+      "summary": "Dense leafy body, four broad feet and low arch opening of Beloeil’s clipped cypress tower. Stepped flaring lower body and a long thick rounded canopy."
+    },
+    "us-gasquet-gasquet-market": {
+      "name": "Gasquet Market, Gasquet",
+      "summary": "Low heavy arched feet, very thick broad square deck and four sloping middle piers of the Gasquet cobble tower. Thick tapering round column and broad flattened mushroom-like cap."
+    },
+    "us-kings-island-ohio-eiffel-tower-topiary": {
+      "name": "Eiffel Tower Topiary, Kings Island, Ohio",
+      "summary": "Dense clipped green foliage and four separated lower legs of the Kings Island topiary. Near-vertical green column; summit only partly visible."
+    },
+    "ua-dnipro-eiffel-tower-wind-farm-in-the-yard-of-a-private-house": {
+      "name": "Eiffel Tower wind farm in the yard of a private house, Dnipro",
+      "summary": "Narrow four feet and near-vertical fine lattice of the Dnipro garden wind tower. Five white rotor blades, nacelle and long tail vane are actually visible."
+    },
+    "ua-kamyanyi-mist-7th-sky-airport-restaurant": {
+      "name": "\"7th Sky Airport\" restaurant, Kamyanyi mist",
+      "summary": "Very low base stages and exceptionally long slender shaft at the Kamyanyi Mist restaurant. Two thin square decks, small pointed square crown and sparse regular lattice."
+    },
+    "ua-kyiv-andriivskyi-descent": {
+      "name": "Andriivskyi descent, Kyiv",
+      "summary": "Gold-brown small tower on Kyiv Baguette’s veranda corner, with two thin decks. Upper shaft dominated by fine near-vertical rods and a small stepped square cap."
+    },
+    "ua-lutsk-beside-a-restaurant-next-to-a-car-garage": {
+      "name": "Beside a restaurant, next to a car garage, Lutsk",
+      "summary": "Orange-red tower beside the Lutsk restaurant, with slender lattice shaft and two thin decks. Broad arch, ribbed rounded summit cage and very long needle."
+    },
+    "ua-maryanivka-eiffel-tower-in-a-park": {
+      "name": "Eiffel Tower in a park, Maryanivka",
+      "summary": "Straight fine shaft and dark-edged twin decks of the grey Maryanivka park tower. Stepped square cap and especially long needle; trees obscure the feet."
+    },
+    "ua-novodnistrovsk-tower-at-a-travel-agency": {
+      "name": "Tower at a travel agency, Novodnistrovsk",
+      "summary": "Pale tower at the Novodnistrovsk entrance has broad flat cross members. Two thin decks, high rounded arch, narrow shaft and small open domed cage with needle."
+    },
+    "ua-shatsk-yard-of-a-private-house": {
+      "name": "Yard of a private house, Shatsk",
+      "summary": "Dark sparse lattice and unusually wide-splayed feet of the Shatsk garden tower. White twin decks and white summit pavilion, with a very long needle above the straight shaft."
+    },
+    "ua-shypyntsi-shale-restaurant": {
+      "name": "'Shale' restaurant, Shypyntsi",
+      "summary": "Pale beige-grey Shale restaurant tower in Shypyntsi has deep lattice arches and a broad-railed first deck. Blue-violet shaft lights and warm lower fill are visible; open domed crown and long needle."
+    },
+    "ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral": {
+      "name": "a tower near the greek catholic cathedral, Uzhgorod",
+      "summary": "Small fixed bronze tower on the Uzhhorod lamppost, with mostly solid surfaces and shallow lattice relief. Low semicircular opening, two broad continuous bands, slender shaft and small rounded cap."
+    }
+  }
+}
