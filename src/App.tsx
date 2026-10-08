@@ -4,6 +4,7 @@ import type { SkyPreset } from "./scene/sky";
 import { useTheme } from "./theme";
 import SiteHeader from "./features/SiteHeader";
 import ShareTower from "./features/ShareTower";
+import RecordActions from './features/RecordActions';
 import "./features/detail-records.css";
 import { flushSync } from 'react-dom';
 import { Component, lazy, Suspense, useCallback, useEffect, useMemo, useRef, useState } from 'react';
@@ -116,6 +117,7 @@ export default function App() {
   const [photoIndex, setPhotoIndex] = useState(0);
   const [modelView,setModelView]=useState<ModelView>(()=>{const value=new URLSearchParams(location.search).get("angle");return value==="front"||value==="side"?value:"axonometric";});
   const [detailsExpanded, setDetailsExpanded] = useState(false);
+  const [researchSummaryTarget, setResearchSummaryTarget] = useState<HTMLDivElement | null>(null);
   const detailPanel = useRef<HTMLElement>(null);
   const [photoOpen, setPhotoOpen] = useState(false);
   const [detailsOpen, setDetailsOpen] = useState(true);
@@ -415,24 +417,26 @@ export default function App() {
       {selected && detailsOpen && <aside ref={detailPanel} id="tower-detail-panel" className={`detail-panel${detailsExpanded ? ' is-expanded' : ''}`} aria-label={t("所选铁塔资料")}>
         <div className="detail-overview"><PhotoCarousel showCredit={detailsExpanded} modelView={modelView} onModelView={changeModelView} tower={selected} index={photoIndex} onChange={setPhotoIndex} onOpen={() => setPhotoOpen(true)} reducedMotion={reducedMotion} suspended={detailsExpanded || photoOpen || !!game || clusterIds.length > 0 || journeysOpen} portraits={portraitPreview}/>
         <div className="detail-content">
-          {selected.approximateLocation&&<button className="approximate-location-badge" onClick={()=>askCommunity({type:"feedback",towerId:selected.id,name:selected.name,initialField:"location"})}><MapPin size={12}/>{t("大致位置")} · {selected.mapPlacement?.precisionLabel[lang==="zh-CN"?"zh":lang]}<span>{t("纠正位置")}</span></button>}
+          {!detailsExpanded&&selected.approximateLocation&&<button className="approximate-location-badge" onClick={()=>askCommunity({type:"feedback",towerId:selected.id,name:selected.name,initialField:"location"})}><MapPin size={12}/>{t("大致位置")} · {selected.mapPlacement?.precisionLabel[lang==="zh-CN"?"zh":lang]}<span>{t("纠正位置")}</span></button>}
           <h1><button type="button" className="tower-title-focus" title={t('近看建筑')} onClick={()=>{if(detailsExpanded)changeDetailsExpansion(false);explore(selected.id);}}>{selected.label}</button></h1>{new Set(towers.map((tower)=>tower.familyId)).size > 1 && <p className="family-label">{data?.families.find((family)=>family.id===selected.familyId)?.nameZh}</p>}<div className="detail-location-row"><p className="location-line"><MapPin size={14} /><span>{selected.label} · {selected.countryName}</span></p><div className="detail-header-actions"><ShareTower key={selected.id} title={selected.name}/><button className="subtle-icon detail-expand" title={t(detailsExpanded ? '收起详细资料' : '展开详细资料')} aria-label={t(detailsExpanded ? '收起详细资料' : '展开详细资料')} aria-expanded={detailsExpanded} aria-controls="tower-research-details" onClick={()=>changeDetailsExpansion(!detailsExpanded)}>{detailsExpanded ? <PanelLeftOpen size={16}/> : <PanelLeftClose size={16}/>}</button></div></div>
-          {selected.status?.value === 'unknown' && <p className="status-disclosure">{t('现状待核，照片与模型保留历史来源。')}</p>}
+          {!detailsExpanded && selected.status?.value === 'unknown' && <p className="status-disclosure">{t('现状待核，照片与模型保留历史来源。')}</p>}
           <div className="tower-contribution"><div><button onClick={()=>askCommunity({type:'feedback',towerId:selected.id,name:selected.name,initialField:selected.heightM===null?'height':selected.status?.value==='unknown'?'status':'other'})}><Flag size={13}/>{t('信息对吗？帮忙核对')}</button><button onClick={()=>askCommunity({type:'submission'})}><Plus size={13}/>{t('补充家乡的塔')}</button></div></div>
+          {detailsExpanded ? <div ref={setResearchSummaryTarget} className="research-record-summary-slot"/> : <>
           <div className="facts-row"><div><strong>{heightLabel(selected)}</strong><span>{heightScope(selected)}</span></div><div><strong>{builtLabel(selected)}</strong><span>{builtLabel(selected) === '—' ? t("年代待补") : yearScope(selected)}</span></div></div>
           {selected.modelContext==='inferred-completion' && <p className="model-scale-disclosure">{t('含推测补全')}</p>}{selected.modelScope==="visible-section" && <p className="model-scale-disclosure">{t("只呈现实景可见的塔段，未补造被遮挡的塔体。")}</p>}{selected.modelKey && selected.heightM === null && <p className="model-scale-disclosure">{t("这个模型采用独立展示尺寸；实际高度待核，不进入高度比较。")}</p>}
           <p className="tower-story">{selected.editorial?.summary ?? t("这座地标位于{0}。它的地方故事与更多实景正在补充，先从地图和已有照片认识这里。", selected.label)}</p>
           {!!selected.editorial?.currentUses.length && <div className="use-tags" aria-label={t("主要用途")}>{selected.editorial.currentUses.map((use)=><span key={use}>{use}</span>)}</div>}
           {selected.editorial?.visitorNotice && (!selected.editorial.visitorNotice.endDate || new Date(selected.editorial.visitorNotice.endDate+'T23:59:59').getTime() >= Date.now()) && <a className="visitor-notice" href={selected.editorial.visitorNotice.sourceUrl} target="_blank" rel="noreferrer"><Info size={13} />{selected.editorial.visitorNotice.text}</a>}
           {selected.statedScale?.replicaToOriginal && <div className="scale-note"><Layers3 size={13} /><span>{t("约")}{selected.statedScale.replicaToOriginal}{t("复刻比例")}</span></div>}
-          <div className="detail-actions"><button className="secondary-button compare-membership" title={comparisonIds.includes(selected.id) ? t('从比较中移除') : t('加入比较')} aria-label={comparisonIds.includes(selected.id) ? t('从比较中移除') : t('加入比较')} aria-pressed={comparisonIds.includes(selected.id)} disabled={!selected.modelKey} onClick={() => toggleCompare(selected)}>{comparisonIds.includes(selected.id) ? <Check size={17}/> : <Plus size={17}/>} {t('比较')}</button>
+          </>}
+          <RecordActions className="detail-actions"><button className="secondary-button compare-membership" title={comparisonIds.includes(selected.id) ? t('从比较中移除') : t('加入比较')} aria-label={comparisonIds.includes(selected.id) ? t('从比较中移除') : t('加入比较')} aria-pressed={comparisonIds.includes(selected.id)} disabled={!selected.modelKey} onClick={() => toggleCompare(selected)}>{comparisonIds.includes(selected.id) ? <Check size={17}/> : <Plus size={17}/>} {t('比较')}</button>
             <a className="secondary-button" href={mapUrl ?? undefined} target="_blank" rel="noreferrer" title={t('在{0}地图中查看', selected.maps.preferred === 'amap' ? t('高德') : 'Google')} aria-label={t('在{0}地图中查看', selected.maps.preferred === 'amap' ? t('高德') : 'Google')}><MapPin size={17}/>{selected.maps.preferred==='amap'?t('高德地图'):t('Google地图')}</a>
-          </div>
+          </RecordActions>
           {playTrigger && <button className="tower-play-discover" onClick={()=>changeDetailsExpansion(true)}><span><strong>{playCopy[playTrigger.effect].hint}</strong><small>{playCopy.learn}</small></span><span aria-hidden="true">↗</span></button>}
         </div></div>
         {detailsExpanded && data && <section id="tower-research-details" className="tower-research-details" aria-label={t('详细资料')}><Suspense fallback={<p role="status">{t('正在整理地标资料…')}</p>}>
           {playTrigger && <TowerPlayIntro tower={toSceneTower(selected)} state={towerPlay.state} onActivate={effect=>{changeDetailsExpansion(false);if(viewMode==='globe'&&focusProgress.phase==='arrived'&&focusProgress.id===selected.id)towerPlay.activate(effect);else{pendingIntroPlay.current=effect;explore(selected.id);}}} onVisit={()=>{changeDetailsExpansion(false);explore(selected.id);}}/>}
-          <TowerResearchDetails towerId={selected.id} name={selected.name}/></Suspense></section>}
+          <TowerResearchDetails towerId={selected.id} summaryTarget={researchSummaryTarget}/></Suspense></section>}
       </aside>}
     </main>
     <footer className="app-footer"><span>{t('地图 {0} 处',towers.length)}<i/><button className="model-catalog-button" title={t("包含位置待核的独立模型")} onClick={openModels}>{t('模型 {0} 座',modelCases.length)}<ArrowUpRight size={10}/></button><i/><span className="passport-count">{t('已发现 {0} 座',towers.filter(tower=>discovered.includes(tower.id)).length)}</span></span><span><a href="/agents.html">Agents</a><i/><a href="/catalog.html">{t('研究目录')}<ArrowUpRight size={12}/></a></span></footer>

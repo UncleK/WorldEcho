@@ -5,6 +5,7 @@ import type { Tower } from '../domain/catalog';
 import { photoYear } from '../domain/photo-date';
 import './photo-carousel.css';
 import ModelViewButtons from './ModelViewButtons';
+import ResearchPhotoCredit from './ResearchPhotoCredit';
 import type { ModelView } from '../types';
 
 export default function PhotoCarousel({ tower, index, onChange, onOpen, reducedMotion, suspended = false, portraits = [],modelView,onModelView, showCredit = false }: {
@@ -44,7 +45,7 @@ export default function PhotoCarousel({ tower, index, onChange, onOpen, reducedM
       <div className="carousel-buttons">{photos.length > 1 && <><button className="carousel-previous" title={t('上一张实景')} aria-label={t('上一张实景')} onClick={() => move(-1)}><ChevronLeft size={16}/></button><span className="carousel-count">{index + 1} / {photos.length}</span><button className="carousel-next" title={t('下一张实景')} aria-label={t('下一张实景')} onClick={() => move(1)}><ChevronRight size={16}/></button><button title={playing ? t('暂停照片轮播') : t('播放照片轮播')} aria-label={playing ? t('暂停照片轮播') : t('播放照片轮播')} onClick={() => setPlaying(value => !value)} disabled={reducedMotion}>{playing && !reducedMotion ? <Pause size={14}/> : <Play size={14}/>}</button></>}
       <button className="photo-expand" title={t('查看完整实景照片')} aria-label={t('查看完整实景照片')} onClick={onOpen}><Maximize2 size={15}/></button></div>
     </div>}
-    {showCredit && photo && <p className="photo-archive-credit">{photo.capturedAt ?? t('拍摄日期待核')} · {photo.author ?? t('作者资料待核')} · {photo.license.url ? <a href={photo.license.url} target="_blank" rel="noreferrer">{photo.license.text}</a> : t('许可待核')} · <a href={photo.originPageUrl ?? photo.pageUrl} target="_blank" rel="noreferrer">{t('图片出处')}</a></p>}
+    {showCredit && photo && <p className="photo-archive-credit"><ResearchPhotoCredit photo={photo}/></p>}
     {portrait && <div className="mobile-portrait-preview" role="region" aria-label={t('比较正视图预览')} tabIndex={portraits.length>1?0:undefined}
       onKeyDown={event=>{if(portraits.length>1&&['ArrowLeft','ArrowRight'].includes(event.key)){event.preventDefault();movePortrait(event.key==='ArrowLeft'?-1:1);}}}
       onPointerDown={event=>{if(portraits.length>1 && !(event.target as Element).closest('button')){pointerStart.current={x:event.clientX,y:event.clientY};event.currentTarget.setPointerCapture(event.pointerId);}}}

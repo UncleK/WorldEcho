@@ -662,5 +662,9 @@
   "纠正位置": "Suggest a correction",
   "地球上的地点": "Places on the globe",
   "当前地图显示 {0} 个地点。大致位置已标注，可继续核对。": "The current globe shows {0} places. Approximate locations are labelled and can be corrected.",
-  "已按大致位置加入地球，具体塔址可继续核对。": "Shown on the globe at an approximate location; the precise site can still be checked."
+  "已按大致位置加入地球，具体塔址可继续核对。": "Shown on the globe at an approximate location; the precise site can still be checked.",
+  "查看模型": "View model",
+  "位置与现状": "Location and status",
+  "已有简化3D模型。": "A simplified 3D model is available.",
+  "3D模型尚未制作。": "A 3D model has not been made yet."
 }

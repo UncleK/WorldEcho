@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T17:12:33.115Z",
+  "generatedAt": "2026-10-08T18:03:40.035Z",
   "scope": "Public frontend source and static runtime snapshot; not a production-release approval",
   "photoOrigin": "https://worldecho.beaverstudio.net",
   "sourceStable": true,
   "stats": {
-    "sourceFiles": 1362,
-    "exportedFiles": 1371,
-    "bytes": 171949640,
+    "sourceFiles": 1369,
+    "exportedFiles": 1378,
+    "bytes": 171969196,
     "registeredModels": 391,
     "publicModelCases": 391,
     "researchRecords": 554,
@@ -7604,8 +7604,8 @@
     },
     {
       "path": "src/App.tsx",
-      "bytes": 45438,
-      "sha256": "131c1416387226467bc23383342a5a740330fa01cac73a2718fa82332dc41294",
+      "bytes": 45787,
+      "sha256": "efd61639b79c6b764df9f0123e7f4ead8b849c181fc7c497a27bbdd661885df2",
       "origin": "src/App.tsx"
     },
     {
@@ -7622,8 +7622,8 @@
     },
     {
       "path": "src/catalog/CatalogPage.tsx",
-      "bytes": 27998,
-      "sha256": "eb8fd4358ce778e9ffe81e148e837d48b57e59fc99bd295afde624c986b45003",
+      "bytes": 25772,
+      "sha256": "49717ae29c850993a7ac11b7ff1d129675e1815ec88923204b3c8732770c45cd",
       "origin": "src/catalog/CatalogPage.tsx"
     },
     {
@@ -7634,8 +7634,8 @@
     },
     {
       "path": "src/catalog/RecordEvidence.tsx",
-      "bytes": 4721,
-      "sha256": "b0d5dccfcba5f90b08e5e41f9a7d3262e6943c601ded5391ae8e34244de50c7a",
+      "bytes": 4922,
+      "sha256": "b0aedb3b19a926a357083cae474ada87447e21cee80430d5cf0d233ea5e6ddb6",
       "origin": "src/catalog/RecordEvidence.tsx"
     },
     {
@@ -7856,8 +7856,8 @@
     },
     {
       "path": "src/features/ModelViewer.tsx",
-      "bytes": 9671,
-      "sha256": "ce21f9221fd66ad08c0fa6afe4eb5f12248ef35094acc2bda017120c58e92fe3",
+      "bytes": 9728,
+      "sha256": "633a042bf7cdd2e6d9995075b3f201da0afa1a642be922932fe52b83d6b7d3ed",
       "origin": "src/features/ModelViewer.tsx"
     },
     {
@@ -7874,8 +7874,8 @@
     },
     {
       "path": "src/features/PhotoCarousel.tsx",
-      "bytes": 6163,
-      "sha256": "797feab31e2e3a0d0a89dcf97084c7d89f36d21bb68ca8d6bb531210533802e8",
+      "bytes": 5926,
+      "sha256": "5238d93088e127a12ff7abe609ec7427a726613cc53c7b9e42051ec9fa08dbf8",
       "origin": "src/features/PhotoCarousel.tsx"
     },
     {
@@ -7883,6 +7883,36 @@
       "bytes": 18253,
       "sha256": "f4a7ef6ec597ef3cd55e885f0c3ac13c25dfca0b0d024da454b5a1fcbbfcbd21",
       "origin": "src/features/PhotoQuiz.tsx"
+    },
+    {
+      "path": "src/features/RecordActions.tsx",
+      "bytes": 271,
+      "sha256": "160df58784a4d888507b97923c0891b378b8f51d968f2cb37cf0cf2f1754588c",
+      "origin": "src/features/RecordActions.tsx"
+    },
+    {
+      "path": "src/features/research-record.css",
+      "bytes": 3647,
+      "sha256": "f391955d4bbc6aeb81d62fca91da4d4bb566d20274ba3240a4c870dbf154afb0",
+      "origin": "src/features/research-record.css"
+    },
+    {
+      "path": "src/features/research-record.ts",
+      "bytes": 1234,
+      "sha256": "1a5c0b29b85bbdb102681246c871874bd7fbe90b5e91185f49f0d0b87fba8da8",
+      "origin": "src/features/research-record.ts"
+    },
+    {
+      "path": "src/features/ResearchPhotoCredit.tsx",
+      "bytes": 638,
+      "sha256": "0e54f69c74d7dc8bd90ff9d7f24e758828031a6ceea9c28648809332bfb20c91",
+      "origin": "src/features/ResearchPhotoCredit.tsx"
+    },
+    {
+      "path": "src/features/ResearchRecordOverview.tsx",
+      "bytes": 2749,
+      "sha256": "6a1ab78fb399799dcaf0479185f8c207550d1ff80e9f6b9dc69a56a353eb1547",
+      "origin": "src/features/ResearchRecordOverview.tsx"
     },
     {
       "path": "src/features/ShareTower.tsx",
@@ -7946,8 +7976,8 @@
     },
     {
       "path": "src/features/TowerResearchDetails.tsx",
-      "bytes": 910,
-      "sha256": "a991a9f430c2293a1720ea73b4bae9a511db79d2732d8e8b89af25d8638699cf",
+      "bytes": 1508,
+      "sha256": "40d4d3458d30eb24e137cb909c988be8e61c77e47756c55a0f9dd9978b8464f1",
       "origin": "src/features/TowerResearchDetails.tsx"
     },
     {
@@ -7964,8 +7994,8 @@
     },
     {
       "path": "src/i18n/en.json",
-      "bytes": 44934,
-      "sha256": "6fc6a7d6f69fd39076f9232aa076c0ab450a142f543f892f4a28044201ae6183",
+      "bytes": 45144,
+      "sha256": "40afb75eb10b1b6272ea6ef4375b3c65d3f96303f0f235c858f13bb12cc6c04c",
       "origin": "src/i18n/en.json"
     },
     {
@@ -7976,8 +8006,8 @@
     },
     {
       "path": "src/i18n/fr.json",
-      "bytes": 50207,
-      "sha256": "fdf7e361e034ea616d1e94f1c9a0489ebe1db16432be20b038617f793c3c557d",
+      "bytes": 50429,
+      "sha256": "24f620dd7da6255a8126f9c511394b72bdff56a28d769c552e72e6454c0e3a19",
       "origin": "src/i18n/fr.json"
     },
     {
@@ -8072,14 +8102,14 @@
     },
     {
       "path": "src/scene/density.test.mjs",
-      "bytes": 6078,
-      "sha256": "b66f7eba69b2e12f2c363dcbb8f4597ad14c64f2bb81f3b39acb9f402e84b83d",
+      "bytes": 5315,
+      "sha256": "0c45ab5b770d760c5e31a0326d6e7235a9ccefa957eb4d8d20ea27aaeaafc7e6",
       "origin": "src/scene/density.test.mjs"
     },
     {
       "path": "src/scene/density.ts",
-      "bytes": 4046,
-      "sha256": "d5593b115805b3ecce59f9a18da5702a783a973c00c30cdd961213a503a3935c",
+      "bytes": 3586,
+      "sha256": "d606312dbdf51a0d97a32767af4a1c485a211ee6cbf39fa17f68730fbab8e206",
       "origin": "src/scene/density.ts"
     },
     {
@@ -8099,6 +8129,18 @@
       "bytes": 6119,
       "sha256": "e253c70d47dc1d2d5a8112891165b1e7c460b82177dbb1991103155da90d515e",
       "origin": "src/scene/earth-weather.ts"
+    },
+    {
+      "path": "src/scene/focus-occlusion.test.mjs",
+      "bytes": 4611,
+      "sha256": "3d2f212785a01238e1a9de1dc1b1337ca35d87696f2621cc15efaf6e3d7dd10a",
+      "origin": "src/scene/focus-occlusion.test.mjs"
+    },
+    {
+      "path": "src/scene/focus-occlusion.ts",
+      "bytes": 5578,
+      "sha256": "1803175b939153a4f213717aa540c525d4eb56c6930b2b40cc9fb4b8f73d73e4",
+      "origin": "src/scene/focus-occlusion.ts"
     },
     {
       "path": "src/scene/geo.ts",
@@ -8192,8 +8234,8 @@
     },
     {
       "path": "src/scene/WorldScene.tsx",
-      "bytes": 93509,
-      "sha256": "3516c703a01bfed266f59a746119228387c4a2dabe5e68dd5f11e471b6ef41d0",
+      "bytes": 96386,
+      "sha256": "8b01a4b02ac7be3f081a52ca18fa50725106389466b0feaad72069dc7345c12f",
       "origin": "src/scene/WorldScene.tsx"
     },
     {

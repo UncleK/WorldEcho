@@ -36,15 +36,6 @@ export function angularDistance(a: SceneTower, b: SceneTower): number {
   return 2 * Math.asin(Math.min(1, Math.sqrt(Math.sin(dLat / 2) ** 2 + Math.cos(a.lat * toRad) * Math.cos(b.lat * toRad) * Math.sin(dLon / 2) ** 2)));
 }
 
-/** Keep the selected miniature legible without moving any geographic anchor. */
-export function focusContextScale(tower:SceneTower,selected:SceneTower|undefined,scale=1,focused=false):number{
-  if(!focused||!selected||tower.id===selected.id)return 1;
-  const height=exhibitTowerHeight(tower,scale);
-  if(!height)return 1;
-  const distance=angularDistance(tower,selected);
-  return Number.isFinite(distance)?Math.max(.03,Math.min(1,distance*.45/height)):1;
-}
-
 /** Greedy, bounded clusters avoid transitive chains swallowing a continent. Coordinates stay untouched. */
 export function clusterTowers(towers: SceneTower[], selectedId: string, scale = 1): TowerCluster[] {
   const finiteScale = Number.isFinite(scale) ? Math.max(0.1, Math.min(1.6, scale)) : 1;

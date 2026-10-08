@@ -1,20 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { clusterTowers, exhibitTowerHeight, angularDistance, modelPresentation,focusContextScale } from './density.ts';
+import { clusterTowers, exhibitTowerHeight, angularDistance, modelPresentation } from './density.ts';
 
 const tower = (id, lat, lon, heightM = 108, modelKey = 'shenzhen') => ({ id, lat, lon, heightM, modelKey, name: id, countryCode: 'CN', heightScope: 'unknown' });
-
-test('Close-up reduces nearby context models without changing selection, coordinates or comparison height',()=>{
- const selected=tower('bamboo',-7.31,110.42,null,'id-rawa-pening-bamboo');
- const neighbor=tower('bogor',-6.62,106.8,null,'id-bogor-devoyage'),far=tower('paris',48.85,2.29,330,'paris');
- const before=JSON.stringify([selected,neighbor,far]);
- assert.equal(focusContextScale(selected,selected,1,true),1);
- assert.equal(focusContextScale(neighbor,selected,1,false),1);
- assert.equal(focusContextScale(far,selected,1,true),1);
- assert.ok(focusContextScale(neighbor,selected,1,true)<.5);
- assert.equal(focusContextScale({...neighbor,modelKey:null},selected,1,true),1);
- assert.equal(JSON.stringify([selected,neighbor,far]),before);
-});
 
 test('Shenzhen and Macau form one group without altering their coordinates; selecting Macau changes representative', () => {
   const shenzhen = tower('shenzhen', 22.535, 113.974), macau = tower('macau', 22.144, 113.562, 162, 'macao');

@@ -5,7 +5,7 @@ import {
 import { Canvas, useFrame, useLoader, useThree, type ThreeEvent } from '@react-three/fiber';
 import { CameraControls, CameraControlsImpl, Html } from '@react-three/drei';
 import {
-  Group, Material, Mesh, MeshBasicMaterial, OrthographicCamera, PerspectiveCamera, Box3, Ray,
+  Group, Material, Mesh, MeshBasicMaterial, OrthographicCamera, PerspectiveCamera, Box3, Ray, Matrix4,
   PlaneGeometry, PMREMGenerator, PointsMaterial, Quaternion, SphereGeometry, Vector3, FileLoader, DirectionalLight, CatmullRomCurve3, TubeGeometry, type Object3D,
 } from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
@@ -13,7 +13,9 @@ import type { EarthStyle, FocusProgress, ModelView, SceneTower, TowerRenderStyle
 import landGeometryUrl from '../../data/geography/ne_50m_land.geojson?url';
 import type { LandData } from './earth-geometry';
 import { useEarthAtlas, type EarthAtlas, type EarthAtlasStatus } from './useEarthAtlas';
-import { angularDistance, clusterTowers, exhibitTowerHeight, hasExhibitModel, modelPresentation,focusContextScale } from './density';
+import { angularDistance, clusterTowers, exhibitTowerHeight, hasExhibitModel, modelPresentation } from './density';
+import { advanceFocusOpacity, findFocusOccluders, installFocusFade } from './focus-occlusion';
+import { TOWER_TRIGGERS } from '../domain/tower-play';
 import { createTowerModel, getTowerIllumination, updateTowerIllumination } from './tower-model';
 import {
   COMPARISON_UNITS_PER_METER, EARTH_RADIUS, cameraSurfaceDollyCorrection, fitSphereDistance, geoEast, geoNormal,
@@ -237,6 +239,7 @@ function installTowerBodyPicking(model: Group) {
   const inverse = model.matrixWorld.clone(), localRay = new Ray(), localPoint = new Vector3(), worldPoint = new Vector3();
   model.userData.bodyPickProxy = true;
   model.userData.bodyPickVolumes = boxes;
+  model.userData.bodyPickEnvelope = envelope;
   model.raycast = (raycaster, intersections) => {
     inverse.copy(model.matrixWorld).invert();
     localRay.copy(raycaster.ray).applyMatrix4(inverse);
@@ -262,6 +265,7 @@ function installTowerBodyPicking(model: Group) {
 function TowerModel({ tower, height, detail, renderStyle, bodyPicking = false, reducedMotion, illuminationClock, weather,show }: { tower: SceneTower; height: number; detail: 'overview' | 'detail'; renderStyle: TowerRenderStyle; bodyPicking?: boolean; reducedMotion: boolean; illuminationClock: SceneIlluminationClock; weather?: EarthWeather | null;show?:{runtime:PlayRuntime;party:boolean;water:boolean;partyArrival:number;waterArrival:number} }) {
   const [model, setModel] = useState<Group | null>(null);
   const materialEffects=useRef<ReturnType<typeof installShowMaterials>|null>(null);
+  const focusFade=useRef<ReturnType<typeof installFocusFade>|null>(null);
   // Three objects can notify the attached renderer while they are assembled.
   // Create and retire owned GPU resources in commit, outside React render.
   useLayoutEffect(() => {
@@ -272,10 +276,12 @@ function TowerModel({ tower, height, detail, renderStyle, bodyPicking = false, r
     // Keep those per-material choices so illuminated billboards do not cast opaque shadows.
     if (bodyPicking) installTowerBodyPicking(group);
     materialEffects.current=bodyPicking?installShowMaterials(group):null;
+    focusFade.current=bodyPicking?installFocusFade(group):null;
     setModel(group);
     return () => disposeModel(group);
   }, [tower.modelKey, detail, renderStyle, bodyPicking, weather]);
-  useFrame(() => {
+  useFrame(({gl}) => {
+    if(model&&focusFade.current?.(model.parent?.userData.focusOpacity??1))gl.shadowMap.needsUpdate=true;
     if (model && renderStyle === 'illuminated') updateTowerIllumination(model, illuminationClock.seconds, !reducedMotion);
     if(show&&materialEffects.current){
       const partyAge=effectSeconds(show.runtime,'party',reducedMotion),waterAge=effectSeconds(show.runtime,'water',reducedMotion);
@@ -472,7 +478,45 @@ function SurfaceRing({ selected, height, reducedMotion, mobile, arrivalRevision 
   </mesh></>;
 }
 
-function GlobeTower({ tower, radius, selected, onSelect, active, shadowMaterial, exhibitScale, clusterIds, onClusterSelect, contactShadow, reducedMotion, mobile, neighbor, renderStyle, arrivalRevision, showLabels, labelRegistry, illuminationClock, weather, towerPlay, onTowerPlay, playRuntime, playDisabled, hatFlightPlan,partyPlan,waterPlan,focusTower,isCloseFocus }: {
+function FocusOcclusion({groups,selectedId,enabled,reducedMotion}:{groups:Map<string,Group>;selectedId:string;enabled:boolean;reducedMotion:boolean}){
+  const {gl,invalidate}=useThree();
+  const cached=useRef({selectedId:'',close:false,camera:new Matrix4(),projection:new Matrix4(),layout:new Map<string,{matrix:Matrix4;body:Object3D|undefined;scale:number}>(),blocked:new Set<string>()});
+  useFrame(({camera},delta)=>{
+    camera.updateMatrixWorld();
+    const selected=groups.get(selectedId),body=selected?.children.find(child=>child.userData.bodyPickProxy);
+    const height=body?.scale.y??0;
+    const close=enabled&&!!selected&&height>0&&camera.position.distanceTo(selected.position)<height*8;
+    const previous=cached.current;
+    let changed=selectedId!==previous.selectedId||close!==previous.close||!previous.camera.equals(camera.matrixWorld)||!previous.projection.equals(camera.projectionMatrix)||groups.size!==previous.layout.size;
+    for(const[id,group]of groups){
+      group.updateWorldMatrix(true,false);
+      const body=group.children.find(child=>child.userData.bodyPickProxy),scale=body?.scale.y??0,old=previous.layout.get(id);
+      if(!old||old.body!==body||old.scale!==scale||!old.matrix.equals(group.matrixWorld)){
+        previous.layout.set(id,{matrix:group.matrixWorld.clone(),body,scale});changed=true;
+      }
+    }
+    for(const id of previous.layout.keys())if(!groups.has(id))previous.layout.delete(id);
+    if(changed){
+      const trigger=TOWER_TRIGGERS[selectedId];
+      previous.blocked=close?findFocusOccluders(groups,selectedId,camera,trigger?new Vector3(0,trigger.y,0):undefined):new Set();
+      previous.selectedId=selectedId;previous.close=close;previous.camera.copy(camera.matrixWorld);previous.projection.copy(camera.projectionMatrix);
+    }
+    let changing=false;
+    for(const[id,group]of groups){
+      const goal=cached.current.blocked.has(id) ? .2 : 1,current=group.userData.focusOpacity??1;
+      const value=advanceFocusOpacity(current,goal,delta,id===selectedId||reducedMotion);
+      group.userData.focusOpacity=value;
+      changing ||= Math.abs(goal-value)>=.002;
+    }
+    if(changing)invalidate();
+    if(import.meta.env.DEV){
+      gl.domElement.dataset.focusOcclusion=JSON.stringify({selectedId,close,blocked:[...cached.current.blocked],models:[...groups].map(([id,group])=>({id,scale:group.scale.toArray(),height:group.children.find(child=>child.userData.bodyPickProxy)?.scale.y,opacity:group.userData.focusOpacity??1}))});
+    }
+  },-0.5);
+  return null;
+}
+
+function GlobeTower({ tower, radius, selected, onSelect, active, shadowMaterial, exhibitScale, clusterIds, onClusterSelect, contactShadow, reducedMotion, mobile, neighbor, renderStyle, arrivalRevision, showLabels, labelRegistry, illuminationClock, weather, towerPlay, onTowerPlay, playRuntime, playDisabled, hatFlightPlan,partyPlan,waterPlan,focusGroups }: {
   tower: SceneTower; radius: number; selected: boolean; onSelect: (id: string) => void; active: boolean; shadowMaterial: MeshBasicMaterial;
   exhibitScale: number; clusterIds: string[]; onClusterSelect?: (ids: string[]) => void;
   contactShadow: boolean;
@@ -486,24 +530,21 @@ function GlobeTower({ tower, radius, selected, onSelect, active, shadowMaterial,
   towerPlay?: WorldSceneProps['towerPlay']; onTowerPlay?: WorldSceneProps['onTowerPlay']; playRuntime: PlayRuntime; playDisabled: boolean;
   hatFlightPlan: HatFlightPlan;
   partyPlan:WorldShowPlan;waterPlan:WorldShowPlan;
-  focusTower?:SceneTower;isCloseFocus:()=>boolean;
+  focusGroups:Map<string,Group>;
 }) {
   const height = exhibitTowerHeight(tower, exhibitScale);
   const modelGroup = useRef<Group>(null);
-  const { gl,invalidate } = useThree();
-  const contextScale=useRef(1);
+  const { gl } = useThree();
+  useLayoutEffect(()=>{
+    const group=modelGroup.current;if(!group)return;
+    focusGroups.set(tower.id,group);
+    return()=>{if(focusGroups.get(tower.id)===group)focusGroups.delete(tower.id);};
+  },[tower.id,focusGroups]);
   const party=!!towerPlay?.effects.includes('party'),water=!!towerPlay?.effects.includes('water');
   const partyArrival=partyPlan.arrivals.get(tower.id)??0,waterArrival=waterPlan.arrivals.get(tower.id)??0;
   const floatRotation=useMemo(()=>new Quaternion(),[]);
   useFrame(()=>{
     if(!modelGroup.current)return;
-    const goal=focusContextScale(tower,focusTower,exhibitScale,isCloseFocus());
-    const difference=goal-contextScale.current;
-    contextScale.current=reducedMotion||Math.abs(difference)<.002?goal:contextScale.current+difference*.2;
-    modelGroup.current.scale.setScalar(contextScale.current);
-    if(Math.abs(difference)>=.002&&!reducedMotion)invalidate();
-    const shownHeight=(height??0)*contextScale.current;
-    tip.copy(geoPosition(tower.lat,tower.lon,radius+shownHeight+(height?Math.min(.012,shownHeight*.055):.015)));
     const age=effectSeconds(playRuntime,'water',reducedMotion),gain=water?showActivation(age,waterArrival,reducedMotion):0;
     const float=water&&!reducedMotion?Math.sin(age*1.4+tower.lon*.07)*(height??.1)*.026*gain:0;
     modelGroup.current.position.copy(anchor).addScaledVector(anchor.clone().normalize(),float);
@@ -554,6 +595,8 @@ function GlobeTower({ tower, radius, selected, onSelect, active, shadowMaterial,
   useEffect(() => () => shadowGeometry?.dispose(), [shadowGeometry]);
   const click = (event: ThreeEvent<MouseEvent>) => {
     if (!active || event.button !== 0 || event.delta > 5) return;
+    // Let a selected tower or its small play target receive a click through a faded obstruction.
+    if (!selected && (modelGroup.current?.userData.focusOpacity??1)<.99) return;
     if (!isPointVisibleFromCamera(event.camera.position, event.point, EARTH_RADIUS)) return;
     event.stopPropagation();
     if (import.meta.env.DEV) Object.assign(gl.domElement.dataset, { lastBodyPickTower: tower.id, lastBodyPickKind: event.object.userData.bodyPickProxy ? 'body-volume' : 'geometry', lastBodyPickClusterSize: String(clusterIds.length), bodyPickCount: String(Number(gl.domElement.dataset.bodyPickCount ?? 0) + 1) });
@@ -777,6 +820,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   }, [clusters, selectedId, towers]);
   const exhibitedTowers = useMemo(() => globeEntries.map((entry) => entry.tower), [globeEntries]);
   const labelRegistry = useMemo(() => new Map<string, HotspotLabelRegistration>(), []);
+  const focusGroups = useMemo(() => new Map<string,Group>(),[]);
   const illuminationClock = useMemo<SceneIlluminationClock>(() => ({ seconds: 0, ticks: 0 }), []);
   const playRuntime = useMemo<PlayRuntime>(() => ({ age: 99, effect: null, cancelled: false,seconds:0,started:{hats:-100,party:-100,water:-100} }), []);
   const [playTransitionActive, setPlayTransitionActive] = useState(false);
@@ -1385,10 +1429,11 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
         {planet.land && <mesh geometry={planet.land.geometry} material={planet.land.material} receiveShadow dispose={null} />}
         {planet.coast && <mesh geometry={planet.coast.geometry} material={planet.coast.material} receiveShadow dispose={null} />}
         {planet.layers?.map((layer, index) => <mesh key={index} geometry={layer.geometry} material={layer.material} renderOrder={layer.renderOrder} raycast={() => {}} dispose={null} />)}
-        {globeEntries.map(({ tower, ids }) => <GlobeTower key={tower.id} tower={tower} radius={planet.radiusAt(tower.lat, tower.lon) + 0.0006} selected={tower.id === selectedId} onSelect={selectTower} active={viewMode === 'globe'} shadowMaterial={shadowMaterial} exhibitScale={exhibitScale} clusterIds={ids} onClusterSelect={onClusterSelect} contactShadow={!!planet.update} reducedMotion={reducedMotion} mobile={mobile} neighbor={labelNeighbors.get(tower.id)} renderStyle={globeRenderStyle} arrivalRevision={arrivalFeedback.id === tower.id ? arrivalFeedback.revision : 0} showLabels={globeShowLabels} labelRegistry={labelRegistry} illuminationClock={illuminationClock} weather={weather} towerPlay={props.towerPlay} onTowerPlay={props.onTowerPlay} playRuntime={playRuntime} playDisabled={animationSuspended || playTransitionActive} hatFlightPlan={hatFlightPlan} partyPlan={partyPlan} waterPlan={waterPlan} focusTower={towers.find(item=>item.id===selectedId)} isCloseFocus={()=>cameraMode.current==='focus'&&!playTransitionActive} />)}
+        {globeEntries.map(({ tower, ids }) => <GlobeTower key={tower.id} tower={tower} radius={planet.radiusAt(tower.lat, tower.lon) + 0.0006} selected={tower.id === selectedId} onSelect={selectTower} active={viewMode === 'globe'} shadowMaterial={shadowMaterial} exhibitScale={exhibitScale} clusterIds={ids} onClusterSelect={onClusterSelect} contactShadow={!!planet.update} reducedMotion={reducedMotion} mobile={mobile} neighbor={labelNeighbors.get(tower.id)} renderStyle={globeRenderStyle} arrivalRevision={arrivalFeedback.id === tower.id ? arrivalFeedback.revision : 0} showLabels={globeShowLabels} labelRegistry={labelRegistry} illuminationClock={illuminationClock} weather={weather} towerPlay={props.towerPlay} onTowerPlay={props.onTowerPlay} playRuntime={playRuntime} playDisabled={animationSuspended || playTransitionActive} hatFlightPlan={hatFlightPlan} partyPlan={partyPlan} waterPlan={waterPlan} focusGroups={focusGroups} />)}
         {viewMode==='globe' && [partyPlan,waterPlan].filter(plan=>props.towerPlay?.effects.includes(plan.kind)).map(plan=><group key={plan.kind}><WorldShowField plan={plan} runtime={playRuntime} reduced={reducedMotion}/><WorldShowInstances plan={plan} towers={showTowers} runtime={playRuntime} reduced={reducedMotion}/></group>)}
         {viewMode==='globe' && !reducedMotion && props.towerPlayAction?.effect==='hats' && props.towerPlay?.effects.includes('hats') && <HatLightTrail plan={hatFlightPlan} runtime={playRuntime} reduced={reducedMotion}/>}
         <HotspotNameLayout registry={labelRegistry} showLabels={globeShowLabels} />
+        <FocusOcclusion groups={focusGroups} selectedId={selectedId} enabled={viewMode==='globe'&&!playTransitionActive} reducedMotion={reducedMotion}/>
         {showConnections && <EchoArcs towers={exhibitedTowers} selectedId={selectedId} mobile={mobile} reducedMotion={reducedMotion} isOverview={() => viewMode === 'globe' && cameraMode.current === 'overview' && !navigation.current} />}
       </group>
       {viewMode === 'comparison' && <ComparisonStage layout={layout} selectedId={selectedId} onSelect={selectTower} onRemove={props.onRemoveComparison} kind={comparisonKind} active renderStyle={renderStyle} showLabels={showLabels} reducedMotion={reducedMotion} illuminationClock={illuminationClock} view={comparisonView} uiTheme={props.uiTheme}/>}

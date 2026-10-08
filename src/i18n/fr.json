@@ -662,5 +662,9 @@
   "纠正位置": "Corriger la position",
   "地球上的地点": "Lieux sur le globe",
   "当前地图显示 {0} 个地点。大致位置已标注，可继续核对。": "Le globe affiche actuellement {0} lieux. Les positions approximatives sont signalées et peuvent être corrigées.",
-  "已按大致位置加入地球，具体塔址可继续核对。": "Visible sur le globe à une position approximative ; le site exact reste à vérifier."
+  "已按大致位置加入地球，具体塔址可继续核对。": "Visible sur le globe à une position approximative ; le site exact reste à vérifier.",
+  "查看模型": "Voir le modèle",
+  "位置与现状": "Localisation et état",
+  "已有简化3D模型。": "Un modèle 3D simplifié est disponible.",
+  "3D模型尚未制作。": "Le modèle 3D reste à réaliser."
 }
