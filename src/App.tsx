@@ -11,7 +11,7 @@ import { Component, lazy, Suspense, useCallback, useEffect, useMemo, useRef, use
 import type { ReactNode, RefObject } from 'react';
 import { ArrowUpRight, Check, ExternalLink, Globe2,
   Layers3, PanelLeftClose, PanelLeftOpen, MapPin, Maximize2, Minimize2, Plus, Search, X, Info, Flag } from 'lucide-react';
-import WorldScene from './scene/WorldScene';
+import GlobeLoading from './features/GlobeLoading';
 import { useTowerPlay } from './features/useTowerPlay';
 import TowerPlayStatus from './features/TowerPlayStatus';
 import { TOWER_TRIGGERS, towerPlayCopy } from './domain/tower-play';
@@ -21,7 +21,6 @@ import type { CommunityMode } from './features/CommunityForm';
 import { DEFAULT_TOWER_FILTERS, filterJourneyRoutes, readTowerFilters, towerMatchesFilters, mapTowerMatchesFilters, writeTowerFilters, type TowerFilters } from './domain/tower-filters';
 import { t, useLanguage } from './i18n';
 import { getEditorial } from './i18n/editorial';
-import ExploreControls from './features/ExploreControls';
 import ClusterPicker from './features/ClusterPicker';
 import JourneyPicker from './features/JourneyPicker';
 import JourneyProgress from './features/JourneyProgress';
@@ -29,7 +28,7 @@ import PhotoCarousel from './features/PhotoCarousel';
 import PhotoQuiz from './features/PhotoQuiz';
 import { validOpponentScore } from './domain/quiz';
 import { placeIdFromPath } from './domain/place-entry.mjs';
-import type { ComparisonKind, EarthStyle, ViewMode, WorldSceneHandle, TowerRenderStyle, FocusProgress } from './types';
+import type { ComparisonKind, EarthStyle, ViewMode, WorldSceneHandle, TowerRenderStyle, FocusProgress, WorldLoadProgress } from './types';
 import { builtLabel, heightLabel, heightScope, readCatalogLocation, replicaRatioLabel, strictComparison, toSceneTower, yearScope } from './domain/catalog';
 import type { AppCatalog, Tower, ModelCase } from './domain/catalog';
 import { usePublicData } from './domain/usePublicData';
@@ -39,6 +38,8 @@ const TowerResearchDetails=lazy(()=>import('./features/TowerResearchDetails'));
 const TowerPlayIntro=lazy(()=>import('./features/TowerPlayIntro'));
 const ModelGallery=lazy(()=>import('./features/ModelGallery'));
 const ModelViewer=lazy(()=>import('./features/ModelViewer'));
+const WorldScene=lazy(()=>import('./scene/WorldScene'));
+const ExploreControls=lazy(()=>import('./features/ExploreControls'));
 
 class SceneBoundary extends Component<{ children: ReactNode }, { failed: boolean }> {
   state = { failed: false };
@@ -88,7 +89,7 @@ function gameFromLocation(): GameRequest | null {
 }
 export default function App() {
   const theme=useTheme();
-  const { data: rawData, error } = useCatalog();
+  const { data: rawData, error, retry } = useCatalog();
   const lang = useLanguage();
   const towerPlay = useTowerPlay(), playCopy = towerPlayCopy(lang);
   const pendingIntroPlay = useRef<EffectName | null>(null);
@@ -146,6 +147,7 @@ export default function App() {
   const [query, setQuery] = useState('');
   const [searchOpen, setSearchOpen] = useState(false);
   const [ready, setReady] = useState(false);
+  const [loadProgress, setLoadProgress] = useState<WorldLoadProgress>({ surface: 'outline', loadedModels: 0, totalModels: 0 });
   const [toast, setToast] = useState('');
   const reducedMotion = useReducedMotion();
   const overlayOpen = modelGalleryOpen || !!previewModel || communityOpen || photoOpen || clusterIds.length > 0 || journeysOpen || !!game;
@@ -404,12 +406,12 @@ export default function App() {
     <main className={`workspace${detailsOpen && selected ? '' : ' detail-collapsed'}${detailsExpanded ? ' detail-expanded' : ''}`}>
       <section className={`world-panel ${journeyPlaying ? 'journey-active' : ''} ${viewMode === 'comparison' ? 'is-comparison' : ''}`} aria-label={viewMode === 'globe' ? t("三维铁塔地球") : t("三维铁塔比较")}>
         <button className="detail-visibility" title={detailsOpen?t("全屏浏览"):t("退出全屏浏览")} aria-label={detailsOpen?t("全屏浏览"):t("退出全屏浏览")} aria-expanded={detailsOpen} aria-controls="tower-detail-panel" onClick={() => setDetailsOpen((open) => !open)}>{detailsOpen ? <Maximize2 size={17} /> : <Minimize2 size={17} />}</button>
-        {data && <SceneBoundary><Suspense fallback={<div className="scene-loading"><span className="loading-orbit" />{t("正在点亮地标世界")}</div>}><WorldScene comparisonView={modelView} skyPreset={viewMode==='globe'&&towerPlay.state.effects.includes('party')?'night':skyPreset} uiTheme={theme} ref={scene} onRemoveComparison={id=>{const tower=towers.find(item=>item.id===id);if(tower&&comparisonIds.includes(id))toggleCompare(tower);}} towers={sceneTowers} selectedId={selected?.id ?? selectedId} comparisonIds={comparisonIds} viewMode={viewMode} comparisonKind={comparisonKind} reducedMotion={reducedMotion} earthStyle={earthStyle} renderStyle={renderStyle} showLabels={showLabels} animationSuspended={overlayOpen || detailsExpanded} onFocusProgress={onFocusProgress} onUserInteract={onUserInteract} exhibitScale={exhibitScale} onClusterSelect={openCluster} onSelect={select} onReady={onSceneReady} playOrigins={playOrigins} towerPlay={towerPlay.state} towerPlayAction={towerPlay.action} onTowerPlay={effect=>{setJourneyPlaying(false);towerPlay.activate(effect);}} /></Suspense></SceneBoundary>}
+        <SceneBoundary><Suspense fallback={<GlobeLoading/>}><WorldScene comparisonView={modelView} skyPreset={viewMode==='globe'&&towerPlay.state.effects.includes('party')?'night':skyPreset} uiTheme={theme} ref={scene} onRemoveComparison={id=>{const tower=towers.find(item=>item.id===id);if(tower&&comparisonIds.includes(id))toggleCompare(tower);}} towers={sceneTowers} dataReady={!!data} selectedId={selected?.id ?? selectedId} comparisonIds={comparisonIds} viewMode={viewMode} comparisonKind={comparisonKind} reducedMotion={reducedMotion} earthStyle={earthStyle} renderStyle={renderStyle} showLabels={showLabels} animationSuspended={overlayOpen || detailsExpanded} onFocusProgress={onFocusProgress} onUserInteract={onUserInteract} exhibitScale={exhibitScale} onClusterSelect={openCluster} onSelect={select} onReady={onSceneReady} onLoadProgress={setLoadProgress} playOrigins={playOrigins} towerPlay={towerPlay.state} towerPlayAction={towerPlay.action} onTowerPlay={effect=>{setJourneyPlaying(false);towerPlay.activate(effect);}} /></Suspense></SceneBoundary>
         {viewMode==='globe' && <TowerPlayStatus state={towerPlay.state}/>}
-        {!ready && !error && <div className="loading-caption" aria-live="polite">{t("正在载入地球与建筑")}</div>}
-        {error && <div className="scene-fallback"><h2>{error}</h2><a href="/catalog.html">{t("打开资料目录")}</a></div>}
+        {!error && (!ready || !data || loadProgress.surface === 'outline' || loadProgress.loadedModels < loadProgress.totalModels) && <div className="world-load-status" role="status">{!ready ? t('正在展开地球') : loadProgress.surface === 'outline' ? t('正在铺上海陆与材质') : !data ? t('正在读取地标资料，地球已可旋转') : t('正在添加建筑 · {0}/{1}', loadProgress.loadedModels, loadProgress.totalModels)}{ready && data && loadProgress.loadedModels < loadProgress.totalModels && <small>{t('可以先旋转与探索，其他建筑会逐步出现')}</small>}</div>}
+        {error && <div className="world-load-status" role="status">{error}<button onClick={retry}>{t('重试')}</button><a href="/catalog-static.html">{t("打开静态资料目录")}</a></div>}
         {viewMode === 'comparison' && <ComparisonControls kind={comparisonKind} metricAvailable={metricComparisonAvailable} strict={strict} view={modelView} count={comparing.length} onKind={changeKind} onView={changeModelView} onBack={()=>changeView('globe')} onClear={clearComparison}/>} 
-        {viewMode === 'globe' && <ExploreControls filters={towerFilters} onFilters={changeTowerFilters} visibleCount={towers.length} skyPreset={skyPreset} onSkyPreset={changeEnvironment} style={earthStyle} renderStyle={renderStyle} scale={exhibitScale} showLabels={showLabels} onLabels={changeLabels} onStyle={changeEarthStyle} onRenderStyle={changeRenderStyle} onScale={changeExhibitScale} onRandom={randomStop} onJourneys={() => setJourneysOpen(true)} onZoom={factor=>{setJourneyPlaying(false);scene.current?.zoomBy(factor);}} onReset={()=>{setJourneyPlaying(false);pendingIntroPlay.current=null;towerPlay.remove();scene.current?.resetView();}} onRotate={angle=>{setJourneyPlaying(false);scene.current?.rotateBy(angle);}} />}
+        {viewMode === 'globe' && <Suspense fallback={null}><ExploreControls filters={towerFilters} onFilters={changeTowerFilters} visibleCount={towers.length} skyPreset={skyPreset} onSkyPreset={changeEnvironment} style={earthStyle} renderStyle={renderStyle} scale={exhibitScale} showLabels={showLabels} onLabels={changeLabels} onStyle={changeEarthStyle} onRenderStyle={changeRenderStyle} onScale={changeExhibitScale} onScalePreview={value=>scene.current?.previewScale?.(value)} onRandom={randomStop} onJourneys={() => setJourneysOpen(true)} onZoom={factor=>{setJourneyPlaying(false);scene.current?.zoomBy(factor);}} onReset={()=>{setJourneyPlaying(false);pendingIntroPlay.current=null;towerPlay.remove();scene.current?.resetView();}} onRotate={angle=>{setJourneyPlaying(false);scene.current?.rotateBy(angle);}} /></Suspense>}
         {data && !towers.length && <div className="filter-empty" role="status"><p>{t('当前筛选没有匹配地点')}</p><button onClick={()=>changeTowerFilters({...DEFAULT_TOWER_FILTERS})}>{t('清除筛选')}</button></div>}
         {journey && viewMode==='globe' && <JourneyProgress title={journey.title} stops={journey.stops.map(id=>({id,name:towers.find(tower=>tower.id===id)?.name??id}))} index={journeyIndex} progress={journeyComplete?1:(Math.max(0,journeyIndex)+Math.min(1,dwell/8000))/journey.stops.length} playing={journeyPlaying} complete={journeyComplete} onStop={()=>{setJourneyId(null);setJourneyPlaying(false);const url=new URL(location.href);url.searchParams.delete("route");history.replaceState({},"",url);}} onToggle={()=>{if(journeyComplete)startJourney(journey.id);else {setJourneyPlaying(value=>!value);if(focusProgress.phase!=="arrived")scene.current?.focusTower(selectedId);}}} onVisit={id=>{setDwell(0);setJourneyComplete(false);explore(id,journey.id);}}/>}
       </section>

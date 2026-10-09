@@ -666,5 +666,11 @@
   "查看模型": "View model",
   "位置与现状": "Location and status",
   "已有简化3D模型。": "A simplified 3D model is available.",
-  "3D模型尚未制作。": "A 3D model has not been made yet."
+  "3D模型尚未制作。": "A 3D model has not been made yet.",
+  "正在铺上海陆与材质": "Adding land, sea and surface details",
+  "正在展开地球": "Unfolding the globe",
+  "正在读取地标资料，地球已可旋转": "Loading landmarks · you can already rotate the globe",
+  "可以先旋转与探索，其他建筑会逐步出现": "Explore now · more buildings will appear as they load",
+  "正在添加建筑 · {0}/{1}": "Adding buildings · {0}/{1}",
+  "近景地表正在细化，可以继续探索": "Close-up terrain is refining · keep exploring"
 }

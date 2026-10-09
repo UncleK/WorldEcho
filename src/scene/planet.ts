@@ -60,11 +60,13 @@ float globeNoise(vec3 x) {
 
 function addMineralSurface(material: MeshStandardMaterial, style: EarthStyle, land: boolean) {
   material.onBeforeCompile = (shader) => {
-    shader.vertexShader = `varying vec3 vPlanetPosition;\n${shader.vertexShader}`.replace('#include <begin_vertex>', '#include <begin_vertex>\nvPlanetPosition = position;');
-    shader.fragmentShader = `varying vec3 vPlanetPosition;\n${noiseShader}\n${shader.fragmentShader}`.replace('#include <color_fragment>', `
+    shader.vertexShader = `varying vec3 vPlanetPosition; varying vec3 vPlanetWorld;\n${shader.vertexShader}`.replace('#include <begin_vertex>', '#include <begin_vertex>\nvPlanetPosition = position;').replace('#include <worldpos_vertex>', '#include <worldpos_vertex>\nvPlanetWorld = (modelMatrix * vec4(transformed,1.)).xyz;');
+    shader.fragmentShader = `varying vec3 vPlanetPosition; varying vec3 vPlanetWorld;\n${noiseShader}\n${shader.fragmentShader}`.replace('#include <color_fragment>', `
       #include <color_fragment>
       vec3 p = normalize(vPlanetPosition);
       float grain = globeNoise(p*780.0);
+      float closeDetail = 1.-smoothstep(.18,.9,length(cameraPosition-vPlanetWorld));
+      float grainFilter = 1.-smoothstep(.6,2.2,780.*max(length(dFdx(p)),length(dFdy(p))));
       float mineral = globeNoise(p*26.0)*.60 + globeNoise(p*73.0)*.25 + grain*.15;
       ${land ? `
         ${style === 'day' ? `
@@ -75,11 +77,18 @@ function addMineralSurface(material: MeshStandardMaterial, style: EarthStyle, la
           float ice = smoothstep(.88,.97,abs(p.y)+mineral*.075);
           diffuseColor.rgb = mix(diffuseColor.rgb,vec3(.75,.81,.80),ice);
         ` : ''}
-        diffuseColor.rgb *= .87+mineral*.24;
+        diffuseColor.rgb *= .87+mineral*.24+(grain-.5)*.16*closeDetail*grainFilter;
       ` : 'diffuseColor.rgb *= .965+globeNoise(p*130.)*.07;'}
+    `).replace('#include <normal_fragment_maps>', `
+      #include <normal_fragment_maps>
+      ${land ? `vec3 east = normalize(vec3(p.z,0.,-p.x)+vec3(.00001,0.,.00001));
+      vec3 north = normalize(cross(p,east));
+      float ridgeA=globeNoise(p*115.)-.5,ridgeB=globeNoise(p.yzx*137.)-.5;
+      normal=normalize(normal+mat3(viewMatrix)*(east*ridgeA+north*ridgeB)*.17*closeDetail
+        +mat3(viewMatrix)*(east*(grain-.5)+north*(globeNoise(p.yzx*983.)-.5))*.07*closeDetail*grainFilter);` : ''}
     `);
   };
-  material.customProgramCacheKey = () => `towerworld-vector-${style}-${land ? 'land' : 'ocean'}-v4`;
+  material.customProgramCacheKey = () => `towerworld-vector-${style}-${land ? 'land' : 'ocean'}-v5`;
 }
 
 export function createPlanetSurface(colorMap: Texture | null, heightMap: Texture | null, mobile: boolean, style: EarthStyle, landData: LandData, details?: EarthDetailMaps, weather?: EarthWeather): PlanetSurface {

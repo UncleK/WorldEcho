@@ -33,7 +33,7 @@ export default function PhotoCarousel({ tower, index, onChange, onOpen, reducedM
   return <div className="photo-carousel" onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)}
     onFocusCapture={() => setPaused(true)} onBlurCapture={(event) => { if (!event.currentTarget.contains(event.relatedTarget as Node)) setPaused(false); }}>
     <button className="photo-hero" disabled={!photo} onClick={onOpen} aria-label={t("查看完整实景照片")}>
-      {photo ? <img key={photo.id} src={photo.url} alt={t("{0}实景，{1}", tower.label, photo.capturedAt ?? t("拍摄日期未记录"))} /> : <div className="no-photo"><MapPin size={34} /><span>{t("实景照片正在补充")}</span></div>}
+      {photo ? <img key={photo.id} src={photo.url} loading="lazy" decoding="async" alt={t("{0}实景，{1}", tower.label, photo.capturedAt ?? t("拍摄日期未记录"))} /> : <div className="no-photo"><MapPin size={34} /><span>{t("实景照片正在补充")}</span></div>}
     </button>
     <div className="photo-preview-caption image-preview-caption">
       {photos.length>1&&<button aria-label={t('上一张实景')} onClick={()=>move(-1)}><ChevronLeft size={14}/></button>}

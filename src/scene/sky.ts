@@ -12,7 +12,7 @@ export const SKY_LIGHTING={
   overcast:{direction:[-1.6,2.1,4],key:'#e4edf5',intensity:1.15,hemi:'#d5e3ed',ground:'#344351',ambient:.66,fill:'#c7d9e4',fillIntensity:.32,edge:'#bed5e5',edgeIntensity:.20},
   golden:{direction:[-4,1.1,2.3],key:'#ffd09a',intensity:2.25,hemi:'#dac1a5',ground:'#352932',ambient:.4,fill:'#e2c6ae',fillIntensity:.28,edge:'#efa16d',edgeIntensity:.45},
   dusk:{direction:[-4,1.1,-.6],key:'#dcbbef',intensity:1.4,hemi:'#aebee2',ground:'#241f39',ambient:.32,fill:'#bcc9e9',fillIntensity:.25,edge:'#8faef3',edgeIntensity:.4},
-  night:{direction:[-3.5,.8,-3.2],key:'#91baff',intensity:.7,hemi:'#aec9e6',ground:'#151424',ambient:.20,fill:'#c2ddff',fillIntensity:.16,edge:'#79aaff',edgeIntensity:.25}
+  night:{direction:[-3.5,.8,-3.2],key:'#91baff',intensity:.90,hemi:'#aec9e6',ground:'#1e2030',ambient:.30,fill:'#c2ddff',fillIntensity:.25,edge:'#79aaff',edgeIntensity:.30}
 } as const;
 export function createCloudSkyMaterial(theme:'dark'|'light',preset:Exclude<SkyPreset,'auto'>,seed:number){
   const palettes={

@@ -10,6 +10,8 @@ const urls = ['earth-color.webp', 'earth-height.webp', 'earth-realism/night.webp
 // GPU upload happens only when the satellite material actually uses them.
 let cachedAtlas: EarthAtlas | null = null;
 let pendingAtlas: Promise<EarthAtlas> | null = null;
+let detailSurface: Texture | null = null;
+let pendingDetail: Promise<Texture> | null = null;
 
 function loadAtlas(): Promise<EarthAtlas> {
   if (cachedAtlas) return Promise.resolve(cachedAtlas);
@@ -30,10 +32,11 @@ function loadAtlas(): Promise<EarthAtlas> {
 
 interface Connection extends EventTarget { saveData?: boolean; effectiveType?: string }
 
-export function useEarthAtlas(required: boolean, sceneReady: boolean) {
+export function useEarthAtlas(required: boolean, sceneReady: boolean, closeView = false) {
   const [atlas, setAtlas] = useState<EarthAtlas | null>(() => cachedAtlas);
   const [status, setStatus] = useState<EarthAtlasStatus>(() => cachedAtlas ? 'ready' : 'idle');
   const [retryCount, setRetryCount] = useState(0);
+  const [detailStatus,setDetailStatus]=useState<EarthAtlasStatus>('idle');
   const prefetchReady = sceneReady && !required;
 
   useEffect(() => {
@@ -87,5 +90,17 @@ export function useEarthAtlas(required: boolean, sceneReady: boolean) {
     };
   }, [required, prefetchReady, retryCount]);
 
-  return { atlas, status, retry: () => setRetryCount(value => value + 1) };
+  const hasBase = !!atlas;
+  useEffect(()=>{
+    if(!required||!sceneReady||!closeView||!hasBase)return;
+    let active=true;
+    if(detailSurface){setAtlas(previous=>previous?{...previous,surface:detailSurface!}:previous);setDetailStatus('ready');return;}
+    setDetailStatus('loading');
+    pendingDetail ??= new TextureLoader().loadAsync(`${import.meta.env.BASE_URL}assets/earth-realism/surface-detail.webp`)
+      .then(texture=>{detailSurface=texture;return texture;}).finally(()=>{pendingDetail=null;});
+    void pendingDetail.then(texture=>{if(active){setAtlas(previous=>previous?{...previous,surface:texture}:previous);setDetailStatus('ready');}})
+      .catch(()=>{if(active)setDetailStatus('failed');});
+    return()=>{active=false;};
+  },[required,sceneReady,closeView,hasBase,retryCount]);
+  return { atlas, status, detailStatus, retry: () => setRetryCount(value => value + 1) };
 }

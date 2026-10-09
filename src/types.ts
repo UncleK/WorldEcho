@@ -15,6 +15,8 @@ export interface SceneTower {
   modelContext?: 'tower-body' | 'inferred-completion';
 }
 export interface WorldSceneProps {
+  dataReady?: boolean;
+  onLoadProgress?: (progress: WorldLoadProgress) => void;
   towers: SceneTower[]; selectedId: string; comparisonIds: string[];
   viewMode: ViewMode; comparisonKind: ComparisonKind; reducedMotion: boolean;
   onSelect: (id: string) => void; onReady?: () => void;
@@ -35,7 +37,9 @@ export interface WorldSceneProps {
   onUserInteract?: () => void;
   onClusterSelect?: (ids: string[]) => void;
 }
+export interface WorldLoadProgress { surface: 'outline' | 'ready' | 'failed'; loadedModels: number; totalModels: number }
 export interface WorldSceneHandle {
+  previewScale?: (scale: number) => void;
   resetView: () => void; zoomBy: (factor: number) => void; rotateBy: (radians: number) => void;
   focusTower: (id: string) => void;
 }

@@ -30,7 +30,7 @@ export function earthSunDirection(style: EarthStyle, preset: SkyPreset = 'auto',
 function pixels(texture: Texture) {
   const image = texture.image as HTMLImageElement;
   const canvas = document.createElement('canvas');
-  canvas.width = 1024; canvas.height = 512;
+  canvas.width = Math.min(2048, image.width); canvas.height = Math.min(1024, image.height);
   const context = canvas.getContext('2d', { willReadFrequently: true });
   if (!context || !image?.width) throw new Error('Earth terrain pixels unavailable');
   context.drawImage(image, 0, 0, canvas.width, canvas.height);
@@ -121,13 +121,14 @@ export function createRealisticEarth(
         float ice=smoothstep(.52,.78,min(diffuseColor.r,min(diffuseColor.g,diffuseColor.b)));
         localTint=mix(localTint,vec3(.63,.70,.73),ice);
         float value=clamp(dot(diffuseColor.rgb,vec3(.2126,.7152,.0722))*1.8+.6,.7,1.25);
-        diffuseColor.rgb=mix(diffuseColor.rgb,localTint*value,closeUp*.62*landAmount);
-        diffuseColor.rgb*=1.+landGrainA*.10*closeUp*detailFilter;
+        diffuseColor.rgb=mix(diffuseColor.rgb,localTint*value,closeUp*.30*landAmount);
+        diffuseColor.rgb*=1.+landGrainA*.15*closeUp*detailFilter;
       }
       float cloudShade = earthCloudShadow(vEarthWorld);
       diffuseColor.rgb = mix(mix(diffuseColor.rgb,vec3(.008,.026,.057),.4),diffuseColor.rgb,landAmount);
     `).replace('#include <roughnessmap_fragment>', `
-      float roughnessFactor = mix(.30,.88,landAmount);
+      float mappedRoughness = texture2D(earthSurface,vEarthUv).g;
+      float roughnessFactor = mix(.26,mix(.62,.93,mappedRoughness),landAmount);
     `).replace('#include <normal_fragment_maps>', `
       #include <normal_fragment_maps>
       vec3 east = normalize(vec3(earthN.z,0.,-earthN.x)+vec3(.00001,0.,.00001));
@@ -138,7 +139,7 @@ export function createRealisticEarth(
       vec3 ripple = east*waveA+north*waveB;
       normal = normalize(mix(normal,mat3(viewMatrix)*earthN,1.-landAmount)
         + mat3(viewMatrix)*ripple*.04*waveFilter*(1.-landAmount)
-        + mat3(viewMatrix)*(east*landGrainA+north*landGrainB)*.035*detailFilter*closeUp*landAmount);
+        + mat3(viewMatrix)*(east*landGrainA+north*landGrainB)*.075*detailFilter*closeUp*landAmount);
     `).replace('#include <lights_fragment_end>', `
       #include <lights_fragment_end>
       reflectedLight.directDiffuse *= 1.-cloudShade*.52;
@@ -149,14 +150,16 @@ export function createRealisticEarth(
     `).replace('vec3 outgoingLight = totalDiffuse + totalSpecular + totalEmissiveRadiance;', `
       vec3 daySurface = max(totalDiffuse,diffuseColor.rgb*.48) + totalSpecular*mix(.38,1.,landAmount);
       daySurface *= mix(vec3(1.),vec3(1.10,.88,.68),earthWarmth*.35);
-      vec3 nightSurface = diffuseColor.rgb*vec3(.075,.11,.17) + totalSpecular*.035;
+      // A readable moonlit base plus the real normal-dependent illumination.
+      // A max() floor would flatten the bump shading over most of the dark land.
+      vec3 nightSurface = diffuseColor.rgb*vec3(.20,.25,.32) + totalDiffuse*.45 + totalSpecular*.22;
       vec3 outgoingLight = mix(nightSurface,daySurface,daylight) + totalEmissiveRadiance;
       float edge = pow(1.-max(0.,dot(earthN,normalize(cameraPosition-vEarthWorld))),3.5);
       vec3 airColor = mix(vec3(.035,.23,.53),vec3(.30,.055,.009),earthWarmth*.65);
       outgoingLight = mix(outgoingLight,airColor,edge*mix(.06,.27,daylight));
     `);
   };
-  material.customProgramCacheKey = () => 'worldecho-earth-webgl-v4-display-lighting';
+  material.customProgramCacheKey = () => 'worldecho-earth-webgl-v6-moonlit-detail';
 
   const climate = createWeatherLayers(weather, mobile, true);
   return {

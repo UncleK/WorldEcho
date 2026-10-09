@@ -666,5 +666,11 @@
   "查看模型": "Voir le modèle",
   "位置与现状": "Localisation et état",
   "已有简化3D模型。": "Un modèle 3D simplifié est disponible.",
-  "3D模型尚未制作。": "Le modèle 3D reste à réaliser."
+  "3D模型尚未制作。": "Le modèle 3D reste à réaliser.",
+  "正在铺上海陆与材质": "Ajout des continents, océans et textures",
+  "正在展开地球": "Le globe prend forme",
+  "正在读取地标资料，地球已可旋转": "Chargement des monuments · le globe peut déjà tourner",
+  "可以先旋转与探索，其他建筑会逐步出现": "Explorez dès maintenant · les autres bâtiments apparaîtront progressivement",
+  "正在添加建筑 · {0}/{1}": "Ajout des bâtiments · {0}/{1}",
+  "近景地表正在细化，可以继续探索": "Affinage du sol en gros plan · continuez à explorer"
 }

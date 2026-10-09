@@ -60,7 +60,7 @@ function simplifyRing(ring: Coordinate[], tolerance: number): Coordinate[] {
 /** Triangulated vector coasts, subdivided onto the sphere; independent of raster atlas resolution. */
 export function createEarthGeometry(data: LandData, mobile: boolean) {
   const landPositions: number[] = [], landNormals: number[] = [], wallPositions: number[] = [];
-  const stepDegrees = mobile ? 4 : 3;
+  const stepDegrees = mobile ? 3 : 2.5;
   const a = new Vector3(), b = new Vector3(), c = new Vector3();
   const pushTriangle = (positions: number[], p: Vector3, q: Vector3, r: Vector3, normals?: number[]) => {
     a.subVectors(q, p); b.subVectors(r, p); c.crossVectors(a, b);

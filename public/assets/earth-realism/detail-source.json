@@ -1,0 +1,16 @@
+{
+  "source": "https://raw.githubusercontent.com/mrdoob/three.js/r186/examples/textures/planets/earth_bump_roughness_clouds_4096.jpg",
+  "sourceSha256": "0796f4211c209d1afe9e26a06a283cdc21434430a780a25457b2417568a8591e",
+  "credit": "Solar System Scope",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "width": 4096,
+  "height": 2048,
+  "channels": "R=bump, G=roughness/land, B=cloud",
+  "colorSpace": "NoColorSpace",
+  "processing": "Decode original JPEG RGB and encode lossless WebP without resize or channel mixing. Visual bump has no metre/DEM contract.",
+  "loading": "Optional close-view refinement after the base globe is visible; failures retain the base texture.",
+  "file": "surface-detail.webp",
+  "bytes": 9066800,
+  "sha256": "9b2964f34426dc51afba2fd205f8648e99306ba1bd8dc263cf1cc34f7ea476c7",
+  "decodedRgbMatchesSource": true
+}

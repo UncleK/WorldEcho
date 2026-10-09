@@ -45,7 +45,7 @@ function DetailDialog({ row, sources, onClose, onModel }: { row: ResearchRow; so
 }
 
 export default function CatalogPage() {
-  const {data:rawData,error}=usePublicData<ResearchDataset>('/research.v1.json');
+  const {data:rawData,error,retry}=usePublicData<ResearchDataset>('/research.v1.json');
   const lang=useLanguage(); const [submissionOpen,setSubmissionOpen]=useState(false); const [feedbackMode,setFeedbackMode]=useState<CommunityMode|null>(null); const [viewModel,setViewModel]=useState<ResearchRow|null>(null);
   useEffect(()=>{document.title=lang==='fr'?'Atlas des monuments · World Echo':lang==='en'?'Landmark archive · World Echo':'地标资料集 · World Echo';},[lang]);
   const data=useMemo(()=>rawData ? {...rawData,entries:rawData.entries.map(row=>localizeResearchRow(row,lang))} : null,[rawData,lang]);
@@ -77,7 +77,7 @@ export default function CatalogPage() {
     <main className="cat-main">
       <section className="cat-intro"><div><span className="cat-kicker">{t("LANDMARK ARCHIVE · 地标资料集")}</span><h1>{t("同一地标，许多回响。")}</h1><p>{t("从原塔到各地版本，把位置、材料、故事和真实照片放进一张可查的目录。")}</p>{data && <a className="cat-browse-link" href="#catalog-results-title">{t("浏览")} {count(data.entries.length)} {t("条记录")}<ChevronRight size={12} /></a>}</div><div className="cat-dataset-note"><span className="cat-live-dot" />{t("持续收集的研究资料")}<br /><small>{data ? t("更新于 {0}", new Intl.DateTimeFormat(lang, { timeZone: 'Asia/Shanghai', month: '2-digit', day: '2-digit' }).format(new Date(data.generatedAt))) : t("正在读取本地资料")}</small></div></section>
       <section className="community-cta"><div><h2>{t('你的家乡也有一座埃菲尔铁塔吗？')}</h2><p>{t('补充新塔，也帮已有记录核对位置、现状和高度。')}</p></div><div className="community-cta-actions"><button onClick={()=>setSubmissionOpen(true)}><MapPin size={15}/>{t('补充家乡的塔')}</button><button onClick={()=>{setFiltersOpen(true);chartFilter({missing:'location'});}}><Flag size={15}/>{t('帮忙补齐资料')}</button></div></section>
-      {!data ? <div className="cat-loading" role="status">{error ? <><h2>{t("资料暂未加载成功")}</h2><p>{t("仍可以查看保存的目录和来源链接。")}</p><a className="cat-primary-link" href="/catalog-static.html">{t("打开静态资料目录")}<ArrowUpRight size={15} /></a><button className="cat-text-button" onClick={() => location.reload()}>{t("重新加载")}</button></> : <><span className="cat-loader" /><p>{t("正在整理地标资料…")}</p></>}</div> : <>
+      {!data ? <div className="cat-loading" role="status">{error ? <><h2>{t("资料暂未加载成功")}</h2><p>{t("仍可以查看保存的目录和来源链接。")}</p><a className="cat-primary-link" href="/catalog-static.html">{t("打开静态资料目录")}<ArrowUpRight size={15} /></a><button className="cat-text-button" onClick={retry}>{t("重新加载")}</button></> : <><span className="cat-loader" /><p>{t("正在整理地标资料…")}</p><div className="cat-loading-rows" aria-hidden="true">{[0,1,2,3].map(row=><span key={row}><i/><i/><i/></span>)}</div></>}</div> : <>
       <section className="cat-metrics" aria-label={t("全集收集进度")}>
         {[{ number: stats!.research, label: t("研究收录"), sub: t("包含候选、历史与待核记录"), icon: <Boxes size={18} /> },
           { number: stats!.countries, label: t("国家 / 地区"), sub: t("按资料中的地点归属计数"), icon: <Globe2 size={18} /> },

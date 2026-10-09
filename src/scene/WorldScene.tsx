@@ -2,16 +2,16 @@ import { t } from '../i18n';
 import {
   forwardRef, Suspense, useCallback, useEffect, useImperativeHandle, useLayoutEffect, useMemo, useRef, useState,
 } from 'react';
-import { Canvas, useFrame, useLoader, useThree, type ThreeEvent } from '@react-three/fiber';
+import { Canvas, useFrame, useThree, type ThreeEvent } from '@react-three/fiber';
 import { CameraControls, CameraControlsImpl, Html } from '@react-three/drei';
 import {
   Group, Material, Mesh, MeshBasicMaterial, OrthographicCamera, PerspectiveCamera, Box3, Ray, Matrix4,
-  PlaneGeometry, PMREMGenerator, PointsMaterial, Quaternion, SphereGeometry, Vector3, FileLoader, DirectionalLight, CatmullRomCurve3, TubeGeometry, type Object3D,
+  PlaneGeometry, PMREMGenerator, PointsMaterial, Quaternion, SphereGeometry, Vector3, DirectionalLight, CatmullRomCurve3, TubeGeometry, type Object3D,
 } from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 import type { EarthStyle, FocusProgress, ModelView, SceneTower, TowerRenderStyle, WorldSceneHandle, WorldSceneProps } from '../types';
-import landGeometryUrl from '../../data/geography/ne_50m_land.geojson?url';
-import type { LandData } from './earth-geometry';
+import { useProgressiveLand, useProgressiveModels } from './useProgressiveWorld';
+import GlobeLoading from '../features/GlobeLoading';
 import { useEarthAtlas, type EarthAtlas, type EarthAtlasStatus } from './useEarthAtlas';
 import { angularDistance, clusterTowers, exhibitTowerHeight, hasExhibitModel, modelPresentation } from './density';
 import { advanceFocusOpacity, findFocusOccluders, installFocusFade } from './focus-occlusion';
@@ -103,7 +103,7 @@ function LocalEnvironment({ earthStyle, realistic = false, night = earthStyle ==
     const previousEnvironment = scene.environment;
     const previousIntensity = scene.environmentIntensity;
     scene.environment = target.texture;
-    scene.environmentIntensity = realistic ? night ? .08 : .34 : night ? 0.16 : 0.52;
+    scene.environmentIntensity = realistic ? night ? .14 : .34 : night ? .24 : .52;
     room.dispose();
     generator.dispose();
     invalidate();
@@ -201,14 +201,14 @@ function Space({ mobile, earthStyle, uiTheme='dark', skyPreset='auto', realistic
       <color attach="background" args={[uiTheme==='light'?'#e7eef4':'#030813']} />
       <mesh geometry={skyGeometry} material={skyMaterial} renderOrder={-100} frustumCulled={false} dispose={null} />
       <points visible={uiTheme!=='light'} geometry={stars} material={starMaterial} frustumCulled={false} dispose={null} />
-      <hemisphereLight color={light.hemi} groundColor={light.ground} intensity={realistic ? night ? .16 : light.ambient + .18 : light.ambient} />
+      <hemisphereLight color={light.hemi} groundColor={light.ground} intensity={realistic ? night ? .27 : light.ambient + .18 : light.ambient} />
       <directionalLight ref={solarLight} position={solarDirection.clone().multiplyScalar(6).toArray()} color={light.key} intensity={light.intensity} castShadow
         shadow-mapSize-width={mobile?512:2048} shadow-mapSize-height={mobile?512:2048}
         shadow-camera-left={-2.1} shadow-camera-right={2.1} shadow-camera-top={2.1} shadow-camera-bottom={-2.1}
         shadow-camera-near={0.1} shadow-camera-far={15} shadow-bias={-0.00008} shadow-normalBias={0.0004} shadow-radius={2} />
       <directionalLight position={[-4, -0.5, 3]} color={light.fill} intensity={realistic ? .035 : light.fillIntensity*.6} />
       <directionalLight position={[-2, 3, -4]} color={light.edge} intensity={realistic ? .08 : light.edgeIntensity} />
-      <directionalLight ref={cameraFill} color={light.fill} intensity={realistic ? night ? .12 : .65 : light.fillIntensity} />
+      <directionalLight ref={cameraFill} color={light.fill} intensity={realistic ? night ? .24 : .65 : light.fillIntensity} />
       <LocalEnvironment earthStyle={earthStyle} realistic={realistic} night={night} />
     </>
   );
@@ -516,7 +516,7 @@ function FocusOcclusion({groups,selectedId,enabled,reducedMotion}:{groups:Map<st
   return null;
 }
 
-function GlobeTower({ tower, radius, selected, onSelect, active, shadowMaterial, exhibitScale, clusterIds, onClusterSelect, contactShadow, reducedMotion, mobile, neighbor, renderStyle, arrivalRevision, showLabels, labelRegistry, illuminationClock, weather, towerPlay, onTowerPlay, playRuntime, playDisabled, hatFlightPlan,partyPlan,waterPlan,focusGroups }: {
+function GlobeTower({ tower, radius, selected, onSelect, active, modelReady, shadowMaterial, exhibitScale, clusterIds, onClusterSelect, contactShadow, reducedMotion, mobile, neighbor, renderStyle, arrivalRevision, showLabels, labelRegistry, illuminationClock, weather, towerPlay, onTowerPlay, playRuntime, playDisabled, hatFlightPlan,partyPlan,waterPlan,focusGroups }: {
   tower: SceneTower; radius: number; selected: boolean; onSelect: (id: string) => void; active: boolean; shadowMaterial: MeshBasicMaterial;
   exhibitScale: number; clusterIds: string[]; onClusterSelect?: (ids: string[]) => void;
   contactShadow: boolean;
@@ -531,6 +531,7 @@ function GlobeTower({ tower, radius, selected, onSelect, active, shadowMaterial,
   hatFlightPlan: HatFlightPlan;
   partyPlan:WorldShowPlan;waterPlan:WorldShowPlan;
   focusGroups:Map<string,Group>;
+  modelReady: boolean;
 }) {
   const height = exhibitTowerHeight(tower, exhibitScale);
   const modelGroup = useRef<Group>(null);
@@ -570,7 +571,7 @@ function GlobeTower({ tower, radius, selected, onSelect, active, shadowMaterial,
       return { id: tower.id, part, x: rect.left + (point.x + 1) * size.width / 2, y: rect.top + (1 - point.y) * size.height / 2 };
     }));
   });
-  const modelHeight = tower.modelKey && height !== null ? height : null;
+  const modelHeight = modelReady && tower.modelKey && height !== null ? height : null;
   const anchor = useMemo(() => geoPosition(tower.lat, tower.lon, radius), [tower.lat, tower.lon, radius]);
   const rotation = useMemo(() => geoRotation(tower.lat, tower.lon), [tower.lat, tower.lon]);
   const tip = useMemo(() => geoPosition(tower.lat, tower.lon, radius + (modelHeight ?? 0) + (modelHeight ? Math.min(0.012, modelHeight * 0.055) : 0.015)), [tower.lat, tower.lon, radius, modelHeight]);
@@ -787,9 +788,10 @@ function ComparisonStage({ layout, selectedId, onSelect, onRemove, kind, active,
   );
 }
 
-const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: boolean; atlas: EarthAtlas | null; atlasStatus: EarthAtlasStatus }>(function SceneContents(props, ref) {
+const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: boolean; atlas: EarthAtlas | null; atlasStatus: EarthAtlasStatus; onDetailViewChange: (close: boolean) => void }>(function SceneContents(props, ref) {
   const { towers, selectedId, comparisonIds, viewMode, comparisonKind, comparisonView = 'axonometric', reducedMotion, onSelect, onReady, mobile, earthStyle: requestedEarthStyle = 'day', renderStyle = 'heritage', exhibitScale = 1, onClusterSelect, showLabels = true, animationSuspended = false } = props;
   const { size, set, invalidate, gl, events } = useThree();
+  const [firstFrame, setFirstFrame] = useState(false);
   const showConnections = false;
   const environment = resolveEnvironment(requestedEarthStyle, props.skyPreset);
   const coverage = cloudCoverage(environment);
@@ -798,9 +800,12 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   const activeAtlas = earthStyle === 'satellite' ? props.atlas : null;
   // Idle prefetch must not rebuild the simple globe or its towers during a focus flight.
   const detailAtlas = requestedEarthStyle === 'satellite' || coverage > 0 ? props.atlas : null;
-  const weather = useMemo(() => detailAtlas ? createEarthWeather(detailAtlas.surface) : null, [detailAtlas]);
-  const landSource = useLoader(FileLoader, landGeometryUrl);
-  const landData = useMemo(() => JSON.parse(landSource as string) as LandData, [landSource]);
+  const hasDetailAtlas = !!detailAtlas;
+  // Replace the shared sampler without rebuilding every tower's GPU materials.
+  const weather = useMemo(() => detailAtlas ? createEarthWeather(detailAtlas.surface) : null, [hasDetailAtlas]);
+  useLayoutEffect(()=>{if(weather&&detailAtlas){weather.earthSurface.value=detailAtlas.surface;invalidate();}},[weather,detailAtlas,invalidate]);
+  const lastDetailView = useRef(false);
+  const { land: landData, surface: surfaceStage } = useProgressiveLand(firstFrame);
   const planet = useMemo(() => createPlanetSurface(activeAtlas?.color ?? null, activeAtlas?.height ?? null, mobile, earthStyle, landData, detailAtlas ?? undefined, weather ?? undefined), [activeAtlas, mobile, earthStyle, landData, detailAtlas, weather]);
   const focusAnchor = useMemo(() => {
     const tower = towers.find(item => item.id === selectedId);
@@ -821,6 +826,11 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   const exhibitedTowers = useMemo(() => globeEntries.map((entry) => entry.tower), [globeEntries]);
   const labelRegistry = useMemo(() => new Map<string, HotspotLabelRegistration>(), []);
   const focusGroups = useMemo(() => new Map<string,Group>(),[]);
+  const previewScale = useRef<number | null>(null);
+  useLayoutEffect(() => {
+    previewScale.current = null;
+    for (const group of focusGroups.values()) group.scale.setScalar(1);
+  }, [exhibitScale, focusGroups]);
   const illuminationClock = useMemo<SceneIlluminationClock>(() => ({ seconds: 0, ticks: 0 }), []);
   const playRuntime = useMemo<PlayRuntime>(() => ({ age: 99, effect: null, cancelled: false,seconds:0,started:{hats:-100,party:-100,water:-100} }), []);
   const [playTransitionActive, setPlayTransitionActive] = useState(false);
@@ -874,6 +884,17 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
     camera.lookAt(0, 0, 0);
     return camera;
   }, []);
+  const progressiveTowers = useMemo(() => globeEntries.map(entry => entry.tower).filter(hasExhibitModel), [globeEntries]);
+  const loadedModels = useProgressiveModels(progressiveTowers, selectedId, globeCamera, firstFrame && surfaceStage !== 'outline' && props.dataReady !== false, mobile, animationSuspended);
+  const loadedModelCount = progressiveTowers.filter(tower => loadedModels.has(tower.id)).length;
+  useEffect(() => {
+    gl.domElement.dataset.surfaceStage = surfaceStage;
+    gl.domElement.dataset.modelsLoaded = String(loadedModelCount);
+    gl.domElement.dataset.modelsTotal = String(progressiveTowers.length);
+    props.onLoadProgress?.({ surface: surfaceStage, loadedModels: loadedModelCount, totalModels: progressiveTowers.length });
+    gl.shadowMap.needsUpdate = true;
+    invalidate();
+  }, [surfaceStage, loadedModelCount, progressiveTowers.length, props.onLoadProgress, gl, invalidate]);
   const compareCamera = useMemo(() => new OrthographicCamera(-2, 2, 2, -2, 0.01, 100), []);
   const activeCamera = viewMode === 'globe' ? globeCamera : compareCamera;
   useEffect(()=>{if(viewMode!=='globe'){playRuntime.cancelled=true;playTour.current=null;globeCamera.fov=FOV;globeCamera.updateProjectionMatrix();}},[viewMode,playRuntime,globeCamera]);
@@ -1082,6 +1103,12 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   }, [beginNavigation, planet]);
 
   useImperativeHandle(ref, () => ({
+    previewScale: (value) => {
+      if (!Number.isFinite(value)) return;
+      previewScale.current = Math.max(.1, Math.min(1.6, value));
+      for (const group of focusGroups.values()) group.scale.setScalar(previewScale.current / (latestProps.current.exhibitScale ?? 1));
+      invalidate();
+    },
     resetView,
     focusTower,
     zoomBy: (factor) => {
@@ -1249,11 +1276,17 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   }, [exhibitScale, viewMode, selectedId, towers, planet, globeCamera, focusTower, invalidate]);
 
   useFrame((state) => {
+    const detailView = viewMode==='globe' && requestedEarthStyle==='satellite' && state.camera.position.length()<1.8;
+    if(detailView!==lastDetailView.current){lastDetailView.current=detailView;props.onDetailViewChange(detailView);}
+    gl.domElement.dataset.earthRenderer=planet.realistic?'realistic-webgl-v2':'miniature-vector';
+    gl.domElement.dataset.surfaceTextureWidth=String((detailAtlas?.surface.image as {width?:number}|undefined)?.width??0);
+    if (previewScale.current !== null) for (const group of focusGroups.values()) group.scale.setScalar(previewScale.current / exhibitScale);
     if (viewMode === 'globe') planet.update?.(illuminationClock.seconds, solarDirection, state.camera.position.length(), coverage,
       environment === 'night' ? 0 : environment === 'dusk' ? .35 : 1, environment === 'golden' || environment === 'dusk' ? 1 : 0);
     if (!ready.current && controls.current) {
       ready.current = true;
       gl.domElement.dataset.firstFrameAtMs = performance.now().toFixed(1);
+      setFirstFrame(true);
       onReady?.();
     }
     const path = navigation.current;
@@ -1359,7 +1392,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
       Object.assign(gl.domElement.dataset,{echoPartyLit:String(partyLit),echoWaterTouched:String(waterTouched),echoPartyInstances:String(partyInstances),echoWaterInstances:String(waterInstances),echoFloatSum:String(floatSum),echoPartySeconds:String(effectSeconds(playRuntime,'party',reducedMotion)),echoWaterSeconds:String(effectSeconds(playRuntime,'water',reducedMotion)),echoCamera:playRuntime.cancelled?'manual':playTour.current?'show':'idle'});
       const target = controls.current?.getTarget(cameraScratch);
       const presentation = modelPresentation(cameraMode.current, exhibitScale, towers.find((tower) => tower.id === selectedId));
-      const mountedModels = globeEntries.filter((entry) => hasExhibitModel(entry.tower));
+      const mountedModels = globeEntries.filter((entry) => hasExhibitModel(entry.tower) && loadedModels.has(entry.tower.id));
       const visibleModels = viewMode === 'globe' ? mountedModels.filter(({ tower }) => {
         const height = exhibitTowerHeight(tower, exhibitScale) ?? 0;
         const point = geoPosition(tower.lat, tower.lon, planet.radiusAt(tower.lat, tower.lon) + height * 0.65);
@@ -1429,7 +1462,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
         {planet.land && <mesh geometry={planet.land.geometry} material={planet.land.material} receiveShadow dispose={null} />}
         {planet.coast && <mesh geometry={planet.coast.geometry} material={planet.coast.material} receiveShadow dispose={null} />}
         {planet.layers?.map((layer, index) => <mesh key={index} geometry={layer.geometry} material={layer.material} renderOrder={layer.renderOrder} raycast={() => {}} dispose={null} />)}
-        {globeEntries.map(({ tower, ids }) => <GlobeTower key={tower.id} tower={tower} radius={planet.radiusAt(tower.lat, tower.lon) + 0.0006} selected={tower.id === selectedId} onSelect={selectTower} active={viewMode === 'globe'} shadowMaterial={shadowMaterial} exhibitScale={exhibitScale} clusterIds={ids} onClusterSelect={onClusterSelect} contactShadow={!!planet.update} reducedMotion={reducedMotion} mobile={mobile} neighbor={labelNeighbors.get(tower.id)} renderStyle={globeRenderStyle} arrivalRevision={arrivalFeedback.id === tower.id ? arrivalFeedback.revision : 0} showLabels={globeShowLabels} labelRegistry={labelRegistry} illuminationClock={illuminationClock} weather={weather} towerPlay={props.towerPlay} onTowerPlay={props.onTowerPlay} playRuntime={playRuntime} playDisabled={animationSuspended || playTransitionActive} hatFlightPlan={hatFlightPlan} partyPlan={partyPlan} waterPlan={waterPlan} focusGroups={focusGroups} />)}
+        {globeEntries.map(({ tower, ids }) => <GlobeTower key={tower.id} tower={tower} modelReady={loadedModels.has(tower.id)} radius={planet.radiusAt(tower.lat, tower.lon) + 0.0006} selected={tower.id === selectedId} onSelect={selectTower} active={viewMode === 'globe'} shadowMaterial={shadowMaterial} exhibitScale={exhibitScale} clusterIds={ids} onClusterSelect={onClusterSelect} contactShadow={!!planet.update} reducedMotion={reducedMotion} mobile={mobile} neighbor={labelNeighbors.get(tower.id)} renderStyle={globeRenderStyle} arrivalRevision={arrivalFeedback.id === tower.id ? arrivalFeedback.revision : 0} showLabels={globeShowLabels} labelRegistry={labelRegistry} illuminationClock={illuminationClock} weather={weather} towerPlay={props.towerPlay} onTowerPlay={props.onTowerPlay} playRuntime={playRuntime} playDisabled={animationSuspended || playTransitionActive} hatFlightPlan={hatFlightPlan} partyPlan={partyPlan} waterPlan={waterPlan} focusGroups={focusGroups} />)}
         {viewMode==='globe' && [partyPlan,waterPlan].filter(plan=>props.towerPlay?.effects.includes(plan.kind)).map(plan=><group key={plan.kind}><WorldShowField plan={plan} runtime={playRuntime} reduced={reducedMotion}/><WorldShowInstances plan={plan} towers={showTowers} runtime={playRuntime} reduced={reducedMotion}/></group>)}
         {viewMode==='globe' && !reducedMotion && props.towerPlayAction?.effect==='hats' && props.towerPlay?.effects.includes('hats') && <HatLightTrail plan={hatFlightPlan} runtime={playRuntime} reduced={reducedMotion}/>}
         <HotspotNameLayout registry={labelRegistry} showLabels={globeShowLabels} />
@@ -1451,8 +1484,9 @@ const WorldScene = forwardRef<WorldSceneHandle, WorldSceneProps>(function WorldS
     return()=>{clearTimeout(first);clearTimeout(second);};
   },[canRender]);
   const [sceneReady, setSceneReady] = useState(false);
+  const [closeView,setCloseView]=useState(false);
   const satelliteRequested = props.viewMode === 'globe' && (props.earthStyle === 'satellite' || cloudCoverage(resolveEnvironment(props.earthStyle ?? 'day', props.skyPreset)) > 0);
-  const { atlas, status: atlasStatus, retry } = useEarthAtlas(canRender && satelliteRequested, canRender && sceneReady);
+  const { atlas, status: atlasStatus, detailStatus, retry } = useEarthAtlas(canRender && satelliteRequested, canRender && sceneReady, closeView);
   const onSceneReady = useCallback(() => {
     setSceneReady(true);
     props.onReady?.();
@@ -1465,6 +1499,7 @@ const WorldScene = forwardRef<WorldSceneHandle, WorldSceneProps>(function WorldS
     return () => query.removeEventListener('change', update);
   }, []);
   useImperativeHandle(ref, () => ({
+    previewScale: (value) => innerRef.current?.previewScale?.(value),
     resetView: () => innerRef.current?.resetView(),
     zoomBy: (factor) => innerRef.current?.zoomBy(factor),
     rotateBy: (radians) => innerRef.current?.rotateBy(radians),
@@ -1483,11 +1518,14 @@ const WorldScene = forwardRef<WorldSceneHandle, WorldSceneProps>(function WorldS
       gl={{ antialias: true, alpha: false, powerPreference: 'high-performance' }}
       fallback={<div>{t("交互式三维地球；资料集也提供照片、来源和地图。")}</div>}
     >
-      <Suspense fallback={null}><SceneContents ref={innerRef} {...props} mobile={mobile} atlas={atlas} atlasStatus={atlasStatus} onReady={onSceneReady} /></Suspense>
+      <Suspense fallback={null}><SceneContents ref={innerRef} {...props} mobile={mobile} atlas={atlas} atlasStatus={atlasStatus} onReady={onSceneReady} onDetailViewChange={setCloseView} /></Suspense>
     </Canvas>
+    {!sceneReady && <GlobeLoading/>}
     {satelliteRequested && !atlas && <div className="satellite-status" role="status">
       {atlasStatus === 'failed' ? <>{t('地表细节暂未载入，可继续探索或重试')} <button type="button" onClick={retry}>{t('重试')}</button></> : t('地表细节载入中，可继续探索')}
-    </div>}</>
+    </div>}
+    {satelliteRequested && closeView && atlas && detailStatus==='loading' && <div className="satellite-status" role="status">{t('近景地表正在细化，可以继续探索')}</div>}
+    </>
   );
 });
 
