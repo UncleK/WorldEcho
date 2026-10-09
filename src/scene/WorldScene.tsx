@@ -12,7 +12,7 @@ import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 import type { EarthStyle, FocusProgress, ModelView, SceneTower, TowerRenderStyle, WorldSceneHandle, WorldSceneProps } from '../types';
 import { useProgressiveLand, useProgressiveModels } from './useProgressiveWorld';
 import { globeZoomAfterFactor, globeCloseView, MIN_GLOBE_ZOOM, MAX_GLOBE_ZOOM } from './globe-zoom';
-import { arcballPoint,arcballRotation } from './arcball';
+import { arcballPoint,arcballRotation,ArcballMotion } from './arcball';
 import GlobeLoading from '../features/GlobeLoading';
 import { useEarthAtlas, type EarthAtlas, type EarthAtlasStatus } from './useEarthAtlas';
 import { angularDistance, clusterTowers, exhibitTowerHeight, hasExhibitModel, modelPresentation } from './density';
@@ -868,6 +868,8 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   const cameraMode = useRef<'overview' | 'focus'>('overview');
   const freeBrowse = useRef(false);
   const userGestureActive = useRef(false);
+  const rotationMotion = useMemo(()=>new ArcballMotion(),[]);
+  const rotationPosition = useMemo(()=>new Vector3(),[]),rotationTarget=useMemo(()=>new Vector3(),[]),rotationForward=useMemo(()=>new Vector3(),[]);
   const surfaceSafetyCorrections = useRef(0);
   const surfaceSafetyMode = useRef('none');
   const ready = useRef(false);
@@ -933,6 +935,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   }, []);
 
   const cancelTransition = useCallback((stop = true, report = true) => {
+    rotationMotion.stop();
     const id = pendingTarget.current;
     if (import.meta.env.DEV && id) Object.assign(gl.domElement.dataset, {
       lastCancelledFocus: id, focusCancelStack: new Error().stack?.split('\n').slice(1,4).join(' | ') ?? '',
@@ -941,7 +944,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
     pendingTarget.current = null;
     if (stop) controls.current?.stop();
     if (report && id) reportFocusProgress({ id, phase: 'idle', progress: 0 }, true);
-  }, [reportFocusProgress, gl]);
+  }, [reportFocusProgress, gl,rotationMotion]);
 
   const releaseForBrowsing = useCallback((stop: boolean, notify: boolean) => {
     if (notify) { playRuntime.cancelled = true; playTour.current = null; setPlayTransitionActive(false); }
@@ -1065,6 +1068,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
 
   const revealPlay = useCallback(() => {
     if (latestProps.current.viewMode !== 'globe') return;
+    rotationMotion.stop();
     controls.current?.zoomTo(1,false);
     const normal = globeCamera.position.clone().normalize();
     const radius = globalViewDistance();
@@ -1077,7 +1081,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
     beginNavigation(normal.multiplyScalar(radius), new Vector3(), GLOBAL_UP.clone(), 'overview', '__echo__');
     // A radial pullback keeps the initiating tower in view without the usual travel arc.
     if (navigation.current) { navigation.current.local = true; navigation.current.duration = 1350; }
-  }, [globeCamera, globalViewDistance, beginNavigation, cancelTransition, invalidate, playRuntime]);
+  }, [globeCamera, globalViewDistance, beginNavigation, cancelTransition, invalidate, playRuntime,rotationMotion]);
 
   useEffect(()=>{
     if(!reducedMotion||!playTour.current)return;
@@ -1116,6 +1120,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
     resetView,
     focusTower,
     zoomBy: (factor) => {
+      rotationMotion.stop();
       if (!Number.isFinite(factor) || factor <= 0) return;
       releaseForBrowsing(true, true);
       const control = controls.current;
@@ -1125,12 +1130,13 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
       invalidate();
     },
     rotateBy: (radians) => {
+      rotationMotion.stop();
       if (!Number.isFinite(radians)) return;
       releaseForBrowsing(true, true);
       controls.current?.rotate(radians, 0, !latestProps.current.reducedMotion);
       invalidate();
     },
-  }), [resetView, focusTower, releaseForBrowsing, compareCamera, globeCamera, invalidate]);
+  }), [resetView, focusTower, releaseForBrowsing, compareCamera, globeCamera, invalidate,rotationMotion]);
 
   useEffect(() => {
     if (!showConnections && import.meta.env.DEV) gl.domElement.dataset.relationshipArcCount = '0';
@@ -1160,6 +1166,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
     const point=(x:number,y:number)=>{const rect=element.getBoundingClientRect();return arcballPoint(x-rect.left,y-rect.top,rect.width,rect.height);};
     const down=(event:PointerEvent)=>{
       if(latestProps.current.viewMode!=='globe'||(event.pointerType!=='touch'&&event.button!==0))return;
+      rotationMotion.stop();
       pointers.set(event.pointerId,{x:event.clientX,y:event.clientY});
       previous=pointers.size===1?point(event.clientX,event.clientY):null;started=false;
       pinch=pointers.size===2?{distance:spread(),zoom:globeCamera.zoom}:null;
@@ -1180,21 +1187,40 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
       const next=point(event.clientX,event.clientY);
       if(!previous){previous=next;startX=event.clientX;startY=event.clientY;return;}
       if(!started&&Math.hypot(event.clientX-startX,event.clientY-startY)<3)return;
-      if(!started){releaseForBrowsing(true,true);userGestureActive.current=true;started=true;element.setPointerCapture(event.pointerId);}
+      if(!started){releaseForBrowsing(true,true);userGestureActive.current=true;started=true;rotationMotion.begin(performance.now());element.setPointerCapture(event.pointerId);}
       const control=controls.current;if(!control)return;
       globeCamera.updateMatrixWorld();
-      const rotation=arcballRotation(previous,next,globeCamera.quaternion,globeCamera.zoom);
-      const position=globeCamera.position.clone();
-      const target=position.clone().addScaledVector(globeCamera.getWorldDirection(new Vector3()),Math.max(.01,control.distance));
-      position.applyQuaternion(rotation);target.applyQuaternion(rotation);globeCamera.up.applyQuaternion(rotation).normalize();
-      control.updateCameraUp();control.setFocalOffset(0,0,0,false);
-      control.setLookAt(position.x,position.y,position.z,target.x,target.y,target.z,false);control.update(0);
+      const rotation=arcballRotation(previous,next,rotationMotion.viewRotation(globeCamera.quaternion),globeCamera.zoom);
+      rotationMotion.push(rotation,performance.now());
       previous=next;invalidate();
     };
-    const end=(event:PointerEvent)=>{if(!pointers.delete(event.pointerId))return;previous=null;pinch=null;started=false;userGestureActive.current=false;};
+    const end=(event:PointerEvent)=>{
+      if(!pointers.delete(event.pointerId))return;
+      if(event.type==='pointerup'&&pointers.size===0)rotationMotion.release(performance.now(),globeCamera.zoom,latestProps.current.reducedMotion);
+      else rotationMotion.stop();
+      previous=null;pinch=null;started=false;userGestureActive.current=false;invalidate();
+    };
+    const cancel=()=>{rotationMotion.stop();pointers.clear();previous=null;pinch=null;started=false;userGestureActive.current=false;};
+    const visibility=()=>{if(document.hidden)cancel();};
     element.addEventListener('pointerdown',down);element.addEventListener('pointermove',move);element.addEventListener('pointerup',end);element.addEventListener('pointercancel',end);
-    return()=>{element.removeEventListener('pointerdown',down);element.removeEventListener('pointermove',move);element.removeEventListener('pointerup',end);element.removeEventListener('pointercancel',end);};
-  },[events.connected,gl,globeCamera,invalidate,releaseForBrowsing]);
+    window.addEventListener('blur',cancel);document.addEventListener('visibilitychange',visibility);
+    return()=>{cancel();element.removeEventListener('pointerdown',down);element.removeEventListener('pointermove',move);element.removeEventListener('pointerup',end);element.removeEventListener('pointercancel',end);window.removeEventListener('blur',cancel);document.removeEventListener('visibilitychange',visibility);};
+  },[events.connected,gl,globeCamera,invalidate,releaseForBrowsing,rotationMotion]);
+
+  // CameraControls updates at -1; apply one smoothed pose before occlusion (-.5).
+  useFrame((_,delta)=>{
+    const control=controls.current;
+    if(viewMode!=='globe'||navigation.current||animationSuspended||document.hidden){rotationMotion.stop();return;}
+    if(!control)return;
+    const rotation=rotationMotion.advance(delta,reducedMotion);if(!rotation)return;
+    rotationPosition.copy(globeCamera.position);
+    globeCamera.getWorldDirection(rotationForward);
+    rotationTarget.copy(rotationPosition).addScaledVector(rotationForward,Math.max(.01,control.distance));
+    rotationPosition.applyQuaternion(rotation);rotationTarget.applyQuaternion(rotation);globeCamera.up.applyQuaternion(rotation).normalize();
+    control.updateCameraUp();control.setFocalOffset(0,0,0,false);
+    control.setLookAt(rotationPosition.x,rotationPosition.y,rotationPosition.z,rotationTarget.x,rotationTarget.y,rotationTarget.z,false);control.update(0);
+    if(rotationMotion.pending)invalidate();
+  },-.75);
 
   useLayoutEffect(() => {
     ready.current = false;
@@ -1494,8 +1520,8 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   };
   // Wheel events have no controlstart/controlend. Notify every manual control
   // event; the parent's pause action is idempotent, including a rapid resume.
-  const userControl = () => releaseForBrowsing(false, true);
-  const userControlStart = () => { userGestureActive.current = true; releaseForBrowsing(true, true); };
+  const userControl = () => { if(!rotationMotion.dragging)rotationMotion.stop();releaseForBrowsing(false, true); };
+  const userControlStart = () => { rotationMotion.stop();userGestureActive.current = true; releaseForBrowsing(true, true); };
   const actions = CameraControlsImpl.ACTION;
   return (
     <>
