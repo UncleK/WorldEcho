@@ -1,4 +1,5 @@
 import type { SceneTower } from '../types';
+import { exhibitionHeightMetres } from '../domain/display-height.mjs';
 
 export interface TowerCluster { representative: SceneTower; members: SceneTower[] }
 export type ModelPresentation = 'overview' | 'region';
@@ -11,13 +12,12 @@ export function modelPresentation(cameraMode: 'overview' | 'focus', _scale: numb
 /** Display-only, compressed at the tall end. The comparison stage never uses this function. */
 export function exhibitTowerHeight(tower: SceneTower, scale = 1): number | null {
   const finiteScale = Number.isFinite(scale) ? Math.max(0.1, Math.min(1.6, scale)) : 1;
-  // A documented shape with unknown dimensions has an explicit exhibition size;
-  // heightM stays null and the linear comparison remains unavailable.
-  if (tower.heightM === null || tower.modelScope==='visible-section') return tower.modelKey ? 0.09 * finiteScale : null;
-  if (!Number.isFinite(tower.heightM) || tower.heightM <= 0) return null;
-  // Give small real structures a readable map presence, without changing their
-  // recorded height or the linear comparison stage.
-  return (0.07 + 0.26 * (1 - Math.exp(-tower.heightM * 0.00115 / 0.26))) * finiteScale;
+  if(tower.modelScope==='visible-section')return tower.modelKey?0.055*finiteScale:null;
+  const height=exhibitionHeightMetres(tower);
+  if(height===null)return tower.heightM===null&&tower.modelKey?0.055*finiteScale:null;
+  // Keep Paris near its established .28 display height, with much less of the
+  // old .07 minimum that made 1m, 5m and 20m structures look alike.
+  return Math.min(.33,.01+.27*Math.pow(height/330,.66))*finiteScale;
 }
 
 export function hasExhibitModel(tower: SceneTower): boolean {
@@ -40,7 +40,7 @@ export function angularDistance(a: SceneTower, b: SceneTower): number {
 export function clusterTowers(towers: SceneTower[], selectedId: string, scale = 1): TowerCluster[] {
   const finiteScale = Number.isFinite(scale) ? Math.max(0.1, Math.min(1.6, scale)) : 1;
   const remaining = [...towers].sort((a, b) => Number(hasExhibitModel(b)) - Number(hasExhibitModel(a))
-    || Number(b.id === selectedId) - Number(a.id === selectedId) || (b.heightM ?? 0) - (a.heightM ?? 0) || a.id.localeCompare(b.id));
+    || Number(b.id === selectedId) - Number(a.id === selectedId) || (exhibitionHeightMetres(b) ?? 0) - (exhibitionHeightMetres(a) ?? 0) || a.id.localeCompare(b.id));
   // At regional display size every recorded location gets its own miniature or
   // point. Keeping a single representative here defeated the size slider even
   // when all of the models would comfortably fit in the same camera region.

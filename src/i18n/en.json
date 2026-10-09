@@ -672,5 +672,17 @@
   "正在读取地标资料，地球已可旋转": "Loading landmarks · you can already rotate the globe",
   "可以先旋转与探索，其他建筑会逐步出现": "Explore now · more buildings will appear as they load",
   "正在添加建筑 · {0}/{1}": "Adding buildings · {0}/{1}",
-  "近景地表正在细化，可以继续探索": "Close-up terrain is refining · keep exploring"
+  "近景地表正在细化，可以继续探索": "Close-up terrain is refining · keep exploring",
+  "展示尺寸依据": "Display size reference",
+  "图片估算": "Photo estimate",
+  "来源高度线索": "Unverified height reference",
+  "按照片中的人物、门窗或场景参照物粗略估算，透视与遮挡会影响结果。": "Roughly estimated from people, doorways or scene references; perspective and occlusion affect the result.",
+  "保留未采用的来源高度说法，用于区分地球上的展示尺寸。": "Unadopted source height references help distinguish display sizes on the globe.",
+  "实际高度仍待核实；不进入高度榜单或严格同口径比较。": "Actual height remains unverified; excluded from height rankings and strict comparisons.",
+  "查看尺寸参考来源": "View size reference",
+  "展示大小参考高度线索或图片估算；实际高度待核，不进入严格高度比较。": "Display size uses height references or photo estimates; actual height remains unverified and excluded from strict comparison.",
+  "来源高度线索或图片估算仅用于地球展示；尚未采用为事实高度，不参与排序和高度排名。": "Height references and photo estimates are for the globe display; they are not adopted factual heights and do not affect sorting or rankings.",
+  "高度区分已采用记录、来源线索与图片估算；排序与榜单仍只使用已采用记录。": "Adopted heights, unverified references and photo estimates are labeled separately; sorting and rankings still use adopted heights only.",
+  "用户估算": "User estimate",
+  "用户根据照片提供的约数，用于展示尺度；尚无现场测量依据。": "Approximate size provided by the user from the photo; no on-site measurement is available."
 }

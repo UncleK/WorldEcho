@@ -2,6 +2,7 @@ import { t, getLanguage } from '../i18n/messages.ts';
 import type { SceneTower, ModelKey, ViewMode, ComparisonKind, ModelView } from '../types';
 import { formatMetres, toMetres } from './measurements.mjs';
 import { placeIdFromPath } from './place-entry.mjs';
+import { displayHeightEvidence, displayHeightRange } from './display-height.mjs';
 
 export interface Photo {
   id: string; url: string; thumbnail: string; author: string | null; capturedAt: string | null;
@@ -41,7 +42,7 @@ export interface AppCatalog { version: string; generatedAt?: string; communityRe
 export const toSceneTower = (tower: Tower): SceneTower => ({ id: tower.id, name: tower.label, countryCode: tower.countryCode,
   lat: tower.coordinates.lat, lon: tower.coordinates.lon, heightM: tower.heightM, heightText: heightLabel(tower), heightScope: tower.height?.scope ?? 'unknown', modelKey: tower.modelKey,modelScope:tower.modelScope,modelContext:tower.modelContext });
 export function heightLabel(tower: Tower) {
-  if (!tower.height) return t("待核对");
+  if (!tower.height) return displayHeightRange(tower.id,getLanguage())??t("待核对");
   const originalUnit = tower.height.originalUnit ?? tower.height.researchOriginal?.unit;
   const converted = tower.height.unit !== 'm' || (!!originalUnit && originalUnit !== 'm');
   return formatMetres(tower.heightM ?? toMetres(tower.height), tower.height.precision === 'approximate', converted, getLanguage());
@@ -51,7 +52,7 @@ export function replicaRatioLabel(value:string|number|null|undefined){
   return value??'—';
 }
 export function heightScope(tower: Tower) {
-  if (!tower.height) return t("高度待补");
+  if (!tower.height) {const estimate=displayHeightEvidence(tower.id);return estimate?.displayM?t(estimate.method==='user-estimate'?'用户估算':estimate.method==='photo-estimate'?'图片估算':'来源高度线索'):t("高度待补");}
   return tower.height.scope === 'total' ? t("总高度") : tower.height.scope === 'structure' ? t("结构高度") : t("参考高度");
 }
 export function builtLabel(tower: Tower) {

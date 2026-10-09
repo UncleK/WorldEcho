@@ -672,5 +672,17 @@
   "正在读取地标资料，地球已可旋转": "Chargement des monuments · le globe peut déjà tourner",
   "可以先旋转与探索，其他建筑会逐步出现": "Explorez dès maintenant · les autres bâtiments apparaîtront progressivement",
   "正在添加建筑 · {0}/{1}": "Ajout des bâtiments · {0}/{1}",
-  "近景地表正在细化，可以继续探索": "Affinage du sol en gros plan · continuez à explorer"
+  "近景地表正在细化，可以继续探索": "Affinage du sol en gros plan · continuez à explorer",
+  "展示尺寸依据": "Référence de taille affichée",
+  "图片估算": "Estimation sur photo",
+  "来源高度线索": "Indication de hauteur non vérifiée",
+  "按照片中的人物、门窗或场景参照物粗略估算，透视与遮挡会影响结果。": "Estimation approximative à partir de personnes, de portes ou de repères; la perspective et les occultations influencent le résultat.",
+  "保留未采用的来源高度说法，用于区分地球上的展示尺寸。": "Les indications de hauteur non retenues servent à différencier les tailles sur le globe.",
+  "实际高度仍待核实；不进入高度榜单或严格同口径比较。": "La hauteur réelle reste à vérifier; exclue des classements et comparaisons strictes.",
+  "查看尺寸参考来源": "Voir la référence de taille",
+  "展示大小参考高度线索或图片估算；实际高度待核，不进入严格高度比较。": "La taille affichée utilise des indications ou estimations sur photo; hauteur réelle à vérifier, exclue des comparaisons strictes.",
+  "来源高度线索或图片估算仅用于地球展示；尚未采用为事实高度，不参与排序和高度排名。": "Les indications et estimations sont destinées au globe; elles ne constituent pas des hauteurs retenues et ne modifient pas les tris ou classements.",
+  "高度区分已采用记录、来源线索与图片估算；排序与榜单仍只使用已采用记录。": "Hauteurs retenues, indications et estimations sont étiquetées séparément; tris et classements utilisent seulement les hauteurs retenues.",
+  "用户估算": "Estimation utilisateur",
+  "用户根据照片提供的约数，用于展示尺度；尚无现场测量依据。": "Taille approximative proposée par l’utilisateur sur photo; aucune mesure sur place n’est disponible."
 }

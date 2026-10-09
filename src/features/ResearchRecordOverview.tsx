@@ -4,6 +4,7 @@ import type { ResearchRow, ResearchSource } from '../catalog/research';
 import { metricCopy } from '../domain/measurements.mjs';
 import { getLanguage, t } from '../i18n';
 import './research-record.css';
+import DisplayHeightEvidence from './DisplayHeightEvidence';
 
 export default function ResearchRecordOverview({ row, sources }: { row: ResearchRow; sources: Map<string, ResearchSource> }) {
   return <div className="research-record-summary" data-research-record={row.id}>
@@ -15,6 +16,7 @@ export default function ResearchRecordOverview({ row, sources }: { row: Research
     </div>
     <p className="research-record-story">{row.summary ? metricCopy(row.summary, getLanguage()) : t('目前保留为可追溯的调查记录；建造缘由、使用情况或现状仍需继续补证。')}</p>
     {row.summary && <EvidenceSources ids={row.summarySourceIds} sources={sources} />}
+    <DisplayHeightEvidence id={row.aliasOf??row.id} heightM={row.heightM}/>
     {row.uses.length > 0 && <p className="research-record-uses">{t('来源记录用途：')}{row.uses.join(' · ')}</p>}
     <section className="research-record-location" aria-label={t('位置与现状')}>
       <h3>{t('位置与现状')}</h3>

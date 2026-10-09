@@ -112,7 +112,7 @@ export default function CatalogPage() {
         })}</tbody></table></div>}
         <div className="cat-pagination"><span role="status" aria-live="polite">{page.total ? t("{0}–{1} / {2} 条", (page.page - 1) * query.pageSize + 1, Math.min(page.page * query.pageSize, page.total), count(page.total)) : t("0 条匹配记录")}</span><div><label>{t("每页")}<select aria-label={t("每页行数")} value={query.pageSize} onChange={event => filter({ pageSize: Number(event.target.value) })}><option value={25}>25</option><option value={50}>50</option><option value={100}>100</option></select></label><button aria-label={t("上一页")} disabled={page.page === 1} onClick={() => update({ page: page.page - 1 })}><ChevronLeft size={17} /></button><strong>{page.page}<span> / {page.pageCount}</span></strong><button aria-label={t("下一页")} disabled={page.page === page.pageCount} onClick={() => update({ page: page.page + 1 })}><ChevronRight size={17} /></button></div></div>
       </section>
-      <footer className="cat-footer"><span>{t("World Echo · 世界回响")}</span><p>{t("研究收录包含待核线索与历史设施；高度只采用有出处的选定记录，统一显示米。材料为多标签来源分类，未知项保留未知。")}</p><a href="/">{t("回到地标星球")}<ArrowUpRight size={13} /></a></footer>
+      <footer className="cat-footer"><span>{t("World Echo · 世界回响")}</span><p>{t("高度区分已采用记录、来源线索与图片估算；排序与榜单仍只使用已采用记录。")}</p><a href="/">{t("回到地标星球")}<ArrowUpRight size={13} /></a></footer>
       </>}
     </main>
     {viewModel?.modelKey && <Suspense fallback={null}><ModelViewer towerId={viewModel.id} modelKey={viewModel.modelKey} name={data?.entries.find(entry=>entry.id===viewModel.id)?.name??viewModel.name} partial={viewModel.modelScope==='visible-section'} modelCollection={viewModel.modelCollection} modelContext={viewModel.modelContext} onClose={()=>setViewModel(null)}/></Suspense>}

@@ -12,6 +12,7 @@ import type { ReactNode, RefObject } from 'react';
 import { ArrowUpRight, Check, ExternalLink, Globe2,
   Layers3, PanelLeftClose, PanelLeftOpen, MapPin, Maximize2, Minimize2, Plus, Search, X, Info, Flag } from 'lucide-react';
 import GlobeLoading from './features/GlobeLoading';
+import { displayHeightEvidence } from './domain/display-height.mjs';
 import { useTowerPlay } from './features/useTowerPlay';
 import TowerPlayStatus from './features/TowerPlayStatus';
 import { TOWER_TRIGGERS, towerPlayCopy } from './domain/tower-play';
@@ -425,7 +426,7 @@ export default function App() {
           <div className="tower-contribution"><div><button onClick={()=>askCommunity({type:'feedback',towerId:selected.id,name:selected.name,initialField:selected.heightM===null?'height':selected.status?.value==='unknown'?'status':'other'})}><Flag size={13}/>{t('信息对吗？帮忙核对')}</button><button onClick={()=>askCommunity({type:'submission'})}><Plus size={13}/>{t('补充家乡的塔')}</button></div></div>
           {detailsExpanded ? <div ref={setResearchSummaryTarget} className="research-record-summary-slot"/> : <>
           <div className="facts-row"><div><strong>{heightLabel(selected)}</strong><span>{heightScope(selected)}</span></div><div><strong>{builtLabel(selected)}</strong><span>{builtLabel(selected) === '—' ? t("年代待补") : yearScope(selected)}</span></div></div>
-          {selected.modelContext==='inferred-completion' && <p className="model-scale-disclosure">{t('含推测补全')}</p>}{selected.modelScope==="visible-section" && <p className="model-scale-disclosure">{t("只呈现实景可见的塔段，未补造被遮挡的塔体。")}</p>}{selected.modelKey && selected.heightM === null && <p className="model-scale-disclosure">{t("这个模型采用独立展示尺寸；实际高度待核，不进入高度比较。")}</p>}
+          {selected.modelContext==='inferred-completion' && <p className="model-scale-disclosure">{t('含推测补全')}</p>}{selected.modelScope==="visible-section" && <p className="model-scale-disclosure">{t("只呈现实景可见的塔段，未补造被遮挡的塔体。")}</p>}{selected.modelKey && selected.heightM === null && <p className="model-scale-disclosure">{displayHeightEvidence(selected.id)?.displayM?t('展示大小参考高度线索或图片估算；实际高度待核，不进入严格高度比较。'):t("这个模型采用独立展示尺寸；实际高度待核，不进入高度比较。")}</p>}
           <p className="tower-story">{selected.editorial?.summary ?? t("这座地标位于{0}。它的地方故事与更多实景正在补充，先从地图和已有照片认识这里。", selected.label)}</p>
           {!!selected.editorial?.currentUses.length && <div className="use-tags" aria-label={t("主要用途")}>{selected.editorial.currentUses.map((use)=><span key={use}>{use}</span>)}</div>}
           {selected.editorial?.visitorNotice && (!selected.editorial.visitorNotice.endDate || new Date(selected.editorial.visitorNotice.endDate+'T23:59:59').getTime() >= Date.now()) && <a className="visitor-notice" href={selected.editorial.visitorNotice.sourceUrl} target="_blank" rel="noreferrer"><Info size={13} />{selected.editorial.visitorNotice.text}</a>}

@@ -75,11 +75,11 @@ test('nearby chains do not merge the whole world; every entity occurs exactly on
 
 test('exhibition sizing never invents a recorded or comparable height', () => {
   const unknown=tower('unknown',0,0,null);
-  assert.equal(exhibitTowerHeight(unknown),0.09);
-  assert.equal(exhibitTowerHeight(unknown,.2),0.018);
+  assert.equal(exhibitTowerHeight(unknown),0.055);
+  assert.equal(exhibitTowerHeight(unknown,.2),0.011000000000000001);
   assert.equal(unknown.heightM,null);
   const partial={...tower('partial',0,0,330),modelScope:'visible-section'};
-  assert.equal(exhibitTowerHeight(partial),0.09);assert.equal(partial.heightM,330);
+  assert.equal(exhibitTowerHeight(partial),0.055);assert.equal(partial.heightM,330);
   assert.equal(exhibitTowerHeight(tower('point',0,0,null,null)),null);
   assert.equal(exhibitTowerHeight(tower('invalid', 0, 0, -20)), null);
   const giant = tower('giant', 0, 0, 100000);
@@ -89,4 +89,20 @@ test('exhibition sizing never invents a recorded or comparable height', () => {
   const original = paris.heightM;
   exhibitTowerHeight(paris, 0.5); exhibitTowerHeight(paris, 1.6);
   assert.equal(paris.heightM, original);
+});
+
+test('small and large landmark heights remain clearly differentiated without changing facts',()=>{
+  const small=tower('small',0,0,2),medium=tower('medium',0,0,20),large=tower('large',0,0,100),paris=tower('paris',0,0,330);
+  assert.ok(exhibitTowerHeight(medium)>exhibitTowerHeight(small)*2.5);
+  assert.ok(exhibitTowerHeight(large)>exhibitTowerHeight(medium)*2);
+  assert.ok(Math.abs(exhibitTowerHeight(paris)-.28)<1e-9);
+  assert.equal(small.heightM,2);assert.equal(medium.heightM,20);
+});
+
+test('source clues and photo estimates size unknown models while canonical heights stay null',()=>{
+  const tiny=tower('ad-andorra-tower-at-a-restaurant',0,0,null),photo=tower('pk-rawalpindi-bahria-phase-8',0,0,null);
+  assert.ok(exhibitTowerHeight(photo)>exhibitTowerHeight(tiny)*3);
+  assert.equal(tiny.heightM,null);assert.equal(photo.heightM,null);
+  const missing=tower('new-unreviewed-tower',0,0,null);
+  assert.equal(exhibitTowerHeight(missing),.055);
 });
