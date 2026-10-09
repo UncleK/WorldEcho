@@ -48,6 +48,7 @@ function pixels(texture: Texture) {
 const declarations = EARTH_WEATHER_GLSL + `
 uniform sampler2D earthNight;
 uniform sampler2D earthLand;
+uniform float earthViewScale;
 varying vec2 vEarthUv;
 varying vec3 vEarthNormal;
 varying vec3 vEarthWorld;
@@ -73,7 +74,7 @@ export function createRealisticEarth(
   color.colorSpace = maps.night.colorSpace = SRGBColorSpace;
   land.colorSpace = maps.surface.colorSpace = NoColorSpace;
   for (const texture of [color, land, maps.night, maps.surface]) {
-    texture.anisotropy = mobile ? 4 : 8;
+    texture.anisotropy = mobile ? 8 : 16;
     texture.wrapS = RepeatWrapping;
   }
   const sampleRelief = pixels(maps.surface), sampleLand = pixels(land);
@@ -92,7 +93,8 @@ export function createRealisticEarth(
     positions.setXYZ(i, point.x, point.y, point.z);
   }
   geometry.computeVertexNormals(); geometry.computeBoundingSphere();
-  const uniforms = { ...weather, earthNight: { value: maps.night }, earthLand: { value: land } };
+  const viewScale={value:1};
+  const uniforms = { ...weather, earthNight: { value: maps.night }, earthLand: { value: land },earthViewScale:viewScale };
   const material = new MeshStandardMaterial({ map: color, bumpMap: maps.surface, bumpScale: .0028,
     roughness: .8, metalness: 0, envMapIntensity: .08, emissive: '#ffffff', emissiveIntensity: 1 });
   material.onBeforeCompile = shader => {
@@ -110,12 +112,19 @@ export function createRealisticEarth(
       float solar = dot(earthN,earthSun);
       float landAmount = smoothstep(.05,.65,texture2D(earthLand,vEarthUv).r);
       float daylight = earthDaylight;
-      float closeUp = 1.-smoothstep(.28,1.05,length(cameraPosition-vEarthWorld));
+      float closeUp = 1.-smoothstep(.28,1.05,length(cameraPosition-vEarthWorld)/max(1.,earthViewScale));
       float detailFilter = 1.-smoothstep(.7,2.5,1100.*max(length(dFdx(earthN)),length(dFdy(earthN))));
       float landGrainA=0.,landGrainB=0.;
+      float microA=0.,microB=0.;
+      float microStrength=smoothstep(4.,20.,earthViewScale)*closeUp;
+      float microFilter=1.-smoothstep(.7,2.5,13417.*max(length(dFdx(earthN)),length(dFdy(earthN))));
       if(closeUp>.01 && landAmount>.05){
         landGrainA=seaNoise(earthN*1100.)-.5;
         landGrainB=seaNoise(earthN.yzx*1453.+vec3(17.3))-.5;
+        if(microStrength>.01 && microFilter>.01){
+          microA=seaNoise(earthN*9000.)-.5;
+          microB=seaNoise(earthN.yzx*13417.+vec3(11.7))-.5;
+        }
         float dry=smoothstep(-.02,.055,diffuseColor.r-diffuseColor.g);
         vec3 localTint=mix(vec3(.10,.15,.085),vec3(.36,.25,.14),dry);
         float ice=smoothstep(.52,.78,min(diffuseColor.r,min(diffuseColor.g,diffuseColor.b)));
@@ -123,12 +132,13 @@ export function createRealisticEarth(
         float value=clamp(dot(diffuseColor.rgb,vec3(.2126,.7152,.0722))*1.8+.6,.7,1.25);
         diffuseColor.rgb=mix(diffuseColor.rgb,localTint*value,closeUp*.30*landAmount);
         diffuseColor.rgb*=1.+landGrainA*.15*closeUp*detailFilter;
+        diffuseColor.rgb*=1.+microA*.18*microStrength*microFilter;
       }
       float cloudShade = earthCloudShadow(vEarthWorld);
       diffuseColor.rgb = mix(mix(diffuseColor.rgb,vec3(.008,.026,.057),.4),diffuseColor.rgb,landAmount);
     `).replace('#include <roughnessmap_fragment>', `
       float mappedRoughness = texture2D(earthSurface,vEarthUv).g;
-      float roughnessFactor = mix(.26,mix(.62,.93,mappedRoughness),landAmount);
+      float roughnessFactor = clamp(mix(.26,mix(.62,.93,mappedRoughness),landAmount)+microA*.12*microStrength*microFilter*landAmount,.22,.98);
     `).replace('#include <normal_fragment_maps>', `
       #include <normal_fragment_maps>
       vec3 east = normalize(vec3(earthN.z,0.,-earthN.x)+vec3(.00001,0.,.00001));
@@ -139,7 +149,8 @@ export function createRealisticEarth(
       vec3 ripple = east*waveA+north*waveB;
       normal = normalize(mix(normal,mat3(viewMatrix)*earthN,1.-landAmount)
         + mat3(viewMatrix)*ripple*.04*waveFilter*(1.-landAmount)
-        + mat3(viewMatrix)*(east*landGrainA+north*landGrainB)*.075*detailFilter*closeUp*landAmount);
+        + mat3(viewMatrix)*(east*landGrainA+north*landGrainB)*.075*detailFilter*closeUp*landAmount
+        + mat3(viewMatrix)*(east*microA+north*microB)*.09*microStrength*microFilter*landAmount);
     `).replace('#include <lights_fragment_end>', `
       #include <lights_fragment_end>
       reflectedLight.directDiffuse *= 1.-cloudShade*.52;
@@ -159,12 +170,13 @@ export function createRealisticEarth(
       outgoingLight = mix(outgoingLight,airColor,edge*mix(.06,.27,daylight));
     `);
   };
-  material.customProgramCacheKey = () => 'worldecho-earth-webgl-v6-moonlit-detail';
+  material.customProgramCacheKey = () => 'worldecho-earth-webgl-v7-optical-microdetail';
 
   const climate = createWeatherLayers(weather, mobile, true);
   return {
     geometry, material, radiusAt, realistic: true,
     layers: climate.layers, update: climate.update,
+    setViewScale:zoom=>{viewScale.value=Math.max(1,zoom);},
     dispose: () => { geometry.dispose(); material.dispose(); climate.dispose(); },
   };
 }

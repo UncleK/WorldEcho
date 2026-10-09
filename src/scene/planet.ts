@@ -18,6 +18,7 @@ export interface PlanetSurface {
   coast?: { geometry: BufferGeometry; material: MeshStandardMaterial };
   layers?: { geometry: SphereGeometry; material: ShaderMaterial; renderOrder: number }[];
   realistic?: boolean;
+  setViewScale?: (zoom: number) => void;
   update?: (seconds: number, sunDirection: Vector3, cameraRadius: number, coverage?: number, daylight?: number, warmth?: number) => void;
   radiusAt: (lat: number, lon: number) => number;
   dispose: () => void;
@@ -58,14 +59,15 @@ float globeNoise(vec3 x) {
     mix(mix(globeHash(i+vec3(0,0,1)),globeHash(i+vec3(1,0,1)),f.x),mix(globeHash(i+vec3(0,1,1)),globeHash(i+vec3(1,1,1)),f.x),f.y),f.z);
 }`;
 
-function addMineralSurface(material: MeshStandardMaterial, style: EarthStyle, land: boolean) {
+function addMineralSurface(material: MeshStandardMaterial, style: EarthStyle, land: boolean, viewScale:{value:number}) {
   material.onBeforeCompile = (shader) => {
+    shader.uniforms.planetViewScale=viewScale;
     shader.vertexShader = `varying vec3 vPlanetPosition; varying vec3 vPlanetWorld;\n${shader.vertexShader}`.replace('#include <begin_vertex>', '#include <begin_vertex>\nvPlanetPosition = position;').replace('#include <worldpos_vertex>', '#include <worldpos_vertex>\nvPlanetWorld = (modelMatrix * vec4(transformed,1.)).xyz;');
-    shader.fragmentShader = `varying vec3 vPlanetPosition; varying vec3 vPlanetWorld;\n${noiseShader}\n${shader.fragmentShader}`.replace('#include <color_fragment>', `
+    shader.fragmentShader = `uniform float planetViewScale; varying vec3 vPlanetPosition; varying vec3 vPlanetWorld;\n${noiseShader}\n${shader.fragmentShader}`.replace('#include <color_fragment>', `
       #include <color_fragment>
       vec3 p = normalize(vPlanetPosition);
       float grain = globeNoise(p*780.0);
-      float closeDetail = 1.-smoothstep(.18,.9,length(cameraPosition-vPlanetWorld));
+      float closeDetail = 1.-smoothstep(.18,.9,length(cameraPosition-vPlanetWorld)/max(1.,planetViewScale));
       float grainFilter = 1.-smoothstep(.6,2.2,780.*max(length(dFdx(p)),length(dFdy(p))));
       float mineral = globeNoise(p*26.0)*.60 + globeNoise(p*73.0)*.25 + grain*.15;
       ${land ? `
@@ -88,7 +90,7 @@ function addMineralSurface(material: MeshStandardMaterial, style: EarthStyle, la
         +mat3(viewMatrix)*(east*(grain-.5)+north*(globeNoise(p.yzx*983.)-.5))*.07*closeDetail*grainFilter);` : ''}
     `);
   };
-  material.customProgramCacheKey = () => `towerworld-vector-${style}-${land ? 'land' : 'ocean'}-v5`;
+  material.customProgramCacheKey = () => `towerworld-vector-${style}-${land ? 'land' : 'ocean'}-v6-optical`;
 }
 
 export function createPlanetSurface(colorMap: Texture | null, heightMap: Texture | null, mobile: boolean, style: EarthStyle, landData: LandData, details?: EarthDetailMaps, weather?: EarthWeather): PlanetSurface {
@@ -111,8 +113,9 @@ export function createPlanetSurface(colorMap: Texture | null, heightMap: Texture
       landMaterial.emissive.set('#193344'); landMaterial.emissiveIntensity = 0.22;
       coastMaterial.emissive.set('#779caa'); coastMaterial.emissiveIntensity = 0.3;
     }
-    addMineralSurface(material, style, false);
-    addMineralSurface(landMaterial, style, true);
+    const viewScale={value:1};
+    addMineralSurface(material, style, false,viewScale);
+    addMineralSurface(landMaterial, style, true,viewScale);
     const climate = weather ? createWeatherLayers(weather, mobile, false) : null;
     if (weather) for (const surface of [material, landMaterial, coastMaterial]) shadeMaterialByWeather(surface, weather);
     return {
@@ -120,6 +123,7 @@ export function createPlanetSurface(colorMap: Texture | null, heightMap: Texture
       layers: climate?.layers, update: climate?.update,
       // Coarse coast data omits small islands. Anchor safely above the miniature shell without asserting terrain accuracy.
       radiusAt: miniatureRadius,
+      setViewScale:zoom=>{viewScale.value=Math.max(1,zoom);},
       dispose: () => { geometry.dispose(); meshes.land.dispose(); meshes.coast.dispose(); material.dispose(); landMaterial.dispose(); coastMaterial.dispose(); climate?.dispose(); },
     };
   }
