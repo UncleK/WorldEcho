@@ -1,11 +1,12 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef } from 'react';
 import { Html } from '@react-three/drei';
 import { useFrame, useThree, type ThreeEvent } from '@react-three/fiber';
 import { Box3, Group, Mesh, Quaternion, Vector3 } from 'three';
 import type { SceneTower } from '../types';
 import { useLanguage } from '../i18n';
 import { TOWER_TRIGGERS, towerPlayCopy, type TowerPlayState, type TowerPlayAction } from '../domain/tower-play';
-import { createPlayHat, disposePlayObject } from '../playground/hat-models';
+import { acquireHat } from './hat-cache';
+import { useSceneWork } from './scene-work';
 import { hatChoice, type EffectName } from '../playground/play-state';
 import { EARTH_RADIUS, geoNormal, isPointVisibleFromCamera } from './geo';
 import { HAT_FLIGHT_END, HAT_FLIGHT_START, HAT_SHOW_END, hatFlightProgress, smoothFlight, type HatFlightPlan } from './hat-flight';
@@ -47,15 +48,15 @@ export function WorldPlaySequence({ runtime, action, reduced, suspended, onRevea
 }
 
 export function TowerHat({ tower, seed, detail, runtime, reduced, plan }: { tower: SceneTower; seed: string; detail: boolean; runtime: PlayRuntime; reduced: boolean; plan: HatFlightPlan }) {
-  const choice = hatChoice(seed, tower.id), [hat, setHat] = useState<Group | null>(null), root = useRef<Group>(null);
+  const choice = hatChoice(seed, tower.id), root = useRef<Group>(null);
+  const queue = useSceneWork();
   const delay = plan.visits.get(tower.id)?.arrival ?? HAT_FLIGHT_END;
   const hatInfo=useMemo(()=>({echoHat:tower.id,echoLanded:false,echoArrival:delay}),[tower.id,delay]);
   useEffect(() => {
-    const next = createPlayHat(choice.kind, choice.palette, detail ? 'detail' : 'overview');
-    // Hats decorate the model but never steal its normal body selection.
-    next.traverse(object => { object.raycast = () => {}; });
-    setHat(next); return () => disposePlayObject(next);
-  }, [choice.kind, choice.palette, detail]);
+    let owned: ReturnType<typeof acquireHat> | undefined;
+    const cancel = queue.add(() => { owned = acquireHat(choice.kind, choice.palette, detail ? 'detail' : 'overview'); root.current?.add(owned.object); }, 2-delay/20);
+    return () => { cancel(); owned?.object.removeFromParent(); owned?.release(); };
+  }, [choice.kind, choice.palette, detail, queue]);
   useFrame(() => {
     if (!root.current) return;
     const p = reduced || runtime.effect !== 'hats' ? 1 : Math.min(1, Math.max(0, (runtime.age-delay)/.75));
@@ -66,8 +67,7 @@ export function TowerHat({ tower, seed, detail, runtime, reduced, plan }: { towe
     root.current.userData.echoLanded = p === 1;
     root.current.userData.echoArrival = delay;
   });
-  return <group ref={root} position={[0, 1.005, 0]} rotation={[0, choice.tilt * 2, choice.tilt]} scale={.72} userData={hatInfo}>
-    {hat && <primitive object={hat} dispose={null}/>}</group>;
+  return <group ref={root} position={[0, 1.005, 0]} rotation={[0, choice.tilt * 2, choice.tilt]} scale={.72} userData={hatInfo} dispose={null}/>;
 }
 
 function TexasHatFlight({ runtime, reduced, plan }: { runtime: PlayRuntime; reduced: boolean; plan: HatFlightPlan }) {
@@ -122,8 +122,7 @@ export function TowerPlayTrigger({ tower, height, disabled, onActivate }: {
     allowed.current = !disabled && camera.position.distanceTo(point) < height * 11 && pixels > 65
       && low.z > -1 && low.z < 1 && isPointVisibleFromCamera(camera.position, point, EARTH_RADIUS);
     if (label.current) label.current.style.display = allowed.current ? '' : 'none';
-    const rect = gl.domElement.getBoundingClientRect();
-    if (import.meta.env.DEV) gl.domElement.dataset.echoTarget = JSON.stringify({ id: tower.id, effect: trigger.effect, near: allowed.current, x: rect.left+(low.x+1)*size.width/2, y: rect.top+(1-low.y)*size.height/2 });
+    if (import.meta.env.DEV) gl.domElement.dataset.echoTarget = JSON.stringify({ id: tower.id, effect: trigger.effect, near: allowed.current, x: size.left+(low.x+1)*size.width/2, y: size.top+(1-low.y)*size.height/2 });
   });
   if (!trigger) return null;
   const activate = (event: ThreeEvent<MouseEvent>) => {

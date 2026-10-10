@@ -5,3 +5,4 @@
 [data-theme=light] .record-evidence p,[data-theme=light] .record-evidence small,[data-theme=light] .record-evidence a{color:#48687f}[data-theme=light] .record-evidence strong{color:#765b36}[data-theme=light] .record-evidence .cat-gallery a{background:#e6eef5}
 
 [data-theme=light] .record-evidence h3{color:#35566e}[data-theme=light] .record-evidence h3>span{color:#587589}
+.cat-source-list>a{display:flex;justify-content:space-between;align-items:center;gap:15px;padding:10px 0;border-bottom:1px solid #263c4a;color:#9fb7c6}.cat-source-list>a>svg{flex-shrink:0}.cat-sources-toggle{display:block;margin-top:12px;padding:9px 13px;border:1px solid #496171;border-radius:7px;background:transparent;color:#bad0dd;font:inherit;font-size:11px;cursor:pointer}.cat-sources-toggle:hover{background:#7892a014}.cat-sources-toggle:focus-visible{outline:2px solid #c9b38b;outline-offset:3px}[data-theme=light] .cat-sources-toggle{color:#3c586c;border-color:#91a7b7}

@@ -684,5 +684,7 @@
   "来源高度线索或图片估算仅用于地球展示；尚未采用为事实高度，不参与排序和高度排名。": "Les indications et estimations sont destinées au globe; elles ne constituent pas des hauteurs retenues et ne modifient pas les tris ou classements.",
   "高度区分已采用记录、来源线索与图片估算；排序与榜单仍只使用已采用记录。": "Hauteurs retenues, indications et estimations sont étiquetées séparément; tris et classements utilisent seulement les hauteurs retenues.",
   "用户估算": "Estimation utilisateur",
+  "收起来源": "Réduire la liste des sources",
+  "展开其余 {0} 条来源": "Afficher les {0} autres sources",
   "用户根据照片提供的约数，用于展示尺度；尚无现场测量依据。": "Taille approximative proposée par l’utilisateur sur photo; aucune mesure sur place n’est disponible."
 }

@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T18:03:40.035Z",
+  "generatedAt": "2026-10-10T13:39:23.893Z",
   "scope": "Public frontend source and static runtime snapshot; not a production-release approval",
   "photoOrigin": "https://worldecho.beaverstudio.net",
   "sourceStable": true,
   "stats": {
-    "sourceFiles": 1369,
-    "exportedFiles": 1378,
-    "bytes": 171969196,
+    "sourceFiles": 1385,
+    "exportedFiles": 1399,
+    "bytes": 181323635,
     "registeredModels": 391,
     "publicModelCases": 391,
     "researchRecords": 554,
@@ -253,6 +253,12 @@
       "origin": "data/types.v1.ts"
     },
     {
+      "path": "data/visual-height-estimates.v1.json",
+      "bytes": 227738,
+      "sha256": "312a95e04e5a4a7e401ab807ae40c952f7d6d745493a8b791911cdfe8c9607cc",
+      "origin": "data/visual-height-estimates.v1.json"
+    },
+    {
       "path": "docs/assets/globe-source.png",
       "bytes": 2070307,
       "sha256": "9190e85ed13584808168c5e0c00e3dbc0fd8c051481fa1fa2d103e3e8adb14c2",
@@ -349,6 +355,36 @@
       "origin": "docs/public-worldecho/generate-assets.mjs"
     },
     {
+      "path": "docs/HEIGHT_DISPLAY_20261009.md",
+      "bytes": 1645,
+      "sha256": "6d1edbceb0ebb506ac1ff7e772bc8b0ac0eb3f1c5b2865255139f960665b1e24",
+      "origin": "previously published public documentation"
+    },
+    {
+      "path": "docs/ORBIT_RESTORE_20261009.md",
+      "bytes": 1279,
+      "sha256": "41d4ae7fd76b296bda5b0ecdd6f541b3661cb071a97e767f4981c789ad5fe828",
+      "origin": "previously published public documentation"
+    },
+    {
+      "path": "docs/PROGRESSIVE_LOADING_20261009.md",
+      "bytes": 2103,
+      "sha256": "2d6d0fc7c47db2cc48950b9cd55388382965d05fbc78ae528a23a42bf3ed9ff6",
+      "origin": "previously published public documentation"
+    },
+    {
+      "path": "docs/ROTATION_SMOOTHING_20261009.md",
+      "bytes": 1674,
+      "sha256": "4c7040ac74b78170273bbbd2a1e8aa5b7a372051b8af2616fc93c36086707a18",
+      "origin": "previously published public documentation"
+    },
+    {
+      "path": "docs/ZOOM_ROTATION_20261009.md",
+      "bytes": 1850,
+      "sha256": "3dfe5c527e3f95115ff8d6ffcf9a47d0de5170bef9fc311b93783fe9a4f46bce",
+      "origin": "previously published public documentation"
+    },
+    {
       "path": "index.html",
       "bytes": 1395,
       "sha256": "83d0216067cfee698c7cf64bc788dbde6344879549f5909d7dc203bc0a351e30",
@@ -409,6 +445,12 @@
       "origin": "public/assets/earth-realism/clouds.webp"
     },
     {
+      "path": "public/assets/earth-realism/detail-source.json",
+      "bytes": 859,
+      "sha256": "ffbdd27fad317680b9e0103d8f24c3196285226e6d718ce2bd4e4b292c73ebfa",
+      "origin": "public/assets/earth-realism/detail-source.json"
+    },
+    {
       "path": "public/assets/earth-realism/night.webp",
       "bytes": 418896,
       "sha256": "4364fbfa0fee6bf87bc81ccb30bd060ba6b9e2b6fd7818a1e43297a7e565f86b",
@@ -419,6 +461,12 @@
       "bytes": 16797,
       "sha256": "fdea9709f02efed19409b49b44ef04bff7f70cf69dca976ec636e7bee7ccf843",
       "origin": "public/assets/earth-realism/source.json"
+    },
+    {
+      "path": "public/assets/earth-realism/surface-detail.webp",
+      "bytes": 9066800,
+      "sha256": "9b2964f34426dc51afba2fd205f8648e99306ba1bd8dc263cf1cc34f7ea476c7",
+      "origin": "public/assets/earth-realism/surface-detail.webp"
     },
     {
       "path": "public/assets/earth-realism/surface.webp",
@@ -3693,7 +3741,7 @@
     {
       "path": "public/assets/portraits/manifest.json",
       "bytes": 945253,
-      "sha256": "973b000b76b5cfa7d3ed9bde5c6fcf1193a22c7f8861724381057f63d07cf6cf",
+      "sha256": "e74adb2a2dcf5ca9b1c729e5550e5a99deaab18a0efd170148fc2fcdc4d2fbf1",
       "origin": "public/assets/portraits/manifest.json"
     },
     {
@@ -7579,6 +7627,12 @@
       "origin": "scripts/catalog-api.mjs"
     },
     {
+      "path": "scripts/globe-bootstrap.mjs",
+      "bytes": 716,
+      "sha256": "6ffcae1b0dc0c38f4c0c9fa4932838130bea5e38be88ab02725ffde62a46d562",
+      "origin": "scripts/globe-bootstrap.mjs"
+    },
+    {
       "path": "scripts/prepare-static-routes.mjs",
       "bytes": 1192,
       "sha256": "56ebee8d162b39ddf53609de819444ee579ed1ada1a49db6d8908199b80e8570",
@@ -7604,8 +7658,8 @@
     },
     {
       "path": "src/App.tsx",
-      "bytes": 45787,
-      "sha256": "efd61639b79c6b764df9f0123e7f4ead8b849c181fc7c497a27bbdd661885df2",
+      "bytes": 46824,
+      "sha256": "25c57ad972e14a36fb40135006a1913f72698ff75c289b65ba72e8c2d0ceaecb",
       "origin": "src/App.tsx"
     },
     {
@@ -7616,26 +7670,26 @@
     },
     {
       "path": "src/catalog/catalog.css",
-      "bytes": 26222,
-      "sha256": "5fac628e0902b7fb3248722acc56514c31376adbc3fecb034d150e93169330d4",
+      "bytes": 26506,
+      "sha256": "d1bf42ae706669036d27a4ed396f9fd30bbd0e704094aa0b037c4c31c1d50982",
       "origin": "src/catalog/catalog.css"
     },
     {
       "path": "src/catalog/CatalogPage.tsx",
-      "bytes": 25772,
-      "sha256": "49717ae29c850993a7ac11b7ff1d129675e1815ec88923204b3c8732770c45cd",
+      "bytes": 25813,
+      "sha256": "c54edbb9a6d3e83e9ef790d5d00cfc65ce8a90faa04c1957b2115091952d1a33",
       "origin": "src/catalog/CatalogPage.tsx"
     },
     {
       "path": "src/catalog/record-evidence.css",
-      "bytes": 3651,
-      "sha256": "fe51eb223fe8bdd1b0ab31f73916c858611f2188d9ce6a9d2e151a3d71ce5d08",
+      "bytes": 4230,
+      "sha256": "4e2ece3d91cf7e279538fc49caf010787c2db51021f0541c74348d8f7c75ef83",
       "origin": "src/catalog/record-evidence.css"
     },
     {
       "path": "src/catalog/RecordEvidence.tsx",
-      "bytes": 4922,
-      "sha256": "b0aedb3b19a926a357083cae474ada87447e21cee80430d5cf0d233ea5e6ddb6",
+      "bytes": 6027,
+      "sha256": "8972eae8ed8a1490539576f184534e9ebbdff7ee2602dd3fa1e4b43456f8ddce",
       "origin": "src/catalog/RecordEvidence.tsx"
     },
     {
@@ -7658,8 +7712,8 @@
     },
     {
       "path": "src/domain/catalog.ts",
-      "bytes": 7968,
-      "sha256": "73e4b81635af96c1284bdfb65bf7e105989aaeee743ecf11c4afa0d9d8ad435b",
+      "bytes": 8285,
+      "sha256": "e4f17623f103e49da3677cb27af70a954b7040b9aa6a84c858397ce855bb8424",
       "origin": "src/domain/catalog.ts"
     },
     {
@@ -7667,6 +7721,12 @@
       "bytes": 432,
       "sha256": "3e505a200c04a262aa61bbdd40e1535fec25477d3d9592a9bffa754753b39311",
       "origin": "src/domain/comparison.mjs"
+    },
+    {
+      "path": "src/domain/display-height.mjs",
+      "bytes": 863,
+      "sha256": "93dda7c10d940513c6b3bec2cece66f6a21503ad2c12ef3fb80fbb43dd1b89a7",
+      "origin": "src/domain/display-height.mjs"
     },
     {
       "path": "src/domain/editorial.mjs",
@@ -7736,8 +7796,8 @@
     },
     {
       "path": "src/domain/usePublicData.ts",
-      "bytes": 1710,
-      "sha256": "6058080c69dfcd002a91ff4e0710f7c83e666c97ee4b56aea3f2452432baa96c",
+      "bytes": 3074,
+      "sha256": "9c225a87636bfae14748ca997de251af899f1c77d4d173d8fde8cbe15e5936a5",
       "origin": "src/domain/usePublicData.ts"
     },
     {
@@ -7789,6 +7849,12 @@
       "origin": "src/features/detail-records.css"
     },
     {
+      "path": "src/features/DisplayHeightEvidence.tsx",
+      "bytes": 1217,
+      "sha256": "d63339b82bcc0dec70371b33458e30cdc4687a3fc64b967646a3a64eaf4e4aea",
+      "origin": "src/features/DisplayHeightEvidence.tsx"
+    },
+    {
       "path": "src/features/explore-controls.css",
       "bytes": 7909,
       "sha256": "db854d988f6508c0c83e7cba5765689877a4539c3cf9aa4872bb1869175cf614",
@@ -7796,9 +7862,21 @@
     },
     {
       "path": "src/features/ExploreControls.tsx",
-      "bytes": 10021,
-      "sha256": "5d14946cb10eb7956f853063ac1c8bfd2b291465e6be2b03029f496cbca80ddb",
+      "bytes": 12690,
+      "sha256": "c9541ddf949364578ee85d638cd2cbd6fea0c99d3fdde7a144805610ab7e8650",
       "origin": "src/features/ExploreControls.tsx"
+    },
+    {
+      "path": "src/features/globe-loading.css",
+      "bytes": 1665,
+      "sha256": "0f0c5d95078b8f71401b7c3df96c9089b50ec5f00d2ebc1661146263c9648529",
+      "origin": "src/features/globe-loading.css"
+    },
+    {
+      "path": "src/features/GlobeLoading.tsx",
+      "bytes": 213,
+      "sha256": "8ac73d4b39d347140dce523163f7fbfb1cc88cc04891022c59e3b3aebdac75ac",
+      "origin": "src/features/GlobeLoading.tsx"
     },
     {
       "path": "src/features/journey-picker.css",
@@ -7874,8 +7952,8 @@
     },
     {
       "path": "src/features/PhotoCarousel.tsx",
-      "bytes": 5926,
-      "sha256": "5238d93088e127a12ff7abe609ec7427a726613cc53c7b9e42051ec9fa08dbf8",
+      "bytes": 5957,
+      "sha256": "9fcd0f01d6f2af67bc8b965894441fec447450586d901255045e7ba8472aeb0e",
       "origin": "src/features/PhotoCarousel.tsx"
     },
     {
@@ -7892,8 +7970,8 @@
     },
     {
       "path": "src/features/research-record.css",
-      "bytes": 3647,
-      "sha256": "f391955d4bbc6aeb81d62fca91da4d4bb566d20274ba3240a4c870dbf154afb0",
+      "bytes": 4027,
+      "sha256": "ada35b34f58bcfc5972f3f93b4833b50fda2b97c00f9f1a7722b8d79b131dea9",
       "origin": "src/features/research-record.css"
     },
     {
@@ -7910,8 +7988,8 @@
     },
     {
       "path": "src/features/ResearchRecordOverview.tsx",
-      "bytes": 2749,
-      "sha256": "6a1ab78fb399799dcaf0479185f8c207550d1ff80e9f6b9dc69a56a353eb1547",
+      "bytes": 2886,
+      "sha256": "8d8c596b029d0a375a220e2ef9ea0354b2b24da3712381c291f224347d2bab4c",
       "origin": "src/features/ResearchRecordOverview.tsx"
     },
     {
@@ -7940,8 +8018,8 @@
     },
     {
       "path": "src/features/tower-filters.css",
-      "bytes": 3054,
-      "sha256": "7ed173424563f84da6582b89d904e9bb8941b4ce988a3e4dc11529602b6b4e7e",
+      "bytes": 3396,
+      "sha256": "90fdfaa91edeec06ec13ef57f952b8e214eab12d539e06ce30417e38f698d65d",
       "origin": "src/features/tower-filters.css"
     },
     {
@@ -7994,8 +8072,8 @@
     },
     {
       "path": "src/i18n/en.json",
-      "bytes": 45144,
-      "sha256": "40afb75eb10b1b6272ea6ef4375b3c65d3f96303f0f235c858f13bb12cc6c04c",
+      "bytes": 47471,
+      "sha256": "b740584ca3ba2f41d4ae732f449ec8d0a002d839a48d91d86c05311272576ff7",
       "origin": "src/i18n/en.json"
     },
     {
@@ -8006,8 +8084,8 @@
     },
     {
       "path": "src/i18n/fr.json",
-      "bytes": 50429,
-      "sha256": "24f620dd7da6255a8126f9c511394b72bdff56a28d769c552e72e6454c0e3a19",
+      "bytes": 52942,
+      "sha256": "ab82da4f27712ca1ed6567d56fd4dd1bacf7aabd95842832f9ec9e73faa1f48a",
       "origin": "src/i18n/fr.json"
     },
     {
@@ -8095,6 +8173,12 @@
       "origin": "src/playground/stage-fx.tsx"
     },
     {
+      "path": "src/scene/AdaptiveResolution.tsx",
+      "bytes": 1183,
+      "sha256": "90fce38729b0489c3b0f37d1217f920d400200a458c2241c45e1339d0e9ed9ab",
+      "origin": "src/scene/AdaptiveResolution.tsx"
+    },
+    {
       "path": "src/scene/comparison-view.ts",
       "bytes": 1593,
       "sha256": "07adcfdcfc2ba55356ae7f77ee86a838bb67274b898403bc88c320b7ecf93d27",
@@ -8102,14 +8186,14 @@
     },
     {
       "path": "src/scene/density.test.mjs",
-      "bytes": 5315,
-      "sha256": "0c45ab5b770d760c5e31a0326d6e7235a9ccefa957eb4d8d20ea27aaeaafc7e6",
+      "bytes": 6288,
+      "sha256": "9b6dab8ec6d079bd8b3a5e6574162b63532bdcbd1f9f3d2785bf651cb38440a2",
       "origin": "src/scene/density.test.mjs"
     },
     {
       "path": "src/scene/density.ts",
-      "bytes": 3586,
-      "sha256": "d606312dbdf51a0d97a32767af4a1c485a211ee6cbf39fa17f68730fbab8e206",
+      "bytes": 3559,
+      "sha256": "79cc517c52f49482d26fa5f5f3647a4f5de2afd79ab34d30aa0e193d9708b3b4",
       "origin": "src/scene/density.ts"
     },
     {
@@ -8120,14 +8204,14 @@
     },
     {
       "path": "src/scene/earth-geometry.ts",
-      "bytes": 7459,
-      "sha256": "7a7a29b29e3d0e4b33ec3ad55e0ffee2113c2e194187926520a7a32f9d499fd1",
+      "bytes": 7461,
+      "sha256": "7c29f77b9f2e0b1fa280a2803910466dc5e96d7d9f9509f528f202a7a07b2ce0",
       "origin": "src/scene/earth-geometry.ts"
     },
     {
       "path": "src/scene/earth-weather.ts",
-      "bytes": 6119,
-      "sha256": "e253c70d47dc1d2d5a8112891165b1e7c460b82177dbb1991103155da90d515e",
+      "bytes": 6153,
+      "sha256": "d1ed32b236c80252701b5b222725449d46c8a1390fd662d97e95bda4360f05e9",
       "origin": "src/scene/earth-weather.ts"
     },
     {
@@ -8149,6 +8233,30 @@
       "origin": "src/scene/geo.ts"
     },
     {
+      "path": "src/scene/globe-zoom.test.mjs",
+      "bytes": 1354,
+      "sha256": "edae6209bfb5c79881af7770e665e9f7f37d21564ec7ec996ab9ac30aa08b272",
+      "origin": "src/scene/globe-zoom.test.mjs"
+    },
+    {
+      "path": "src/scene/globe-zoom.ts",
+      "bytes": 474,
+      "sha256": "924a1aa98e63b2115748fd8438df1771f01189f53ad4a0b96f86d71c3ac8a8e1",
+      "origin": "src/scene/globe-zoom.ts"
+    },
+    {
+      "path": "src/scene/hat-cache.test.mjs",
+      "bytes": 1014,
+      "sha256": "5ce646f3fea294d30ae0d37f666e3d7ce4884395bb1b9dbbb4c982c612a8963a",
+      "origin": "src/scene/hat-cache.test.mjs"
+    },
+    {
+      "path": "src/scene/hat-cache.ts",
+      "bytes": 873,
+      "sha256": "41623e009d503fa3e62a0d6d319247e95ceaf00da6c2c99dc70d2bb452e1b729",
+      "origin": "src/scene/hat-cache.ts"
+    },
+    {
       "path": "src/scene/hat-flight.test.mjs",
       "bytes": 2018,
       "sha256": "6fbbf40278c2c81df58307188c32841c8f25a127e5f72f256067036a910c125d",
@@ -8162,14 +8270,14 @@
     },
     {
       "path": "src/scene/HatLightTrail.tsx",
-      "bytes": 4751,
-      "sha256": "aa8fb13b9f0efa8dc0f7023d666d134de94fc7a9fcb8cb5a1ab0c043af593175",
+      "bytes": 4866,
+      "sha256": "b8137d9ed48218059cee0dcb66e07e8b10a1499c846376ab685cd690db1439fa",
       "origin": "src/scene/HatLightTrail.tsx"
     },
     {
       "path": "src/scene/planet.ts",
-      "bytes": 12493,
-      "sha256": "bc49e7237796e35b041d2f6966ad71a3c63900acbee36583e70bda5ddbe7a313",
+      "bytes": 14078,
+      "sha256": "0c7af46ed68a58ece247722f8fe51acd4ace3906d5a2b51ce7e88ea378f8d432",
       "origin": "src/scene/planet.ts"
     },
     {
@@ -8186,9 +8294,15 @@
     },
     {
       "path": "src/scene/realistic-earth.ts",
-      "bytes": 9624,
-      "sha256": "063258bd176929427c6cb025a8522cb309fa7ed770548593841625cb53f5a8d1",
+      "bytes": 10703,
+      "sha256": "4f3c8e12af0cf0ebfef903471bc963902cb920af27737aa5331eb7ff41d9cf53",
       "origin": "src/scene/realistic-earth.ts"
+    },
+    {
+      "path": "src/scene/scene-work.ts",
+      "bytes": 1319,
+      "sha256": "405aeed260af77f1ead6eba430d2c25e8907bc899be9d7f8a07fee0dfd7c417e",
+      "origin": "src/scene/scene-work.ts"
     },
     {
       "path": "src/scene/show-materials.ts",
@@ -8198,27 +8312,39 @@
     },
     {
       "path": "src/scene/sky.ts",
-      "bytes": 3388,
-      "sha256": "8585d1de5d11dcdb3c39f6e9398425675d943c7251e6d9b38e94e6d25776a700",
+      "bytes": 3389,
+      "sha256": "be59727d378220408b9d2de64492f00a89e37c6ab7f2addef0bd93036bbe3337",
       "origin": "src/scene/sky.ts"
     },
     {
+      "path": "src/scene/style-reuse.test.mjs",
+      "bytes": 2638,
+      "sha256": "62856ed63d3c4d645501d34e482a9799fa7be0f92a1b87b54243f3d066e8d5cb",
+      "origin": "src/scene/style-reuse.test.mjs"
+    },
+    {
       "path": "src/scene/tower-model.ts",
-      "bytes": 254999,
-      "sha256": "955b555ed38c1137a4eaa6cf7185dabfcd026647543f1be9c61a37bc6371904b",
+      "bytes": 259084,
+      "sha256": "3471415a8c979421782fb02e4aeb4cb6980d15bd82e3896252a1efc16db9e6f7",
       "origin": "src/scene/tower-model.ts"
     },
     {
       "path": "src/scene/TowerPlay.tsx",
-      "bytes": 11877,
-      "sha256": "cd9130a8b7481953ed668608c1885c2d2242b8da2fd1f75c3747d7d6f50fab51",
+      "bytes": 11793,
+      "sha256": "9baa5d42b11e7a4ac685533774e5f53f1ad3b054f7b2f0f721b51f0b742ee706",
       "origin": "src/scene/TowerPlay.tsx"
     },
     {
       "path": "src/scene/useEarthAtlas.ts",
-      "bytes": 4127,
-      "sha256": "2accc413e4f332f7b16fdc8299ed95f3d9bda457c15d68e5741a3d8b78e0ebd8",
+      "bytes": 5130,
+      "sha256": "4be37d1e3996f8897bf5ac511816df18852c3b6ba27ea1705c3cf9e5146f0c2c",
       "origin": "src/scene/useEarthAtlas.ts"
+    },
+    {
+      "path": "src/scene/useProgressiveWorld.ts",
+      "bytes": 4007,
+      "sha256": "29f02fcec3bcfb8e9bc5c2d9b84c1e3fd4362fb7c4302e63e94dea2e16ec3a8a",
+      "origin": "src/scene/useProgressiveWorld.ts"
     },
     {
       "path": "src/scene/world-shows.test.mjs",
@@ -8234,8 +8360,8 @@
     },
     {
       "path": "src/scene/WorldScene.tsx",
-      "bytes": 96386,
-      "sha256": "8b01a4b02ac7be3f081a52ca18fa50725106389466b0feaad72069dc7345c12f",
+      "bytes": 107010,
+      "sha256": "031865b30e2386a12051a4a5a4e6668f0ec10f1502abce71ec81cba8109db4c1",
       "origin": "src/scene/WorldScene.tsx"
     },
     {
@@ -8264,8 +8390,8 @@
     },
     {
       "path": "src/types.ts",
-      "bytes": 1996,
-      "sha256": "72e03cdd454154c178e00d31aa4ed7365421f6586beefb24eb0333a8ff8ec917",
+      "bytes": 2241,
+      "sha256": "040e90fb52d0eee274630b7b31ca01b5ec95ad7f59aee57d26556c5ab44284c8",
       "origin": "src/types.ts"
     },
     {
@@ -8288,8 +8414,8 @@
     },
     {
       "path": "vite.config.ts",
-      "bytes": 370,
-      "sha256": "0e14d476035466c32999f21a6d850cc58642ca391219a0a5221bba182ec55837",
+      "bytes": 564,
+      "sha256": "0cb9f1bf2110c99c958b172453b1688a26d63ea66ed736dcc750411f6fc05b85",
       "origin": "generated public adaptation"
     }
   ]

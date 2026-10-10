@@ -684,5 +684,7 @@
   "来源高度线索或图片估算仅用于地球展示；尚未采用为事实高度，不参与排序和高度排名。": "Height references and photo estimates are for the globe display; they are not adopted factual heights and do not affect sorting or rankings.",
   "高度区分已采用记录、来源线索与图片估算；排序与榜单仍只使用已采用记录。": "Adopted heights, unverified references and photo estimates are labeled separately; sorting and rankings still use adopted heights only.",
   "用户估算": "User estimate",
+  "收起来源": "Show fewer sources",
+  "展开其余 {0} 条来源": "Show {0} more sources",
   "用户根据照片提供的约数，用于展示尺度；尚无现场测量依据。": "Approximate size provided by the user from the photo; no on-site measurement is available."
 }

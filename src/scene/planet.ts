@@ -62,8 +62,9 @@ float globeNoise(vec3 x) {
 function addMineralSurface(material: MeshStandardMaterial, style: EarthStyle, land: boolean, viewScale:{value:number}) {
   material.onBeforeCompile = (shader) => {
     shader.uniforms.planetViewScale=viewScale;
+    shader.uniforms.planetDay={value:style==='day'?1:0};
     shader.vertexShader = `varying vec3 vPlanetPosition; varying vec3 vPlanetWorld;\n${shader.vertexShader}`.replace('#include <begin_vertex>', '#include <begin_vertex>\nvPlanetPosition = position;').replace('#include <worldpos_vertex>', '#include <worldpos_vertex>\nvPlanetWorld = (modelMatrix * vec4(transformed,1.)).xyz;');
-    shader.fragmentShader = `uniform float planetViewScale; varying vec3 vPlanetPosition; varying vec3 vPlanetWorld;\n${noiseShader}\n${shader.fragmentShader}`.replace('#include <color_fragment>', `
+    shader.fragmentShader = `uniform float planetViewScale; uniform float planetDay; varying vec3 vPlanetPosition; varying vec3 vPlanetWorld;\n${noiseShader}\n${shader.fragmentShader}`.replace('#include <color_fragment>', `
       #include <color_fragment>
       vec3 p = normalize(vPlanetPosition);
       float grain = globeNoise(p*780.0);
@@ -71,14 +72,14 @@ function addMineralSurface(material: MeshStandardMaterial, style: EarthStyle, la
       float grainFilter = 1.-smoothstep(.6,2.2,780.*max(length(dFdx(p)),length(dFdy(p))));
       float mineral = globeNoise(p*26.0)*.60 + globeNoise(p*73.0)*.25 + grain*.15;
       ${land ? `
-        ${style === 'day' ? `
+        if(planetDay>.5){
           float sahara = exp(-14.0 * dot(p-vec3(.16,.38,.91),p-vec3(.16,.38,.91)));
           float australia = exp(-30.0 * dot(p-vec3(.67,-.43,-.60),p-vec3(.67,-.43,-.60)));
           float dry = clamp(sahara*1.8+australia*1.2+mineral*.22-.17,0.,1.);
           diffuseColor.rgb = mix(diffuseColor.rgb,vec3(.56,.37,.16),dry);
           float ice = smoothstep(.88,.97,abs(p.y)+mineral*.075);
           diffuseColor.rgb = mix(diffuseColor.rgb,vec3(.75,.81,.80),ice);
-        ` : ''}
+        }
         diffuseColor.rgb *= .87+mineral*.24+(grain-.5)*.16*closeDetail*grainFilter;
       ` : 'diffuseColor.rgb *= .965+globeNoise(p*130.)*.07;'}
     `).replace('#include <normal_fragment_maps>', `
@@ -90,16 +91,22 @@ function addMineralSurface(material: MeshStandardMaterial, style: EarthStyle, la
         +mat3(viewMatrix)*(east*(grain-.5)+north*(globeNoise(p.yzx*983.)-.5))*.07*closeDetail*grainFilter);` : ''}
     `);
   };
-  material.customProgramCacheKey = () => `towerworld-vector-${style}-${land ? 'land' : 'ocean'}-v6-optical`;
+  material.customProgramCacheKey = () => `towerworld-vector-${land ? 'land' : 'ocean'}-v7-uniform-theme`;
 }
 
-export function createPlanetSurface(colorMap: Texture | null, heightMap: Texture | null, mobile: boolean, style: EarthStyle, landData: LandData, details?: EarthDetailMaps, weather?: EarthWeather): PlanetSurface {
+export function createMiniatureGeometry(landData: LandData, mobile: boolean) {
+  const geometry = new SphereGeometry(EARTH_RADIUS, mobile ? 144 : 224, mobile ? 96 : 144);
+  const meshes = createEarthGeometry(landData, mobile);
+  return { geometry, ...meshes, dispose: () => { geometry.dispose(); meshes.land.dispose(); meshes.coast.dispose(); } };
+}
+
+export function createPlanetSurface(colorMap: Texture | null, heightMap: Texture | null, mobile: boolean, style: EarthStyle, landData: LandData, details?: EarthDetailMaps, weather?: EarthWeather, miniature?: ReturnType<typeof createMiniatureGeometry>): PlanetSurface {
   if (style === 'satellite' && colorMap && heightMap && details) {
     return createRealisticEarth(colorMap, heightMap, details, mobile, style, weather);
   }
   if (style !== 'satellite') {
-    const geometry = new SphereGeometry(EARTH_RADIUS, mobile ? 144 : 224, mobile ? 96 : 144);
-    const meshes = createEarthGeometry(landData, mobile);
+    const meshes = miniature ?? createMiniatureGeometry(landData, mobile);
+    const geometry = meshes.geometry;
     const palette = style === 'porcelain'
       ? { ocean: '#224d70', land: '#e8dfc7', coast: '#b79758', roughness: 0.39, metalness: 0.06 }
       : style === 'night'
@@ -124,7 +131,7 @@ export function createPlanetSurface(colorMap: Texture | null, heightMap: Texture
       // Coarse coast data omits small islands. Anchor safely above the miniature shell without asserting terrain accuracy.
       radiusAt: miniatureRadius,
       setViewScale:zoom=>{viewScale.value=Math.max(1,zoom);},
-      dispose: () => { geometry.dispose(); meshes.land.dispose(); meshes.coast.dispose(); material.dispose(); landMaterial.dispose(); coastMaterial.dispose(); climate?.dispose(); },
+      dispose: () => { if (!miniature) meshes.dispose(); material.dispose(); landMaterial.dispose(); coastMaterial.dispose(); climate?.dispose(); },
     };
   }
   if (!colorMap || !heightMap) throw new Error('Satellite surface requires its loaded atlas');

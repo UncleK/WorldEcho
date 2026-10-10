@@ -5,7 +5,7 @@ import {
 import { Canvas, useFrame, useThree, type ThreeEvent } from '@react-three/fiber';
 import { CameraControls, CameraControlsImpl, Html } from '@react-three/drei';
 import {
-  Group, Material, Mesh, MeshBasicMaterial, OrthographicCamera, PerspectiveCamera, Box3, Ray, Matrix4,
+  Group, Material, Mesh, MeshBasicMaterial, OrthographicCamera, PerspectiveCamera, Box3, Ray, Matrix4, DataTexture,
   PlaneGeometry, PMREMGenerator, PointsMaterial, Quaternion, SphereGeometry, Vector3, DirectionalLight, CatmullRomCurve3, TubeGeometry, type Object3D,
 } from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
@@ -13,17 +13,19 @@ import type { EarthStyle, FocusProgress, ModelView, SceneTower, TowerRenderStyle
 import { useProgressiveLand, useProgressiveModels } from './useProgressiveWorld';
 import { globeZoomAfterFactor, globeCloseView, MIN_GLOBE_ZOOM, MAX_GLOBE_ZOOM } from './globe-zoom';
 import GlobeLoading from '../features/GlobeLoading';
+import AdaptiveResolution from './AdaptiveResolution';
 import { useEarthAtlas, type EarthAtlas, type EarthAtlasStatus } from './useEarthAtlas';
 import { angularDistance, clusterTowers, exhibitTowerHeight, hasExhibitModel, modelPresentation } from './density';
 import { advanceFocusOpacity, findFocusOccluders, installFocusFade } from './focus-occlusion';
 import { TOWER_TRIGGERS } from '../domain/tower-play';
-import { createTowerModel, getTowerIllumination, updateTowerIllumination } from './tower-model';
+import { createTowerModel, getTowerIllumination, setTowerRenderStyle, updateTowerIllumination } from './tower-model';
+import { useSceneWork } from './scene-work';
 import {
   COMPARISON_UNITS_PER_METER, EARTH_RADIUS, cameraSurfaceDollyCorrection, fitSphereDistance, geoEast, geoNormal,
   geoNorth, geoPosition, geoRotation, hasUsableHeight,
   isPointVisibleFromCamera,
 } from './geo';
-import { createContactShadowMaterial, createPlanetSurface, createSpaceMaterial, createStarGeometry, LAND_RELIEF } from './planet';
+import { createContactShadowMaterial, createMiniatureGeometry, createPlanetSurface, createSpaceMaterial, createStarGeometry, LAND_RELIEF } from './planet';
 import { earthSunDirection } from './realistic-earth';
 import { createCloudSkyMaterial, SKY_LIGHTING, resolveEnvironment, cloudCoverage, type SkyPreset } from './sky';
 import { createEarthWeather, shadeTowerByWeather, type EarthWeather } from './earth-weather';
@@ -113,7 +115,11 @@ function LocalEnvironment({ earthStyle, realistic = false, night = earthStyle ==
       scene.environmentIntensity = previousIntensity;
       target.dispose();
     };
-  }, [gl, scene, invalidate, earthStyle, realistic, night]);
+  }, [gl, scene, invalidate]);
+  useEffect(() => {
+    scene.environmentIntensity = realistic ? night ? .14 : .34 : night ? .24 : .52;
+    invalidate();
+  }, [scene, invalidate, realistic, night]);
   return null;
 }
 
@@ -210,6 +216,7 @@ function Space({ mobile, earthStyle, uiTheme='dark', skyPreset='auto', realistic
       <directionalLight position={[-4, -0.5, 3]} color={light.fill} intensity={realistic ? .035 : light.fillIntensity*.6} />
       <directionalLight position={[-2, 3, -4]} color={light.edge} intensity={realistic ? .08 : light.edgeIntensity} />
       <directionalLight ref={cameraFill} color={light.fill} intensity={realistic ? night ? .24 : .65 : light.fillIntensity} />
+      <pointLight name="hat-flight-light" color="#ffcf85" intensity={0} distance={.38} decay={2}/>
       <LocalEnvironment earthStyle={earthStyle} realistic={realistic} night={night} />
     </>
   );
@@ -265,14 +272,18 @@ function installTowerBodyPicking(model: Group) {
 
 function TowerModel({ tower, height, detail, renderStyle, bodyPicking = false, reducedMotion, illuminationClock, weather,show }: { tower: SceneTower; height: number; detail: 'overview' | 'detail'; renderStyle: TowerRenderStyle; bodyPicking?: boolean; reducedMotion: boolean; illuminationClock: SceneIlluminationClock; weather?: EarthWeather | null;show?:{runtime:PlayRuntime;party:boolean;water:boolean;partyArrival:number;waterArrival:number} }) {
   const [model, setModel] = useState<Group | null>(null);
+  const queue = useSceneWork();
+  const { gl, camera, invalidate } = useThree();
+  const appearance = useRef({ renderStyle, weather });
+  appearance.current = { renderStyle, weather };
   const materialEffects=useRef<ReturnType<typeof installShowMaterials>|null>(null);
   const focusFade=useRef<ReturnType<typeof installFocusFade>|null>(null);
   // Three objects can notify the attached renderer while they are assembled.
   // Create and retire owned GPU resources in commit, outside React render.
   useLayoutEffect(() => {
     if (!tower.modelKey) { setModel(null); return; }
-    const group = createTowerModel(tower.modelKey, detail, renderStyle);
-    if (weather) shadeTowerByWeather(group, weather);
+    const group = createTowerModel(tower.modelKey, detail, appearance.current.renderStyle);
+    if (appearance.current.weather) shadeTowerByWeather(group, appearance.current.weather);
     // The model factory enables structural shadows and excludes glass/light sprites.
     // Keep those per-material choices so illuminated billboards do not cast opaque shadows.
     if (bodyPicking) installTowerBodyPicking(group);
@@ -280,10 +291,23 @@ function TowerModel({ tower, height, detail, renderStyle, bodyPicking = false, r
     focusFade.current=bodyPicking?installFocusFade(group):null;
     setModel(group);
     return () => disposeModel(group);
-  }, [tower.modelKey, detail, renderStyle, bodyPicking, weather]);
+  }, [tower.modelKey, detail, bodyPicking]);
+  useLayoutEffect(() => {
+    if (!model || model.userData.renderStyle === renderStyle) return;
+    return queue.add(() => {
+      // Restore shadow flags before replacing materials on a currently faded tower.
+      focusFade.current?.(1);
+      setTowerRenderStyle(model, renderStyle);
+      if (weather) shadeTowerByWeather(model, weather);
+      materialEffects.current = bodyPicking ? installShowMaterials(model) : null;
+      focusFade.current = bodyPicking ? installFocusFade(model) : null;
+      focusFade.current?.(model.parent?.userData.focusOpacity ?? 1);
+      gl.shadowMap.needsUpdate = true; invalidate();
+    }, detail === 'detail' ? 3 : geoNormal(tower.lat, tower.lon).dot(camera.position.clone().normalize()));
+  }, [model, renderStyle, weather, bodyPicking, detail, queue, gl, camera, invalidate, tower.lat, tower.lon]);
   useFrame(({gl}) => {
     if(model&&focusFade.current?.(model.parent?.userData.focusOpacity??1))gl.shadowMap.needsUpdate=true;
-    if (model && renderStyle === 'illuminated') updateTowerIllumination(model, illuminationClock.seconds, !reducedMotion);
+    if (model && model.userData.renderStyle === 'illuminated' && model.parent?.visible !== false) updateTowerIllumination(model, illuminationClock.seconds, !reducedMotion);
     if(show&&materialEffects.current){
       const partyAge=effectSeconds(show.runtime,'party',reducedMotion),waterAge=effectSeconds(show.runtime,'water',reducedMotion);
       const nightGain=show.party?showActivation(partyAge,show.partyArrival,reducedMotion)*(reducedMotion?1:.88+.22*(.5+.5*Math.sin(partyAge*4.2))**2):1;
@@ -302,6 +326,8 @@ interface HotspotLabelRegistration {
   leader: SVGLineElement | null;
   point: Vector3;
   priority: number;
+  screenX: number; screenY: number; shift: number;
+  width: number; height: number; buttonHeight: number;
 }
 
 interface ScreenLabelCandidate {
@@ -337,15 +363,14 @@ function layoutTowerNameLabels(candidates: ScreenLabelCandidate[], bounds: { top
 }
 
 function HotspotNameLayout({ registry, showLabels }: { registry: Map<string, HotspotLabelRegistration>; showLabels: boolean }) {
-  const { gl, camera } = useThree();
+  const { gl, camera, size } = useThree();
   useFrame(() => {
     const entries = [...registry].filter(([, entry]) => entry.button.style.opacity !== '0');
-    const bounds = gl.domElement.getBoundingClientRect();
-    const reserved = entries.flatMap(([, entry]) => entry.badge ? [entry.badge.getBoundingClientRect()] : []);
+    const bounds = { left: 0, top: 0, right: size.width, bottom: size.height };
+    const reserved = entries.flatMap(([, entry]) => entry.badge ? [{left:entry.screenX-13,right:entry.screenX+13,top:entry.screenY, bottom:entry.screenY+20}] : []);
     const candidates = entries.map(([id, entry]) => {
-      const button = entry.button.getBoundingClientRect();
-      const center = button.left + button.width / 2;
-      return { id, priority: entry.priority, distance: camera.position.distanceToSquared(entry.point), left: center - entry.label.offsetWidth / 2, right: center + entry.label.offsetWidth / 2, buttonBottom: button.bottom, height: entry.label.offsetHeight };
+      const center = entry.screenX + entry.shift;
+      return { id, priority: entry.priority, distance: camera.position.distanceToSquared(entry.point), left: center - entry.width / 2, right: center + entry.width / 2, buttonBottom: entry.screenY + entry.buttonHeight / 2, height: entry.height };
     });
     const placements = showLabels ? layoutTowerNameLabels(candidates, bounds, reserved) : new Map<string, { visible: boolean; bottom: number }>();
     let visible = 0;
@@ -383,28 +408,52 @@ function TowerHotspot({ tower, point, selected, onSelect, active, clusterIds, on
   const marker = useRef<HTMLSpanElement>(null);
   const nameLabel = useRef<HTMLSpanElement>(null);
   const countBadge = useRef<HTMLSpanElement>(null);
+  const metrics = useRef({ width: 80, height: 24, buttonHeight: 44 });
+  const projectedPoint = useMemo(() => new Vector3(), []);
+  const otherPoint = useMemo(() => new Vector3(), []);
+  const htmlPosition = useRef<[number, number]>([0,0]);
+  const calculateLabelPosition = useCallback(() => htmlPosition.current, []);
+  useLayoutEffect(() => {
+    const measure = () => {
+      metrics.current = { width: nameLabel.current?.offsetWidth ?? 80, height: nameLabel.current?.offsetHeight ?? 24, buttonHeight: element.current?.offsetHeight ?? 44 };
+      invalidate();
+    };
+    measure();
+    const observer = new ResizeObserver(measure);
+    if (nameLabel.current) observer.observe(nameLabel.current);
+    return () => observer.disconnect();
+  }, [tower.name, selected, hovered, showLabels, invalidate]);
   useEffect(() => { invalidate(); }, [active, selected, hovered, point, showLabels, invalidate]);
   useEffect(() => () => { labelRegistry.delete(tower.id); }, [labelRegistry, tower.id]);
   useFrame(({ size }) => {
     if (!element.current || !active) { labelRegistry.delete(tower.id); return; }
-    const projected=point.clone().project(camera);
+    const projected=projectedPoint.copy(point).project(camera);
     const visible = isPointVisibleFromCamera(camera.position, point, EARTH_RADIUS + LAND_RELIEF * 0.55)&&Math.abs(projected.x)<1.2&&Math.abs(projected.y)<1.2&&projected.z>=-1&&projected.z<=1;
     element.current.style.opacity = visible ? '1' : '0';
+    if (element.current.parentElement) element.current.parentElement.style.display = visible ? '' : 'none';
     // Only visible glyph/text descendants receive clicks. Transparent 44px HTML
     // boxes must not swallow a neighbouring building's body raycast.
     element.current.style.pointerEvents = 'none';
     element.current.tabIndex = visible ? 0 : -1;
     element.current.setAttribute('aria-hidden',String(!visible));
+    if (!visible) {
+      htmlPosition.current = [0,0];
+      if (marker.current) marker.current.style.pointerEvents = 'none';
+      if (nameLabel.current) nameLabel.current.style.pointerEvents = 'none';
+      if (countBadge.current) countBadge.current.style.pointerEvents = 'none';
+      labelRegistry.delete(tower.id); return;
+    }
     let labelShift = 0;
-    const own = point.clone().project(camera);
+    const own = projected;
     const width = size.width, height = size.height;
     if (visible && showLabels && neighboringPoint) {
-      const other = neighboringPoint.point.clone().project(camera);
+      const other = otherPoint.copy(neighboringPoint.point).project(camera);
       const dx = (own.x - other.x) * width * 0.5, dy = (own.y - other.y) * height * 0.5;
       if (Math.abs(dx) < 100 && Math.abs(dy) < 60) labelShift = dx < 0 || (dx === 0 && tower.id < neighboringPoint.id) ? -46 : 46;
     }
     const screenX = (own.x + 1) * width * 0.5;
-    const labelHalfWidth = showLabels ? Math.max(22, (nameLabel.current?.offsetWidth ?? Math.min(180, tower.name.length * 6 + 25)) / 2) : 22;
+    htmlPosition.current = [screenX, (1-own.y)*height*.5];
+    const labelHalfWidth = showLabels ? Math.max(22, metrics.current.width / 2) : 22;
     if (showLabels) labelShift = Math.max(labelHalfWidth + 8 - screenX, Math.min(width - labelHalfWidth - 8 - screenX, labelShift));
     element.current.style.setProperty('--tower-label-shift', `${labelShift}px`);
     element.current.style.transform = `translateX(${labelShift}px)`;
@@ -412,12 +461,12 @@ function TowerHotspot({ tower, point, selected, onSelect, active, clusterIds, on
     if (nameLabel.current) nameLabel.current.style.pointerEvents = visible ? 'auto' : 'none';
     if (countBadge.current) { countBadge.current.style.transform = `translateX(${-labelShift}px)`; countBadge.current.style.pointerEvents = visible ? 'auto' : 'none'; }
     if (leader.current) { leader.current.setAttribute('x1', String(-labelShift)); leader.current.style.opacity = labelShift ? selected || hovered ? '0.5' : '0.22' : '0'; }
-    if (showLabels && nameLabel.current) labelRegistry.set(tower.id, { button: element.current, label: nameLabel.current, badge: countBadge.current, leader: leader.current, point, priority: selected ? 3 : hovered ? 2 : clusterIds.length > 1 ? 1 : 0 });
+    if (showLabels && nameLabel.current) labelRegistry.set(tower.id, { button: element.current, label: nameLabel.current, badge: countBadge.current, leader: leader.current, point, priority: selected ? 3 : hovered ? 2 : clusterIds.length > 1 ? 1 : 0, screenX, screenY:(1-own.y)*height*.5, shift:labelShift, ...metrics.current });
     else labelRegistry.delete(tower.id);
   });
   if (!active) return null;
   return (
-    <Html position={point.toArray()} center zIndexRange={[selected ? 32 : 20, 0]} style={{ pointerEvents: 'none' }}>
+    <Html position={point.toArray()} calculatePosition={calculateLabelPosition} center zIndexRange={[selected ? 32 : 20, 0]} style={{ pointerEvents: 'none', contain: 'layout style' }}>
       <button
         ref={element}
         type="button"
@@ -545,13 +594,22 @@ function GlobeTower({ tower, radius, selected, onSelect, active, modelReady, sha
   const party=!!towerPlay?.effects.includes('party'),water=!!towerPlay?.effects.includes('water');
   const partyArrival=partyPlan.arrivals.get(tower.id)??0,waterArrival=waterPlan.arrivals.get(tower.id)??0;
   const floatRotation=useMemo(()=>new Quaternion(),[]);
-  useFrame(()=>{
+  const surfaceNormal = useMemo(() => geoNormal(tower.lat,tower.lon), [tower.lat,tower.lon]);
+  const floatAxis = useMemo(() => new Vector3(0,0,1), []);
+  useFrame(({camera})=>{
     if(!modelGroup.current)return;
+    // Keep the entire tower, its falling hat and edge silhouette beyond the horizon.
+    // Hidden models stay mounted, so turning back never rebuilds their geometry.
+    const distance = camera.position.length();
+    const margin = (height ?? .1) * (towerPlay?.effects.includes('hats') ? 3 : 1.15);
+    const horizon = Math.acos(Math.min(1, EARTH_RADIUS / distance)) + Math.acos(Math.min(1, EARTH_RADIUS / (radius + margin))) + Math.atan2(margin * .3,radius);
+    const visible = active && (selected || surfaceNormal.dot(camera.position) / distance > Math.cos(Math.min(Math.PI,horizon)));
+    if(modelGroup.current.visible !== visible) { modelGroup.current.visible = visible; gl.shadowMap.needsUpdate = true; }
     const age=effectSeconds(playRuntime,'water',reducedMotion),gain=water?showActivation(age,waterArrival,reducedMotion):0;
     const float=water&&!reducedMotion?Math.sin(age*1.4+tower.lon*.07)*(height??.1)*.026*gain:0;
-    modelGroup.current.position.copy(anchor).addScaledVector(anchor.clone().normalize(),float);
+    modelGroup.current.position.copy(anchor).addScaledVector(surfaceNormal,float);
     modelGroup.current.quaternion.copy(rotation);
-    if(water&&!reducedMotion)modelGroup.current.quaternion.multiply(floatRotation.setFromAxisAngle(new Vector3(0,0,1),Math.sin(age*.9+tower.lat)*.01*gain));
+    if(water&&!reducedMotion)modelGroup.current.quaternion.multiply(floatRotation.setFromAxisAngle(floatAxis,Math.sin(age*.9+tower.lat)*.01*gain));
     modelGroup.current.userData.echoFloat=float;
   });
   useFrame(({ camera, size }) => {
@@ -801,17 +859,29 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   const activeAtlas = earthStyle === 'satellite' ? props.atlas : null;
   // Idle prefetch must not rebuild the simple globe or its towers during a focus flight.
   const detailAtlas = requestedEarthStyle === 'satellite' || coverage > 0 ? props.atlas : null;
-  const hasDetailAtlas = !!detailAtlas;
-  // Replace the shared sampler without rebuilding every tower's GPU materials.
-  const weather = useMemo(() => detailAtlas ? createEarthWeather(detailAtlas.surface) : null, [hasDetailAtlas]);
-  useLayoutEffect(()=>{if(weather&&detailAtlas){weather.earthSurface.value=detailAtlas.surface;invalidate();}},[weather,detailAtlas,invalidate]);
+  const neutralWeather = useMemo(() => { const texture = new DataTexture(new Uint8Array([0,0,0,255]),1,1); texture.needsUpdate = true; return texture; }, []);
+  const weather = useMemo(() => createEarthWeather(neutralWeather), [neutralWeather]);
+  useEffect(() => () => neutralWeather.dispose(), [neutralWeather]);
+  // The uniform object survives all earth/weather switches, including the first atlas load.
+  useLayoutEffect(()=>{weather.earthSurface.value=detailAtlas?.surface ?? neutralWeather;invalidate();},[weather,detailAtlas,neutralWeather,invalidate]);
   const lastDetailView = useRef(false);
   const { land: landData, surface: surfaceStage } = useProgressiveLand(firstFrame);
-  const planet = useMemo(() => createPlanetSurface(activeAtlas?.color ?? null, activeAtlas?.height ?? null, mobile, earthStyle, landData, detailAtlas ?? undefined, weather ?? undefined), [activeAtlas, mobile, earthStyle, landData, detailAtlas, weather]);
+  const miniature = useMemo(() => createMiniatureGeometry(landData, mobile), [landData, mobile]);
+  useEffect(() => () => miniature.dispose(), [miniature]);
+  // Keep the three tiny material sets alive so their shared GPU programs survive a switch.
+  const simplePlanets = useMemo(() => ({
+    day:createPlanetSurface(null,null,mobile,'day',landData,undefined,weather,miniature),
+    night:createPlanetSurface(null,null,mobile,'night',landData,undefined,weather,miniature),
+    porcelain:createPlanetSurface(null,null,mobile,'porcelain',landData,undefined,weather,miniature),
+  }), [mobile,landData,weather,miniature]);
+  useEffect(() => () => Object.values(simplePlanets).forEach(surface=>surface.dispose()), [simplePlanets]);
+  const planet = useMemo(() => earthStyle==='satellite'
+    ? createPlanetSurface(activeAtlas?.color ?? null,activeAtlas?.height ?? null,mobile,earthStyle,landData,detailAtlas??undefined,weather)
+    : simplePlanets[earthStyle], [activeAtlas,mobile,earthStyle,landData,detailAtlas,weather,simplePlanets]);
   const focusAnchor = useMemo(() => {
     const tower = towers.find(item => item.id === selectedId);
     return tower ? geoPosition(tower.lat, tower.lon, planet.radiusAt(tower.lat, tower.lon)) : new Vector3();
-  }, [towers, selectedId, planet]);
+  }, [towers, selectedId, planet.radiusAt]);
   const solarDirection = useMemo(() => earthSunDirection(earthStyle, props.skyPreset, focusAnchor), [earthStyle, props.skyPreset, focusAnchor]);
   const clusters = useMemo(() => clusterTowers(towers, selectedId, exhibitScale), [towers, selectedId, exhibitScale]);
   const globeEntries = useMemo(() => {
@@ -836,8 +906,8 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   const playRuntime = useMemo<PlayRuntime>(() => ({ age: 99, effect: null, cancelled: false,seconds:0,started:{hats:-100,party:-100,water:-100} }), []);
   const [playTransitionActive, setPlayTransitionActive] = useState(false);
   const playTour = useRef<{ position:Vector3; target:Vector3; up:Vector3; radius:number } | null>(null);
-  const showTowers=useMemo(()=>exhibitedTowers.filter(tower=>tower.modelKey).map(tower=>({id:tower.id,lat:tower.lat,lon:tower.lon,height:exhibitTowerHeight(tower,exhibitScale)??.1,radius:planet.radiusAt(tower.lat,tower.lon)+.0006})),[exhibitedTowers,exhibitScale,planet]);
-  const showOrigins=useMemo(()=>props.playOrigins?.map(tower=>({id:tower.id,lat:tower.lat,lon:tower.lon,height:exhibitTowerHeight(tower,exhibitScale)??.1,radius:planet.radiusAt(tower.lat,tower.lon)+.0006}))??showTowers,[props.playOrigins,showTowers,exhibitScale,planet]);
+  const showTowers=useMemo(()=>exhibitedTowers.filter(tower=>tower.modelKey).map(tower=>({id:tower.id,lat:tower.lat,lon:tower.lon,height:exhibitTowerHeight(tower,exhibitScale)??.1,radius:planet.radiusAt(tower.lat,tower.lon)+.0006})),[exhibitedTowers,exhibitScale,planet.radiusAt]);
+  const showOrigins=useMemo(()=>props.playOrigins?.map(tower=>({id:tower.id,lat:tower.lat,lon:tower.lon,height:exhibitTowerHeight(tower,exhibitScale)??.1,radius:planet.radiusAt(tower.lat,tower.lon)+.0006}))??showTowers,[props.playOrigins,showTowers,exhibitScale,planet.radiusAt]);
   const hatFlightPlan=useMemo(()=>createHatFlightPlan(showTowers,showOrigins.find(t=>t.id==='us-paris-texas')),[showTowers,showOrigins]);
   const partyPlan=useMemo(()=>createWorldShowPlan(showTowers,showOrigins.find(t=>t.id==='us-las-vegas-paris'),'party'),[showTowers,showOrigins]);
   const waterPlan=useMemo(()=>createWorldShowPlan(showTowers,showOrigins.find(t=>t.id==='id-rawa-pening-bamboo'),'water'),[showTowers,showOrigins]);
@@ -856,7 +926,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
       if (neighbor) result.set(tower.id, { tower: neighbor, radius: planet.radiusAt(neighbor.lat, neighbor.lon) + 0.0006 });
     }
     return result;
-  }, [exhibitedTowers, planet, showLabels]);
+  }, [exhibitedTowers, planet.radiusAt, showLabels]);
   const shadowMaterial = useMemo(createContactShadowMaterial, []);
   const controls = useRef<CameraControlsImpl>(null);
   const planetMesh = useRef<Mesh>(null);
@@ -915,7 +985,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
     invalidate();
   }, [gl, invalidate, selectedId, viewMode, comparisonKind, comparisonIds, mobile, earthStyle, renderStyle, exhibitScale, props.skyPreset]);
 
-  useEffect(() => () => { planet.dispose(); }, [planet]);
+  useEffect(() => () => { if(planet.realistic)planet.dispose(); }, [planet]);
   useEffect(() => () => { shadowMaterial.map?.dispose(); shadowMaterial.dispose(); }, [shadowMaterial]);
   useEffect(() => () => {
     navigation.current = null;
@@ -1563,6 +1633,7 @@ const WorldScene = forwardRef<WorldSceneHandle, WorldSceneProps>(function WorldS
       gl={{ antialias: true, alpha: false, powerPreference: 'high-performance' }}
       fallback={<div>{t("交互式三维地球；资料集也提供照片、来源和地图。")}</div>}
     >
+      <AdaptiveResolution mobile={mobile}/>
       <Suspense fallback={null}><SceneContents ref={innerRef} {...props} mobile={mobile} atlas={atlas} atlasStatus={atlasStatus} onReady={onSceneReady} onDetailViewChange={setCloseView} /></Suspense>
     </Canvas>
     {!sceneReady && <GlobeLoading/>}

@@ -769,6 +769,102 @@ class ModelBuilder {
     const illumination = renderStyle === 'illuminated' ? makeIlluminationUniforms(profile.key) : null;
     if (illumination) illuminationStates.set(group, illumination);
     group.name = `tower-${profile.key}-${detail}`;
+    const materials = createTowerMaterials(profile, detail, renderStyle, illumination);
+    let primitiveCount = 0;
+    let vertexCount = 0;
+    let triangleCount = 0;
+    for (const [paint, bucket] of this.buckets) {
+      const geometry = new THREE.BufferGeometry();
+      geometry.setAttribute('position', new THREE.Float32BufferAttribute(bucket.positions, 3));
+      geometry.setAttribute('normal', new THREE.Float32BufferAttribute(bucket.normals, 3));
+      geometry.setAttribute('uv', new THREE.Float32BufferAttribute(bucket.uvs, 2));
+      geometry.setAttribute('color', new THREE.Float32BufferAttribute(bucket.colors, 3));
+      if (renderStyle === 'illuminated') {
+        const scheme = nightScheme(profile.key), tint: number[] = [];
+        for (let i = 1; i < bucket.positions.length; i += 3) {
+          const c = nightColor(scheme, bucket.positions[i]); tint.push(c.r, c.g, c.b);
+        }
+        geometry.setAttribute('nightTint', new THREE.Float32BufferAttribute(tint, 3));
+      }
+      if (profile.colorBands) geometry.setAttribute('baseColor', geometry.getAttribute('color').clone());
+      if (profile.colorBands && ['structure', 'shadow', 'deck'].includes(paint)) {
+        const colors = geometry.getAttribute('color').clone(), positions = geometry.getAttribute('position');
+        for (let i = 0; i < positions.count; i += 1) {
+          const band = profile.colorBands.find(band => positions.getY(i) <= band.maxY) ?? profile.colorBands.at(-1)!;
+          const color = new THREE.Color(band.color), shade = colors.getX(i);
+          colors.setXYZ(i, color.r * shade, color.g * shade, color.b * shade);
+        }
+        geometry.setAttribute('heritageColor', colors);
+        if (renderStyle === 'heritage') geometry.setAttribute('color', colors.clone());
+      }
+      geometry.setIndex(bucket.indices);
+      geometry.computeBoundingBox();
+      geometry.computeBoundingSphere();
+      // Taastrup's broad strip topology crosses 65,535 vertices in one paint batch.
+      // Keep these batches on 16-bit indices; triangle positions and attributes are preserved.
+      const parts = profile.flatMainMembers || isNaturalTopiaryKey(profile.key) ? partitionUint16Geometry(geometry) : [geometry];
+      for (let part = 0; part < parts.length; part += 1) {
+        const base = parts[part].getAttribute('baseColor') as THREE.BufferAttribute | undefined;
+        if (base) {
+          colorVariants.set(parts[part], { base, heritage: (parts[part].getAttribute('heritageColor') ?? base) as THREE.BufferAttribute });
+          parts[part].deleteAttribute('baseColor'); parts[part].deleteAttribute('heritageColor');
+        }
+        const mesh = new THREE.Mesh(parts[part], materials[paint]);
+        mesh.name = `${profile.key}-${paint}${parts.length > 1 ? `-batch-${part}` : ''}`;
+        mesh.castShadow = paint !== 'glass';
+        mesh.receiveShadow = true;
+        group.add(mesh);
+      }
+      primitiveCount += bucket.primitiveCount;
+      vertexCount += bucket.positions.length / 3;
+      triangleCount += bucket.indices.length / 3;
+    }
+    for (const paint of Object.keys(materials) as Paint[]) {
+      if (!this.buckets.has(paint)) materials[paint].dispose();
+    }
+    group.updateMatrixWorld(true);
+    const before = new THREE.Box3().setFromObject(group);
+    const height = before.max.y - before.min.y;
+    const normalise = new THREE.Matrix4().makeTranslation(0, -before.min.y, 0);
+    normalise.premultiply(new THREE.Matrix4().makeScale(1 / height, 1 / height, 1 / height));
+    for (const child of group.children) {
+      const mesh = child as THREE.Mesh;
+      mesh.geometry.applyMatrix4(normalise);
+      if(profile.photoDepthScale!==undefined)mesh.geometry.scale(1,1,profile.photoDepthScale);
+      if (renderStyle === 'illuminated') {
+        const scheme = nightScheme(profile.key);
+        if (scheme.heightStops?.length) {
+          // Rebind only opt-in schemes after normalization, so raised supports
+          // and nonstandard crowns share the same 0..1 zones as light discs.
+          const positions = mesh.geometry.getAttribute('position');
+          const tint = mesh.geometry.getAttribute('nightTint');
+          for (let i = 0; i < positions.count; i += 1) {
+            const color = nightColor(scheme, positions.getY(i));
+            tint.setXYZ(i, color.r, color.g, color.b);
+          }
+        }
+      }
+      mesh.geometry.computeBoundingBox();
+      mesh.geometry.computeBoundingSphere();
+    }
+    group.userData = {
+      modelKey: profile.key, entityId: MODEL_ENTRIES.get(profile.key)?.entityId, detail, renderStyle,
+      modelVersion: 'towerworld-procedural-v8-dynamic-night', profileVersion: modelBatch.version,
+      normalizationScope: MODEL_ENTRIES.get(profile.key)?.normalizationScope ?? (profile.topology === 'roof-section' ? 'visible-section' : 'whole-model'),
+      height: 1, groundY: 0, axis: '+Y', frontAxis: '+Z', resources: 'owned-by-this-group',
+      beamCount: this.beamCount, primitiveCount, vertexCount, triangleCount,
+      drawCalls: group.children.length,
+      reference: profile.key === 'paris' ? '2023 photos + SETE 330/125/25/57/115/276m anchors'
+        : `photo-derived ${profile.key} variant; proportions below engineering detail remain estimated`,
+    };
+    modelNormalization.set(group, { height, minY: before.min.y });
+    if (renderStyle === 'illuminated') addIllumination(group, detail);
+    return group;
+  }
+}
+
+// Material recipes are shared by initial construction and in-place style changes.
+function createTowerMaterials(profile: TowerProfile, detail: Detail, renderStyle: TowerRenderStyle, illumination: IlluminationUniforms | null) {
     const materials: Record<Paint, THREE.MeshStandardMaterial> = {
       structure: new THREE.MeshPhysicalMaterial({ color: profile.paint, metalness: .38, roughness: .47, clearcoat: .16, clearcoatRoughness: .43, vertexColors: true }),
       shadow: new THREE.MeshStandardMaterial({ color: profile.dark, metalness: .30, roughness: .61, vertexColors: true }),
@@ -861,88 +957,58 @@ class ModelBuilder {
         applyMicrofinish(materials[paint], kind, renderStyle);
       }
     }
-    let primitiveCount = 0;
-    let vertexCount = 0;
-    let triangleCount = 0;
-    for (const [paint, bucket] of this.buckets) {
-      const geometry = new THREE.BufferGeometry();
-      geometry.setAttribute('position', new THREE.Float32BufferAttribute(bucket.positions, 3));
-      geometry.setAttribute('normal', new THREE.Float32BufferAttribute(bucket.normals, 3));
-      geometry.setAttribute('uv', new THREE.Float32BufferAttribute(bucket.uvs, 2));
-      geometry.setAttribute('color', new THREE.Float32BufferAttribute(bucket.colors, 3));
-      if (renderStyle === 'illuminated') {
-        const scheme = nightScheme(profile.key), tint: number[] = [];
-        for (let i = 1; i < bucket.positions.length; i += 3) {
-          const c = nightColor(scheme, bucket.positions[i]); tint.push(c.r, c.g, c.b);
-        }
-        geometry.setAttribute('nightTint', new THREE.Float32BufferAttribute(tint, 3));
-      }
-      if (renderStyle === 'heritage' && profile.colorBands && ['structure', 'shadow', 'deck'].includes(paint)) {
-        const colors = geometry.getAttribute('color'), positions = geometry.getAttribute('position');
-        for (let i = 0; i < positions.count; i += 1) {
-          const band = profile.colorBands.find(band => positions.getY(i) <= band.maxY) ?? profile.colorBands.at(-1)!;
-          const color = new THREE.Color(band.color), shade = colors.getX(i);
-          colors.setXYZ(i, color.r * shade, color.g * shade, color.b * shade);
-        }
-      }
-      geometry.setIndex(bucket.indices);
-      geometry.computeBoundingBox();
-      geometry.computeBoundingSphere();
-      // Taastrup's broad strip topology crosses 65,535 vertices in one paint batch.
-      // Keep these batches on 16-bit indices; triangle positions and attributes are preserved.
-      const parts = profile.flatMainMembers || isNaturalTopiaryKey(profile.key) ? partitionUint16Geometry(geometry) : [geometry];
-      for (let part = 0; part < parts.length; part += 1) {
-        const mesh = new THREE.Mesh(parts[part], materials[paint]);
-        mesh.name = `${profile.key}-${paint}${parts.length > 1 ? `-batch-${part}` : ''}`;
-        mesh.castShadow = paint !== 'glass';
-        mesh.receiveShadow = true;
-        group.add(mesh);
-      }
-      primitiveCount += bucket.primitiveCount;
-      vertexCount += bucket.positions.length / 3;
-      triangleCount += bucket.indices.length / 3;
+    return materials;
+}
+const modelNormalization = new WeakMap<THREE.Group, { height: number; minY: number }>();
+const colorVariants = new WeakMap<THREE.BufferGeometry, { base: THREE.BufferAttribute; heritage: THREE.BufferAttribute }>();
+
+/** Preserve structural geometry and pick volumes when only the display style changes. */
+export function setTowerRenderStyle(group: THREE.Group, renderStyle: TowerRenderStyle): void {
+  if (group.userData.renderStyle === renderStyle) return;
+  const profile = PROFILES.get(group.userData.modelKey)!;
+  const detail = group.userData.detail as Detail;
+  const normalization = modelNormalization.get(group)!;
+  const retired = new Set<THREE.Material>();
+  for (const child of [...group.children]) {
+    if (!(child instanceof THREE.Mesh)) continue;
+    for (const material of Array.isArray(child.material) ? child.material : [child.material]) retired.add(material);
+    if (child.userData.displayDecoration) {
+      group.userData.vertexCount -= child.geometry.attributes.position.count;
+      group.userData.triangleCount -= (child.geometry.index?.count ?? 0) / 3;
+      child.removeFromParent(); child.geometry.dispose();
     }
-    for (const paint of Object.keys(materials) as Paint[]) {
-      if (!this.buckets.has(paint)) materials[paint].dispose();
-    }
-    group.updateMatrixWorld(true);
-    const before = new THREE.Box3().setFromObject(group);
-    const height = before.max.y - before.min.y;
-    const normalise = new THREE.Matrix4().makeTranslation(0, -before.min.y, 0);
-    normalise.premultiply(new THREE.Matrix4().makeScale(1 / height, 1 / height, 1 / height));
-    for (const child of group.children) {
-      const mesh = child as THREE.Mesh;
-      mesh.geometry.applyMatrix4(normalise);
-      if(profile.photoDepthScale!==undefined)mesh.geometry.scale(1,1,profile.photoDepthScale);
-      if (renderStyle === 'illuminated') {
-        const scheme = nightScheme(profile.key);
-        if (scheme.heightStops?.length) {
-          // Rebind only opt-in schemes after normalization, so raised supports
-          // and nonstandard crowns share the same 0..1 zones as light discs.
-          const positions = mesh.geometry.getAttribute('position');
-          const tint = mesh.geometry.getAttribute('nightTint');
-          for (let i = 0; i < positions.count; i += 1) {
-            const color = nightColor(scheme, positions.getY(i));
-            tint.setXYZ(i, color.r, color.g, color.b);
-          }
-        }
-      }
-      mesh.geometry.computeBoundingBox();
-      mesh.geometry.computeBoundingSphere();
-    }
-    group.userData = {
-      modelKey: profile.key, entityId: MODEL_ENTRIES.get(profile.key)?.entityId, detail, renderStyle,
-      modelVersion: 'towerworld-procedural-v8-dynamic-night', profileVersion: modelBatch.version,
-      normalizationScope: MODEL_ENTRIES.get(profile.key)?.normalizationScope ?? (profile.topology === 'roof-section' ? 'visible-section' : 'whole-model'),
-      height: 1, groundY: 0, axis: '+Y', frontAxis: '+Z', resources: 'owned-by-this-group',
-      beamCount: this.beamCount, primitiveCount, vertexCount, triangleCount,
-      drawCalls: group.children.length,
-      reference: profile.key === 'paris' ? '2023 photos + SETE 330/125/25/57/115/276m anchors'
-        : `photo-derived ${profile.key} variant; proportions below engineering detail remain estimated`,
-    };
-    if (renderStyle === 'illuminated') addIllumination(group, detail);
-    return group;
   }
+  const illumination = renderStyle === 'illuminated' ? makeIlluminationUniforms(profile.key) : null;
+  if (illumination) illuminationStates.set(group, illumination); else illuminationStates.delete(group);
+  const materials = createTowerMaterials(profile, detail, renderStyle, illumination), used = new Set<Paint>();
+  const scheme = nightScheme(profile.key);
+  for (const child of group.children) {
+    if (!(child instanceof THREE.Mesh)) continue;
+    const paint = child.name.slice(profile.key.length + 1).replace(/-batch-\d+$/, '') as Paint;
+    child.material = materials[paint]; used.add(paint);
+    child.castShadow = paint !== 'glass';
+    const geometry = child.geometry, positions = geometry.getAttribute('position');
+    const colorsForStyle = colorVariants.get(geometry);
+    if (colorsForStyle) {
+      const colors = geometry.getAttribute('color');
+      colors.array.set((renderStyle === 'heritage' ? colorsForStyle.heritage : colorsForStyle.base).array);
+      colors.needsUpdate = true;
+    }
+    if (illumination && !geometry.hasAttribute('nightTint')) {
+      const tint = new THREE.Float32BufferAttribute(new Float32Array(positions.count * 3), 3);
+      for (let i = 0; i < positions.count; i++) {
+        const y = scheme.heightStops?.length ? positions.getY(i) : positions.getY(i) * normalization.height + normalization.minY;
+        const color = nightColor(scheme, y); tint.setXYZ(i, color.r, color.g, color.b);
+      }
+      geometry.setAttribute('nightTint', tint);
+    }
+  }
+  for (const paint of Object.keys(materials) as Paint[]) if (!used.has(paint)) materials[paint].dispose();
+  retired.forEach(material => material.dispose());
+  group.userData.renderStyle = renderStyle;
+  for (const key of ['lightPointCount', 'baseTriangleCount', 'illuminationScope', 'illumination']) delete group.userData[key];
+  group.userData.drawCalls = group.children.length;
+  if (illumination) addIllumination(group, detail);
 }
 
 /** Preserve indexed triangle order while limiting a batch to Uint16-addressable vertices. */

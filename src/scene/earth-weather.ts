@@ -23,6 +23,7 @@ float cloudAt(vec2 uv){
   return smoothstep(.23-earthCoverage*.12,.88-earthCoverage*.12,density);
 }
 float earthCloudShadow(vec3 point){
+  if(earthCoverage<=0.)return 0.;
   vec3 n=normalize(point);
   vec3 projected=normalize(n+earthSun*.005/max(.15,dot(n,earthSun)));
   vec2 uv=vec2(atan(projected.x,projected.z)/6.28318530718+.5,asin(clamp(projected.y,-1.,1.))/3.14159265359+.5);

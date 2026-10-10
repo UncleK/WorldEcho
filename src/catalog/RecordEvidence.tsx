@@ -1,4 +1,5 @@
 import { evidenceText } from '../i18n/evidence';
+import { useId, useState } from 'react';
 import { ExternalLink, Image } from 'lucide-react';
 import { t, getLanguage } from '../i18n';
 import { metricCopy } from '../domain/measurements.mjs';
@@ -16,6 +17,19 @@ export function EvidenceSources({ ids, sources }: { ids: string[]; sources: Map<
   return <div className="cat-source-links">{rows.map((source, index) => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer" title={source.title}>{index + 1}. {source.publisher || source.title}<ExternalLink size={11} /></a>)}</div>;
 }
 
+function OriginalSources({ row, sources }: { row: ResearchRow; sources: Map<string, ResearchSource> }) {
+  const [expanded, setExpanded] = useState(false);
+  const listId = useId();
+  const entries = row.sourceIds.map(id => sources.get(id)).filter((source): source is ResearchSource => !!source);
+  return <section className="cat-detail-sources">
+    <h3>{t('原始出处')}<span>{entries.length}{t('个来源')}</span></h3>
+    <div className="cat-source-list" id={listId}>
+      {entries.slice(0, expanded ? entries.length : 5).map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer"><span><strong>{source.title}</strong><small>{source.publisher || t('发布者见原页')} · {source.kind === 'primary' ? t('机构 / 原始来源') : source.kind === 'mapping' ? t('地图证据') : t('发现线索 / 社区资料')}</small></span><ExternalLink size={15}/></a>)}
+    </div>
+    {entries.length > 5 && <button className="cat-sources-toggle" type="button" aria-expanded={expanded} aria-controls={listId} onClick={() => setExpanded(value => !value)}>{expanded ? t('收起来源') : t('展开其余 {0} 条来源', entries.length - 5)}</button>}
+  </section>;
+}
+
 export default function RecordEvidence({row,sources}:{row:ResearchRow;sources:Map<string,ResearchSource>}) {
   return <div className="record-evidence">
       <div className="cat-evidence-grid">
@@ -24,7 +38,7 @@ export default function RecordEvidence({row,sources}:{row:ResearchRow;sources:Ma
         <section><h3>{t("材料记录")}<span>{t("字段级来源")}</span></h3>{row.materials.length ? row.materials.map((claim, index) => <div className="cat-material-claim" key={index}><strong>{claim.groups.map(group => t(MATERIAL_LABELS[group])).join(' · ')}</strong><p>{evidenceText(claim.value)}</p><EvidenceSources ids={claim.sourceIds} sources={sources} /></div>) : <p className="cat-unknown">{t("材料未确认；未根据外形推断钢或铁。")}</p>}</section>
       </div>
       {row.photos.length > 0 && <section className="research-photo-evidence"><h3>{t("实景资料")}<span>{row.photoCount}{t("张可用记录")}</span></h3><p>{t("网页副本可能经缩放与格式转换；照片不代表今天的现状。")}</p><div className="research-photo-list">{row.photos.map(item => <figure key={item.id}><a className="research-photo-preview" href={item.originPageUrl ?? item.pageUrl} target="_blank" rel="noopener noreferrer">{item.thumbnail || item.url ? <img src={item.thumbnail ?? item.url!} alt={`${row.name} ${item.capturedAt || ''}`} loading="lazy" /> : <Image size={24}/>}</a><figcaption><ResearchPhotoCredit photo={item}/></figcaption></figure>)}</div></section>}
-      <section className="cat-detail-sources"><h3>{t("原始出处")}<span>{row.sourceIds.length}{t("个来源")}</span></h3>{row.sourceIds.map(id => sources.get(id)).filter((source): source is ResearchSource => !!source).map(source => <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer"><span><strong>{source.title}</strong><small>{source.publisher || t("发布者见原页")} · {source.kind === 'primary' ? t("机构 / 原始来源") : source.kind === 'mapping' ? t("地图证据") : t("发现线索 / 社区资料")}</small></span><ExternalLink size={15} /></a>)}</section>
+      <OriginalSources key={row.id} row={row} sources={sources}/>
       {row.gaps.length > 0 && <details className="cat-gaps"><summary>{t("尚待补证")}{row.gaps.length}{t("项")}</summary><ul>{row.gaps.map((gap, index) => <li key={index}>{evidenceText(gap)}</li>)}</ul></details>}
   </div>;
 }
