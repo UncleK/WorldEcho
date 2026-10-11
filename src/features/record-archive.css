@@ -1,0 +1,21 @@
+.record-media-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;align-items:start}
+.record-media-grid .record-photo-main img{height:360px}
+.record-model-preview{min-width:0}
+.record-model-canvas,.record-model-loading,.record-model-empty{height:362px;border:1px solid #607e9655;border-radius:10px;overflow:hidden;background:#0c1825;position:relative}
+.record-model-canvas canvas{display:block;touch-action:none}
+.record-model-canvas>p,.record-model-loading,.record-model-empty{display:grid;place-content:center;text-align:center;color:var(--muted,#9cb1c0);font-size:12px;line-height:1.8;padding:20px}
+.record-model-canvas>p{position:absolute;inset:0;margin:0}
+.record-model-empty{justify-items:center;gap:12px}
+.record-model-toolbar{display:flex;align-items:center;gap:12px;margin-top:10px;min-width:0}
+.record-model-toolbar select{min-width:0;padding:7px 10px;border:1px solid #607e9655;border-radius:7px;background:#142637;color:var(--text,#c9dce6);font:inherit;font-size:11px}
+.record-model-toolbar span,.record-model-caption{font-size:10px;line-height:1.8;color:var(--muted,#9cb1c0)}
+.record-model-caption{margin:9px 0}
+.record-introduction-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:22px;padding-top:22px;border-top:1px solid #718a9e40;align-items:start}
+.record-introduction-grid>*{min-width:0}
+.record-introduction-grid .research-record-location,.record-introduction-grid .record-model-evidence{margin:0;padding:0;border:0}
+.record-introduction-grid h3,.record-introduction-grid .research-record-location h3{font-size:13px;font-weight:500;color:var(--text,#cfdee8);line-height:1.7;margin:0 0 12px}
+.record-introduction-grid .research-record-story{font-size:12px;line-height:1.9}
+.record-introduction-grid .research-record-location{color:var(--muted,#98afc0)}
+[data-theme=light] .record-model-toolbar select{background:#e6eef5;color:#305169}
+@media(max-width:760px){.record-media-grid,.record-introduction-grid{grid-template-columns:minmax(0,1fr);gap:22px}.record-media-grid .record-photo-main img{height:280px}.record-model-canvas,.record-model-loading,.record-model-empty{height:302px}.record-model-toolbar{gap:10px}.record-introduction-grid>div,.record-introduction-grid>.record-model-evidence{padding-top:20px;border-top:1px solid #718a9e40}}
+.record-alias-summary{padding:24px;border:1px solid #718a9e40;border-radius:12px;line-height:1.9}

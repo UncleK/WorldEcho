@@ -7058,6 +7058,1574 @@
       ],
       "photoViewedAt": null,
       "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-erstein-tower-at-a-roundabout",
+      "method": "photo-estimate",
+      "displayM": 4.58257569495584,
+      "rangeM": [
+        3,
+        7
+      ],
+      "confidence": "low",
+      "referenceObject": "scene-context",
+      "notes": "按远景道路灯杆常见约6–10米作宽范围参照，塔与灯杆不共面，透视误差较大。",
+      "sourceIds": [
+        "src_76947a689fc18f1e"
+      ],
+      "sourceUrls": [
+        "https://commons.wikimedia.org/wiki/File:Erstein_67-_Eiffel_Replica_ERLEADG.jpg"
+      ],
+      "photoSha256": "882bc41276fcd5041d81dc751abfec59f9da0f48052ee3cfd77b10133b5f4b06",
+      "photoViewedAt": "2026-10-11",
+      "subjectMatchStatus": "matched-photo-reference",
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "xk-janjeve-anija-restaurant-eiffel-tower",
+      "method": "photo-estimate",
+      "displayM": 28.284271247461902,
+      "rangeM": [
+        20,
+        40
+      ],
+      "confidence": "low",
+      "referenceObject": "scene-context",
+      "notes": "以塔脚附近小汽车常见约1.4–1.8米车高作粗略参照；远景像素、前后距离和旗杆端点造成较大误差。",
+      "sourceIds": [
+        "src_5d192e8e7aa1c3ef"
+      ],
+      "sourceUrls": [
+        "https://commons.wikimedia.org/wiki/File:Amusement_park_nearby_Gornja_Gu%C5%A1terica_(nearby_Anija_restaurant).jpg"
+      ],
+      "photoSha256": "95debe493555ecb515590704ba8aff602e09db5dbed7f3fcc7a2d4fc959095a9",
+      "photoViewedAt": "2026-10-11",
+      "subjectMatchStatus": "matched-photo-reference",
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "cz-ostrava-miniuni",
+      "method": "source-reference",
+      "displayM": 7,
+      "rangeM": [
+        7,
+        7
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用Jon Worth文章及其同源uMap中的约7米线索；尚未采用为事实高度，照片仅用于核对造型，不能独立量测。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoSha256": "4f3f7090fbc2fd445a20cc8b332c6c6c2f1801f5314d477da1d4de11642144e5",
+      "photoViewedAt": "2026-10-11",
+      "subjectMatchStatus": "matched-photo-reference",
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "at-mattersburg-tower-on-a-roundabout",
+      "method": "photo-estimate",
+      "displayM": 7.745966692414834,
+      "rangeM": [
+        5,
+        12
+      ],
+      "confidence": "low",
+      "referenceObject": "scene-context",
+      "notes": "以街景中的轿车和路灯作为宽范围参照；镜头透视与距离不一致，保留旧来源5米线索但不把它当作实测值。",
+      "sourceIds": [
+        "src_31e976416dff7a2c"
+      ],
+      "sourceUrls": [
+        "https://www.google.de/maps/@47.7317327,16.4119208,239a,75y,301.34h,92.63t/data=!3m7!1e1!3m5!1saQFcQnWxqmWvt6un117OYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6299999999999955%26panoid%3DaQFcQnWxqmWvt6un117OYg%26yaw%3D301.34!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D"
+      ],
+      "photoSha256": "c344d876024428ca413b94ed67bed19d461dbc4cd3526778af8bdea4ad787c8f",
+      "photoViewedAt": "2026-10-11",
+      "subjectMatchStatus": "matched-photo-reference",
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "al-tirana-tower-on-a-shopping-street",
+      "method": "source-reference",
+      "displayM": 2.23606797749979,
+      "rangeM": [
+        2,
+        2.5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "am-yerevan-yerevani-herustaashtarak",
+      "method": "source-reference",
+      "displayM": 312,
+      "rangeM": [
+        312,
+        312
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "au-sydney-new-south-wales-awa-tower",
+      "method": "source-reference",
+      "displayM": 46,
+      "rangeM": [
+        46,
+        46
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "au-tasmazia-the-village-of-lower-crackpot-tower-at-a-miniature-park",
+      "method": "source-reference",
+      "displayM": 3.4641016151377544,
+      "rangeM": [
+        3,
+        4
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "be-jurbise-tower-in-a-front-garden",
+      "method": "source-reference",
+      "displayM": 8,
+      "rangeM": [
+        8,
+        8
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "be-kampenhout-tower-in-front-of-a-house",
+      "method": "source-reference",
+      "displayM": 1.5,
+      "rangeM": [
+        1.5,
+        1.5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "ca-vancouver-woodwards",
+      "method": "source-reference",
+      "displayM": 15,
+      "rangeM": [
+        15,
+        15
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "cn-harbin-heilongjiang-province-dragon-tower",
+      "method": "source-reference",
+      "displayM": 336,
+      "rangeM": [
+        336,
+        336
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "cn-ma-anshan-children-s-park-tower",
+      "method": "source-reference",
+      "displayM": 10,
+      "rangeM": [
+        10,
+        10
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "cn-suzhou-dong-wu-inspired",
+      "method": "source-reference",
+      "displayM": 168,
+      "rangeM": [
+        168,
+        168
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "cz-prague-petrin-lookout-tower-petrinska-rozhledna",
+      "method": "source-reference",
+      "displayM": 63.74950980203691,
+      "rangeM": [
+        63.5,
+        64
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "de-berlin-funkturm-berlin",
+      "method": "source-reference",
+      "displayM": 150,
+      "rangeM": [
+        150,
+        150
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "de-freiburg-breisgau-tower-at-a-adventure-play-ground",
+      "method": "source-reference",
+      "displayM": 5,
+      "rangeM": [
+        5,
+        5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "de-hollage-tower-on-a-roundabout",
+      "method": "source-reference",
+      "displayM": 6.48074069840786,
+      "rangeM": [
+        6,
+        7
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "de-lauchhammer-liegender-eiffelturm",
+      "method": "source-reference",
+      "displayM": 80,
+      "rangeM": [
+        80,
+        80
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "dk-copenhagen-copenhagen-zoo-tower",
+      "method": "source-reference",
+      "displayM": 43.749285708454714,
+      "rangeM": [
+        43.5,
+        44
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "ee-reigi-tower-pointing-to-the-bigger-tower-down-the-road",
+      "method": "source-reference",
+      "displayM": 3,
+      "rangeM": [
+        3,
+        3
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "es-alava-cruz-del-monte-gorbea",
+      "method": "source-reference",
+      "displayM": 25,
+      "rangeM": [
+        25,
+        25
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "es-san-juan-del-puerto-andalusia-school-patio-tower",
+      "method": "source-reference",
+      "displayM": 5,
+      "rangeM": [
+        5,
+        5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-aix-les-bains-tower-in-a-garden",
+      "method": "source-reference",
+      "displayM": 4,
+      "rangeM": [
+        4,
+        4
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-altkirch-tower-in-the-garden-of-a-bistro",
+      "method": "source-reference",
+      "displayM": 5,
+      "rangeM": [
+        5,
+        5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-anglet-tower-on-the-roof-of-a-house",
+      "method": "source-reference",
+      "displayM": 2,
+      "rangeM": [
+        2,
+        2
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-buhl-tower-in-a-garden-on-the-edge-of-the-village",
+      "method": "source-reference",
+      "displayM": 1.5,
+      "rangeM": [
+        1.5,
+        1.5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-buhl-tower-in-a-yard",
+      "method": "source-reference",
+      "displayM": 2.7386127875258306,
+      "rangeM": [
+        2.5,
+        3
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-buhl-tower-in-the-centre-of-the-village",
+      "method": "source-reference",
+      "displayM": 2.449489742783178,
+      "rangeM": [
+        2,
+        3
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-champagne-sur-seine-tower-in-an-industrial-yard",
+      "method": "source-reference",
+      "displayM": 5,
+      "rangeM": [
+        5,
+        5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-lyon-metallic-tower-of-fourviere",
+      "method": "source-reference",
+      "displayM": 93.14451137882469,
+      "rangeM": [
+        85.9,
+        101
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-mulhouse-emetteur-du-belvedere",
+      "method": "source-reference",
+      "displayM": 194,
+      "rangeM": [
+        194,
+        194
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-paris-bassin-de-la-villette-eiffel-tower-rocket-sculpture",
+      "method": "source-reference",
+      "displayM": 8,
+      "rangeM": [
+        8,
+        8
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "fr-poyans-tower-in-a-back-garden",
+      "method": "source-reference",
+      "displayM": 4,
+      "rangeM": [
+        4,
+        4
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "gb-blackpool-tower",
+      "method": "source-reference",
+      "displayM": 158,
+      "rangeM": [
+        158,
+        158
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "gb-crystal-palace-london-crystal-palace-transmitting-station",
+      "method": "source-reference",
+      "displayM": 219,
+      "rangeM": [
+        219,
+        219
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "gb-hastings-garden-eiffel-tower",
+      "method": "source-reference",
+      "displayM": 8.94427190999916,
+      "rangeM": [
+        8,
+        10
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "gb-new-brighton-merseyside-new-brighton-tower",
+      "method": "source-reference",
+      "displayM": 173,
+      "rangeM": [
+        173,
+        173
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "gq-bata-torre-de-bata",
+      "method": "source-reference",
+      "displayM": 50,
+      "rangeM": [
+        50,
+        50
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "gr-attica-tower-at-a-metalworker-shop",
+      "method": "source-reference",
+      "displayM": 4,
+      "rangeM": [
+        4,
+        4
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "gt-guatemala-city-torre-del-reformador",
+      "method": "source-reference",
+      "displayM": 73.48469228349535,
+      "rangeM": [
+        72,
+        75
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "in-fazilka-fazilka-tv-tower",
+      "method": "source-reference",
+      "displayM": 305,
+      "rangeM": [
+        305,
+        305
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "it-amiata-monte-amiata-summit-cross",
+      "method": "source-reference",
+      "displayM": 22,
+      "rangeM": [
+        22,
+        22
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "it-avola-sicily-tower-in-a-car-park",
+      "method": "source-reference",
+      "displayM": 5,
+      "rangeM": [
+        5,
+        5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "it-bibbiano-tower-at-a-road-junction-by-an-office",
+      "method": "source-reference",
+      "displayM": 3,
+      "rangeM": [
+        3,
+        3
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "it-marche-tower-in-a-field",
+      "method": "source-reference",
+      "displayM": 5,
+      "rangeM": [
+        5,
+        5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "it-trescore-balneario-tower-suspended-over-a-sort-of-trench",
+      "method": "source-reference",
+      "displayM": 7,
+      "rangeM": [
+        7,
+        7
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "jp-minato-tokyo-tokyo-tower",
+      "method": "source-reference",
+      "displayM": 332.5,
+      "rangeM": [
+        332.5,
+        332.5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "jp-osaka-tsutenkaku-tower-reaching-heaven",
+      "method": "source-reference",
+      "displayM": 64,
+      "rangeM": [
+        64,
+        64
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "jp-sapporo-sapporo-television-tower",
+      "method": "source-reference",
+      "displayM": 147,
+      "rangeM": [
+        147,
+        147
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "lb-jounieh-trocadero-lb",
+      "method": "source-reference",
+      "displayM": 20,
+      "rangeM": [
+        20,
+        20
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "lt-marijampole-tower-at-a-hotel-beside-the-motorway",
+      "method": "source-reference",
+      "displayM": 10,
+      "rangeM": [
+        10,
+        10
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "lv-riga-rigas-radio-un-televizijas-tornis",
+      "method": "source-reference",
+      "displayM": 369,
+      "rangeM": [
+        369,
+        369
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "my-langkawi-maha-tower",
+      "method": "source-reference",
+      "displayM": 138,
+      "rangeM": [
+        138,
+        138
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "nl-alkmaar-tower-on-shipping-containers",
+      "method": "source-reference",
+      "displayM": 5,
+      "rangeM": [
+        5,
+        5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "pk-karachi-bent-tower-with-a-lamp-on-top",
+      "method": "source-reference",
+      "displayM": 5,
+      "rangeM": [
+        5,
+        5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "pl-gliwice-gliwice-radio-tower",
+      "method": "source-reference",
+      "displayM": 111,
+      "rangeM": [
+        111,
+        111
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "rs-belgrade-avalski-toranj",
+      "method": "source-reference",
+      "displayM": 204,
+      "rangeM": [
+        204,
+        204
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "rs-velika-plana-tower-in-a-front-garden",
+      "method": "source-reference",
+      "displayM": 7.0710678118654755,
+      "rangeM": [
+        5,
+        10
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_05112a04bd677070"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://api.openstreetmap.org/api/0.6/nodes?nodes=8307389297%2C4812418823%2C10836985692%2C4316268408%2C11499726120%2C7533302183%2C4100356882%2C9826770955%2C8026487358%2C11898399510%2C7308805064%2C7107573881%2C5230713820%2C8296308417%2C4755549070",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "ru-beliy-island-eiffel-tower-of-the-arctic",
+      "method": "source-reference",
+      "displayM": 15,
+      "rangeM": [
+        15,
+        15
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "ru-moscow-moskabelmet-factory",
+      "method": "source-reference",
+      "displayM": 10,
+      "rangeM": [
+        10,
+        10
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "ru-nazran-replica-in-residential-area",
+      "method": "source-reference",
+      "displayM": 4,
+      "rangeM": [
+        4,
+        4
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "ru-st-petersburg-saint-petersburg-tv-tower",
+      "method": "source-reference",
+      "displayM": 326,
+      "rangeM": [
+        326,
+        326
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "tw-chiayi-clock-tower",
+      "method": "source-reference",
+      "displayM": 10,
+      "rangeM": [
+        10,
+        10
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "tw-taoyuan-baleng-tower",
+      "method": "source-reference",
+      "displayM": 30,
+      "rangeM": [
+        30,
+        30
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach",
+      "method": "source-reference",
+      "displayM": 22.360679774997898,
+      "rangeM": [
+        20,
+        25
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_6e696f2d32f81ffc"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "us-corona-ny-louvre-hotel-nyc",
+      "method": "source-reference",
+      "displayM": 3,
+      "rangeM": [
+        3,
+        3
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "us-glendale-americana-at-brand",
+      "method": "source-reference",
+      "displayM": 6,
+      "rangeM": [
+        6,
+        6
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "us-riverside-ca-indoor-mini-golf-eiffel-tower",
+      "method": "source-reference",
+      "displayM": 1.5,
+      "rangeM": [
+        1.5,
+        1.5
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "us-skokie-il-mini-golf-eiffel-tower",
+      "method": "source-reference",
+      "displayM": 3,
+      "rangeM": [
+        3,
+        3
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "us-washington-dc-tower-on-a-restaurant-roof",
+      "method": "source-reference",
+      "displayM": 3,
+      "rangeM": [
+        3,
+        3
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "vn-ha-giang-communication-tower",
+      "method": "source-reference",
+      "displayM": 50,
+      "rangeM": [
+        50,
+        50
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
+    },
+    {
+      "id": "vn-phu-thuy-tall-mast-like-tower",
+      "method": "source-reference",
+      "displayM": 28.284271247461902,
+      "rangeM": [
+        20,
+        40
+      ],
+      "confidence": "low",
+      "referenceObject": null,
+      "notes": "沿用既有具名来源的高度线索；来源口径及端点可能不同，展示尺寸不是新的量测，也未采用为事实高度。",
+      "sourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "sourceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "photoViewedAt": null,
+      "canonicalHeightChanged": false
     }
   ]
 }

@@ -36,7 +36,7 @@ The effects follow the towers currently visible under your filters. Drag to take
 
 - **Globe:** models for modelled records, markers for other records, with exact and approximate locations distinguished.
 - **Collection:** filter by category, setting, historical appearance and available dimensions; related structures remain discoverable.
-- **Details:** place information, source links, model context and map directions stay attached to the record.
+- **Details:** photographs and a rotatable 3D model sit side by side, followed by the overview, location/status and model evidence. Source links and map directions stay attached to the record.
 - **Comparison:** inspect structures together; numerical height comparisons use eligible sourced dimensions and exclude inferred geometry.
 - **Archive:** search the research records in Chinese, English or French, including unresolved fields and traceable aliases.
 - **Corrections:** help identify a place, refine a location or add a tower from your own town.

@@ -1,0 +1,121 @@
+{
+  "towers": {
+    "fr-erstein-tower-at-a-roundabout": {
+      "name": "Tour Eiffel — Erstein · Rond-point (fiche de recherche)",
+      "label": "Erstein",
+      "city": "Erstein",
+      "venue": "Rond-point",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nUne photo hivernale montre sur le rond-point une petite tour sombre à quatre pieds, deux plateformes et un fût fin ; les détails restent limités.",
+      "currentUses": []
+    },
+    "xk-janjeve-anija-restaurant-eiffel-tower": {
+      "name": "Tour Eiffel — Janjevë · Anija Restaurant Eiffel Tower (fiche de recherche)",
+      "label": "Janjevë",
+      "city": "Janjevë",
+      "venue": "Anija Restaurant Eiffel Tower",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLa photo du parc montre une base large et claire, deux plateformes, un fût sombre et fin et un mât au sommet ; la distance et les masquages limitent les détails.",
+      "currentUses": []
+    },
+    "by-homiel-copy": {
+      "name": "Tour Eiffel — Gomel",
+      "label": "Gomel",
+      "city": "Gomel",
+      "venue": "Lieu précis à confirmer",
+      "summary": "Cette petite réplique sombre possède une charpente ouverte, deux anneaux de plateforme fins et une cage sommitale arrondie prolongée par une longue aiguille. La photographie reste distincte des données sur ses dimensions et son état actuel.\n\nLa petite tour noire en treillis, ses pieds arqués et sa couronne ajourée correspondent à la photo existante de Homieĺ, ainsi que les plots jaunes et le pavage.",
+      "currentUses": []
+    },
+    "lt-mazeikiai-copy": {
+      "name": "Sculpture Eiffel de la rue Žemaitijos, Mažeikiai",
+      "label": "Mažeikiai · Žemaitijos",
+      "city": "Mažeikiai",
+      "venue": "Secteur commercial du 72 rue Žemaitijos",
+      "summary": "La réplique près du secteur commercial du 72 rue Žemaitijos, à Mažeikiai, figure parmi les sculptures de la ville. Dans un récit personnel, l’écrivaine Lina Simutytė évoque la tour près du grand magasin Norfa et une photo donnant l’impression de vacances à Paris. Fabricant et année d’installation restent inconnus.\n\nLa vue rapprochée précise le treillis cuivré, les larges plateformes, les arcs inférieurs et la galerie sommitale ouverte sous toiture, correspondant à la tour du centre Eifelis.",
+      "currentUses": [
+        "Sculpture de secteur commercial",
+        "Repère photographique"
+      ]
+    },
+    "pk-rawalpindi-bahria-phase-8": {
+      "name": "Tour Eiffel — Rawalpindi · Bahria Town Phase 8",
+      "label": "Rawalpindi",
+      "city": "Rawalpindi",
+      "venue": "Bahria Town Phase 8",
+      "summary": "Bahria Town Phase 8 intègre des monuments internationaux à son paysage résidentiel, dont la tour Eiffel et la statue de la Liberté, selon l’exploitant. Cette version de Rawalpindi est distincte de celles de Lahore et Karachi ; restauration, belvédère et horaires d’accès ne sont pas confirmés.\n\nLa vue au crépuscule correspond à la couronne arrondie, aux deux plateformes saillantes, aux arcs et au garde-corps de Rawalpindi Phase 8 ; les deux indications de position sont distantes d’environ dix mètres.",
+      "currentUses": [
+        "Repère thématique résidentiel"
+      ]
+    },
+    "it-vergiate-corgeno-copy": {
+      "name": "Tour Eiffel — Corgeno / Vergiate (fiche de recherche)",
+      "label": "Corgeno / Vergiate",
+      "city": "Corgeno / Vergiate",
+      "venue": "",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLa photo montre une tour artisanale claire et ajourée sur le dallage d’une cour, avec plateformes décoratives et petite couronne. Son statut d’installation publique permanente et ses dimensions restent à vérifier ; les cinq mètres anciennement indiqués ne sont pas retenus.",
+      "currentUses": []
+    },
+    "am-yerevan-yerevani-herustaashtarak": {
+      "name": "Yerevani herustaashtarak — Yerevan",
+      "label": "Yerevan",
+      "city": "Yerevan",
+      "venue": "Yerevani herustaashtarak",
+      "summary": "La carte de Jon Worth signale « Yerevani herustaashtarak » à Yerevan. Cet objet dérivé ou ressemblant est exclu du globe des répliques. Les photographies et les dimensions ne sont pas encore vérifiées indépendamment.\n\nLa photo montre une tour de télévision rouge et blanche, des plateformes techniques saillantes et une antenne fine ; la classification d’édifice apparenté est conservée.",
+      "currentUses": []
+    },
+    "dk-copenhagen-copenhagen-zoo-tower": {
+      "name": "Tour inspirée — Copenhague · Copenhagen Zoo (fiche de recherche)",
+      "label": "Copenhague",
+      "city": "Copenhague",
+      "venue": "Copenhagen Zoo",
+      "summary": "Cette fiche de recherche concerne une architecture inspirée de la silhouette Eiffel, distincte des répliques retenues pour le globe. Les faits, les sources et le statut du lieu restent ceux de la fiche d’origine.\n\nAu-dessus de l’entrée du zoo se trouvent un fût sombre étroit, des bandes blanches et une large cabine d’observation. La date de 2005 indiquée est celle du téléversement, pas de la prise de vue.",
+      "currentUses": []
+    },
+    "gb-blackpool-tower": {
+      "name": "Tour inspirée — Blackpool · Blackpool Tower Circus complex (fiche de recherche)",
+      "label": "Blackpool",
+      "city": "Blackpool",
+      "venue": "Blackpool Tower Circus complex",
+      "summary": "Cette fiche de recherche concerne une architecture inspirée de la silhouette Eiffel, distincte des répliques retenues pour le globe. Les faits, les sources et le statut du lieu restent ceux de la fiche d’origine.\n\nLa photo montre une tour en treillis brun rouge au-dessus d’un ensemble en brique, surmontée d’une couronne décorative à étages ; elle reste un édifice apparenté.",
+      "currentUses": []
+    },
+    "de-berlin-funkturm-berlin": {
+      "name": "Tour inspirée — Berlin · Messe Berlin (fiche de recherche)",
+      "label": "Berlin",
+      "city": "Berlin",
+      "venue": "Messe Berlin",
+      "summary": "Cette fiche de recherche concerne une architecture inspirée de la silhouette Eiffel, distincte des répliques retenues pour le globe. Les faits, les sources et le statut du lieu restent ceux de la fiche d’origine.\n\nLa photo distingue la tour radio en treillis clair, ses deux larges plateformes et l’escalier central ; des toitures masquent une partie de la base.",
+      "currentUses": []
+    },
+    "fr-lyon-metallic-tower-of-fourviere": {
+      "name": "Tour inspirée — Lyon · Fourvière hill (fiche de recherche)",
+      "label": "Lyon",
+      "city": "Lyon",
+      "venue": "Fourvière hill",
+      "summary": "Cette fiche de recherche concerne une architecture inspirée de la silhouette Eiffel, distincte des répliques retenues pour le globe. Les faits, les sources et le statut du lieu restent ceux de la fiche d’origine.\n\nLa vue rapprochée montre le treillis sombre, une plateforme supérieure ouverte et des antennes et paraboles de télécommunication ajoutées.",
+      "currentUses": []
+    },
+    "cz-prague-petrin-lookout-tower-petrinska-rozhledna": {
+      "name": "Tour inspirée — Prague · Petřín hill (fiche de recherche)",
+      "label": "Prague",
+      "city": "Prague",
+      "venue": "Petřín hill",
+      "summary": "Cette fiche de recherche concerne une architecture inspirée de la silhouette Eiffel, distincte des répliques retenues pour le globe. Les faits, les sources et le statut du lieu restent ceux de la fiche d’origine.\n\nLa photo montre la tour d’observation octogonale, deux niveaux panoramiques et l’escalier hélicoïdal intérieur ; les arbres masquent une partie basse. La classification d’édifice apparenté est conservée.",
+      "currentUses": []
+    },
+    "at-mattersburg-tower-on-a-roundabout": {
+      "name": "Tour Eiffel — Mattersburg · Rond-point (fiche de recherche)",
+      "label": "Mattersburg",
+      "city": "Mattersburg",
+      "venue": "Rond-point",
+      "summary": "La municipalité indique que l’école professionnelle a construit la petite tour pour la fête de la langue française de juin 2006, puis l’a exposée comme œuvre sur le rond-point.\n\nCette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nStreet View de juin 2023 montre une ossature brune ajourée, une plateforme basse à garde-corps blanc, un fût fin et un sommet pointu ; le modèle exclut le rond-point.",
+      "currentUses": []
+    },
+    "cz-ostrava-miniuni": {
+      "name": "Tour Eiffel — Ostrava · Miniuni (fiche de recherche)",
+      "label": "Ostrava",
+      "city": "Ostrava",
+      "venue": "Miniuni",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLa photographie historique identifiée montre à Miniuni une réplique sombre à base large, deux plateformes et un fût fin. La résolution est faible ; le devenir de la tour après le déblaiement du parc reste à vérifier.",
+      "currentUses": []
+    }
+  }
+}

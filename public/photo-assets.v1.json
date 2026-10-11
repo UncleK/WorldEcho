@@ -55,6 +55,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_6347d8f496e22bc4",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_6347d8f496e22bc4-5b6cdd3c1886.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_6347d8f496e22bc4-5b6cdd3c1886-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2016-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@41.3226795,19.8176966,107a,37.5y,235.47h,87.22t/data=!3m8!1e1!3m6!1szfGqmTc4SUFhfEUDt5YfQw!2e0!5s20160501T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.780000000000001%26panoid%3DzfGqmTc4SUFhfEUDt5YfQw%26yaw%3D235.47!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@41.3226795,19.8176966,107a,37.5y,235.47h,87.22t/data=!3m8!1e1!3m6!1szfGqmTc4SUFhfEUDt5YfQw!2e0!5s20160501T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.780000000000001%26panoid%3DzfGqmTc4SUFhfEUDt5YfQw%26yaw%3D235.47!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2016-05; not inferred from article or upload date.",
+        "Historical storefront scene contains a small illuminated open-frame Eiffel-like decoration by the café seating; detail limited by distance."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@41.3226795,19.8176966,107a,37.5y,235.47h,87.22t/data=!3m8!1e1!3m6!1szfGqmTc4SUFhfEUDt5YfQw!2e0!5s20160501T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.780000000000001%26panoid%3DzfGqmTc4SUFhfEUDt5YfQw%26yaw%3D235.47!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_eedfdbec8f075952",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_eedfdbec8f075952-65e696062f88.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_eedfdbec8f075952-65e696062f88-thumb.webp",
@@ -75,6 +99,30 @@
       "demoDisplayStatus": null,
       "originPageUrl": null,
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_1e2c31ada81e2bc9",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_1e2c31ada81e2bc9-6949773ae483.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_1e2c31ada81e2bc9-6949773ae483-thumb.webp",
+      "author": "Yakovlev Sergey",
+      "capturedAt": "2006-07-03",
+      "license": {
+        "text": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Yerevan_TV_tower.jpg#Licensing"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Yerevan_TV_tower.jpg",
+      "attribution": "Yakovlev Sergey · Public domain · https://commons.wikimedia.org/wiki/File:Yerevan_TV_tower.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2006-07-03. Capture date is not inferred from upload time.",
+        "The photograph shows a red-and-white television tower with projecting equipment platforms and a slender antenna; its related-building classification is retained."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_0b9a4cb83721c8f0",
@@ -182,6 +230,30 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_cfca2fc4186bd59c",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_cfca2fc4186bd59c-c344d8760244.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_cfca2fc4186bd59c-c344d8760244-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2023-06",
+      "license": {
+        "text": "Google Street View screenshot · demo reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@47.7317327,16.4119208,239a,75y,301.34h,92.63t/data=!3m7!1e1!3m5!1saQFcQnWxqmWvt6un117OYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6299999999999955%26panoid%3DaQFcQnWxqmWvt6un117OYg%26yaw%3D301.34!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Street View screenshot · demo reference only · https://www.google.de/maps/@47.7317327,16.4119208,239a,75y,301.34h,92.63t/data=!3m7!1e1!3m5!1saQFcQnWxqmWvt6un117OYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6299999999999955%26panoid%3DaQFcQnWxqmWvt6un117OYg%26yaw%3D301.34!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference-only local demonstration; original rights retained. Not an open-licensed image.",
+        "Source date text: 2023-06. Capture date is not inferred from upload time.",
+        "June 2023 Street View shows a brown open frame, a low white-railed deck, slender shaft and pointed crown; the model excludes the surrounding roundabout."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@47.7317327,16.4119208,239a,75y,301.34h,92.63t/data=!3m7!1e1!3m5!1saQFcQnWxqmWvt6un117OYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6299999999999955%26panoid%3DaQFcQnWxqmWvt6un117OYg%26yaw%3D301.34!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_06a3f61e9d5cd4bd",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_06a3f61e9d5cd4bd-2a6b1c48c407.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_06a3f61e9d5cd4bd-2a6b1c48c407-thumb.webp",
@@ -256,6 +328,54 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_15a4a5c36ada2b16",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_15a4a5c36ada2b16-8fb274e07f5d.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_15a4a5c36ada2b16-8fb274e07f5d-thumb.webp",
+      "author": "Craig Siczak",
+      "capturedAt": "2013-10-24",
+      "license": {
+        "text": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:AWA_Tower.jpg",
+      "attribution": "Craig Siczak · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:AWA_Tower.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2013-10-24; not inferred from article or upload date.",
+        "White lattice communications tower on an office roof, tapering to a narrow ring and rounded crown; the building is excluded from the tower model."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_49c97625996affc5",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_49c97625996affc5-4968afd27de8.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_49c97625996affc5-4968afd27de8-thumb.webp",
+      "author": "Brad Main / Google Maps panorama",
+      "capturedAt": "2017-12",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@-41.4264223,146.2045735,3a,75y,80.57h,90t/data=!3m8!1e1!3m6!1sAF1QipNIHFNujcQaoDsjpJ0RP0gw0KQq_kL1G2Cl5n0k!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNIHFNujcQaoDsjpJ0RP0gw0KQq_kL1G2Cl5n0k%3Dw900-h600-k-no-pi0-ya44.56999999999999-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Brad Main / Google Maps panorama · Google Maps / photographer · reference only · https://www.google.de/maps/@-41.4264223,146.2045735,3a,75y,80.57h,90t/data=!3m8!1e1!3m6!1sAF1QipNIHFNujcQaoDsjpJ0RP0gw0KQq_kL1G2Cl5n0k!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNIHFNujcQaoDsjpJ0RP0gw0KQq_kL1G2Cl5n0k%3Dw900-h600-k-no-pi0-ya44.56999999999999-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2017-12; not inferred from article or upload date.",
+        "Ochre/golden lattice replica at Tasmazia, with broad arched feet, two clearly projecting decks, dense crossed lower bracing, straight tapering upper shaft, square top platform and rounded cap; miniature surroundings excluded."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@-41.4264223,146.2045735,3a,75y,80.57h,90t/data=!3m8!1e1!3m6!1sAF1QipNIHFNujcQaoDsjpJ0RP0gw0KQq_kL1G2Cl5n0k!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNIHFNujcQaoDsjpJ0RP0gw0KQq_kL1G2Cl5n0k%3Dw900-h600-k-no-pi0-ya44.56999999999999-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_f0bfefa7e590ec99",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_f0bfefa7e590ec99-35128335c589.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_f0bfefa7e590ec99-35128335c589-thumb.webp",
@@ -280,6 +400,54 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_56a537589e569dae",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_56a537589e569dae-f2f8d0c3cc18.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_56a537589e569dae-f2f8d0c3cc18-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2020-09",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@50.5046885,3.8870361,70a,75y,163.77h,89.94t/data=!3m7!1e1!3m5!1s6gZbPEva90FogXkq_bIbUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.060000000000002274%26panoid%3D6gZbPEva90FogXkq_bIbUg%26yaw%3D163.77!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@50.5046885,3.8870361,70a,75y,163.77h,89.94t/data=!3m7!1e1!3m5!1s6gZbPEva90FogXkq_bIbUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.060000000000002274%26panoid%3D6gZbPEva90FogXkq_bIbUg%26yaw%3D163.77!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2020-09; not inferred from article or upload date.",
+        "Very slender pale lattice tower in a front lawn, wide outward-curving feet, two narrow platforms, long almost straight upper shaft and television aerials on top."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@50.5046885,3.8870361,70a,75y,163.77h,89.94t/data=!3m7!1e1!3m5!1s6gZbPEva90FogXkq_bIbUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.060000000000002274%26panoid%3D6gZbPEva90FogXkq_bIbUg%26yaw%3D163.77!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_900730f61bc8a950",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_900730f61bc8a950-24655354677b.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_900730f61bc8a950-24655354677b-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2021-12",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@50.9399697,4.5680202,19a,75y,42.44h,86.92t/data=!3m8!1e1!3m6!1syxzeGwkDI82LG1jRgFKCHw!2e0!5s20211201T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.0818250179674465%26panoid%3DyxzeGwkDI82LG1jRgFKCHw%26yaw%3D42.43511917316173!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@50.9399697,4.5680202,19a,75y,42.44h,86.92t/data=!3m8!1e1!3m6!1syxzeGwkDI82LG1jRgFKCHw!2e0!5s20211201T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.0818250179674465%26panoid%3DyxzeGwkDI82LG1jRgFKCHw%26yaw%3D42.43511917316173!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2021-12; not inferred from article or upload date.",
+        "Small Eiffel-shaped garden ornament assembled from visible white balls along sparse rods, two slim decks, open arched feet and rounded small crown; historical photograph, later view did not show it."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@50.9399697,4.5680202,19a,75y,42.44h,86.92t/data=!3m8!1e1!3m6!1syxzeGwkDI82LG1jRgFKCHw!2e0!5s20211201T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.0818250179674465%26panoid%3DyxzeGwkDI82LG1jRgFKCHw%26yaw%3D42.43511917316173!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_599878b70d710b62",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_599878b70d710b62-0335c6cd0df0.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_599878b70d710b62-0335c6cd0df0-thumb.webp",
@@ -293,6 +461,30 @@
       "attribution": null,
       "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
       "notes": [],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_9d6ec32396a4d479",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_9d6ec32396a4d479-ec3cf4b19ded.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_9d6ec32396a4d479-ec3cf4b19ded-thumb.webp",
+      "author": "Mx._Granger",
+      "capturedAt": null,
+      "license": {
+        "text": "CC0",
+        "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Parque_Sim%C3%B3n_Bol%C3%ADvar,_Sucre.jpg",
+      "attribution": "Mx._Granger · CC0 · https://commons.wikimedia.org/wiki/File:Parque_Sim%C3%B3n_Bol%C3%ADvar,_Sucre.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 3 December 2017 (according to Exif data); not inferred from article or upload date.",
+        "Orange-red park tower with open arched feet, two viewing decks and an open cage crown; people provide only a broad scale reference."
+      ],
       "gameEligible": false,
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
@@ -534,6 +726,30 @@
       "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
       "notes": [],
       "gameEligible": true,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_9dcc74743c9d0745",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_9dcc74743c9d0745-1d2762ecc651.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_9dcc74743c9d0745-1d2762ecc651-thumb.webp",
+      "author": "Vasyatka1",
+      "capturedAt": "2018-08-18",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sozh_River_Embankment_in_rainy_day.jpg",
+      "attribution": "Vasyatka1 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Sozh_River_Embankment_in_rainy_day.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2018-08-18 17:27:12. Capture date is not inferred from upload time.",
+        "The black lattice tower, arched feet and open curved crown match the existing Homieĺ photograph, including yellow bollards, paving and roadway."
+      ],
+      "gameEligible": false,
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
       "originPageUrl": null,
@@ -784,6 +1000,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_6dab08e24c9354ce",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_6dab08e24c9354ce-5942b9d67656.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_6dab08e24c9354ce-5942b9d67656-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.flickr.com/photos/time-to-look/50910923048",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://www.flickr.com/photos/time-to-look/50910923048",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Replica red W sign on a rooftop lattice frame; trees and buildings obscure the lower part. It is not a standalone full Eiffel replica."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.flickr.com/photos/time-to-look/50910923048",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_160cc0198bafdab1",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_160cc0198bafdab1-6c28bd63d451.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_160cc0198bafdab1-6c28bd63d451-thumb.webp",
@@ -977,6 +1217,54 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_0c087a4ede2ebfcd",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_0c087a4ede2ebfcd-fcd11fbee9fa.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0c087a4ede2ebfcd-fcd11fbee9fa-thumb.webp",
+      "author": "EditQ",
+      "capturedAt": "2023-10-13",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dragon_Tower_(Harbin).jpg",
+      "attribution": "EditQ · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Dragon_Tower_(Harbin).jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2023-10-13; not inferred from article or upload date.",
+        "Close view of the lower Harbin Dragon Tower lattice and entrance structures, with explicit EditQ authorship and licence."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_805d86888c512d62",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_805d86888c512d62-ae31019f34fe.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_805d86888c512d62-ae31019f34fe-thumb.webp",
+      "author": "EditQ",
+      "capturedAt": "2023-10-13",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dragon_Tower,_Harbin.jpg",
+      "attribution": "EditQ · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Dragon_Tower,_Harbin.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2023-10-13; not inferred from article or upload date.",
+        "Harbin Dragon Tower with a tapering lattice frame, upper circular observation disc and antenna; entrance buildings excluded from the tower model."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_6a08b1d93ccfc52c",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_6a08b1d93ccfc52c-895fbcdeeb24.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_6a08b1d93ccfc52c-895fbcdeeb24-thumb.webp",
@@ -1027,6 +1315,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "http://www.china.org.cn/photos/2015-09/17/content_36611880.htm",
       "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_45814e7aa4510b28",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_45814e7aa4510b28-a670cf36e779.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_45814e7aa4510b28-a670cf36e779-thumb.webp",
+      "author": "亮亮 / Google Maps photo",
+      "capturedAt": "2018-12",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/place/Children's+Park/@31.684994,118.500574,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNSKBeoH0BbXdnvCULGcDol6SuZAomHf3gCGzof!2e10!3e12!7i2976!8i3968!4m7!3m6!1s0x35ca859d7dcd2f75:0xd27e66eed1736a9a!8m2!3d31.684994!4d118.500574!10e5!16s%2Fg%2F1tdcdglh?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "亮亮 / Google Maps photo · Google Maps / photographer · reference only · https://www.google.com/maps/place/Children's+Park/@31.684994,118.500574,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNSKBeoH0BbXdnvCULGcDol6SuZAomHf3gCGzof!2e10!3e12!7i2976!8i3968!4m7!3m6!1s0x35ca859d7dcd2f75:0xd27e66eed1736a9a!8m2!3d31.684994!4d118.500574!10e5!16s%2Fg%2F1tdcdglh?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2018-12; not inferred from article or upload date.",
+        "Pale full lattice miniature in Children’s Park, broad arched feet, two projecting decks, long tapered shaft, polygonal summit cabin and thin antenna; snow and bare trees show photographed conditions only."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/place/Children's+Park/@31.684994,118.500574,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNSKBeoH0BbXdnvCULGcDol6SuZAomHf3gCGzof!2e10!3e12!7i2976!8i3968!4m7!3m6!1s0x35ca859d7dcd2f75:0xd27e66eed1736a9a!8m2!3d31.684994!4d118.500574!10e5!16s%2Fg%2F1tdcdglh?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_275e80c1823c662c",
@@ -1174,6 +1486,30 @@
       "demoDisplayStatus": null,
       "originPageUrl": null,
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_f07dc582484289be",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_f07dc582484289be-7c23e631ec40.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_f07dc582484289be-7c23e631ec40-thumb.webp",
+      "author": "4084470 0.smil",
+      "capturedAt": "2025-08-09",
+      "license": {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dongwu_Tower_in_Wuzhou_District,_Suzhou,_Jiangsu,_China_20250809.jpg",
+      "attribution": "4084470 0.smil · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Dongwu_Tower_in_Wuzhou_District,_Suzhou,_Jiangsu,_China_20250809.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2025-08-09 16:31:03; not inferred from article or upload date.",
+        "Dongwu Tower in Suzhou has a pale lattice body, a broad rectangular cabin, an upper polygonal disc and spire; the feet extend below the image."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_e87c83debf284af1",
@@ -1484,6 +1820,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_50d4acc133528c7c",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_50d4acc133528c7c-4f3f7090fbc2.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_50d4acc133528c7c-4f3f7090fbc2-thumb.webp",
+      "author": "bublinko2",
+      "capturedAt": null,
+      "license": {
+        "text": "Turistika.cz · demo reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.turistika.cz/mista/ostrava-svet-miniatur-miniuni/foto?id=2009877",
+      "attribution": "bublinko2 · Turistika.cz · demo reference only · https://www.turistika.cz/mista/ostrava-svet-miniatur-miniuni/foto?id=2009877",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference-only local demonstration; original rights retained. Not an open-licensed image.",
+        "Source date text: unknown. Capture date is not inferred from upload time.",
+        "The named historical photograph shows a dark, broad-footed replica at Miniuni, with two decks and a slender shaft. Resolution is low; the tower's fate after the park clearance remains unverified."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.turistika.cz/mista/ostrava-svet-miniatur-miniuni/foto?id=2009877",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_bd808d6c172ee235",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_bd808d6c172ee235-3c019c8fc6bb.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_bd808d6c172ee235-3c019c8fc6bb-thumb.webp",
@@ -1507,6 +1867,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://ebicykl.cz/userfiles/files/kronika/2015/ebi/denicek-2015-ebi-trutnovsti.pdf",
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_f8f2b0294ab0a616",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_f8f2b0294ab0a616-fdd5431c7195.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_f8f2b0294ab0a616-fdd5431c7195-thumb.webp",
+      "author": "Ivan Korostelev",
+      "capturedAt": "2016-09-23",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pet%C5%99%C3%ADnsk%C3%A1_rozhledna,_Prague.jpg",
+      "attribution": "Ivan Korostelev · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Pet%C5%99%C3%ADnsk%C3%A1_rozhledna,_Prague.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2016-09-23 11:08:00. Capture date is not inferred from upload time.",
+        "The photograph shows the octagonal lookout tower, two viewing levels and an internal spiral staircase; trees obscure part of the lower structure. Related-building classification is retained."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_360fc23e79e7c61a",
@@ -1606,6 +1990,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_58bbc67df14d5a98",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_58bbc67df14d5a98-cea85a093c71.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_58bbc67df14d5a98-cea85a093c71-thumb.webp",
+      "author": "Taxiarchos228",
+      "capturedAt": "2013-05-01",
+      "license": {
+        "text": "FAL",
+        "url": "http://artlibre.org/licence/lal/en"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Berlin_-_Funkturm1.jpg",
+      "attribution": "Taxiarchos228 · FAL · https://commons.wikimedia.org/wiki/File:Berlin_-_Funkturm1.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2013-05-01. Capture date is not inferred from upload time.",
+        "The photograph resolves the pale lattice radio tower, its two broad platforms and central staircase; foreground roofs obscure part of the base."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_d30dfe54461f215d",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_d30dfe54461f215d-a17220545115.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_d30dfe54461f215d-a17220545115-thumb.webp",
@@ -1628,6 +2036,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.powerofphotography.de/2021/05/13/blumengarten-in-bexbach-im-fruehling/",
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_ff7af0bf4e5a2ab8",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_ff7af0bf4e5a2ab8-5f022a679f6f.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_ff7af0bf4e5a2ab8-5f022a679f6f-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2022-06",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/place/Abenteuerspielplatz+Freiburg/@47.9989839,7.8046904,245a,20.6y,353.4h,90.01t/data=!3m7!1e1!3m5!1sv5PHwhRVgyqOyLF2XTgb2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.010000000000005116%26panoid%3Dv5PHwhRVgyqOyLF2XTgb2g%26yaw%3D353.4!7i16384!8i8192!4m7!3m6!1s0x47911b1bc52f8a41:0x1a2446e30a18f040!8m2!3d47.9998806!4d7.8047202!10e5!16s%2Fg%2F11h550b2sd?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.com/maps/place/Abenteuerspielplatz+Freiburg/@47.9989839,7.8046904,245a,20.6y,353.4h,90.01t/data=!3m7!1e1!3m5!1sv5PHwhRVgyqOyLF2XTgb2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.010000000000005116%26panoid%3Dv5PHwhRVgyqOyLF2XTgb2g%26yaw%3D353.4!7i16384!8i8192!4m7!3m6!1s0x47911b1bc52f8a41:0x1a2446e30a18f040!8m2!3d47.9998806!4d7.8047202!10e5!16s%2Fg%2F11h550b2sd?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2022-06; not inferred from article or upload date.",
+        "Distant pale tapering lattice-like upper structure inside the adventure playground; vehicles and trees hide most of the base. Very limited visual reference; detailed geometry remains conjectural."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/place/Abenteuerspielplatz+Freiburg/@47.9989839,7.8046904,245a,20.6y,353.4h,90.01t/data=!3m7!1e1!3m5!1sv5PHwhRVgyqOyLF2XTgb2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.010000000000005116%26panoid%3Dv5PHwhRVgyqOyLF2XTgb2g%26yaw%3D353.4!7i16384!8i8192!4m7!3m6!1s0x47911b1bc52f8a41:0x1a2446e30a18f040!8m2!3d47.9998806!4d7.8047202!10e5!16s%2Fg%2F11h550b2sd?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_676ba95692e21ed1",
@@ -1670,6 +2102,54 @@
       "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
       "notes": [],
       "gameEligible": true,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_0d41bc3deb89beca",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_0d41bc3deb89beca-0c9d3d9b2e12.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0d41bc3deb89beca-0c9d3d9b2e12-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2023-09",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@52.3450003,7.9685895,62a,75y,10.87h,92.5t/data=!3m7!1e1!3m5!1sfUHdTu8bzB6fK_CwzTTITg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.5%26panoid%3DfUHdTu8bzB6fK_CwzTTITg%26yaw%3D10.87!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@52.3450003,7.9685895,62a,75y,10.87h,92.5t/data=!3m7!1e1!3m5!1sfUHdTu8bzB6fK_CwzTTITg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.5%26panoid%3DfUHdTu8bzB6fK_CwzTTITg%26yaw%3D10.87!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2023-09; not inferred from article or upload date.",
+        "White slender open lattice tower on a planted traffic island, two projecting decks, broad splayed feet, tall narrow shaft, small dark top fittings and EU flag; surrounding ground excluded."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@52.3450003,7.9685895,62a,75y,10.87h,92.5t/data=!3m7!1e1!3m5!1sfUHdTu8bzB6fK_CwzTTITg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.5%26panoid%3DfUHdTu8bzB6fK_CwzTTITg%26yaw%3D10.87!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_55fa52e150aadc7d",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_55fa52e150aadc7d-c684509800d9.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_55fa52e150aadc7d-c684509800d9-thumb.webp",
+      "author": "Je-str",
+      "capturedAt": "2021-07-10",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Abraumf%C3%B6rderbr%C3%BCcke_F60.jpg",
+      "attribution": "Je-str · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Abraumf%C3%B6rderbr%C3%BCcke_F60.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2021-07-10; not inferred from article or upload date.",
+        "F60 conveyor bridge with a long horizontal triangular truss, multiple supports and cantilevered conveyor sections; a horizontal machine rather than a vertical tower."
+      ],
+      "gameEligible": false,
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
       "originPageUrl": null,
@@ -1777,6 +2257,26 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_9f870a90532e8931",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_9f870a90532e8931-180fc23f1461.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_9f870a90532e8931-180fc23f1461-thumb.webp",
+      "author": "Timberwind",
+      "capturedAt": "2008-08-02 16:22:28",
+      "license": {
+        "text": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Eiffelturm_Satteldorf.JPG#Licensing"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Eiffelturm_Satteldorf.JPG",
+      "attribution": null,
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_f6c4ca254e3d627c",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_f6c4ca254e3d627c-05d04df33ef0.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_f6c4ca254e3d627c-05d04df33ef0-thumb.webp",
@@ -1876,6 +2376,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.robertbremec.com/billund2023",
       "assetRole": "source_photo"
+    },
+    {
+      "id": "img_310f6067502129f9",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_310f6067502129f9-6ccd7da5c940.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_310f6067502129f9-6ccd7da5c940-thumb.webp",
+      "author": "Hansjorn",
+      "capturedAt": null,
+      "license": {
+        "text": "CC BY-SA 3.0",
+        "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Zoo-kbh-2005.jpg",
+      "attribution": "Hansjorn · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Zoo-kbh-2005.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 30 June 2005 (original upload date). Capture date is not inferred from upload time.",
+        "Above the zoo entrance stands a narrow dark shaft with white bands and a broad observation cabin. The file's 2005 date is an upload date and is not used as a capture date."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_42a42466c5aaa6ee",
@@ -1994,6 +2518,54 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_b5283e1a3cdc0dc9",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_b5283e1a3cdc0dc9-7f110acd561c.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_b5283e1a3cdc0dc9-7f110acd561c-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2024-09",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/place/Wooden+copy+of+the+Eiffel+Tower/@58.9966921,22.5288019,10a,75y,276.3h,93.51t/data=!3m7!1e1!3m5!1sLNpYfejgDxLIOCwLVCxHoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.510000000000005%26panoid%3DLNpYfejgDxLIOCwLVCxHoA%26yaw%3D276.3!7i16384!8i8192!4m7!3m6!1s0x46f2dd722815d287:0x23d7bb8c7864874b!8m2!3d59.0091119!4d22.4973724!10e5!16s%2Fg%2F11xt9jll2?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.com/maps/place/Wooden+copy+of+the+Eiffel+Tower/@58.9966921,22.5288019,10a,75y,276.3h,93.51t/data=!3m7!1e1!3m5!1sLNpYfejgDxLIOCwLVCxHoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.510000000000005%26panoid%3DLNpYfejgDxLIOCwLVCxHoA%26yaw%3D276.3!7i16384!8i8192!4m7!3m6!1s0x46f2dd722815d287:0x23d7bb8c7864874b!8m2!3d59.0091119!4d22.4973724!10e5!16s%2Fg%2F11xt9jll2?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2024-09; not inferred from article or upload date.",
+        "Small rustic timber lattice sign-tower beside the road, with uneven round poles, wide splayed feet, open intermediate rings, a tapered shaft and several small summit flags; distinct from the large tower shown in the place gallery."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/place/Wooden+copy+of+the+Eiffel+Tower/@58.9966921,22.5288019,10a,75y,276.3h,93.51t/data=!3m7!1e1!3m5!1sLNpYfejgDxLIOCwLVCxHoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.510000000000005%26panoid%3DLNpYfejgDxLIOCwLVCxHoA%26yaw%3D276.3!7i16384!8i8192!4m7!3m6!1s0x46f2dd722815d287:0x23d7bb8c7864874b!8m2!3d59.0091119!4d22.4973724!10e5!16s%2Fg%2F11xt9jll2?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_eb9033b72dc168d7",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_eb9033b72dc168d7-3d4c5f0fa509.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_eb9033b72dc168d7-3d4c5f0fa509-thumb.webp",
+      "author": "Basotxerri",
+      "capturedAt": "2016-01-24",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cruz_de_Gorbea_01.jpg",
+      "attribution": "Basotxerri · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Cruz_de_Gorbea_01.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2016-01-24 13:27:09; not inferred from article or upload date.",
+        "Black sparse lattice summit cross, with curving legs, a narrow centre and a summit cross; no pair of broad platforms."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_a4997f63bd8f92de",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_a4997f63bd8f92de-e5cf5676a357.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a4997f63bd8f92de-e5cf5676a357-thumb.webp",
@@ -2076,6 +2648,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_3af4bd39578b51bc",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_3af4bd39578b51bc-f5c75dc0b523.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_3af4bd39578b51bc-f5c75dc0b523-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2016-08",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/@37.3135285,-6.8392944,5a,75y,212.09h,96.12t/data=!3m7!1e1!3m5!1svjeYOT4QXxPuSKpSPxly7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.1200000000000045%26panoid%3DvjeYOT4QXxPuSKpSPxly7g%26yaw%3D212.09!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.com/maps/@37.3135285,-6.8392944,5a,75y,212.09h,96.12t/data=!3m7!1e1!3m5!1svjeYOT4QXxPuSKpSPxly7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.1200000000000045%26panoid%3DvjeYOT4QXxPuSKpSPxly7g%26yaw%3D212.09!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2016-08; not inferred from article or upload date.",
+        "Brown Eiffel-shaped lattice replica in the school patio, broad rounded arches, two decks, long tapering shaft and a small open rectangular top crown; vegetation hides parts of the feet."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/@37.3135285,-6.8392944,5a,75y,212.09h,96.12t/data=!3m7!1e1!3m5!1svjeYOT4QXxPuSKpSPxly7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.1200000000000045%26panoid%3DvjeYOT4QXxPuSKpSPxly7g%26yaw%3D212.09!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_b4721a36b8390eed",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_b4721a36b8390eed-0b56183a3a27.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_b4721a36b8390eed-0b56183a3a27-thumb.webp",
@@ -2149,6 +2745,78 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.is.fi/oulun-seutu/art-2000007695129.html",
       "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_cc55ee238da4fae4",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_cc55ee238da4fae4-40de54268fb8.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_cc55ee238da4fae4-40de54268fb8-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2020-08",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@45.6858648,5.9067352,241a,75y,192.36h,87.17t/data=!3m7!1e1!3m5!1s4SgD5-EthvNSMmPyQAJ30Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.8299999999999983%26panoid%3D4SgD5-EthvNSMmPyQAJ30Q%26yaw%3D192.36!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@45.6858648,5.9067352,241a,75y,192.36h,87.17t/data=!3m7!1e1!3m5!1s4SgD5-EthvNSMmPyQAJ30Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.8299999999999983%26panoid%3D4SgD5-EthvNSMmPyQAJ30Q%26yaw%3D192.36!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2020-08; not inferred from article or upload date.",
+        "Brown dense lattice garden replica, broad lower arch and two small decks, almost straight upper shaft and compact layered conical crown; fence obscures the lower feet."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@45.6858648,5.9067352,241a,75y,192.36h,87.17t/data=!3m7!1e1!3m5!1s4SgD5-EthvNSMmPyQAJ30Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.8299999999999983%26panoid%3D4SgD5-EthvNSMmPyQAJ30Q%26yaw%3D192.36!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_ef5e83058c1110a0",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_ef5e83058c1110a0-bae4278e5d57.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_ef5e83058c1110a0-bae4278e5d57-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2019-07",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/@47.6264147,7.2393497,289a,75y,316.78h,94.45t/data=!3m7!1e1!3m5!1snoeSFbBG3iWnit0Q8wUM-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.450000000000003%26panoid%3DnoeSFbBG3iWnit0Q8wUM-w%26yaw%3D316.78!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.com/maps/@47.6264147,7.2393497,289a,75y,316.78h,94.45t/data=!3m7!1e1!3m5!1snoeSFbBG3iWnit0Q8wUM-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.450000000000003%26panoid%3DnoeSFbBG3iWnit0Q8wUM-w%26yaw%3D316.78!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2019-07; not inferred from article or upload date.",
+        "Pale metal lattice replica beside Le Bistr’O, very long slender upper shaft and a large open rounded-square cage crown; wall and parasols hide the lower legs."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/@47.6264147,7.2393497,289a,75y,316.78h,94.45t/data=!3m7!1e1!3m5!1snoeSFbBG3iWnit0Q8wUM-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.450000000000003%26panoid%3DnoeSFbBG3iWnit0Q8wUM-w%26yaw%3D316.78!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_3de57cd7dd224faa",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_3de57cd7dd224faa-7dbd6333a328.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_3de57cd7dd224faa-7dbd6333a328-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2018-08",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@43.4871904,-1.5379189,53a,75y,198.6h,99.91t/data=!3m8!1e1!3m6!1sDs368zn2Npx3mZnnBVwhIg!2e0!5s20180801T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.909999999999997%26panoid%3DDs368zn2Npx3mZnnBVwhIg%26yaw%3D198.6!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@43.4871904,-1.5379189,53a,75y,198.6h,99.91t/data=!3m8!1e1!3m6!1sDs368zn2Npx3mZnnBVwhIg!2e0!5s20180801T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.909999999999997%26panoid%3DDs368zn2Npx3mZnnBVwhIg%26yaw%3D198.6!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2018-08; not inferred from article or upload date.",
+        "Dark small Eiffel-shaped replica on the lower house roof, flared feet, two small decks, slender shaft and small antenna/crown. Roof and support block are excluded. A later 2025 view did not show the tower from this direction."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@43.4871904,-1.5379189,53a,75y,198.6h,99.91t/data=!3m8!1e1!3m6!1sDs368zn2Npx3mZnnBVwhIg!2e0!5s20180801T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.909999999999997%26panoid%3DDs368zn2Npx3mZnnBVwhIg%26yaw%3D198.6!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_4cda55893c5e837a",
@@ -2289,6 +2957,78 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_8a7c9fe996c7e62e",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_8a7c9fe996c7e62e-11892e75781f.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_8a7c9fe996c7e62e-11892e75781f-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2019-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/@47.9294739,7.1915688,342a,75y,241.56h,80.77t/data=!3m7!1e1!3m5!1sl8IDU_qxCOvOdR_pjBVfRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.230000000000004%26panoid%3Dl8IDU_qxCOvOdR_pjBVfRQ%26yaw%3D241.56!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.com/maps/@47.9294739,7.1915688,342a,75y,241.56h,80.77t/data=!3m7!1e1!3m5!1sl8IDU_qxCOvOdR_pjBVfRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.230000000000004%26panoid%3Dl8IDU_qxCOvOdR_pjBVfRQ%26yaw%3D241.56!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2019-05; not inferred from article or upload date.",
+        "Small pale lattice tower on a circular garden plinth, four arched feet, two fine square decks, a straight narrow shaft and compact antenna crown; the plinth is not part of the tower model."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/@47.9294739,7.1915688,342a,75y,241.56h,80.77t/data=!3m7!1e1!3m5!1sl8IDU_qxCOvOdR_pjBVfRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.230000000000004%26panoid%3Dl8IDU_qxCOvOdR_pjBVfRQ%26yaw%3D241.56!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_f2dca339213b8f5f",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_f2dca339213b8f5f-fdb4969d877d.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_f2dca339213b8f5f-fdb4969d877d-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2019-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@47.9234156,7.1889851,343a,62.3y,248.91h,99.9t/data=!3m7!1e1!3m5!1smCuJ0vK9VMsH4r60QS8NKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.900000000000006%26panoid%3DmCuJ0vK9VMsH4r60QS8NKw%26yaw%3D248.91!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@47.9234156,7.1889851,343a,62.3y,248.91h,99.9t/data=!3m7!1e1!3m5!1smCuJ0vK9VMsH4r60QS8NKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.900000000000006%26panoid%3DmCuJ0vK9VMsH4r60QS8NKw%26yaw%3D248.91!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2019-05; not inferred from article or upload date.",
+        "Freestanding pale lattice tower behind the garden fence, with two narrow decks and a slim shaft; lower feet partly hidden. The much smaller hanging wall ornament is a separate object and is excluded."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@47.9234156,7.1889851,343a,62.3y,248.91h,99.9t/data=!3m7!1e1!3m5!1smCuJ0vK9VMsH4r60QS8NKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.900000000000006%26panoid%3DmCuJ0vK9VMsH4r60QS8NKw%26yaw%3D248.91!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_09cca784ca756e04",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_09cca784ca756e04-2d5e83c2b63d.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_09cca784ca756e04-2d5e83c2b63d-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2011-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/@47.9284658,7.1850726,346a,75y,134.74h,88.14t/data=!3m7!1e1!3m5!1s7Qmhvkmmtqcj1N6lkdj3Sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8599999999999994%26panoid%3D7Qmhvkmmtqcj1N6lkdj3Sw%26yaw%3D134.74!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.com/maps/@47.9284658,7.1850726,346a,75y,134.74h,88.14t/data=!3m7!1e1!3m5!1s7Qmhvkmmtqcj1N6lkdj3Sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8599999999999994%26panoid%3D7Qmhvkmmtqcj1N6lkdj3Sw%26yaw%3D134.74!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2011-05; not inferred from article or upload date.",
+        "Sparse dark metal flower-support tower on a low square plinth, wide straight splayed legs, a broad lower ring with hanging red flowers and a narrower upper frame; details partly merge with trees."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/@47.9284658,7.1850726,346a,75y,134.74h,88.14t/data=!3m7!1e1!3m5!1s7Qmhvkmmtqcj1N6lkdj3Sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8599999999999994%26panoid%3D7Qmhvkmmtqcj1N6lkdj3Sw%26yaw%3D134.74!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_abc775f5445d7c07",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_abc775f5445d7c07-c4d49281917f.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_abc775f5445d7c07-c4d49281917f-thumb.webp",
@@ -2385,6 +3125,30 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_3549998ca7b24ac4",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_3549998ca7b24ac4-19761765804a.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_3549998ca7b24ac4-19761765804a-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2025-03",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@48.3952618,2.7907052,47a,75y,113.38h,88.58t/data=!3m7!1e1!3m5!1szbJTql8Nh7BJYiYpjPGtiA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4200000000000017%26panoid%3DzbJTql8Nh7BJYiYpjPGtiA%26yaw%3D113.38!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@48.3952618,2.7907052,47a,75y,113.38h,88.58t/data=!3m7!1e1!3m5!1szbJTql8Nh7BJYiYpjPGtiA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4200000000000017%26panoid%3DzbJTql8Nh7BJYiYpjPGtiA%26yaw%3D113.38!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2025-03; not inferred from article or upload date.",
+        "Only a distant dark narrow tapered upper shaft and summit flag are visible above the industrial-yard gate; lower body is obscured. Full-body form remains an inference."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@48.3952618,2.7907052,47a,75y,113.38h,88.58t/data=!3m7!1e1!3m5!1szbJTql8Nh7BJYiYpjPGtiA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4200000000000017%26panoid%3DzbJTql8Nh7BJYiYpjPGtiA%26yaw%3D113.38!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_597bbe3742690052",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_597bbe3742690052-af5c31659fcb.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_597bbe3742690052-af5c31659fcb-thumb.webp",
@@ -2467,6 +3231,30 @@
       "attribution": null,
       "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
       "notes": [],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_5f096fa10bfd680e",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_5f096fa10bfd680e-882bc41276fc.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_5f096fa10bfd680e-882bc41276fc-thumb.webp",
+      "author": "Anthospace",
+      "capturedAt": "2018-12-16",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Erstein_67-_Eiffel_Replica_ERLEADG.jpg",
+      "attribution": "Anthospace · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Erstein_67-_Eiffel_Replica_ERLEADG.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2018-12-16 11:56:32. Capture date is not inferred from upload time.",
+        "A winter road photograph shows a dark four-legged tower on the roundabout, with two decks and a slender shaft; fine details remain limited."
+      ],
       "gameEligible": false,
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
@@ -2603,6 +3391,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_3cc8ba5f1dcb0e07",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_3cc8ba5f1dcb0e07-bd2d32f23e14.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_3cc8ba5f1dcb0e07-bd2d32f23e14-thumb.webp",
+      "author": "Yann Caradec from Paris, France",
+      "capturedAt": "2015-09-16",
+      "license": {
+        "text": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lyon_-_Tour_m%C3%A9tallique_de_Fourvi%C3%A8re,_septembre_2015.jpg",
+      "attribution": "Yann Caradec from Paris, France · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Lyon_-_Tour_m%C3%A9tallique_de_Fourvi%C3%A8re,_septembre_2015.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2015-09-16 19:31. Capture date is not inferred from upload time.",
+        "The close view shows dark lattice, an open upper platform and later telecommunications antennas and dishes."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_64af3018ab9e32c1",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_64af3018ab9e32c1-683b511dd230.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_64af3018ab9e32c1-683b511dd230-thumb.webp",
@@ -2678,6 +3490,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_02bbcba2d20c891b",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_02bbcba2d20c891b-76d2a205fbaf.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_02bbcba2d20c891b-76d2a205fbaf-thumb.webp",
+      "author": "Wladyslaw",
+      "capturedAt": "2010-01-03",
+      "license": {
+        "text": "CC BY-SA 3.0 de",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mulhouse_-_Sendeturm_Mulhouse-Belv%C3%A9d%C3%A8re2.jpg",
+      "attribution": "Wladyslaw · CC BY-SA 3.0 de · https://commons.wikimedia.org/wiki/File:Mulhouse_-_Sendeturm_Mulhouse-Belv%C3%A9d%C3%A8re2.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2010-01-03; not inferred from article or upload date.",
+        "Pale transmitter with projecting platforms, asymmetric antenna dishes and a long fine mast."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_a7012b54889bf2d2",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_a7012b54889bf2d2-0dcbde74fcae.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a7012b54889bf2d2-0dcbde74fcae-thumb.webp",
@@ -2702,6 +3538,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
       "assetRole": "source_photo"
+    },
+    {
+      "id": "img_d6fd77d3b0be5046",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_d6fd77d3b0be5046-8ffed8a4ae04.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_d6fd77d3b0be5046-8ffed8a4ae04-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Horizontal rocket sculpture incorporating Eiffel-like outlines, open circular wheels and a pointed nose; surrounding waterfront is excluded."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_9d890ca5a98eeb4a",
@@ -2774,6 +3634,30 @@
       "demoDisplayStatus": null,
       "originPageUrl": null,
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_353b42ab60e2ca6d",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_353b42ab60e2ca6d-63ebd5731213.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_353b42ab60e2ca6d-63ebd5731213-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2019-10",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@47.449767,5.4694908,208a,75y,344.06h,81.31t/data=!3m7!1e1!3m5!1sSdOPPuBJsmtKFW-ljGy-Ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.689999999999998%26panoid%3DSdOPPuBJsmtKFW-ljGy-Ug%26yaw%3D344.06!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@47.449767,5.4694908,208a,75y,344.06h,81.31t/data=!3m7!1e1!3m5!1sSdOPPuBJsmtKFW-ljGy-Ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.689999999999998%26panoid%3DSdOPPuBJsmtKFW-ljGy-Ug%26yaw%3D344.06!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2019-10; not inferred from article or upload date.",
+        "Grey garden replica with four splayed feet, narrow first and second decks, very slender shaft and a small weather-vane-like top detail; the nearby red windmill is a separate sculpture."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@47.449767,5.4694908,208a,75y,344.06h,81.31t/data=!3m7!1e1!3m5!1sSdOPPuBJsmtKFW-ljGy-Ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.689999999999998%26panoid%3DSdOPPuBJsmtKFW-ljGy-Ug%26yaw%3D344.06!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_ddf25636a52bbd0f",
@@ -3098,6 +3982,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_1dd2ae85c08eb725",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_1dd2ae85c08eb725-4028f4d60a26.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_1dd2ae85c08eb725-4028f4d60a26-thumb.webp",
+      "author": "Dave Green",
+      "capturedAt": "2007-05-20",
+      "license": {
+        "text": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Blackpool_Tower_Buildings.jpg",
+      "attribution": "Dave Green · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Blackpool_Tower_Buildings.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2007-05-20. Capture date is not inferred from upload time.",
+        "The photograph shows a red-brown lattice tower above a brick complex, topped by a tiered decorative crown; it remains a related-building record."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_318eef96b7310b30",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_318eef96b7310b30-be6ac87d2693.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_318eef96b7310b30-be6ac87d2693-thumb.webp",
@@ -3145,6 +4053,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_490d431f8a985fde",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_490d431f8a985fde-3d93a8f16fb6.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_490d431f8a985fde-3d93a8f16fb6-thumb.webp",
+      "author": "Tv boy",
+      "capturedAt": "2007-10-16",
+      "license": {
+        "text": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cp_mast.jpg",
+      "attribution": "Tv boy · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:Cp_mast.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2007-10-16; not inferred from article or upload date.",
+        "Broad lower lattice legs, a stepped tapering shaft and a white antenna mast; trees obscure the feet."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_0f3e578b4428af74",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_0f3e578b4428af74-feedc268b324.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0f3e578b4428af74-feedc268b324-thumb.webp",
@@ -3173,6 +4105,54 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_027af99e702ef9d9",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_027af99e702ef9d9-748364078af7.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_027af99e702ef9d9-748364078af7-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://web.archive.org/web/20211024143540/https://www.hastingsobserver.co.uk/news/people/st-leonards-man-told-to-take-down-eiffel-tower-in-front-garden-pictures-3142146",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://web.archive.org/web/20211024143540/https://www.hastingsobserver.co.uk/news/people/st-leonards-man-told-to-take-down-eiffel-tower-in-front-garden-pictures-3142146",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Tall dark replica in front of terraced houses, with broad legs, two platforms and a slender shaft; cars obscure the feet."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://web.archive.org/web/20211024143540/https://www.hastingsobserver.co.uk/news/people/st-leonards-man-told-to-take-down-eiffel-tower-in-front-garden-pictures-3142146",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_b8f8ef00561dac0d",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_b8f8ef00561dac0d-fc078caadd37.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_b8f8ef00561dac0d-fc078caadd37-thumb.webp",
+      "author": "Unknown authorUnknown author",
+      "capturedAt": null,
+      "license": {
+        "text": "Public domain",
+        "url": null
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:New_Brighton_Tower.jpg",
+      "attribution": "Unknown authorUnknown author · Public domain · https://commons.wikimedia.org/wiki/File:New_Brighton_Tower.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: ; not inferred from article or upload date.",
+        "Historic monochrome postcard of New Brighton Tower, with tall lattice legs, a broad tiered viewing crown and adjoining low buildings."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://commons.wikimedia.org/wiki/File:New_Brighton_Tower.jpg",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_3f418eb14933ea2f",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_3f418eb14933ea2f-0d2b655553c3.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_3f418eb14933ea2f-0d2b655553c3-thumb.webp",
@@ -3193,6 +4173,30 @@
       "demoDisplayStatus": null,
       "originPageUrl": null,
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_6fa78029ed63fca1",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_6fa78029ed63fca1-220202705945.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_6fa78029ed63fca1-220202705945-thumb.webp",
+      "author": "tadpolefarm",
+      "capturedAt": null,
+      "license": {
+        "text": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Torre_libertad,_Bata_-_panoramio.jpg",
+      "attribution": "tadpolefarm · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Torre_libertad,_Bata_-_panoramio.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: Taken on 10 September 2010; not inferred from article or upload date.",
+        "Construction-stage coastal Freedom Tower with white branching supports and a vertical core; crane visible, so this is not a completed-appearance reference."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_ee303473a7e3abec",
@@ -3223,6 +4227,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_7f10e92a3b360238",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_7f10e92a3b360238-90bfe0487ceb.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_7f10e92a3b360238-90bfe0487ceb-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2022-07",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@37.9413312,23.7264033,63a,75y,220.16h,91.64t/data=!3m7!1e1!3m5!1stNE2-T8IQynZVqi1euOvZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6400000000000006%26panoid%3DtNE2-T8IQynZVqi1euOvZQ%26yaw%3D220.16!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@37.9413312,23.7264033,63a,75y,220.16h,91.64t/data=!3m7!1e1!3m5!1stNE2-T8IQynZVqi1euOvZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6400000000000006%26panoid%3DtNE2-T8IQynZVqi1euOvZQ%26yaw%3D220.16!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2022-07; not inferred from article or upload date.",
+        "Pale perforated metal Eiffel-like tower outside the named metalworking shop, large rounded lower arch, two solid-edged decks, narrow upper shaft, small faceted cap and long pole; fence obscures parts of the lower legs."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@37.9413312,23.7264033,63a,75y,220.16h,91.64t/data=!3m7!1e1!3m5!1stNE2-T8IQynZVqi1euOvZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6400000000000006%26panoid%3DtNE2-T8IQynZVqi1euOvZQ%26yaw%3D220.16!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_1f4791bf3b56a9fc",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_1f4791bf3b56a9fc-8a0da5b244eb.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_1f4791bf3b56a9fc-8a0da5b244eb-thumb.webp",
@@ -3240,6 +4268,78 @@
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
       "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_e95c47584774c234",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_e95c47584774c234-1aa4837832a5.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_e95c47584774c234-1aa4837832a5-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Small pale tower ornament behind a balcony railing; only the upper section and narrow crown are visible."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_d760451d1caef476",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_d760451d1caef476-fae0b9a50998.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_d760451d1caef476-fae0b9a50998-thumb.webp",
+      "author": "Fabriccio Díaz",
+      "capturedAt": "2017-07-17",
+      "license": {
+        "text": "CC0",
+        "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Torre_del_Reformador_Fabriccio_D%C3%ADaz.jpg",
+      "attribution": "Fabriccio Díaz · CC0 · https://commons.wikimedia.org/wiki/File:Torre_del_Reformador_Fabriccio_D%C3%ADaz.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2017-07-17 05:37:50; not inferred from article or upload date.",
+        "Open lattice structure spanning a roadway, with a long straight shaft and widely splayed arched legs; no typical pair of Eiffel decks."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_3a4afde236c968fe",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_3a4afde236c968fe-715e5b17cff1.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_3a4afde236c968fe-715e5b17cff1-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.spiegel.de/fotostrecke/pariser-eiffelturm-nachbauten-aus-aller-welt-fotostrecke-112422.html",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://www.spiegel.de/fotostrecke/pariser-eiffelturm-nachbauten-aus-aller-welt-fotostrecke-112422.html",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Named Tegucigalpa photograph shows red-brown arched legs, two decks and long shaft; people obscure the lower left."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.spiegel.de/fotostrecke/pariser-eiffelturm-nachbauten-aus-aller-welt-fotostrecke-112422.html",
       "assetRole": "tower_reference"
     },
     {
@@ -3843,6 +4943,30 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_2ce7df4a1e1519ef",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_2ce7df4a1e1519ef-fc6587168584.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_2ce7df4a1e1519ef-fc6587168584-thumb.webp",
+      "author": "Miklondon",
+      "capturedAt": "2013-06-29",
+      "license": {
+        "text": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fernsehturm_fazilka.png",
+      "attribution": "Miklondon · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Fernsehturm_fazilka.png",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2013-06-29; not inferred from article or upload date.",
+        "Low-resolution photograph of a pale tapered lattice transmitter with several narrow platforms; the top and fine detail are incomplete."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_2410dcada010af21",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_2410dcada010af21-97e1b8d9376c.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_2410dcada010af21-97e1b8d9376c-thumb.webp",
@@ -4086,6 +5210,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_cbe0fe80e81323af",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_cbe0fe80e81323af-7d96bd97669b.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_cbe0fe80e81323af-7d96bd97669b-thumb.webp",
+      "author": "LigaDue",
+      "capturedAt": "2010-08-28",
+      "license": {
+        "text": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:MonteAmiataVettaCroce.JPG",
+      "attribution": "LigaDue · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:MonteAmiataVettaCroce.JPG",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2010-08-28; not inferred from article or upload date.",
+        "Summit lattice cross with four splayed feet, curved lower arches, a long upright and horizontal lattice arms."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_245795df1798af68",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_245795df1798af68-300418cfed44.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_245795df1798af68-300418cfed44-thumb.webp",
@@ -4111,6 +5259,54 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.barinedita.it/storie-e-interviste/n3618-andria-come-parigi--sul-tetto-di-un-edificio-si-trova-la-",
       "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_909ad5885603b9bd",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_909ad5885603b9bd-909070abeb75.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_909ad5885603b9bd-909070abeb75-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2026-07",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@36.9205826,15.1496148,23a,75y,131.78h,90t/data=!3m7!1e1!3m5!1sQr356WKUuC7KgCb0uQvEeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DQr356WKUuC7KgCb0uQvEeA%26yaw%3D131.78!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@36.9205826,15.1496148,23a,75y,131.78h,90t/data=!3m7!1e1!3m5!1sQr356WKUuC7KgCb0uQvEeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DQr356WKUuC7KgCb0uQvEeA%26yaw%3D131.78!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2026-07; not inferred from article or upload date.",
+        "Red-brown lattice replica in the car-park/industrial enclosure, long thin upper shaft, two levels and a small ring crown with antenna; lower legs hidden behind the tall fence."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@36.9205826,15.1496148,23a,75y,131.78h,90t/data=!3m7!1e1!3m5!1sQr356WKUuC7KgCb0uQvEeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DQr356WKUuC7KgCb0uQvEeA%26yaw%3D131.78!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_b0645165e6805584",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_b0645165e6805584-6dae768abede.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_b0645165e6805584-6dae768abede-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2022-03",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@44.6627159,10.4724674,128a,75y,247.9h,82.99t/data=!3m7!1e1!3m5!1sJZ-UvzSZ-K70YGTak2yXkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.010000000000005%26panoid%3DJZ-UvzSZ-K70YGTak2yXkw%26yaw%3D247.9!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@44.6627159,10.4724674,128a,75y,247.9h,82.99t/data=!3m7!1e1!3m5!1sJZ-UvzSZ-K70YGTak2yXkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.010000000000005%26panoid%3DJZ-UvzSZ-K70YGTak2yXkw%26yaw%3D247.9!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2022-03; not inferred from article or upload date.",
+        "Small pale Eiffel-shaped replica beside the office building near the junction, with broad triangular feet and a thin pointed top; the available view is distant and details are limited."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@44.6627159,10.4724674,128a,75y,247.9h,82.99t/data=!3m7!1e1!3m5!1sJZ-UvzSZ-K70YGTak2yXkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.010000000000005%26panoid%3DJZ-UvzSZ-K70YGTak2yXkw%26yaw%3D247.9!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_9525b823c66133c6",
@@ -4245,6 +5441,30 @@
       "assetRole": "third_party_map_screenshot"
     },
     {
+      "id": "img_bb67c6e0f776c4c4",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_bb67c6e0f776c4c4-0b7609feec9a.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_bb67c6e0f776c4c4-0b7609feec9a-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2022-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@43.106439,13.5481844,172a,75y,305.92h,90.17t/data=!3m7!1e1!3m5!1sNEl7FxL-o-JEkEpFJsidqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.1700000000000017%26panoid%3DNEl7FxL-o-JEkEpFJsidqw%26yaw%3D305.92!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@43.106439,13.5481844,172a,75y,305.92h,90.17t/data=!3m7!1e1!3m5!1sNEl7FxL-o-JEkEpFJsidqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.1700000000000017%26panoid%3DNEl7FxL-o-JEkEpFJsidqw%26yaw%3D305.92!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2022-05; not inferred from article or upload date.",
+        "Rust-brown open-framed field replica with splayed feet, sparse horizontal bands, a long tapering lattice shaft and a wide shallow top basket; no surrounding field or lighting poles included."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@43.106439,13.5481844,172a,75y,305.92h,90.17t/data=!3m7!1e1!3m5!1sNEl7FxL-o-JEkEpFJsidqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.1700000000000017%26panoid%3DNEl7FxL-o-JEkEpFJsidqw%26yaw%3D305.92!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_1117a2d74d57c815",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_1117a2d74d57c815-ab703753eca5.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_1117a2d74d57c815-ab703753eca5-thumb.webp",
@@ -4266,6 +5486,30 @@
       "demoDisplayStatus": null,
       "originPageUrl": null,
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_405090428f927daf",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_405090428f927daf-dad1c8b2ce8b.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_405090428f927daf-dad1c8b2ce8b-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2026-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/@45.6921857,9.828436,261a,25.2y,77.42h,93.98t/data=!3m7!1e1!3m5!1sRPmScBG_nvzTtS1s5c7UVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.980000000000004%26panoid%3DRPmScBG_nvzTtS1s5c7UVQ%26yaw%3D77.42!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.com/maps/@45.6921857,9.828436,261a,25.2y,77.42h,93.98t/data=!3m7!1e1!3m5!1sRPmScBG_nvzTtS1s5c7UVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.980000000000004%26panoid%3DRPmScBG_nvzTtS1s5c7UVQ%26yaw%3D77.42!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2026-05; not inferred from article or upload date.",
+        "Broad pale ornamental lattice replica beside the trench, with two thick projecting balustraded decks, a short tapering upper shaft and open domed crown; fence hides the lower feet."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/@45.6921857,9.828436,261a,25.2y,77.42h,93.98t/data=!3m7!1e1!3m5!1sRPmScBG_nvzTtS1s5c7UVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.980000000000004%26panoid%3DRPmScBG_nvzTtS1s5c7UVQ%26yaw%3D77.42!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_7b3374f11c0aad89",
@@ -4295,6 +5539,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_97c1bce33ff6fb4d",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_97c1bce33ff6fb4d-deaad5a2dd61.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_97c1bce33ff6fb4d-deaad5a2dd61-thumb.webp",
+      "author": "Marco Martinenghi",
+      "capturedAt": "2023-01-28",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tour_eiffel_Mario_da_Corgeno.jpg",
+      "attribution": "Marco Martinenghi · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Tour_eiffel_Mario_da_Corgeno.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2023-01-28. Capture date is not inferred from upload time.",
+        "The photograph shows a pale fretwork craft tower on courtyard paving, with ornamental decks and a small crown. Permanent public-installation status and dimensions remain unverified; the old five-metre claim is not adopted."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_9f26f676930d8a19",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_9f26f676930d8a19-1e2b537e1a40.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_9f26f676930d8a19-1e2b537e1a40-thumb.webp",
@@ -4317,6 +5585,102 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://rkb.jp/contents/202605/202617/",
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_de62bb2c2a96d84d",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_de62bb2c2a96d84d-9c49c0abc82a.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_de62bb2c2a96d84d-9c49c0abc82a-thumb.webp",
+      "author": "Akonnchiroll",
+      "capturedAt": "2023-05-16",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_2023.jpg",
+      "attribution": "Akonnchiroll · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Tokyo_Tower_2023.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2023-05-16 17:46:27; not inferred from article or upload date.",
+        "Tokyo Tower photograph shows red-white lattice legs, a large rectangular main deck, a smaller upper deck and a long antenna."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_63cc197b1bce47b6",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_63cc197b1bce47b6-998ef657847c.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_63cc197b1bce47b6-998ef657847c-thumb.webp",
+      "author": "Bariston",
+      "capturedAt": "2020-09-21",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Nagoya_TV_Tower2.jpg",
+      "attribution": "Bariston · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Nagoya_TV_Tower2.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2020-09-21 10:14:20; not inferred from article or upload date.",
+        "Pale television tower with a broad rectangular lower cabin, a slender square shaft, small upper cabin and antenna mast."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_986d30c1dfcfc1af",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_986d30c1dfcfc1af-76d4c33ddd93.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_986d30c1dfcfc1af-76d4c33ddd93-thumb.webp",
+      "author": "Unknown authorUnknown author",
+      "capturedAt": null,
+      "license": {
+        "text": "Public domain",
+        "url": null
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Original_Tsutenkaku_and_Shinsekai_Luna_Park.jpg",
+      "attribution": "Unknown authorUnknown author · Public domain · https://commons.wikimedia.org/wiki/File:Original_Tsutenkaku_and_Shinsekai_Luna_Park.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 1912; not inferred from article or upload date.",
+        "A historic colour postcard depicts the original Tsutenkaku above an ornamental entrance building; it does not show the present tower."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://commons.wikimedia.org/wiki/File:Original_Tsutenkaku_and_Shinsekai_Luna_Park.jpg",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_951f16f23bc7a796",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_951f16f23bc7a796-7d4077c6c428.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_951f16f23bc7a796-7d4077c6c428-thumb.webp",
+      "author": "欅 (Keyaki)",
+      "capturedAt": "2009-04-02",
+      "license": {
+        "text": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sapporo_television_tower_01.jpg",
+      "attribution": "欅 (Keyaki) · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Sapporo_television_tower_01.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2009-04-02; not inferred from article or upload date.",
+        "Red-and-white television tower with a broad low green cabin, digital clock, upper viewing cabin and slender antenna."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_ea825786ca7ff222",
@@ -4519,6 +5883,30 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_fc9efd17a446b07b",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_fc9efd17a446b07b-941706d3db2e.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_fc9efd17a446b07b-941706d3db2e-thumb.webp",
+      "author": "Michael Kettaneh / Google Maps photo",
+      "capturedAt": "2023-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/place/TROCAD%C3%89RO+LB/@33.9847758,35.6329241,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICxkZX3Kg!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FANWiy9T0zt6d9ggZRmsXxfZgmF-ULTr4DcJJmEScic5T0u5dEpEh19B3uEEwUdYm3ACQHfUh7dACQf7_cSsFQ04qEKwklHxiUtycAs5FiRwtqlSqVCoOt1pyfqi0sssbbT5qcP1AxRc%3Dw203-h152-k-no!7i8064!8i6048!4m7!3m6!1s0x151f41daf9ccf805:0x869a0fe94c206a11!8m2!3d33.9849827!4d35.632967!10e5!16s%2Fg%2F11kpgskl3m?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Michael Kettaneh / Google Maps photo · Google Maps / photographer · reference only · https://www.google.com/maps/place/TROCAD%C3%89RO+LB/@33.9847758,35.6329241,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICxkZX3Kg!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FANWiy9T0zt6d9ggZRmsXxfZgmF-ULTr4DcJJmEScic5T0u5dEpEh19B3uEEwUdYm3ACQHfUh7dACQf7_cSsFQ04qEKwklHxiUtycAs5FiRwtqlSqVCoOt1pyfqi0sssbbT5qcP1AxRc%3Dw203-h152-k-no!7i8064!8i6048!4m7!3m6!1s0x151f41daf9ccf805:0x869a0fe94c206a11!8m2!3d33.9849827!4d35.632967!10e5!16s%2Fg%2F11kpgskl3m?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2023-05; not inferred from article or upload date.",
+        "Large tan Eiffel-like tower at Trocadéro LB, with massive lattice feet, decorated rounded arches, broad thick decks and separate masonry foot blocks. The upper tower is outside this photograph; any upper completion must remain explicit inference."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/place/TROCAD%C3%89RO+LB/@33.9847758,35.6329241,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICxkZX3Kg!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FANWiy9T0zt6d9ggZRmsXxfZgmF-ULTr4DcJJmEScic5T0u5dEpEh19B3uEEwUdYm3ACQHfUh7dACQf7_cSsFQ04qEKwklHxiUtycAs5FiRwtqlSqVCoOt1pyfqi0sssbbT5qcP1AxRc%3Dw203-h152-k-no!7i8064!8i6048!4m7!3m6!1s0x151f41daf9ccf805:0x869a0fe94c206a11!8m2!3d33.9849827!4d35.632967!10e5!16s%2Fg%2F11kpgskl3m?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_a18d7c62f158cb18",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_a18d7c62f158cb18-a4e04d602fba.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a18d7c62f158cb18-a4e04d602fba-thumb.webp",
@@ -4592,6 +5980,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_6fb1f2f756b77989",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_6fb1f2f756b77989-d852a2943393.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_6fb1f2f756b77989-d852a2943393-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2024-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@54.6348921,23.4342568,59a,75y,187.93h,88.4t/data=!3m7!1e1!3m5!1sBc0B7gYScmc66EF1yb8_Xw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5999999999999943%26panoid%3DBc0B7gYScmc66EF1yb8_Xw%26yaw%3D187.93!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@54.6348921,23.4342568,59a,75y,187.93h,88.4t/data=!3m7!1e1!3m5!1sBc0B7gYScmc66EF1yb8_Xw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5999999999999943%26panoid%3DBc0B7gYScmc66EF1yb8_Xw%26yaw%3D187.93!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2024-05; not inferred from article or upload date.",
+        "Distant pale lattice tower beside the motorway hotel, with a narrow tapering upper shaft; lower structure is largely hidden by trees and hedges. Fine details remain unverified."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@54.6348921,23.4342568,59a,75y,187.93h,88.4t/data=!3m7!1e1!3m5!1sBc0B7gYScmc66EF1yb8_Xw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5999999999999943%26panoid%3DBc0B7gYScmc66EF1yb8_Xw%26yaw%3D187.93!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_0c160bd50808c1ca",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_0c160bd50808c1ca-fd7b88897e10.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0c160bd50808c1ca-fd7b88897e10-thumb.webp",
@@ -4606,6 +6018,54 @@
       "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
       "notes": [],
       "gameEligible": true,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_1b595597fea8dae2",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_1b595597fea8dae2-8ba5e0d88f8c.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_1b595597fea8dae2-8ba5e0d88f8c-thumb.webp",
+      "author": "Laima Gūtmane (simka…",
+      "capturedAt": "2011-05-14",
+      "license": {
+        "text": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Eifelis_-_panoramio.jpg",
+      "attribution": "Laima Gūtmane (simka… · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Eifelis_-_panoramio.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: Taken on 14 May 2011. Capture date is not inferred from upload time.",
+        "The closer view resolves pale copper lattice, broad decks, arched lower trim and an open roofed summit gallery, matching the existing tower at Eifelis shopping centre."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_9c6e6f9cba1ad82e",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_9c6e6f9cba1ad82e-1e01a53508da.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_9c6e6f9cba1ad82e-1e01a53508da-thumb.webp",
+      "author": "Nasta Faley",
+      "capturedAt": "2016-08-31",
+      "license": {
+        "text": "CC0",
+        "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Skylines_of_Riga_by_Nasta_Faley.jpg",
+      "attribution": "Nasta Faley · CC0 · https://commons.wikimedia.org/wiki/File:Skylines_of_Riga_by_Nasta_Faley.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2016-08-31; not inferred from article or upload date.",
+        "Distant Riga tower with three curving supports, a dark slender shaft and long summit needle; architectural details are limited."
+      ],
+      "gameEligible": false,
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
       "originPageUrl": null,
@@ -4920,6 +6380,54 @@
       "demoDisplayStatus": null,
       "originPageUrl": "https://www.flickr.com/photo.gne?id=5511171040",
       "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_8b651a9b3c059c37",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_8b651a9b3c059c37-76aa6eb8539f.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_8b651a9b3c059c37-76aa6eb8539f-thumb.webp",
+      "author": "RA1828",
+      "capturedAt": "2023-03-17",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Langkawi_20230317.jpg",
+      "attribution": "RA1828 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Langkawi_20230317.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2023-03-17; not inferred from article or upload date.",
+        "Pale modern tower with curved lower arches, a broad square lower deck, a tapered lattice shaft and projecting upper cabin; an ornamental arcade surrounds the base."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_6698360362d60886",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_6698360362d60886-67c36ff1dee6.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_6698360362d60886-67c36ff1dee6-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2023-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@52.6201883,4.775635,0a,75y,103.56h,88.02t/data=!3m7!1e1!3m5!1sTVF0Cp1GSGVw_App-bkvWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.980000000000004%26panoid%3DTVF0Cp1GSGVw_App-bkvWA%26yaw%3D103.56!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@52.6201883,4.775635,0a,75y,103.56h,88.02t/data=!3m7!1e1!3m5!1sTVF0Cp1GSGVw_App-bkvWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.980000000000004%26panoid%3DTVF0Cp1GSGVw_App-bkvWA%26yaw%3D103.56!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2023-05; not inferred from article or upload date.",
+        "Rust-brown Eiffel-like tower in the industrial container yard, with two narrow decks, a very long ladder-like upper shaft and a dark faceted top cap. Trees and containers hide part of the lower body."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@52.6201883,4.775635,0a,75y,103.56h,88.02t/data=!3m7!1e1!3m5!1sTVF0Cp1GSGVw_App-bkvWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.980000000000004%26panoid%3DTVF0Cp1GSGVw_App-bkvWA%26yaw%3D103.56!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_d60d69c6f1cd2a55",
@@ -5353,6 +6861,30 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_47ae6c38297153a2",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_47ae6c38297153a2-09241c56fdc5.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_47ae6c38297153a2-09241c56fdc5-thumb.webp",
+      "author": "Rizwan Khan",
+      "capturedAt": "2018-10",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/place/Asim+Jofa+Salea/@24.8230028,67.0350494,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNCsFRPc05sSy610KpkHPlZ5dVUW-u9WI6Z7Qoi!2e10!3e12!7i1080!8i1920!4m16!1m8!3m7!1s0x3eb33d9642b1e0a7:0x42167008c5bf070b!2sAsim+Jofa+Salea!8m2!3d24.8230771!4d67.035162!10e5!16s%2Fg%2F11gs0wnzpm!3m6!1s0x3eb33d9642b1e0a7:0x42167008c5bf070b!8m2!3d24.8230771!4d67.035162!10e5!16s%2Fg%2F11gs0wnzpm?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Rizwan Khan · Google Maps / photographer · reference only · https://www.google.com/maps/place/Asim+Jofa+Salea/@24.8230028,67.0350494,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNCsFRPc05sSy610KpkHPlZ5dVUW-u9WI6Z7Qoi!2e10!3e12!7i1080!8i1920!4m16!1m8!3m7!1s0x3eb33d9642b1e0a7:0x42167008c5bf070b!2sAsim+Jofa+Salea!8m2!3d24.8230771!4d67.035162!10e5!16s%2Fg%2F11gs0wnzpm!3m6!1s0x3eb33d9642b1e0a7:0x42167008c5bf070b!8m2!3d24.8230771!4d67.035162!10e5!16s%2Fg%2F11gs0wnzpm?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2018-10; not inferred from article or upload date.",
+        "Only one side of the pale gold shop-front tower, lower arch and middle lattice is visible; cropped upper part does not verify the described bent lamp crown."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/place/Asim+Jofa+Salea/@24.8230028,67.0350494,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNCsFRPc05sSy610KpkHPlZ5dVUW-u9WI6Z7Qoi!2e10!3e12!7i1080!8i1920!4m16!1m8!3m7!1s0x3eb33d9642b1e0a7:0x42167008c5bf070b!2sAsim+Jofa+Salea!8m2!3d24.8230771!4d67.035162!10e5!16s%2Fg%2F11gs0wnzpm!3m6!1s0x3eb33d9642b1e0a7:0x42167008c5bf070b!8m2!3d24.8230771!4d67.035162!10e5!16s%2Fg%2F11gs0wnzpm?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_a80480ff748a03fd",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_a80480ff748a03fd-4eefb060479f.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a80480ff748a03fd-4eefb060479f-thumb.webp",
@@ -5398,6 +6930,54 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_fae11662c4f37efd",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_fae11662c4f37efd-dc13111fffce.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_fae11662c4f37efd-dc13111fffce-thumb.webp",
+      "author": "Ridafatima41",
+      "capturedAt": "2015-03-06",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Eiffel_tower,_Bahria_Town.jpg",
+      "attribution": "Ridafatima41 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Eiffel_tower,_Bahria_Town.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2015-03-06 18:12:51. Capture date is not inferred from upload time.",
+        "The dusk close-up matches the rounded crown, two projecting decks, arches and surrounding railing in the existing Rawalpindi Phase 8 view; the two location leads are about ten metres apart."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_97ff4c0b504a417d",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_97ff4c0b504a417d-0e939ba273f1.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_97ff4c0b504a417d-0e939ba273f1-thumb.webp",
+      "author": "Tomasz Górny (Nemo5576)",
+      "capturedAt": "2012-05-18",
+      "license": {
+        "text": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gliwice_Radiostacja_DSC_9386.jpg",
+      "attribution": "Tomasz Górny (Nemo5576) · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Gliwice_Radiostacja_DSC_9386.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2012-05-18; not inferred from article or upload date.",
+        "Brown timber lattice tower tapering smoothly from broad feet, without Eiffel-style broad decks or rounded arches."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_c25796a7d5bd9cf0",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_c25796a7d5bd9cf0-e0c9348739e0.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_c25796a7d5bd9cf0-e0c9348739e0-thumb.webp",
@@ -5411,6 +6991,30 @@
       "attribution": null,
       "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
       "notes": [],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_e27c8f165c90107a",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_e27c8f165c90107a-76aa35e1a516.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_e27c8f165c90107a-76aa35e1a516-thumb.webp",
+      "author": "geo573",
+      "capturedAt": null,
+      "license": {
+        "text": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Big_Ben_i_Tour_Eiffel_na_tle_Beskid%C3%B3w_-_panoramio.jpg",
+      "attribution": "geo573 · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:Big_Ben_i_Tour_Eiffel_na_tle_Beskid%C3%B3w_-_panoramio.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: Taken on 15 July 2008; not inferred from article or upload date.",
+        "Miniature-park tower with arched broad feet, a lower deck, slender shaft and broad small crown; adjacent Big Ben is excluded."
+      ],
       "gameEligible": false,
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
@@ -5675,6 +7279,30 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_a91230b9e2a9362f",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_a91230b9e2a9362f-da2b2d49ec95.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a91230b9e2a9362f-da2b2d49ec95-thumb.webp",
+      "author": "Vladimir Stanković",
+      "capturedAt": "2010-09-21",
+      "license": {
+        "text": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Avala_Tower.jpg",
+      "attribution": "Vladimir Stanković · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Avala_Tower.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2010-09-21 13:04:33; not inferred from article or upload date.",
+        "Concrete tripod base, solid slender shaft and polygonal observation cabin; the antenna is incomplete at the upper image edge."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_2aa5fc16398ab355",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_2aa5fc16398ab355-b42f3059c46a.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_2aa5fc16398ab355-b42f3059c46a-thumb.webp",
@@ -5774,6 +7402,30 @@
       "assetRole": "source_photo"
     },
     {
+      "id": "img_72987a6ff0c510e6",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_72987a6ff0c510e6-5d94a8d4cdd0.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_72987a6ff0c510e6-5d94a8d4cdd0-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2014-09",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/place/Eiffel+Tower/@44.3362113,21.0603437,126a,75y,195.01h,93.86t/data=!3m7!1e1!3m5!1sqkXVDrUcRH-yCLrWSmPiCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8599999999999994%26panoid%3DqkXVDrUcRH-yCLrWSmPiCg%26yaw%3D195.01!7i13312!8i6656!4m7!3m6!1s0x4750d13b4139ffd9:0xb983c2708a75688!8m2!3d44.3361613!4d21.0606277!10e5!16s%2Fg%2F11s5cwh2_v?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/place/Eiffel+Tower/@44.3362113,21.0603437,126a,75y,195.01h,93.86t/data=!3m7!1e1!3m5!1sqkXVDrUcRH-yCLrWSmPiCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8599999999999994%26panoid%3DqkXVDrUcRH-yCLrWSmPiCg%26yaw%3D195.01!7i13312!8i6656!4m7!3m6!1s0x4750d13b4139ffd9:0xb983c2708a75688!8m2!3d44.3361613!4d21.0606277!10e5!16s%2Fg%2F11s5cwh2_v?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2014-09; not inferred from article or upload date.",
+        "Pale lattice replica in a fenced front garden, with wide lower arch, two deck bands decorated with flowers and a slender upper shaft carrying a tiered dark/gold crown. Garden and fence excluded."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/place/Eiffel+Tower/@44.3362113,21.0603437,126a,75y,195.01h,93.86t/data=!3m7!1e1!3m5!1sqkXVDrUcRH-yCLrWSmPiCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8599999999999994%26panoid%3DqkXVDrUcRH-yCLrWSmPiCg%26yaw%3D195.01!7i13312!8i6656!4m7!3m6!1s0x4750d13b4139ffd9:0xb983c2708a75688!8m2!3d44.3361613!4d21.0606277!10e5!16s%2Fg%2F11s5cwh2_v?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_7d5e084aeafcd5e0",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_7d5e084aeafcd5e0-3e8d84ee48dc.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_7d5e084aeafcd5e0-3e8d84ee48dc-thumb.webp",
@@ -5828,6 +7480,78 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_dd7d4ee360b64612",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_dd7d4ee360b64612-dd3d7c020114.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_dd7d4ee360b64612-dd3d7c020114-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Wide-based timber lighthouse tapering continuously on Bely Island, with a small summit platform; source is an RGO field expedition."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_0ec0ef331b074a50",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_0ec0ef331b074a50-6119e2c99a43.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0ec0ef331b074a50-6119e2c99a43-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Close view resolves horizontal tiers, crossed timber bracing, splayed feet and a weathered top platform; preserve the photographed historical appearance."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_45838274bd9bcacc",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_45838274bd9bcacc-3fd897032031.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_45838274bd9bcacc-3fd897032031-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Detail of timber posts and diagonal-brace joints; supports material and connections, not the whole silhouette."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_71b1beea70d2831b",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_71b1beea70d2831b-390eb828e264.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_71b1beea70d2831b-390eb828e264-thumb.webp",
@@ -5866,6 +7590,54 @@
       "demoDisplayStatus": null,
       "originPageUrl": null,
       "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_85803c5c8d71da0d",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_85803c5c8d71da0d-c4d0dc95ce56.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_85803c5c8d71da0d-c4d0dc95ce56-thumb.webp",
+      "author": "ВУС 166",
+      "capturedAt": "2019-10",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/place/Moskabel'met/@55.7458731,37.7165033,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipP3OIeUikNpLEy_5VIFFonlj3KLTLqlw99zSSmO!2e10!3e12!7i2473!8i4643!4m20!1m10!3m9!1s0x46b54aae0b212e2f:0x1695156c4c3659f2!2sMoskabel'met!8m2!3d55.7458299!4d37.7161751!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tdg6gmc!3m8!1s0x46b54aae0b212e2f:0x1695156c4c3659f2!8m2!3d55.7458299!4d37.7161751!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1tdg6gmc?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "ВУС 166 · Google Maps / photographer · reference only · https://www.google.com/maps/place/Moskabel'met/@55.7458731,37.7165033,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipP3OIeUikNpLEy_5VIFFonlj3KLTLqlw99zSSmO!2e10!3e12!7i2473!8i4643!4m20!1m10!3m9!1s0x46b54aae0b212e2f:0x1695156c4c3659f2!2sMoskabel'met!8m2!3d55.7458299!4d37.7161751!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tdg6gmc!3m8!1s0x46b54aae0b212e2f:0x1695156c4c3659f2!8m2!3d55.7458299!4d37.7161751!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1tdg6gmc?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2019-10; not inferred from article or upload date.",
+        "Factory-courtyard replica at night with low broad arches, two broad decks, long upper shaft and small summit platform with fixtures; lighting does not establish daytime paint."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/place/Moskabel'met/@55.7458731,37.7165033,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipP3OIeUikNpLEy_5VIFFonlj3KLTLqlw99zSSmO!2e10!3e12!7i2473!8i4643!4m20!1m10!3m9!1s0x46b54aae0b212e2f:0x1695156c4c3659f2!2sMoskabel'met!8m2!3d55.7458299!4d37.7161751!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tdg6gmc!3m8!1s0x46b54aae0b212e2f:0x1695156c4c3659f2!8m2!3d55.7458299!4d37.7161751!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1tdg6gmc?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_8dcb9b1eee37147f",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_8dcb9b1eee37147f-fdfe63e96cd8.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_8dcb9b1eee37147f-fdfe63e96cd8-thumb.webp",
+      "author": "Лидия Тумгоева",
+      "capturedAt": "2018-02",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/@43.2315207,44.7682062,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNPhEGXLqvZVmwWwh1QpdJ7Eu2dxamQhAXGqqrd!2e10!3e12!7i3120!8i4160?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Лидия Тумгоева · Google Maps / photographer · reference only · https://www.google.com/maps/@43.2315207,44.7682062,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNPhEGXLqvZVmwWwh1QpdJ7Eu2dxamQhAXGqqrd!2e10!3e12!7i3120!8i4160?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2018-02; not inferred from article or upload date.",
+        "Dark grey-brown replica with broad arches, two wide railed decks, a long dense lattice shaft and a very small square crown."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/@43.2315207,44.7682062,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNPhEGXLqvZVmwWwh1QpdJ7Eu2dxamQhAXGqqrd!2e10!3e12!7i3120!8i4160?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_40ee46ac07339e9b",
@@ -5969,6 +7741,30 @@
       "reuseStatus": "research_only",
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://gregorkon.wordpress.com/2023/01/26/26-01-2023/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_0d824a5a8edbedaf",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_0d824a5a8edbedaf-0f06deb195d7.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0d824a5a8edbedaf-0f06deb195d7-thumb.webp",
+      "author": "Florstein (Telegram:WikiPhoto.Space)",
+      "capturedAt": null,
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Television_Tower_SPB_(img2).jpg",
+      "attribution": "Florstein (Telegram:WikiPhoto.Space) · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Television_Tower_SPB_(img2).jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: Taken on 3 August 2016; not inferred from article or upload date.",
+        "Slender pale and red-white lattice transmitter with several narrow projecting platforms, upper antenna rings and a long mast."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
       "assetRole": "tower_reference"
     },
     {
@@ -6422,6 +8218,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_620ae844e6159de3",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_620ae844e6159de3-9c098835dc8e.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_620ae844e6159de3-9c098835dc8e-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2023-04",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@23.4799937,120.4498552,38a,75y,59.71h,109.65t/data=!3m7!1e1!3m5!1sUFg2diUTlYVj2OchP_XeAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.650000000000006%26panoid%3DUFg2diUTlYVj2OchP_XeAA%26yaw%3D59.71!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@23.4799937,120.4498552,38a,75y,59.71h,109.65t/data=!3m7!1e1!3m5!1sUFg2diUTlYVj2OchP_XeAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.650000000000006%26panoid%3DUFg2diUTlYVj2OchP_XeAA%26yaw%3D59.71!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2023-04; not inferred from article or upload date.",
+        "Bronze-coloured tapered lattice clock tower at the street junction, long narrow open shaft and large pale rounded rectangular clock case. Trees hide the base and a nearby grey traffic pole is separate."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@23.4799937,120.4498552,38a,75y,59.71h,109.65t/data=!3m7!1e1!3m5!1sUFg2diUTlYVj2OchP_XeAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.650000000000006%26panoid%3DUFg2diUTlYVj2OchP_XeAA%26yaw%3D59.71!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_72494e7ab539e93d",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_72494e7ab539e93d-6a869218ab21.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_72494e7ab539e93d-6a869218ab21-thumb.webp",
@@ -6445,6 +8265,78 @@
       "reuseStatus": "research_only",
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.wonders-of-the-world.net/Eiffel-Tower/Copies-of-the-Eiffel-tower.php",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_442c7de8fbacafe4",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_442c7de8fbacafe4-97f5b869c1a3.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_442c7de8fbacafe4-97f5b869c1a3-thumb.webp",
+      "author": "許志銘 / Google Maps panorama",
+      "capturedAt": "2022-02",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@24.684811,121.3953047,3a,75y,179.04h,106.31t/data=!3m8!1e1!3m6!1sAF1QipOX1-KJ9KcX9llv2Ro32oWOCFDEOVYNrm6UqgQq!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOX1-KJ9KcX9llv2Ro32oWOCFDEOVYNrm6UqgQq%3Dw900-h600-k-no-pi-16.310000000000002-ya126.03999999999999-ro0-fo100!7i10752!8i4788?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "許志銘 / Google Maps panorama · Google Maps / photographer · reference only · https://www.google.de/maps/@24.684811,121.3953047,3a,75y,179.04h,106.31t/data=!3m8!1e1!3m6!1sAF1QipOX1-KJ9KcX9llv2Ro32oWOCFDEOVYNrm6UqgQq!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOX1-KJ9KcX9llv2Ro32oWOCFDEOVYNrm6UqgQq%3Dw900-h600-k-no-pi-16.310000000000002-ya126.03999999999999-ro0-fo100!7i10752!8i4788?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2022-02; not inferred from article or upload date.",
+        "Red broadcast tower at Baling, broad straight lattice legs, two open structural bands, a tapering shaft and stacked ornamental crown; the viewing deck and mountain landscape are excluded."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@24.684811,121.3953047,3a,75y,179.04h,106.31t/data=!3m8!1e1!3m6!1sAF1QipOX1-KJ9KcX9llv2Ro32oWOCFDEOVYNrm6UqgQq!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOX1-KJ9KcX9llv2Ro32oWOCFDEOVYNrm6UqgQq%3Dw900-h600-k-no-pi-16.310000000000002-ya126.03999999999999-ro0-fo100!7i10752!8i4788?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_4fdbd70dd34566de",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_4fdbd70dd34566de-e8152d9e5fa2.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_4fdbd70dd34566de-e8152d9e5fa2-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.cna.com.tw/news/aloc/201807180232.aspx",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://www.cna.com.tw/news/aloc/201807180232.aspx",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Full red lattice tower at night, with two horizontal structural bands and a stacked diamond-shaped crown; light colours do not establish daytime material."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.cna.com.tw/news/aloc/201807180232.aspx",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_9b4a1d61e232a622",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_9b4a1d61e232a622-9952a356b393.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_9b4a1d61e232a622-9952a356b393-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.cna.com.tw/news/aloc/201807180232.aspx",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://www.cna.com.tw/news/aloc/201807180232.aspx",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Red tapering straight lattice, two horizontal bands and a stacked diamond cage crown; the feet do not have Paris-style curved arches."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.cna.com.tw/news/aloc/201807180232.aspx",
       "assetRole": "tower_reference"
     },
     {
@@ -6634,6 +8526,174 @@
       "reuseStatus": "research_only",
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.instagram.com/p/CT6gBsutSod/embed/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_546977602b0e0446",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_546977602b0e0446-18cd5140d663.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_546977602b0e0446-18cd5140d663-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Close view of the lattice and arched lower structure of the cross; upper crossarms are outside the photograph."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_b6bd4bea546f1cfc",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_b6bd4bea546f1cfc-c28c73c0f299.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_b6bd4bea546f1cfc-c28c73c0f299-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "The official article shows a white lattice cross with splayed arched feet, two tapering stages, broad box-truss crossarms and a short straight top; people and night lighting limit details."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_ec53339de8672e5f",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_ec53339de8672e5f-6e2b51438567.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_ec53339de8672e5f-6e2b51438567-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "The official article shows a white lattice cross with splayed arched feet, two tapering stages, broad box-truss crossarms and a short straight top; people and night lighting limit details."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_86e310c158a1db56",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_86e310c158a1db56-86e90730424b.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_86e310c158a1db56-86e90730424b-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "The official article shows a white lattice cross with splayed arched feet, two tapering stages, broad box-truss crossarms and a short straight top; people and night lighting limit details."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_d2db77278b1f68fe",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_d2db77278b1f68fe-7a1dd8f6fa07.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_d2db77278b1f68fe-7a1dd8f6fa07-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "The official article shows a white lattice cross with splayed arched feet, two tapering stages, broad box-truss crossarms and a short straight top; people and night lighting limit details."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_c0eed0f1188fa920",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_c0eed0f1188fa920-7223f6331cb9.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_c0eed0f1188fa920-7223f6331cb9-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "The official article shows a white lattice cross with splayed arched feet, two tapering stages, broad box-truss crossarms and a short straight top; people and night lighting limit details."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_51c9d1aea886bf48",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_51c9d1aea886bf48-989808785f5a.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_51c9d1aea886bf48-989808785f5a-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Detail of internal lattice and lower arched supports."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
       "assetRole": "tower_reference"
     },
     {
@@ -9304,6 +11364,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_5ec78497c3ef5a55",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_5ec78497c3ef5a55-977cfbccce14.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_5ec78497c3ef5a55-977cfbccce14-thumb.webp",
+      "author": "Elatb",
+      "capturedAt": null,
+      "license": {
+        "text": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:LacDuBoisEiffelTower.jpg",
+      "attribution": "Elatb · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:LacDuBoisEiffelTower.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 8/10/2005; not inferred from article or upload date.",
+        "A rusty-brown rod model in a forest clearing, with two square platforms, splayed legs and a small crown; the base is visible."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_14f54b980cf65f75",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_14f54b980cf65f75-dbfb9498a1d8.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_14f54b980cf65f75-dbfb9498a1d8-thumb.webp",
@@ -9358,6 +11442,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.flickr.com/photo.gne?id=4135373224",
       "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_1e3d5cf317578730",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_1e3d5cf317578730-d4511d8a02b9.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_1e3d5cf317578730-d4511d8a02b9-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2023-08",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@40.7380128,-73.8499259,12a,75y,316.08h,91.15t/data=!3m7!1e1!3m5!1sgBBFnjOx3EZWwUAECoAoaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1500000000000057%26panoid%3DgBBFnjOx3EZWwUAECoAoaw%26yaw%3D316.08!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@40.7380128,-73.8499259,12a,75y,316.08h,91.15t/data=!3m7!1e1!3m5!1sgBBFnjOx3EZWwUAECoAoaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1500000000000057%26panoid%3DgBBFnjOx3EZWwUAECoAoaw%26yaw%3D316.08!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2023-08; not inferred from article or upload date.",
+        "Small golden Eiffel-shaped tower above the hotel rooftop, with a narrow upper taper and tiny broad-footed lower silhouette; distant view limits all fine detail and roof is excluded."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@40.7380128,-73.8499259,12a,75y,316.08h,91.15t/data=!3m7!1e1!3m5!1sgBBFnjOx3EZWwUAECoAoaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1500000000000057%26panoid%3DgBBFnjOx3EZWwUAECoAoaw%26yaw%3D316.08!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_4e3e9067ac7fcc83",
@@ -9504,6 +11612,30 @@
       "reuseStatus": "research_only",
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.google.de/maps/@39.7634517,-77.2675926,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMNFxQXYnhgoRYgwJLTMHWCUbphJd4OZv2vTbzO!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMNFxQXYnhgoRYgwJLTMHWCUbphJd4OZv2vTbzO%3Dw360-h480-k-no!7i3024!8i4032?entry=ttu",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_b6d02d471e8f47ae",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_b6d02d471e8f47ae-fd01cdc27eb3.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_b6d02d471e8f47ae-fd01cdc27eb3-thumb.webp",
+      "author": "Scott Lowe (source attribution; not independently reconfirmed)",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://live.staticflickr.com/2043/2461662267_86284e78d8_b.jpg",
+      "attribution": "Scott Lowe (source attribution; not independently reconfirmed) · Original publisher rights · reference only · https://live.staticflickr.com/2043/2461662267_86284e78d8_b.jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Red-brown industrial-style rooftop lattice tower with a straight taper, two projecting polygonal decks and thin spire; roof obscures the lower part."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://live.staticflickr.com/2043/2461662267_86284e78d8_b.jpg",
       "assetRole": "tower_reference"
     },
     {
@@ -9702,6 +11834,30 @@
       "demoDisplayStatus": null,
       "originPageUrl": "https://commons.wikimedia.org/wiki/File:Bastille_Days_July_2024_01.jpg",
       "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_b1b5e15fd199a2ac",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_b1b5e15fd199a2ac-6dd28296e2b7.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_b1b5e15fd199a2ac-6dd28296e2b7-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2021-01",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@38.2981003,-122.2857283,8a,90y,166.03h,107.41t/data=!3m8!1e1!3m6!1sZvNZ7AknMpNvCPrJYhP6zQ!2e0!5s20210101T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.409999999999997%26panoid%3DZvNZ7AknMpNvCPrJYhP6zQ%26yaw%3D166.03!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@38.2981003,-122.2857283,8a,90y,166.03h,107.41t/data=!3m8!1e1!3m6!1sZvNZ7AknMpNvCPrJYhP6zQ!2e0!5s20210101T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.409999999999997%26panoid%3DZvNZ7AknMpNvCPrJYhP6zQ%26yaw%3D166.03!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2021-01; not inferred from article or upload date.",
+        "Courthouse grounds: narrow dark lattice flag mast with spread feet and one small lower cross plate, no observation decks or Eiffel crown. Trees obscure part of the shaft. Unresolved classification retained."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@38.2981003,-122.2857283,8a,90y,166.03h,107.41t/data=!3m8!1e1!3m6!1sZvNZ7AknMpNvCPrJYhP6zQ!2e0!5s20210101T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.409999999999997%26panoid%3DZvNZ7AknMpNvCPrJYhP6zQ%26yaw%3D166.03!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_a5441acc7afc2762",
@@ -9939,6 +12095,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_50f9adb2b87fdbeb",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_50f9adb2b87fdbeb-94b52b6ea892.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_50f9adb2b87fdbeb-94b52b6ea892-thumb.webp",
+      "author": "Arthur P. Andreas",
+      "capturedAt": "2017-05",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.com/maps/place/GLO+Mini+Golf+%7CArcade+%7C+Virtual+Reality+%7C+Ice+Cream+Bar/@33.9100025,-117.4564953,3a,75y,20h,90t/data=!3m8!1e1!3m6!1sAF1QipNZhmHSl4wDWEyrq8hfYbGfdjVetPpaJKF-vyWJ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNZhmHSl4wDWEyrq8hfYbGfdjVetPpaJKF-vyWJ%3Dw900-h600-k-no-pi0-ya91.09750366210938-ro0-fo100!7i11896!8i5948!4m9!3m8!1s0x80dcb74ac7904627:0x97b563ee7acde9c2!8m2!3d33.9098509!4d-117.4567082!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bwd2hl9n?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Arthur P. Andreas · Google Maps / photographer · reference only · https://www.google.com/maps/place/GLO+Mini+Golf+%7CArcade+%7C+Virtual+Reality+%7C+Ice+Cream+Bar/@33.9100025,-117.4564953,3a,75y,20h,90t/data=!3m8!1e1!3m6!1sAF1QipNZhmHSl4wDWEyrq8hfYbGfdjVetPpaJKF-vyWJ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNZhmHSl4wDWEyrq8hfYbGfdjVetPpaJKF-vyWJ%3Dw900-h600-k-no-pi0-ya91.09750366210938-ro0-fo100!7i11896!8i5948!4m9!3m8!1s0x80dcb74ac7904627:0x97b563ee7acde9c2!8m2!3d33.9098509!4d-117.4567082!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bwd2hl9n?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2017-05; not inferred from article or upload date.",
+        "Indoor miniature-golf obstacle: pale blue/white Eiffel silhouette under ultraviolet lighting, wide arched feet, two flat decks, narrow upper shaft and small crown; lighting does not establish daylight colour."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.com/maps/place/GLO+Mini+Golf+%7CArcade+%7C+Virtual+Reality+%7C+Ice+Cream+Bar/@33.9100025,-117.4564953,3a,75y,20h,90t/data=!3m8!1e1!3m6!1sAF1QipNZhmHSl4wDWEyrq8hfYbGfdjVetPpaJKF-vyWJ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNZhmHSl4wDWEyrq8hfYbGfdjVetPpaJKF-vyWJ%3Dw900-h600-k-no-pi0-ya91.09750366210938-ro0-fo100!7i11896!8i5948!4m9!3m8!1s0x80dcb74ac7904627:0x97b563ee7acde9c2!8m2!3d33.9098509!4d-117.4567082!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bwd2hl9n?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
       "id": "img_195f99820449479f",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_195f99820449479f-a26a0e532477.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_195f99820449479f-a26a0e532477-thumb.webp",
@@ -9961,6 +12141,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-United-States.php",
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_a087922ca4f58e05",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_a087922ca4f58e05-7b20a1e47bf1.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a087922ca4f58e05-7b20a1e47bf1-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://hanabiboy.blogspot.com/2012/04/miniature-golf.html",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://hanabiboy.blogspot.com/2012/04/miniature-golf.html",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: unknown; not inferred from article or upload date.",
+        "Full black miniature-golf replica with two decks, a slender upper shaft and a small crown; people partly obscure the feet."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://hanabiboy.blogspot.com/2012/04/miniature-golf.html",
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_586d1dbc9088c9c2",
@@ -9986,6 +12190,30 @@
       "demoDisplayStatus": null,
       "originPageUrl": "https://commons.wikimedia.org/wiki/File:Tyndall_SD_Eiffel_tower_flagpole_from_SW_1.JPG",
       "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_5d6bfaa0065e082e",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_5d6bfaa0065e082e-69c59c070077.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_5d6bfaa0065e082e-69c59c070077-thumb.webp",
+      "author": "Google Street View",
+      "capturedAt": "2022-10",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@38.9169925,-77.0419562,37a,75y,29.52h,94.76t/data=!3m7!1e1!3m5!1s8MLZvOF6OasLNfKYcGvg0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.760000000000005%26panoid%3D8MLZvOF6OasLNfKYcGvg0w%26yaw%3D29.52!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Google Street View · Google Maps / photographer · reference only · https://www.google.de/maps/@38.9169925,-77.0419562,37a,75y,29.52h,94.76t/data=!3m7!1e1!3m5!1s8MLZvOF6OasLNfKYcGvg0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.760000000000005%26panoid%3D8MLZvOF6OasLNfKYcGvg0w%26yaw%3D29.52!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2022-10; not inferred from article or upload date.",
+        "Pale gold open lattice replica above restaurant roof: two thin platforms, long upper shaft and very small flat crown; lower feet partly hidden by parapet."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@38.9169925,-77.0419562,37a,75y,29.52h,94.76t/data=!3m7!1e1!3m5!1s8MLZvOF6OasLNfKYcGvg0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.760000000000005%26panoid%3D8MLZvOF6OasLNfKYcGvg0w%26yaw%3D29.52!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
     },
     {
       "id": "img_2466fd60e8601458",
@@ -10094,6 +12322,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_a46554983921d58c",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_a46554983921d58c-0716b881de89.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a46554983921d58c-0716b881de89-thumb.webp",
+      "author": "Sketyl none",
+      "capturedAt": "2019-04-14",
+      "license": {
+        "text": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_de_Ha_Giang_(47677739971).jpg",
+      "attribution": "Sketyl none · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_de_Ha_Giang_(47677739971).jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Named file metadata and saved image reviewed.",
+        "Recorded image date: 2019-04-14 10:50; not inferred from article or upload date.",
+        "Red-white transmitter with a broad lower arch and platform, an oval upper deck and a fine mast; the image is a wide-angle panorama."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_e7678af9468ab0fc",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_e7678af9468ab0fc-7b6090cd63ef.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_e7678af9468ab0fc-7b6090cd63ef-thumb.webp",
@@ -10114,6 +12366,54 @@
       "demoDisplayStatus": null,
       "originPageUrl": null,
       "assetRole": "unknown"
+    },
+    {
+      "id": "img_5b56236713940bfe",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_5b56236713940bfe-156dffdedf86.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_5b56236713940bfe-156dffdedf86-thumb.webp",
+      "author": "Minh Pham Ngoc Phuong",
+      "capturedAt": "2017-09",
+      "license": {
+        "text": "Google Maps / photographer · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.google.de/maps/@10.9337013,108.1152592,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipPQqStCVEQ1V_xjTLEMHE1cLO4Q4T9C0Dweq33d!2e10!3e12!7i3456!8i4608?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "attribution": "Minh Pham Ngoc Phuong · Google Maps / photographer · reference only · https://www.google.de/maps/@10.9337013,108.1152592,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipPQqStCVEQ1V_xjTLEMHE1cLO4Q4T9C0Dweq33d!2e10!3e12!7i3456!8i4608?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Reference display only; original rights retained, no open-license claim.",
+        "Recorded image date: 2017-09; not inferred from article or upload date.",
+        "Lower red-and-white lattice broadcasting tower with spread legs, two open braced bands and rounded arch; a central access ladder is visible. Upper mast is outside the photograph and remains inferred."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.google.de/maps/@10.9337013,108.1152592,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipPQqStCVEQ1V_xjTLEMHE1cLO4Q4T9C0Dweq33d!2e10!3e12!7i3456!8i4608?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_b14604daaef977ee",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_b14604daaef977ee-95debe493555.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_b14604daaef977ee-95debe493555-thumb.webp",
+      "author": "Timea",
+      "capturedAt": "2016-01-01",
+      "license": {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Amusement_park_nearby_Gornja_Gu%C5%A1terica_(nearby_Anija_restaurant).jpg",
+      "attribution": "Timea · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Amusement_park_nearby_Gornja_Gu%C5%A1terica_(nearby_Anija_restaurant).jpg",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "File-level license and creator metadata read from the named Commons record.",
+        "Source date text: 2016-01-01. Capture date is not inferred from upload time.",
+        "The amusement-park photograph shows a broad pale lower section, two decks, a dark slender shaft and a summit flagpole; distance and occlusion limit detail."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_49ec0e40abc905ac",

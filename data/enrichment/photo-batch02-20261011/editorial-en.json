@@ -1,0 +1,111 @@
+{
+  "towers": {
+    "fr-erstein-tower-at-a-roundabout": {
+      "name": "Tower at a roundabout, Erstein",
+      "label": "Erstein",
+      "city": "Erstein",
+      "venue": "Tower at a roundabout",
+      "summary": "A winter road photograph shows a dark four-legged tower on the roundabout, with two decks and a slender shaft; fine details remain limited."
+    },
+    "xk-janjeve-anija-restaurant-eiffel-tower": {
+      "name": "Anija Restaurant Eiffel Tower, Janjevë",
+      "label": "Janjevë",
+      "city": "Janjevë",
+      "venue": "Anija Restaurant Eiffel Tower",
+      "summary": "The amusement-park photograph shows a broad pale lower section, two decks, a dark slender shaft and a summit flagpole; distance and occlusion limit detail."
+    },
+    "by-homiel-copy": {
+      "label": "Homieĺ",
+      "name": "Miniature Eiffel Tower, Homieĺ",
+      "summary": "This small dark replica has an open framework and a rounded summit enclosure with a long straight needle. Two thin platform rings interrupt the tapering silhouette. Its dimensions and current condition are recorded separately from the photograph.\n\nThe black lattice tower, arched feet and open curved crown match the existing Homieĺ photograph, including yellow bollards, paving and roadway.",
+      "currentUses": [],
+      "city": "",
+      "venue": ""
+    },
+    "lt-mazeikiai-copy": {
+      "label": "Mažeikiai Žemaitijos",
+      "name": "Eiffel sculpture on Žemaitijos Street, Mažeikiai",
+      "summary": "The replica beside the shopping area at Žemaitijos Street 72 in Mažeikiai is listed as a city sculpture. In a first-person account, writer Lina Simutytė recalls the tower near the large Norfa store and taking a photograph that could resemble a holiday in Paris. It is a commercial streetscape and photo landmark. Maker and installation year remain unconfirmed.\n\nThe closer view resolves pale copper lattice, broad decks, arched lower trim and an open roofed summit gallery, matching the existing tower at Eifelis shopping centre.",
+      "currentUses": [
+        "Shopping-area sculpture",
+        "Photo landmark"
+      ],
+      "city": "Mažeikiai",
+      "venue": "Žemaitijos g. 72 shopping area, Mažeikiai"
+    },
+    "pk-rawalpindi-bahria-phase-8": {
+      "label": "Rawalpindi",
+      "name": "Bahria Town Phase 8 Eiffel Tower, Rawalpindi",
+      "summary": "Bahria Town Phase 8 uses international landmarks within its community landscape, with the operator listing the Eiffel Tower alongside the Statue of Liberty. Its main boulevard also takes inspiration from the Champs-Élysées. The replica belongs to that residential development theme, separately from Bahria towers in Lahore and Karachi. Tower dining, observation access and daily opening arrangements remain unconfirmed.\n\nThe dusk close-up matches the rounded crown, two projecting decks, arches and surrounding railing in the existing Rawalpindi Phase 8 view; the two location leads are about ten metres apart.",
+      "currentUses": [
+        "Residential community themed landmark"
+      ],
+      "city": "Rawalpindi",
+      "venue": "Bahria Town Phase 8"
+    },
+    "it-vergiate-corgeno-copy": {
+      "name": "Tour Eiffel Mario da Corgeno, Corgeno / Vergiate",
+      "label": "Corgeno / Vergiate",
+      "city": "Corgeno / Vergiate",
+      "venue": "",
+      "summary": "The photograph shows a pale fretwork craft tower on courtyard paving, with ornamental decks and a small crown. Permanent public-installation status and dimensions remain unverified; the old five-metre claim is not adopted."
+    },
+    "am-yerevan-yerevani-herustaashtarak": {
+      "name": "Yerevani herustaashtarak, Yerevan",
+      "label": "Yerevan",
+      "city": "Yerevan",
+      "venue": "Yerevani herustaashtarak",
+      "summary": "Jon Worth's map records “Yerevani herustaashtarak” in Yerevan. It is classified as a derivative or resemblance and is excluded from the replica globe. Photograph identity and dimensions have not been independently accepted.\n\nThe photograph shows a red-and-white television tower with projecting equipment platforms and a slender antenna; its related-building classification is retained.",
+      "currentUses": []
+    },
+    "dk-copenhagen-copenhagen-zoo-tower": {
+      "name": "Zoo Tower, Copenhagen",
+      "label": "Copenhagen",
+      "city": "Copenhagen",
+      "venue": "Copenhagen Zoo",
+      "summary": "Above the zoo entrance stands a narrow dark shaft with white bands and a broad observation cabin. The file's 2005 date is an upload date and is not used as a capture date."
+    },
+    "gb-blackpool-tower": {
+      "name": "Blackpool Tower, Blackpool",
+      "label": "Blackpool",
+      "city": "Blackpool",
+      "venue": "Blackpool Tower Circus complex",
+      "summary": "The photograph shows a red-brown lattice tower above a brick complex, topped by a tiered decorative crown; it remains a related-building record."
+    },
+    "de-berlin-funkturm-berlin": {
+      "name": "Berliner Funkturm, Berlin",
+      "label": "Berlin",
+      "city": "Berlin",
+      "venue": "Messe Berlin",
+      "summary": "The photograph resolves the pale lattice radio tower, its two broad platforms and central staircase; foreground roofs obscure part of the base."
+    },
+    "fr-lyon-metallic-tower-of-fourviere": {
+      "name": "Tour métallique de Fourvière, Lyon",
+      "label": "Lyon",
+      "city": "Lyon",
+      "venue": "Fourvière hill",
+      "summary": "The close view shows dark lattice, an open upper platform and later telecommunications antennas and dishes."
+    },
+    "cz-prague-petrin-lookout-tower-petrinska-rozhledna": {
+      "name": "Petřínská rozhledna, Prague",
+      "label": "Prague",
+      "city": "Prague",
+      "venue": "Petřín hill",
+      "summary": "The photograph shows the octagonal lookout tower, two viewing levels and an internal spiral staircase; trees obscure part of the lower structure. Related-building classification is retained."
+    },
+    "at-mattersburg-tower-on-a-roundabout": {
+      "name": "Tower on a roundabout, Mattersburg",
+      "label": "Mattersburg",
+      "city": "Mattersburg",
+      "venue": "Tower on a roundabout",
+      "summary": "The municipality records that the vocational school built the small tower for the French-language festival in June 2006, after which it was displayed as roundabout art.\n\nJune 2023 Street View shows a brown open frame, a low white-railed deck, slender shaft and pointed crown; the model excludes the surrounding roundabout."
+    },
+    "cz-ostrava-miniuni": {
+      "name": "Miniuni, Ostrava",
+      "label": "Ostrava",
+      "city": "Ostrava",
+      "venue": "Miniuni",
+      "summary": "The named historical photograph shows a dark, broad-footed replica at Miniuni, with two decks and a slender shaft. Resolution is low; the tower's fate after the park clearance remains unverified."
+    }
+  }
+}

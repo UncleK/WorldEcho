@@ -2,7 +2,7 @@ import type { Tower as CanonicalTower, Height } from '../../data/types.v1';
 import { galleryEligible, demoGalleryEligible, isMapAnchor } from '../../scripts/catalog-api.mjs';
 import { DEFAULT_TOWER_FILTERS, readTowerFilters, towerMatchesFilters, writeTowerFilters, type TowerFilters } from '../domain/tower-filters.ts';
 import { towerDisplayMetadata } from '../../scripts/tower-display-policy.mjs';
-import { isPublicModel } from '../domain/model-publication.mjs';
+import { isPublicModel, isPublicResearchModel } from '../domain/model-publication.mjs';
 
 export type Region = 'asia' | 'europe' | 'north-america' | 'south-america' | 'africa' | 'oceania' | 'other';
 export type MaterialGroup = 'steel' | 'iron' | 'metal' | 'wood' | 'bamboo' | 'stone' | 'concrete' | 'plastic' | 'composite' | 'reused' | 'other';
@@ -29,11 +29,14 @@ export interface ResearchRow {
   materials: MaterialClaim[]; materialGroups: MaterialGroup[];
   mapReady: boolean; globeAvailable: boolean; approximateLocation?:boolean; modelKey: string | null; modelScope?:string;
   modelCollection?:'core'|'reference'|'related'|'other'|'pending'; modelContext?:'tower-body'|'inferred-completion';
+  modelAvailability?: 'public' | 'draft' | 'not-started';
   maps: { google: string | null; amap: string | null; preferred: string }; coordinateSourceIds: string[];
   photoCount: number; displayPhotoCount: number; photos: ResearchPhoto[];
   summary: string | null; summarySourceIds: string[]; uses: string[]; gaps: string[]; sourceIds: string[];
   communitySummary?:{zh:string;en:string;fr?:string};priorSummary?:string;
   researchStatus: string; coverage: number; coverageFields: string[];
+  historicalNotes?: Array<{ text: string; resolution: string; checkedAt?: string }>;
+  modelEvidence?: { checkedAt: string; features: { zh?: string[]; en?: string[]; fr?: string[] }; referencePhotoIds: string[] };
 }
 export interface ResearchDataset { version: string; generatedAt: string; communityRevision?: number; entries: ResearchRow[]; sources: ResearchSource[] }
 export interface RawSource extends ResearchSource { [key: string]: unknown }
@@ -134,8 +137,9 @@ export function buildResearchDataset(input: { towers: CanonicalTower[]; sources:
       heightNotes: Array.isArray((rawHeight as Height & { notes?: string[] } | null)?.notes) ? (rawHeight as Height & { notes: string[] }).notes : [],
       builtYear, openedYear, events, materials, materialGroups: unique(materials.flatMap(claim => claim.groups)),
       mapReady, globeAvailable:published.has(canonicalId(tower))||approximate.has(canonicalId(tower)),approximateLocation:approximate.has(canonicalId(tower)),
-      modelKey: !isPublicModel(tower.model)||(!['original','replica','local_variant'].includes(tower.classification)&&tower.model?.collection!=='other')?null:tower.model?.key ?? null,
+      modelKey: isPublicResearchModel(tower.classification,tower.model)?tower.model?.key ?? null:null,
       modelScope:tower.model?.normalizationScope,modelCollection:tower.model?.collection,modelContext:tower.model?.modelContext,
+      modelAvailability:tower.model?(isPublicModel(tower.model)?'public':'draft'):'not-started',
       maps: { google: mapReady ? sourceUrl(tower.maps.google) : null, amap: mapReady ? sourceUrl(tower.maps.amap) : null, preferred: tower.maps.preferred },
       coordinateSourceIds: mapReady ? validSources(tower.location.selected?.sourceIds) : [],
       photos, photoCount: photos.length, displayPhotoCount: photos.filter(photo => photo.thumbnail).length,
@@ -179,7 +183,9 @@ export function filterRows(entries: ResearchRow[], query: CatalogQuery): Researc
   const words = searchKey(query.q).split(' ').filter(Boolean);
   const rows = entries.filter(row => {
     const text = searchKey([row.name, row.nameEn, row.nameFr, row.localName, row.id, row.label, row.countryName, row.countryCode, row.city, row.venue, ...row.aliases].filter(Boolean).join(' '));
-    return towerMatchesFilters(row, query) && (!query.status || row.status === query.status)
+    // Publication holds apply to models, not to the underlying research record.
+    const filterable = row.modelKey ? row : { ...row, modelCollection: undefined };
+    return towerMatchesFilters(filterable, query) && (!query.status || row.status === query.status)
       && (!query.missing || (query.missing === 'location' ? !row.mapReady : query.missing === 'height' ? row.heightM === null : query.missing === 'status' ? row.status === 'unknown' : row.photoCount === 0))
       && words.every(word => text.includes(word)) && (!query.region || row.region === query.region) && (!query.country || row.countryCode === query.country)
       && (!query.classification || row.classification === query.classification) && (!query.material || (query.material === 'unknown' ? !row.materials.length : row.materialGroups.includes(query.material as MaterialGroup)))
@@ -203,7 +209,9 @@ export function calculateStats(rows: ResearchRow[]) {
   const heights = adoptedHeights.filter(row => row.heightRankEligible !== false);
   const replicas = heights.filter(row => row.classification !== 'original').sort((a, b) => b.heightM! - a.heightM!);
   return { research: rows.length, countries: unique(rows.map(row => row.countryCode)).length, mapped: rows.filter(row => inScope(row) && row.mapReady).length,
-    modeled: rows.filter(row => inScope(row) && row.modelKey).length, photographed: rows.filter(row => row.photoCount > 0).length,
+    modeled: rows.filter(row => inScope(row) && row.modelKey).length, photographed: rows.filter(row => !row.aliasOf && row.photoCount > 0).length,
+    modeledTotal: new Set(rows.filter(row => row.modelKey).map(row => row.modelKey)).size,
+    canonical: rows.filter(row => !row.aliasOf).length, aliases: rows.filter(row => row.aliasOf).length,
     materialKnown: rows.filter(row => row.materials.length).length, heightKnown: adoptedHeights.length,
     heightPending: rows.filter(row => row.heightM === null && row.heightObservationCount > 0).length,
     regions: (Object.keys(REGION_LABELS) as Region[]).map(region => ({ region, count: rows.filter(row => row.region === region).length })),

@@ -36,7 +36,7 @@ Les effets suivent les tours visibles avec les filtres actifs. Faites glisser la
 
 - **Globe :** les fiches modélisées apparaissent en 3D, les autres sous forme de marqueurs ; les positions vérifiées et approximatives sont distinguées.
 - **Collection :** filtrez par catégorie, contexte, apparence historique et dimensions disponibles ; les structures apparentées restent accessibles.
-- **Fiches :** informations sur le lieu, liens vers les sources, contexte du modèle et accès aux cartes restent associés à chaque entrée.
+- **Fiches :** photographies et modèle 3D manipulable côte à côte, puis présentation, localisation et état, et sources du modèle ; liens documentaires et accès aux cartes restent associés à chaque entrée.
 - **Comparaison :** observez plusieurs structures ensemble ; les comparaisons numériques de hauteur utilisent les dimensions sourcées admissibles et excluent la géométrie déduite.
 - **Archives :** recherchez les fiches en chinois, en anglais ou en français, avec leurs champs non résolus et leurs alias traçables.
 - **Corrections :** aidez à identifier un lieu, à préciser une position ou à ajouter une tour de votre ville.

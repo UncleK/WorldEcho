@@ -1,0 +1,15 @@
+{
+  "scope": "Normalized procedural model envelope; display framing only, not real-world measurements.",
+  "entries": {
+    "de-lauchhammer-liegender-eiffelturm": {
+      "width": 5.410060405731201,
+      "height": 1,
+      "depth": 0.8500000238418579
+    },
+    "fr-paris-bassin-de-la-villette-eiffel-tower-rocket-sculpture": {
+      "width": 3.293867588043213,
+      "height": 1,
+      "depth": 0.5400366187095642
+    }
+  }
+}

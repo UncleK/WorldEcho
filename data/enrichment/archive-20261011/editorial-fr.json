@@ -1,0 +1,13 @@
+{
+  "towers": {
+    "gb-brockham-eiffel-tower-brockham": {
+      "name": "Tour Eiffel végétalisée de Brockham",
+      "label": "Brockham",
+      "city": "Brockham",
+      "summary": "Une photographie du 12 août 2024 montre sur le terrain communal de Brockham une fine structure végétalisée en forme de tour Eiffel, avec des fleurs rouges et blanches, un drapeau français et une clôture blanche basse. Elle documente cet aspect, sans établir la date de construction, la hauteur, la permanence ni l’état actuel. Le modèle conserve les tiges ajourées ; les pieds masqués et l’arrière sont déduits par symétrie, et les fleurs évoquent la décoration photographiée."
+    },
+    "de-satteldorf-rungis-express": {
+      "summary": "Une photographie de 2008 montre la réplique grise sur l’ancien toit de Rungis Express à Satteldorf, sa partie basse étant masquée. Le propriétaire LEONHARD WEISS indique son retrait en mars 2021 pour démolir le bâtiment, puis sa restauration et son installation sur le toit de l’atelier de coffrage, plus à l’est. La date précise de réinstallation, les nouvelles coordonnées et l’état actuel restent à vérifier. Le modèle suit la photographie historique, avec des pieds masqués reconstitués par hypothèse."
+    }
+  }
+}

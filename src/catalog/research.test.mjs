@@ -38,6 +38,10 @@ test('held and unresolved prototypes remain research records without public mode
   assert.equal(rows.length,3);assert.equal(rows[0].modelKey,'approved');
   assert.equal(rows[1].modelKey,null);assert.equal(rows[2].modelKey,null);
   assert.equal(calculateStats(rows).modeled,1);
+  rows[1].modelCollection='pending';
+  assert.equal(filterRows(rows,DEFAULT_QUERY).length,3,'A held model must not hide its research record');
+  assert.deepEqual(filterRows(rows,{...DEFAULT_QUERY,q:'held'}).map(row=>row.id),['held']);
+  assert.equal(filterRows(rows,{...DEFAULT_QUERY,model:'yes'}).length,1);
 });
 
 test('height conversion requires a selected, positive source-backed value and ignores observation maxima', () => {

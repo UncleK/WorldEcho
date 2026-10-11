@@ -17,6 +17,27 @@ interface PlatformSpec {
   hidden?: boolean; railKind?: 'straight' | 'loops';
   frameOnly?: boolean; panelRows?: number; cornerCut?: number;
 }
+interface ResearchStructure {
+  kind: 'mast' | 'tripod' | 'cross' | 'bridge' | 'roof-sign' | 'rocket' | 'branching-frame';
+  sides?: number;
+  levels?: Array<{y:number;r:number;bays?:number}>;
+  decks?: Array<{y:number;r:number;h:number;sides?:number;glass?:boolean;open?:boolean;roof?:boolean}>;
+  member?: number;
+  brace?: number;
+  unbraced?: boolean;
+  mastFrom?: number;
+  mastRadius?: number;
+  mastPaint?: Paint;
+  crossY?: number;
+  crossWidth?: number;
+  crossThickness?: number;
+  forkHeight?: number;
+  openBase?: boolean;
+  spiralStair?: {from:number;to:number;radius:number;turns:number};
+  beads?: number;
+  dishes?: Array<{y:number;r:number;offset:number;angle:number}>;
+  timber?: boolean;
+}
 interface TowerProfile {
   key: SupportedModelKey; baseWidth: number; footWidth: number;
   first: PlatformSpec; second: PlatformSpec;
@@ -107,6 +128,10 @@ interface TowerProfile {
   variantRingWidth?: number;
   variantReliefDepth?: number;
   clockRoundFace?: boolean;
+  clockWidth?: number;
+  clockRise?: number;
+  /** Individually reviewed non-Eiffel structures. Existing profiles leave this absent. */
+  researchStructure?: ResearchStructure;
 }
 
 const Y = new THREE.Vector3(0, 1, 0);
@@ -272,7 +297,7 @@ export interface ModelCatalogEntry {
   normalizationScope?: 'whole-model' | 'visible-section';
   evidence: {
     photoIds: string[]; photoPaths: string[]; sourceUrls: string[]; observedFeatures: string[]; viewedAt: string; limits: string[];
-    referenceCompleteness?: 'full' | 'partial'; observationType?: 'browser-photo' | 'browser-video-and-photo'; galleryReuse?: string;
+    referenceCompleteness?: 'full' | 'partial' | 'text-only' | 'historical-drawing' | 'limited-photo-with-inferred-completion'; observationType?: 'browser-photo' | 'browser-video-and-photo'; galleryReuse?: string;
     browserReferences?: Array<{ subject: string; sourceUrl: string; pixelViewedAt: string }>;
     media?: Array<{ author: string; license: string; licenseUrl: string; capturedAt: string; sha256: string; localPath: string }>;
   };
@@ -855,6 +880,8 @@ class ModelBuilder {
       beamCount: this.beamCount, primitiveCount, vertexCount, triangleCount,
       drawCalls: group.children.length,
       reference: profile.key === 'paris' ? '2023 photos + SETE 330/125/25/57/115/276m anchors'
+        : MODEL_ENTRIES.get(profile.key)?.evidence.referenceCompleteness==='text-only' ? `unverified text-led concept ${profile.key}; appearance is hypothetical`
+        : MODEL_ENTRIES.get(profile.key)?.evidence.referenceCompleteness==='historical-drawing' ? `historical drawing interpretation ${profile.key}; not a site photograph or a current building claim`
         : `photo-derived ${profile.key} variant; proportions below engineering detail remain estimated`,
     };
     modelNormalization.set(group, { height, minY: before.min.y });
@@ -2436,7 +2463,7 @@ function buildTop(b: ModelBuilder, p: TowerProfile, detail: Detail): void {
     }
     needle(b, y + room * .78, .0010);
   } else if (p.topKind === 'clock') {
-    const y = p.upperEnd + .003, width = .087, rise = .092, r = width / 2;
+    const y = p.upperEnd + .003, width = p.clockWidth ?? .087, rise = p.clockRise ?? .092, r = width / 2;
     b.box(width, rise, width, v(0, y + rise / 2, 0), 'deck');
     for (let side = 0; side < 4; side += 1) {
       const rotation = new THREE.Quaternion().setFromAxisAngle(Y, side * Math.PI / 2);
@@ -4075,10 +4102,193 @@ function buildCPhotoVariant(b:ModelBuilder,raw:TowerProfile,detail:Detail):boole
   }
 }
 
+function buildResearchStructure(b:ModelBuilder,s:ResearchStructure):void {
+  const n=s.sides??4,w=s.member??.005,brace=s.brace??w*.55;
+  const point=(y:number,r:number,i:number)=>v(Math.cos(Math.PI/4+i*Math.PI*2/n)*r,y,Math.sin(Math.PI/4+i*Math.PI*2/n)*r);
+  const ring=(y:number,r:number,paint:Paint='deck')=>{for(let i=0;i<n;i++)b.beam(point(y,r,i),point(y,r,(i+1)%n),w*.65,paint);};
+  const mainMember=(a:THREE.Vector3,z:THREE.Vector3)=>{
+    b.beam(a,z,w,'structure');
+    if(s.beads){const radius=s.beads,count=Math.max(1,Math.ceil(a.distanceTo(z)/(radius*2.15)));for(let j=0;j<=count;j++)b.ellipsoid(radius,radius,radius,a.clone().lerp(z,j/count),new THREE.Quaternion(),'structure',6);}
+  };
+  const lattice=(levels:Array<{y:number;r:number;bays?:number}>)=>{
+    for(let k=0;k<levels.length-1;k++){
+      const a=levels[k],z=levels[k+1],bays=z.bays??Math.max(2,Math.ceil((z.y-a.y)*22));
+      for(let side=0;side<n;side++){
+        mainMember(point(a.y,a.r,side),point(z.y,z.r,side));
+        for(let j=0;!s.unbraced&&j<bays;j++){
+          const t=j/bays,u=(j+1)/bays,y=lerp(a.y,z.y,t),yy=lerp(a.y,z.y,u),r=lerp(a.r,z.r,t),rr=lerp(a.r,z.r,u);
+          b.beam(point(y,r,side),point(yy,rr,(side+1)%n),brace,'shadow');
+          b.beam(point(y,r,(side+1)%n),point(yy,rr,side),brace,'structure');
+          b.beam(point(y,r,side),point(y,r,(side+1)%n),brace,'structure');
+        }
+      }
+    }
+    for(const level of levels)ring(level.y,level.r);
+  };
+  if(s.kind==='bridge'){
+    // Horizontal machine: long cantilever, triangular truss and paired travelling supports.
+    const stations=32,x0=-2.7,x1=2.7;
+    for(let i=0;i<stations;i++){
+      const x=lerp(x0,x1,i/stations),xx=lerp(x0,x1,(i+1)/stations),y=.48+.24*Math.sin(Math.PI*(i/stations)),yy=.48+.24*Math.sin(Math.PI*((i+1)/stations));
+      for(const z of[-.17,.17]){
+        b.beam(v(x,y,z),v(xx,yy,z),.016,'structure');b.beam(v(x,y+.18,0),v(xx,yy+.18,0),.016,'structure');
+        b.beam(v(x,y,z),v(xx,yy+.18,0),.010,'shadow');b.beam(v(x,y+.18,0),v(xx,yy,z),.010,'structure');
+        b.beam(v(x,y,z),v(x,y+.18,0),.010,'structure');
+      }
+      b.beam(v(x,y,-.17),v(xx,yy,.17),.008,'shadow');
+    }
+    for(const x of[-1.4,.7])for(const z of[-.35,.35]){
+      b.beam(v(x-.25,.04,z),v(x,.74,z*.4),.025,'structure');b.beam(v(x+.25,.04,z),v(x,.74,z*.4),.025,'structure');
+      b.beam(v(x-.25,.3,z),v(x+.12,.57,z*.65),.012,'shadow');
+      b.box(.45,.06,.15,v(x,.03,z),'shadow');
+    }
+    b.box(.15,.1,.14,v(.72,.88,0),'deck');b.beam(v(.72,.89,0),v(.72,1,0),.009,'antenna');return;
+  }
+  if(s.kind==='rocket'){
+    // Horizontal Eiffel-like taper with an open radial collar and flared tail fins.
+    const stations=[{x:-1.55,r:.018},{x:-1.0,r:.045},{x:-.3,r:.09},{x:.35,r:.15},{x:.88,r:.34}];
+    const corner=(x:number,r:number,i:number)=>v(x,.53+Math.cos(Math.PI/4+i*Math.PI/2)*r,Math.sin(Math.PI/4+i*Math.PI/2)*r);
+    for(let k=0;k<stations.length-1;k++){
+      const a=stations[k],z=stations[k+1],bays=6;
+      for(let side=0;side<4;side++){
+        b.beam(corner(a.x,a.r,side),corner(z.x,z.r,side),.023,'structure');
+        for(let i=0;i<bays;i++){const t=i/bays,u=(i+1)/bays,x=lerp(a.x,z.x,t),xx=lerp(a.x,z.x,u),r=lerp(a.r,z.r,t),rr=lerp(a.r,z.r,u);b.beam(corner(x,r,side),corner(xx,rr,(side+1)%4),.01,'structure');b.beam(corner(x,r,(side+1)%4),corner(xx,rr,side),.01,'shadow');}
+      }
+    }
+    for(const z of[-.20,.20]){
+      const r=.23,c=v(.36,.53,z);
+      for(let i=0;i<32;i++){const a=i*Math.PI/16,aa=(i+1)*Math.PI/16;b.beam(c.clone().add(v(r*Math.cos(a),r*Math.sin(a),0)),c.clone().add(v(r*Math.cos(aa),r*Math.sin(aa),0)),.025,'deck');}
+      for(let i=0;i<8;i++){const a=i*Math.PI/4;b.beam(c,c.clone().add(v(r*Math.cos(a),r*Math.sin(a),0)),.022,'structure');}
+      for(const sign of[-1,1]){b.beam(v(.62,.53+sign*.10,z),v(1.1,.53+sign*.40,z),.035,'deck');b.beam(v(.62,.53+sign*.10,z),v(1.1,.53+sign*.29,z),.025,'structure');}
+    }
+    b.beam(v(-.35,.04,0),v(-.35,.46,0),.035,'structure');
+    b.box(.24,.035,.28,v(-.35,.02,0),'shadow');
+    return;
+  }
+  if(s.kind==='branching-frame'){
+    // Bata construction photograph: branching concrete supports and unfinished core.
+    // No speculative completed crown or construction crane is added.
+    for(let side=0;side<4;side++){
+      const angle=side*Math.PI/2,ray=(r:number,y:number)=>v(Math.cos(angle)*r,y,Math.sin(angle)*r);
+      for(let i=0;i<24;i++){
+        const t=i/24,u=(i+1)/24;
+        b.beam(ray(.43*(1-t)**2+.025,.02+.65*t),ray(.43*(1-u)**2+.025,.02+.65*u),.042,'stone');
+      }
+    }
+    b.box(.065,1,.065,v(0,.5,0),'stone');
+    for(const y of[.33,.38])b.box(.18,.017,.18,v(0,y,0),'deck');
+    for(const x of[-.065,.065])for(const z of[-.065,.065])b.beam(v(x,.33,z),v(x,.38,z),.008,'stone');
+    return;
+  }
+  if(s.kind==='tripod'){
+    const legs=s.sides??3;
+    const fork=s.forkHeight??.24;
+    for(let i=0;i<legs;i++){const angle=i*Math.PI*2/legs;b.beam(v(Math.cos(angle)*.19,0,Math.sin(angle)*.19),v(Math.cos(angle)*.035,fork,Math.sin(angle)*.035),.045,'stone');}
+    b.cylinder(.042,.027,fork-.02,s.mastFrom??.83,'stone',legs);
+  }else {
+    const levels=(s.levels??[{y:0,r:.20},{y:.28,r:.09,bays:7},{y:.83,r:.017,bays:20}]).map(level=>({...level}));
+    const highestDeck=(s.decks??[]).reduce((a,d)=>d.y>a.y?d:a,{y:0,r:0});
+    const last=levels.at(-1)!;
+    if(highestDeck.y>last.y)levels.push({y:highestDeck.y,r:Math.min(last.r,highestDeck.r*.65),bays:3});
+    if(s.openBase&&levels.length>1){
+      const a=levels[0],z=levels[1],foot=.025,upper=.009;
+      for(let side=0;side<n;side++){
+        const lo=point(a.y,a.r,side),hi=point(z.y,z.r,side);
+        for(const dx of[-1,1])for(const dz of[-1,1])mainMember(lo.clone().add(v(dx*foot,0,dz*foot)),hi.clone().add(v(dx*upper,0,dz*upper)));
+        for(let j=0;j<5;j++){
+          const t=j/5,u=(j+1)/5,c=lo.clone().lerp(hi,t),cc=lo.clone().lerp(hi,u),r=lerp(foot,upper,t),rr=lerp(foot,upper,u);
+          for(const front of[-1,1]){b.beam(c.clone().add(v(-r,0,front*r)),cc.clone().add(v(rr,0,front*rr)),brace,'structure');b.beam(c.clone().add(v(r,0,front*r)),cc.clone().add(v(-rr,0,front*rr)),brace,'shadow');}
+        }
+        const other=point(a.y,a.r,(side+1)%n);
+        for(let j=0;j<20;j++){
+          const arc=(t:number)=>{const p=lo.clone().lerp(other,t),rise=.56*4*t*(1-t),scale=lerp(a.r,z.r,rise)/a.r;p.x*=scale;p.z*=scale;p.y=lerp(a.y,z.y,rise);return p;};
+          const t=j/20,u=(j+1)/20,p=arc(t),q=arc(u);b.beam(p,q,w*.7,'deck');
+          if(j%2===0&&!s.unbraced){const support=hi.clone().lerp(point(z.y,z.r,(side+1)%n),t);b.beam(p,support,brace,'structure');}
+        }
+      }
+      lattice(levels.slice(1));
+    }else lattice(levels);
+  }
+  for(const deck of s.decks??[]){
+    const sides=deck.sides??n,y=deck.y,segments=Array.from({length:sides},(_,i)=>new THREE.Vector2(Math.cos(Math.PI/4+i*Math.PI*2/sides)*deck.r,Math.sin(Math.PI/4+i*Math.PI*2/sides)*deck.r));
+    b.polygonRing(segments,deck.open ? .74 : 0,y,Math.min(.012,deck.h*.2),'deck');
+    if(!deck.open)b.cylinder(deck.r*.9,deck.roof ? 0 : deck.r*.9,y+.003,y+deck.h,deck.glass?'glass':'structure',sides);
+    if(!deck.roof){
+      b.polygonRing(segments,deck.open ? .72 : 0,y+deck.h,.004,'deck');
+      for(let i=0;i<sides;i++){const a=Math.PI/4+i*Math.PI*2/sides;b.beam(v(Math.cos(a)*deck.r*.95,y,Math.sin(a)*deck.r*.95),v(Math.cos(a)*deck.r*.95,y+deck.h,Math.sin(a)*deck.r*.95),w,'structure');}
+    }
+  }
+  if(s.spiralStair){
+    const stair=s.spiralStair,steps=96;
+    b.cylinder(.005,.005,stair.from,stair.to,'shadow',8);
+    for(let i=0;i<steps;i++){
+      const angle=i/steps*Math.PI*2*stair.turns,next=(i+1)/steps*Math.PI*2*stair.turns,y=lerp(stair.from,stair.to,i/steps),yy=lerp(stair.from,stair.to,(i+1)/steps),r=stair.radius;
+      b.box(r,.0025,.014,v(Math.cos(angle)*r/2,y,Math.sin(angle)*r/2),'deck',new THREE.Quaternion().setFromAxisAngle(Y,-angle));
+      b.beam(v(Math.cos(angle)*r,y+.023,Math.sin(angle)*r),v(Math.cos(next)*r,yy+.023,Math.sin(next)*r),.0016,'structure');
+    }
+  }
+  for(const dish of s.dishes??[]){
+    const centre=v(Math.cos(dish.angle)*dish.offset,dish.y,Math.sin(dish.angle)*dish.offset);
+    b.beam(v(0,dish.y,0),centre,.003,'structure');
+    b.ellipsoid(.004,dish.r,dish.r,centre,new THREE.Quaternion().setFromAxisAngle(Y,-dish.angle),'deck',12);
+  }
+  if(s.kind==='cross'){
+    const cy=s.crossY??.78,cw=s.crossWidth??.38,r=s.crossThickness??.027;
+    for(const z of[-r,r])for(const dy of[-r,r])b.beam(v(-cw/2,cy+dy,z),v(cw/2,cy+dy,z),w,'structure');
+    for(let i=0;i<12;i++){const x=-cw/2+i*cw/12,xx=x+cw/12;for(const z of[-r,r]){b.beam(v(x,cy-r,z),v(xx,cy+r,z),brace,'structure');b.beam(v(x,cy+r,z),v(xx,cy-r,z),brace,'shadow');}}
+  }
+  if(s.kind==='roof-sign'){
+    // The observed W is geometry, not a texture borrowed from the photograph.
+    const yy=.91,pts=[v(-.08,1,0),v(-.04,yy,0),v(0,.98,0),v(.04,yy,0),v(.08,1,0)];for(let i=0;i<4;i++)b.beam(pts[i],pts[i+1],.019,'enamel');
+    for(const sign of[-1,1])b.beam(v(sign*.035,s.levels?.at(-1)?.y??.85,0),v(sign*.035,yy+.018,0),.006,'structure');
+  }else if(s.mastFrom!==undefined){
+    const highestSupport=Math.max(s.levels?.at(-1)?.y??0,...(s.decks??[]).map(d=>d.y+d.h));
+    const from=s.kind==='tripod'?s.mastFrom:Math.min(s.mastFrom,highestSupport),steps=s.mastPaint==='structure'?24:1;
+    for(let i=0;i<steps;i++){const t=i/steps,u=(i+1)/steps;b.cylinder(lerp(s.mastRadius??.003,.0008,t),lerp(s.mastRadius??.003,.0008,u),lerp(from,1,t),lerp(from,1,u),s.mastPaint??'antenna',8);}
+  }
+}
+
+/** Brockham, 12 August 2024: slender planted rod framework, not a dense Eiffel truss.
+ * Hidden feet and rear rods use symmetry; flowers represent that photograph only.
+ */
+function buildBrockhamGarden(b:ModelBuilder,detail:Detail):void {
+  const levels=[{y:.012,r:.16},{y:.20,r:.095},{y:.39,r:.040},{y:.53,r:.023},{y:.86,r:.013},{y:.90,r:.022}];
+  const point=(y:number,r:number,side:number)=>v(Math.cos(Math.PI/4+side*Math.PI/2)*r,y,Math.sin(Math.PI/4+side*Math.PI/2)*r);
+  for(let side=0;side<4;side++) {
+    for(let i=0;i<levels.length-1;i++) {
+      const a=levels[i],z=levels[i+1];
+      b.beam(point(a.y,a.r,side),point(z.y,z.r,side),.0025,'structure');
+      // Narrow companion rods remain open; no unobserved cross lattice or decks.
+      b.beam(point(a.y,a.r*.86,side),point(z.y,z.r*.86,side),.0012,'structure');
+    }
+    for(const {y,r} of levels.filter(level=>[.20,.39,.90].includes(level.y)))b.beam(point(y,r,side),point(y,r,(side+1)%4),.0018,'structure');
+  }
+  b.beam(v(0,.87,0),v(0,1,0),.0018,'antenna');
+  // A small hanging French tricolour is visible, with blue nearest the pole.
+  for(let stripe=0;stripe<3;stripe++)b.box(.022,.072,.0011,v(-.012-stripe*.020,.961-stripe*.006,.001),(['accentBlue','deck','enamel'] as Paint[])[stripe],new THREE.Quaternion().setFromAxisAngle(v(0,0,1),.29));
+  const radius=(y:number)=>{const i=Math.max(0,levels.findIndex((level,index)=>index<levels.length-1&&y>=level.y&&y<=levels[index+1].y));const a=levels[i],z=levels[i+1];return lerp(a.r,z.r,(y-a.y)/(z.y-a.y));};
+  for(let side=0;side<4;side++)for(let step=0;step<18;step++){
+    const y=.018+step*.028,z=y+.028;
+    b.beam(point(y,radius(y)*.97,side),point(z,radius(z)*.97,side),.0011,'shadow');
+  }
+  // This sparse model stays below the overview budget; retain the same foliage
+  // envelope in both LODs so switching detail cannot change its footprint.
+  const count=170;
+  for(let i=0;i<count;i++) {
+    const a=i*2.399963,y=.018+((i*37)%101)/101*.51,anchor=point(y,radius(y)*.97,i%4);
+    const centre=anchor.clone().add(v(Math.cos(a)*.009,.004,Math.sin(a)*.009)),leaf=.004+((i*13)%7)*.0007;
+    b.beam(anchor,centre,.00065,'shadow');
+    b.ellipsoid(leaf*.7,leaf*1.4,leaf*.42,centre,new THREE.Quaternion().setFromAxisAngle(v(0,0,1),a),'shadow',4);
+    if(i%5===0){const paint:Paint=y<.13?'enamel':'deck';b.ellipsoid(.006,.004,.006,centre.clone().add(v(.003,.003,.002)),new THREE.Quaternion(),paint,4);}
+  }
+}
+
 export function createTowerModel(modelKey: SupportedModelKey, detail: Detail = 'detail', renderStyle: TowerRenderStyle = 'heritage'): THREE.Group {
   const profile = PROFILES.get(modelKey);
   if (!profile) throw new Error(`Unknown tower model key: ${modelKey}`);
   const builder = new ModelBuilder(profile.surfaceKind === 'bamboo', profile.surfaceKind === 'lego', detail === 'overview' ? .040 : .024);
+  if(profile.researchStructure){buildResearchStructure(builder,profile.researchStructure);return builder.finish(profile,detail,renderStyle);}
+  if(modelKey==='gb-brockham-eiffel-tower-brockham') { buildBrockhamGarden(builder,detail);return builder.finish(profile,detail,renderStyle); }
   if (buildCPhotoVariant(builder, profile, detail)) return builder.finish(profile, detail, renderStyle);
   if(profile.topology==='topiary-eiffel') {
     buildTopiary(builder,profile,detail);return builder.finish(profile,detail,renderStyle);

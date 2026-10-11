@@ -5,7 +5,7 @@
 .research-record-summary .research-record-story{font-size:13px;line-height:1.95;margin:12px 0;color:var(--text,#c7d5e1)}
 .research-record-uses{font-size:11px;line-height:1.8;margin:14px 0}
 .research-record-location{border-top:1px solid var(--line,#39505e);margin-top:20px;padding-top:16px}
-.research-record-summary .research-record-location h3{font-size:12px;line-height:1.6;font-weight:500;color:inherit;margin:0 0 8px}
+.research-record-location h3{font-size:12px;line-height:1.6;font-weight:500;color:inherit;margin:0 0 8px}
 .research-record-location p,.research-record-model p{font-size:11px;line-height:1.8;margin:8px 0}
 .research-record-model{border-top:1px solid var(--line,#39505e);margin-top:16px;padding-top:8px}
 .research-photo-evidence{border-top:1px solid var(--line,#39505e);margin-top:22px;padding-top:20px}
@@ -27,3 +27,5 @@
 [data-theme=light] .detail-record-actions.detail-record-actions>:is(button,a):hover:not(:disabled){background:#d5e3ed;border-color:#688ba3;color:#305169}
 @media(max-width:760px){.detail-record-actions.detail-record-actions{gap:5px}.detail-record-actions.detail-record-actions>:is(button,a){font-size:10px;gap:4px;padding:8px 4px}.detail-record-actions.detail-record-actions svg{width:12px;height:12px}.detail-panel:not(.is-expanded) .detail-record-actions.detail-record-actions>:is(button,a){font-size:9px;min-height:34px;padding:7px 2px;white-space:nowrap}.research-record-summary .research-record-story{font-size:12px}}
 .display-height-evidence{padding:12px 14px;margin:14px 0;border:1px solid #8ba6b43b;border-radius:9px;font-size:11px;color:var(--muted,#a6becd)}.display-height-evidence strong{font-size:12px;font-weight:500;color:var(--text,#d6e4ed)}.display-height-evidence p{line-height:1.7;margin:6px 0}.display-height-evidence a{display:inline-block;margin-top:5px;text-decoration:underline}
+
+.record-model-evidence{border-top:1px solid #718a9e40;padding-top:15px;margin-top:18px;font-size:11px;color:var(--muted,#9cb1c0);line-height:1.85}.record-model-evidence h3{font-size:13px;color:var(--text,#cfdee8);margin:0 0 8px}.record-model-evidence ul{padding-left:18px}.record-history li{margin:10px 0}.record-history small{display:block;color:#c1a982}.record-history>p{line-height:1.9}

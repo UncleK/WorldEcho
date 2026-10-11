@@ -23,7 +23,7 @@ export default function SiteHeader({ active, onExplore, onCompare, onChallenge, 
       const props = { className: active === id ? 'active' : '', title: t(label), 'aria-label': t(label), 'aria-current': active === id ? 'page' as const : undefined };
       return action ? <button key={id} {...props} disabled={id === 'challenge' && challengeDisabled} onClick={action}>{content}</button> : <a key={id} {...props} href={href}>{content}</a>;
     })}</nav>
-    <div className="site-search">{children ?? <a className="site-catalog-search" href="#catalog-search"><Search size={17}/><span>{t('搜索城市或铁塔')}</span></a>}</div>
+    <div className="site-search">{children ?? <a className="site-catalog-search" aria-label={t('搜索城市或铁塔')} href="#catalog-search"><Search size={17}/><span>{t('搜索城市或铁塔')}</span></a>}</div>
     <div className="site-preferences"><ThemeSwitch/><div className="site-language"><LanguageSwitch/><ChevronDown size={13} aria-hidden="true"/></div></div>
   </header>;
 }

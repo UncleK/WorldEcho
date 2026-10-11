@@ -1,0 +1,13 @@
+{
+  "towers": {
+    "gb-brockham-eiffel-tower-brockham": {
+      "name": "布罗克姆花架铁塔",
+      "label": "Brockham",
+      "city": "Brockham",
+      "summary": "2024年8月12日的实景照片记录了Brockham村绿地上一座细杆花架式铁塔：下部种有红白花卉，塔顶悬挂法国三色旗，周围设有白色矮围栏。照片支持当时的外观，不足以确认建造年份、真实高度、长期固定性质或今天的现状。模型按照片保留开放杆架，背面与被植物遮挡的脚部采用对称推测，花卉仅表达拍摄时的装饰。"
+    },
+    "de-satteldorf-rungis-express": {
+      "summary": "2008年的实景照片记录了Satteldorf原Rungis Express建筑屋顶的灰色铁塔，下段被屋面遮挡。业主LEONHARD WEISS说明，塔在2021年3月因建筑拆除而移下，整修后安放到较东侧的Schalungsbau屋顶。复位的精确日期、新塔体坐标与今天的现状仍待核。现有模型依据历史照片制作，被遮挡的脚部含明确标注的推测补全。"
+    }
+  }
+}

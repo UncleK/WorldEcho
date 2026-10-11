@@ -1,0 +1,1155 @@
+{
+  "towers": {
+    "gb-crystal-palace-london-crystal-palace-transmitting-station": {
+      "name": "Crystal Palace, London·水晶宫发射塔（相似建筑候选）",
+      "label": "Crystal Palace, London",
+      "city": "Crystal Palace, London",
+      "venue": "水晶宫发射塔",
+      "summary": "Jon Worth的地图将“Crystal Palace transmitting station”记录在英国的Crystal Palace, London。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n下部宽四脚格构、两段收窄上轴和白色天线顶杆；树木遮挡塔脚。",
+      "currentUses": []
+    },
+    "de-ismaning-bavaria-ismaning-radio-tower": {
+      "name": "伊斯马宁广播塔（候选）",
+      "label": "伊斯马宁",
+      "city": "伊斯马宁",
+      "venue": "广播塔",
+      "summary": "这是旧木制广播塔的线描图，不是现场照片；轮廓宽脚、长窄上轴和交叉撑杆。"
+    },
+    "jp-osaka-tsutenkaku-tower-reaching-heaven": {
+      "name": "大阪通天阁（候选）",
+      "label": "大阪",
+      "city": "大阪",
+      "venue": "通天阁",
+      "summary": "历史彩色明信片描绘初代通天阁，塔体位于装饰性低层入口建筑上；不代表今天的通天阁。"
+    },
+    "us-bemidji-lac-du-bois": {
+      "name": "伯米吉林中湖法语营地铁塔",
+      "label": "伯米吉",
+      "city": "伯米吉",
+      "venue": "林中湖法语营地",
+      "summary": "林间空地上的锈褐细杆模型，两道方平台、宽展开四脚和细小塔冠；脚部无遮挡。"
+    },
+    "jp-sapporo-sapporo-television-tower": {
+      "name": "札幌·Sapporo Television Tower铁塔（相似建筑候选）",
+      "label": "札幌",
+      "city": "札幌",
+      "venue": "Sapporo Television Tower",
+      "summary": "Jon Worth的地图将“Sapporo Television Tower”记录在日本的札幌。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n红白电视塔带大尺寸低层绿色观景室、中部数字时钟、上层观景舱和细长天线。",
+      "currentUses": []
+    },
+    "gb-new-brighton-merseyside-new-brighton-tower": {
+      "name": "新布赖顿新布赖顿塔（候选）",
+      "label": "新布赖顿",
+      "city": "新布赖顿",
+      "venue": "新布赖顿塔",
+      "summary": "历史黑白明信片显示高格构塔、宽大多层顶部观景区及相连的低层建筑；属于旧New Brighton塔。"
+    },
+    "fr-mulhouse-emetteur-du-belvedere": {
+      "name": "米卢斯·Émetteur du Belvédère铁塔（相似建筑候选）",
+      "label": "米卢斯",
+      "city": "米卢斯",
+      "venue": "Émetteur du Belvédère",
+      "summary": "Jon Worth的地图将“Émetteur du Belvédère”记录在法国的米卢斯。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n浅色广播塔具有分段外挑平台、不对称天线盘和很细的长顶杆。",
+      "currentUses": []
+    },
+    "rs-belgrade-avalski-toranj": {
+      "name": "贝尔格莱德·Avalski toranj铁塔（相似建筑候选）",
+      "label": "贝尔格莱德",
+      "city": "贝尔格莱德",
+      "venue": "Avalski toranj",
+      "summary": "Jon Worth的地图将“Avalski toranj”记录在塞尔维亚的贝尔格莱德。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n混凝土三脚分叉基部、实心细长主轴、顶部多边形观景舱，天线在照片上缘不完整。",
+      "currentUses": []
+    },
+    "pl-gliwice-gliwice-radio-tower": {
+      "name": "格利维采·Gliwice Radio Tower铁塔（相似建筑候选）",
+      "label": "格利维采",
+      "city": "格利维采",
+      "venue": "Gliwice Radio Tower",
+      "summary": "Jon Worth的地图将“Gliwice Radio Tower”记录在波兰的格利维采。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n棕色木格构塔，塔脚粗而向上平顺收窄，没有埃菲尔式宽平台或圆拱。",
+      "currentUses": []
+    },
+    "it-amiata-monte-amiata-summit-cross": {
+      "name": "阿米亚塔山山顶十字架",
+      "label": "阿米亚塔山",
+      "city": "阿米亚塔山",
+      "venue": "山顶十字架",
+      "summary": "山顶格构十字架，四条张开的底腿、圆拱下缘、长直中杆和横向格构十字臂。"
+    },
+    "au-sydney-new-south-wales-awa-tower": {
+      "name": "悉尼阿瓦大楼铁塔（暂不收录）",
+      "label": "悉尼",
+      "city": "悉尼",
+      "venue": "阿瓦大楼",
+      "summary": "办公楼屋顶上的白色格构通信塔，低层宽、上层细，顶部带窄观景环和圆润塔冠；楼体不并入塔模型。"
+    },
+    "gb-wembley-greater-london-watkin-s-tower": {
+      "name": "温布利沃特金塔（候选）",
+      "label": "温布利",
+      "city": "温布利",
+      "venue": "沃特金塔",
+      "summary": "这是Watkin塔中选方案图，展示多层平台和极长上轴；不是已建成全塔的照片。"
+    },
+    "es-alava-cruz-del-monte-gorbea": {
+      "name": "阿拉瓦·Cruz Del Monte Gorbea铁塔（相似建筑候选）",
+      "label": "阿拉瓦",
+      "city": "阿拉瓦",
+      "venue": "Cruz Del Monte Gorbea",
+      "summary": "Jon Worth的地图将“Cruz Del Monte Gorbea”记录在西班牙的阿拉瓦。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n黑色稀疏格构山顶十字架，四脚弯曲收拢、中央细轴及顶部十字形；没有双层宽平台。",
+      "currentUses": []
+    },
+    "pl-inwald-miniatures": {
+      "name": "因瓦乌德世界梦想微缩铁塔",
+      "label": "因瓦乌德",
+      "city": "因瓦乌德",
+      "venue": "世界梦想微缩公园",
+      "summary": "因瓦乌德Park Miniatur Świat Marzeń以微缩建筑组成世界地标游览，复制铁塔与凯旋门模型相邻。具体实景照片记录了这组法国建筑意象及园内步行空间。它是用于近距离观赏的建筑模型，园名和园区主题不能自动提供单塔建造年、精确比例或测量高度。\n\n微缩园中的塔体可见弧形宽脚、第一平台、细长上轴和较宽顶部塔冠；右侧Big Ben不属塔体。"
+    },
+    "ru-st-petersburg-saint-petersburg-tv-tower": {
+      "name": "圣彼得堡·Saint Petersburg TV Tower铁塔（相似建筑候选）",
+      "label": "圣彼得堡",
+      "city": "圣彼得堡",
+      "venue": "Saint Petersburg TV Tower",
+      "summary": "Jon Worth的地图将“Saint Petersburg TV Tower”记录在俄罗斯的圣彼得堡。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n红白与浅色分段细格构塔，窄平台沿高度多处外挑，顶部有多圈通信装置和细长杆。",
+      "currentUses": []
+    },
+    "bo-sucre-parque-simon-bolivar": {
+      "name": "苏克雷玻利瓦尔公园铁塔",
+      "label": "苏克雷",
+      "city": "苏克雷",
+      "venue": "玻利瓦尔公园",
+      "summary": "公园内橙红色小塔带宽敞拱脚、两层观景平台和开敞笼状塔冠；周围人可作宽范围比例参照。"
+    },
+    "gt-guatemala-city-torre-del-reformador": {
+      "name": "危地马拉改革者塔",
+      "label": "危地马拉城",
+      "city": "危地马拉城",
+      "venue": "城市铁塔",
+      "summary": "横跨道路的开放格构构筑物，上轴长直、四脚外展成大拱，缺少典型埃菲尔双平台。"
+    },
+    "jp-nagoya-nagoya-tv-tower": {
+      "name": "名古屋电视塔（关系待核，默认排除）",
+      "label": "名古屋",
+      "city": "名古屋",
+      "venue": "电视塔",
+      "summary": "浅色电视塔具有宽矩形低观景舱、细长四角上轴、上部小舱和连续天线。"
+    },
+    "vn-ha-giang-communication-tower": {
+      "name": "河江·通信塔（相似建筑候选）",
+      "label": "河江",
+      "city": "河江",
+      "venue": "通信塔",
+      "summary": "Jon Worth的地图将“Communication tower”记录在越南的河江。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n红白格构通信塔下段有大圆拱和横向平台，上部为椭圆观景盘与细杆天线；照片是广角全景拼接。",
+      "currentUses": []
+    },
+    "de-lauchhammer-liegender-eiffelturm": {
+      "name": "劳赫哈默·Liegender Eiffelturm铁塔（相似建筑候选）",
+      "label": "劳赫哈默",
+      "city": "劳赫哈默",
+      "venue": "Liegender Eiffelturm",
+      "summary": "Jon Worth的地图将“Liegender Eiffelturm”记录在德国的劳赫哈默。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\nF60横卧输送桥，横向长三角格构桁架、多组支架与悬挑输送段；主体横向而非竖直塔。",
+      "currentUses": []
+    },
+    "in-fazilka-fazilka-tv-tower": {
+      "name": "法齐尔卡·Fazilka TV Tower铁塔（相似建筑候选）",
+      "label": "法齐尔卡",
+      "city": "法齐尔卡",
+      "venue": "Fazilka TV Tower",
+      "summary": "Jon Worth的地图将“Fazilka TV Tower”记录在印度的法齐尔卡。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n低分辨率照片显示浅色细格构发射塔，多段收窄、少数窄平台；顶部和细部信息不足。",
+      "currentUses": []
+    },
+    "my-langkawi-maha-tower": {
+      "name": "兰卡威·Maha Tower铁塔（相似建筑候选）",
+      "label": "兰卡威",
+      "city": "兰卡威",
+      "venue": "Maha Tower",
+      "summary": "Jon Worth的地图将“Maha Tower”记录在马来西亚的兰卡威。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n浅色现代塔，下段多道曲线拱撑、大型方形下平台、收腰格构主轴与外挑上舱；装饰拱廊围绕基部。",
+      "currentUses": []
+    },
+    "lv-riga-rigas-radio-un-televizijas-tornis": {
+      "name": "里加·Rīgas radio un televīzijas tornis铁塔（相似建筑候选）",
+      "label": "里加",
+      "city": "里加",
+      "venue": "Rīgas radio un televīzijas tornis",
+      "summary": "Jon Worth的地图将“Rīgas radio un televīzijas tornis”记录在拉脱维亚的里加。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n城市远景中的里加塔可辨三脚弧形支撑、深色细长主轴与顶部长针，建筑细节不足。",
+      "currentUses": []
+    },
+    "jp-minato-tokyo-tokyo-tower": {
+      "name": "东京塔（暂不收录）",
+      "label": "东京",
+      "city": "东京",
+      "venue": "东京塔",
+      "summary": "东京塔全景展示红白分段四脚格构、大型矩形主观景舱、较小上观景舱和长天线。"
+    },
+    "ca-vancouver-woodwards": {
+      "name": "温哥华伍德沃兹大楼铁塔",
+      "label": "温哥华",
+      "city": "温哥华",
+      "venue": "伍德沃兹大楼",
+      "summary": "复制的红色W字招牌立在屋顶格构支架上；下部被树和楼体遮挡，不能视作独立完整埃菲尔塔。"
+    },
+    "gb-hastings-garden-eiffel-tower": {
+      "name": "黑斯廷斯庭院铁塔（候选）",
+      "label": "黑斯廷斯",
+      "city": "黑斯廷斯",
+      "venue": "庭院铁塔",
+      "summary": "住宅前的高黑色格构复制塔，宽脚、两级平台和细长上轴；照片中的汽车遮挡塔脚。"
+    },
+    "ru-beliy-island-eiffel-tower-of-the-arctic": {
+      "name": "别雷岛木灯塔（相似构筑物）",
+      "label": "别雷岛灯塔",
+      "city": "别雷岛",
+      "venue": "北极埃菲尔塔",
+      "summary": "俄罗斯地理学会的资料介绍的是别雷岛木灯塔，并记述1936年的灯塔历史。原文仅将其外形与埃菲尔塔作比较，没有明确复刻关系；按相似构筑物保留，首期地球不收录。\n\n别雷岛海岸的木格构灯塔宽底向上连续收窄，顶部小平台；来源为RGO实地考察。 木灯塔近景可见多道水平圈梁、交叉撑杆、张开的支脚和残损顶部平台；保留拍摄时的历史外观。 木制支柱与斜撑的节点细部，支持木材和连接构造，不提供全塔外形。"
+    },
+    "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach": {
+      "name": "Starunia朝圣中心金属十字架（相似构筑物）",
+      "label": "Starunia十字架",
+      "city": "Starunia",
+      "venue": "Pilgrimage Center of Symeon Lukach",
+      "summary": "朝圣中心的原文说明，这处对象是一座高25米、宽14米的金属十字架，2020年9月19日首次亮灯。地点为Starunia；没有依据将它当作埃菲尔复制塔，首期地球不收录。\n\n十字架构筑物下部的开放格构和拱门近景；上部十字臂不在画面中，不能据此单图补全。 官方文章夜景完整展示白色格构十字架：四脚弧拱、两级收窄主体、宽大箱形横臂和短直顶部；保留人物遮挡及夜间颜色限制。 白色格构十字架下部内部支撑和圆拱的细节。",
+      "currentUses": []
+    },
+    "fr-paris-bassin-de-la-villette-eiffel-tower-rocket-sculpture": {
+      "name": "Paris, Bassin de la Villette·铁塔火箭雕塑（相似建筑候选）",
+      "label": "Paris, Bassin de la Villette",
+      "city": "Paris, Bassin de la Villette",
+      "venue": "铁塔火箭雕塑",
+      "summary": "Jon Worth的地图将“Eiffel Tower Rocket Sculpture”记录在法国的Paris, Bassin de la Villette。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n横向火箭雕塑融合铁塔轮廓、镂空圆轮和尖鼻；不建造河岸、喷泉及周边。",
+      "currentUses": []
+    },
+    "gr-heraklion-tower-in-a-garden-in-a-narrow-street": {
+      "name": "伊拉克利翁小巷庭园铁塔（候选）",
+      "label": "伊拉克利翁",
+      "city": "伊拉克利翁",
+      "venue": "小巷庭园",
+      "summary": "阳台后方小型浅色铁塔装饰，只有上段及窄塔冠可见，下部被栏杆挡住。"
+    },
+    "hn-tegucigalpa-copy": {
+      "name": "特古西加尔巴埃菲尔铁塔",
+      "label": "特古西加尔巴",
+      "city": "特古西加尔巴",
+      "venue": "",
+      "summary": "具名Tegucigalpa照片显示红褐色弧形四脚、双平台及长上轴，人物遮挡左下部。"
+    },
+    "gq-bata-torre-de-bata": {
+      "name": "巴塔·Torre de Bata铁塔（相似建筑候选）",
+      "label": "巴塔",
+      "city": "巴塔",
+      "venue": "Torre de Bata",
+      "summary": "Jon Worth的地图将“Torre de Bata”记录在赤道几内亚的巴塔。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n海边施工期的自由塔，白色分叉支撑和竖直核心可见，顶部有起重机；不当作已完工造型。",
+      "currentUses": []
+    },
+    "cn-suzhou-dong-wu-inspired": {
+      "name": "苏州东吴塔（暂不收录）",
+      "label": "苏州",
+      "city": "苏州",
+      "venue": "东吴塔",
+      "summary": "苏州东吴塔的浅灰格构主体、宽大矩形观景舱、上部多边形圆盘与尖塔；底脚在照片下缘之外。"
+    },
+    "cn-harbin-heilongjiang-province-dragon-tower": {
+      "name": "哈尔滨龙塔（候选）",
+      "label": "哈尔滨",
+      "city": "哈尔滨",
+      "venue": "龙塔",
+      "summary": "哈尔滨龙塔下部近景可见细格构柱和入口附属建筑，作者EditQ及许可明确。 哈尔滨龙塔整体可见细长收拢钢架、圆形上部观景盘与天线；附属入口建筑不并入塔体。"
+    },
+    "tw-taoyuan-baleng-tower": {
+      "name": "巴陵防灾广播塔（相似构筑物）",
+      "label": "巴陵广播塔",
+      "city": "桃园",
+      "venue": "巴陵铁塔",
+      "summary": "中央社报道引用当地公所说明，巴陵塔具有防灾广播用途，设计以祖灵之眼为起点。它的外形被比作埃菲尔塔，但复刻关系没有成立；29.4米与29.5米说法分别保存，首期地球不收录。\n\n紅色格构塔的夜间全身照片；两处横向平台/结构带和层叠菱形塔冠可见，灯色不等于白天材质。 红色直线收分格构塔，两道横向结构带、上端多层菱形笼冠；不是巴黎塔的圆弧塔脚。 巴陵红色广播塔有直线格构脚、两道开敞结构带及层叠装饰塔冠；不包含观景台与山景。"
+    },
+    "us-skokie-il-mini-golf-eiffel-tower": {
+      "name": "伊利诺伊州斯科基迷你高尔夫球场铁塔（候选）",
+      "label": "伊利诺伊州斯科基",
+      "city": "伊利诺伊州斯科基",
+      "venue": "迷你高尔夫球场",
+      "summary": "迷你高尔夫球场内黑色全身复制塔，两层平台、细长上塔身与小塔冠可辨；前景人物遮住部分塔脚。"
+    },
+    "us-glendale-americana-at-brand": {
+      "name": "格伦代尔·Americana at Brand铁塔（相似建筑候选）",
+      "label": "格伦代尔",
+      "city": "格伦代尔",
+      "venue": "Americana at Brand",
+      "summary": "Jon Worth的地图将“Americana at Brand”记录在美国的格伦代尔。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n红褐色仿工业屋顶格构塔，笔直收分轴、两层多边形突出平台及细尖顶；下部由屋顶遮挡。",
+      "currentUses": []
+    },
+    "al-tirana-tower-on-a-shopping-street": {
+      "name": "地拉那购物街铁塔（候选）",
+      "label": "地拉那",
+      "city": "地拉那",
+      "venue": "购物街",
+      "summary": "咖啡馆外的小型发光轮廓塔，两道开敞平台与稀疏线框可辨；远景不足以确认细部。"
+    },
+    "de-hollage-tower-on-a-roundabout": {
+      "name": "霍拉格环岛铁塔（候选）",
+      "label": "霍拉格",
+      "city": "霍拉格",
+      "venue": "环岛",
+      "summary": "交通岛上的白色细瘦格构塔，外张塔脚、两道平台、长上轴、小型顶部构件和欧盟旗可见。"
+    },
+    "be-jurbise-tower-in-a-front-garden": {
+      "name": "于尔比斯前庭铁塔（候选）",
+      "label": "于尔比斯",
+      "city": "于尔比斯",
+      "venue": "前庭",
+      "summary": "前院中浅色细瘦塔，弧形外张塔脚、两道窄平台、长上轴及顶部电视天线可见。"
+    },
+    "au-tasmazia-the-village-of-lower-crackpot-tower-at-a-miniature-park": {
+      "name": "塔斯马齐亚微缩村庄乐园铁塔（候选）",
+      "label": "塔斯马齐亚",
+      "city": "塔斯马齐亚",
+      "venue": "微缩村庄乐园",
+      "summary": "赭金色微缩塔有宽拱脚、两道突出平台、交叉桁架及圆顶小塔冠；不包含周围微缩街区。"
+    },
+    "be-kampenhout-tower-in-front-of-a-house": {
+      "name": "坎彭豪特住宅前铁塔（候选）",
+      "label": "坎彭豪特",
+      "city": "坎彭豪特",
+      "venue": "住宅前",
+      "summary": "历史照片中的小塔由白色球体沿稀疏杆件排列，两道薄平台及拱脚可辨；后来的画面不能确认现状。"
+    },
+    "cn-ma-anshan-children-s-park-tower": {
+      "name": "马鞍山儿童公园铁塔（候选）",
+      "label": "马鞍山",
+      "city": "马鞍山",
+      "venue": "儿童公园",
+      "summary": "儿童公园的浅色格构塔有宽拱脚、两道平台、多边形顶部小室和细天线；雪景仅代表拍摄时情况。"
+    },
+    "de-freiburg-breisgau-tower-at-a-adventure-play-ground": {
+      "name": "Freiburg (Breisgau)·探险游乐场铁塔（候选）",
+      "label": "Freiburg (Breisgau)",
+      "city": "Freiburg (Breisgau)",
+      "venue": "探险游乐场铁塔",
+      "summary": "Jon Worth的地图将“Tower at a adventure play ground”记录在德国的Freiburg (Breisgau)。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n游乐场内仅可辨浅色收分上塔段；车辆与树木遮挡大部分下部，完整造型仍含较多推测。",
+      "currentUses": []
+    },
+    "ee-reigi-tower-pointing-to-the-bigger-tower-down-the-road": {
+      "name": "雷吉·大塔导引小铁塔（候选）",
+      "label": "雷吉",
+      "city": "雷吉",
+      "venue": "大塔导引小铁塔",
+      "summary": "Jon Worth的地图将“Tower pointing to the bigger tower down the road”记录在爱沙尼亚的雷吉。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n路旁小型木杆指路塔有外张塔脚、开敞框圈及顶部小旗；与道路另一端的大木塔分开。",
+      "currentUses": []
+    },
+    "es-san-juan-del-puerto-andalusia-school-patio-tower": {
+      "name": "San Juan del Puerto, Andalusia·学校庭院铁塔（候选）",
+      "label": "San Juan del Puerto, Andalusia",
+      "city": "San Juan del Puerto, Andalusia",
+      "venue": "学校庭院铁塔",
+      "summary": "Jon Worth的地图将“School patio tower”记录在西班牙的San Juan del Puerto, Andalusia。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n学校院内棕色格构塔有圆拱脚、两道平台、长收分上轴与矩形开敞塔冠；植被遮住部分塔脚。",
+      "currentUses": []
+    },
+    "fr-aix-les-bains-tower-in-a-garden": {
+      "name": "艾克斯莱班庭园铁塔（候选）",
+      "label": "艾克斯莱班",
+      "city": "艾克斯莱班",
+      "venue": "庭园",
+      "summary": "棕色密格构庭院塔，宽底拱、两道小平台和紧凑分层尖冠；围栏遮住下部。"
+    },
+    "fr-altkirch-tower-in-the-garden-of-a-bistro": {
+      "name": "阿尔特基什小酒馆庭园铁塔（候选）",
+      "label": "阿尔特基什",
+      "city": "阿尔特基什",
+      "venue": "小酒馆庭园",
+      "summary": "Le Bistr’O旁浅色塔的上轴很长，顶部为较大的圆角方形开敞笼冠；墙与阳伞遮住塔脚。"
+    },
+    "fr-buhl-tower-in-a-garden-on-the-edge-of-the-village": {
+      "name": "比尔村边庭园铁塔（候选）",
+      "label": "比尔",
+      "city": "比尔",
+      "venue": "村边庭园",
+      "summary": "圆形庭院台座上的浅色小塔，四个拱脚、两道细平台与紧凑天线冠；模型不含台座。"
+    },
+    "fr-buhl-tower-in-a-yard": {
+      "name": "比尔院落铁塔（候选）",
+      "label": "比尔",
+      "city": "比尔",
+      "venue": "院落",
+      "summary": "围栏后独立浅色塔有两道窄平台和细长上轴；墙上更小的悬挂塔是另一件物体。"
+    },
+    "fr-anglet-tower-on-the-roof-of-a-house": {
+      "name": "昂格莱·住宅屋顶铁塔（候选）",
+      "label": "昂格莱",
+      "city": "昂格莱",
+      "venue": "住宅屋顶铁塔",
+      "summary": "Jon Worth的地图将“Tower on the roof of a house”记录在法国的昂格莱。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n旧照片中屋顶小塔颜色较深，外张脚、两道小平台和小型天线冠可见；不包含屋顶。",
+      "currentUses": []
+    },
+    "fr-buhl-tower-in-the-centre-of-the-village": {
+      "name": "比尔村中心铁塔（候选）",
+      "label": "比尔",
+      "city": "比尔",
+      "venue": "村中心",
+      "summary": "稀疏深色花架塔有直线外张脚、宽下环与窄上框，下环悬挂红花；部分杆件与树影重叠。"
+    },
+    "fr-champagne-sur-seine-tower-in-an-industrial-yard": {
+      "name": "塞纳河畔香槟工业院落铁塔（候选）",
+      "label": "塞纳河畔香槟",
+      "city": "塞纳河畔香槟",
+      "venue": "工业院落",
+      "summary": "工业场地大门上方仅可见深色细长上塔段与旗帜；下塔身完全遮挡，补全部分仍为推测。"
+    },
+    "fr-poyans-tower-in-a-back-garden": {
+      "name": "普瓦扬·后花园铁塔（候选）",
+      "label": "普瓦扬",
+      "city": "普瓦扬",
+      "venue": "后花园铁塔",
+      "summary": "Jon Worth的地图将“Tower in a back garden”记录在法国的普瓦扬。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n灰色庭院塔有四个外张脚、两道窄平台、细上轴及风向标状顶部；附近红风车是独立雕塑。",
+      "currentUses": []
+    },
+    "gr-attica-tower-at-a-metalworker-shop": {
+      "name": "阿提卡金属加工店铁塔（候选）",
+      "label": "阿提卡",
+      "city": "阿提卡",
+      "venue": "金属加工店",
+      "summary": "金属工坊外浅色穿孔板塔有大圆拱、两道实边平台、细上轴、小多面冠及长杆；围栏遮住部分脚。"
+    },
+    "it-avola-sicily-tower-in-a-car-park": {
+      "name": "阿沃拉停车场铁塔（候选）",
+      "label": "阿沃拉",
+      "city": "阿沃拉",
+      "venue": "停车场",
+      "summary": "停车场围挡后的红褐格构塔有长上轴、两层结构带及小环形塔冠；下脚被遮挡。"
+    },
+    "it-bibbiano-tower-at-a-road-junction-by-an-office": {
+      "name": "比比亚诺·办公楼旁路口铁塔（候选）",
+      "label": "比比亚诺",
+      "city": "比比亚诺",
+      "venue": "办公楼旁路口铁塔",
+      "summary": "Jon Worth的地图将“Tower at a road junction by an office”记录在意大利的比比亚诺。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n办公楼路口旁浅色小塔有宽三角脚与细尖顶；距离较远，平台和细桁架仍待核。",
+      "currentUses": []
+    },
+    "it-marche-tower-in-a-field": {
+      "name": "马尔凯田野铁塔（候选）",
+      "label": "马尔凯",
+      "city": "马尔凯",
+      "venue": "田野",
+      "summary": "田间锈棕色开敞框架塔有外张脚、稀疏横框、长收分轴与宽浅篮形冠；不包含田地及灯杆。"
+    },
+    "it-trescore-balneario-tower-suspended-over-a-sort-of-trench": {
+      "name": "Trescore Balneario·沟槽上方悬置铁塔（候选）",
+      "label": "Trescore Balneario",
+      "city": "Trescore Balneario",
+      "venue": "沟槽上方悬置铁塔",
+      "summary": "Jon Worth的地图将“Tower suspended over a sort of trench”记录在意大利的Trescore Balneario。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n沟槽旁宽体浅色装饰塔有两道厚栏杆平台、较短上轴与开敞圆顶冠；围栏遮挡塔脚。",
+      "currentUses": []
+    },
+    "lb-jounieh-trocadero-lb": {
+      "name": "朱尼耶·Trocadéro LB铁塔（候选）",
+      "label": "朱尼耶",
+      "city": "朱尼耶",
+      "venue": "Trocadéro LB",
+      "summary": "Jon Worth的地图将“Trocadéro LB”记录在黎巴嫩的朱尼耶。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\nTrocadéro LB的大型棕黄色塔有粗大格构脚、装饰圆拱和厚平台；照片未包含塔顶，上部补全为推测。",
+      "currentUses": []
+    },
+    "lt-marijampole-tower-at-a-hotel-beside-the-motorway": {
+      "name": "马里扬波莱高速公路旁酒店铁塔（候选）",
+      "label": "马里扬波莱",
+      "city": "马里扬波莱",
+      "venue": "高速公路旁酒店",
+      "summary": "高速公路旁酒店的远景浅色塔，上轴细长；树与篱笆遮挡大部分下部，细部仍待核。"
+    },
+    "nl-alkmaar-tower-on-shipping-containers": {
+      "name": "阿尔克马尔集装箱上方铁塔（候选）",
+      "label": "阿尔克马尔",
+      "city": "阿尔克马尔",
+      "venue": "集装箱上方",
+      "summary": "集装箱场地内锈棕色塔有两道窄平台、梯形横档长上轴和深色多面小冠；下部被遮挡。"
+    },
+    "rs-velika-plana-tower-in-a-front-garden": {
+      "name": "大普拉纳前庭铁塔（候选）",
+      "label": "大普拉纳",
+      "city": "大普拉纳",
+      "venue": "前庭",
+      "summary": "前院浅色格构塔有宽底拱、带花饰的两道平台及细上轴，顶部为深色与金色分层小冠。"
+    },
+    "tw-chiayi-clock-tower": {
+      "name": "嘉义·时钟塔（相似建筑候选）",
+      "label": "嘉义",
+      "city": "嘉义",
+      "venue": "时钟塔",
+      "summary": "Jon Worth的地图将“Clock tower”记录在台湾的嘉义。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n街口铜色收分格构钟塔有细长上轴与浅色圆角方钟面；树木遮住基部，旁边灰色交通杆不属于塔。",
+      "currentUses": []
+    },
+    "us-corona-ny-louvre-hotel-nyc": {
+      "name": "纽约科罗纳卢浮宫酒店铁塔（候选）",
+      "label": "纽约科罗纳",
+      "city": "纽约科罗纳",
+      "venue": "卢浮宫酒店",
+      "summary": "酒店屋顶的金色小塔有宽下脚和细收分上轴；远景只能支持轮廓，屋顶不属于模型。"
+    },
+    "us-napa-napa-county-courthouse": {
+      "name": "加利福尼亚州纳帕高等法院场地铁塔",
+      "label": "加利福尼亚州纳帕",
+      "city": "加利福尼亚州纳帕",
+      "venue": "高等法院场地",
+      "summary": "法院院内为细瘦深色格构旗杆，外张脚与一块下横板可见，没有观景平台或埃菲尔式塔冠；分类继续待核。"
+    },
+    "us-riverside-ca-indoor-mini-golf-eiffel-tower": {
+      "name": "加利福尼亚州里弗赛德室内迷你高尔夫球场铁塔（候选）",
+      "label": "加利福尼亚州里弗赛德",
+      "city": "加利福尼亚州里弗赛德",
+      "venue": "室内迷你高尔夫球场",
+      "summary": "室内迷你高尔夫的浅蓝白色塔有宽拱脚、两道平平台及小塔冠；紫外灯下的颜色不能当作白天材质。"
+    },
+    "us-washington-dc-tower-on-a-restaurant-roof": {
+      "name": "华盛顿哥伦比亚特区餐厅屋顶铁塔（候选）",
+      "label": "华盛顿哥伦比亚特区",
+      "city": "华盛顿哥伦比亚特区",
+      "venue": "餐厅屋顶",
+      "summary": "餐厅屋顶浅金色开敞格构塔有两道薄平台、长上轴及很小的平冠；女儿墙遮住部分塔脚。"
+    },
+    "pk-karachi-bent-tower-with-a-lamp-on-top": {
+      "name": "卡拉奇顶带灯具的弯塔（候选）",
+      "label": "卡拉奇",
+      "city": "卡拉奇",
+      "venue": "顶带灯具的弯塔",
+      "summary": "门店外浅金色塔仅右侧塔脚、下拱与中段格构可见，画面裁切了塔顶；文字所述弯曲灯冠仍待核。"
+    },
+    "ru-moscow-moskabelmet-factory": {
+      "name": "莫斯科莫斯科电缆金属厂铁塔（候选）",
+      "label": "莫斯科",
+      "city": "莫斯科",
+      "venue": "莫斯科电缆金属厂",
+      "summary": "工厂庭院夜景中，复制塔有低矮宽拱、两级宽平台和长上轴，顶部为小型平台与灯具；夜景配色不当作白天涂装。"
+    },
+    "ru-nazran-replica-in-residential-area": {
+      "name": "纳兹兰·住宅区复制塔铁塔（候选）",
+      "label": "纳兹兰",
+      "city": "纳兹兰",
+      "venue": "住宅区复制塔",
+      "summary": "Jon Worth的地图将“Replica in residential area”记录在俄罗斯的纳兹兰。这条资料目前作为候选保留，建筑身份与现状仍待核对。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n深灰棕色复制塔有大拱脚、两层宽栏杆平台、密格构长轴及很小的方形塔冠。",
+      "currentUses": []
+    },
+    "vn-phu-thuy-tall-mast-like-tower": {
+      "name": "富水高杆状铁塔（候选）",
+      "label": "富水",
+      "city": "富水",
+      "venue": "高杆状铁塔",
+      "summary": "红白格构广播塔的下部可见外张脚、两道开敞结构带、圆拱与中央爬梯；上端不在照片中，补全仍为推测。"
+    },
+    "am-yerevan-yerevani-herustaashtarak": {
+      "name": "埃里温·Yerevani herustaashtarak铁塔（相似建筑候选）",
+      "label": "埃里温",
+      "city": "埃里温",
+      "venue": "Yerevani herustaashtarak",
+      "summary": "Jon Worth的地图将“Yerevani herustaashtarak”记录在亚美尼亚的埃里温。来源将它归为衍生或相似建筑，现作为相关建筑参考展示，未归入已确认复刻塔。图像资料已用于外观比对，尺寸与现状仍需分别核实。\n\n照片展示红白相间电视塔、外挑设备平台及细长天线；继续保留相关建筑分类。",
+      "currentUses": []
+    },
+    "cz-prague-petrin-lookout-tower-petrinska-rozhledna": {
+      "name": "布拉格佩特任山铁塔",
+      "label": "布拉格",
+      "city": "布拉格",
+      "venue": "佩特任山",
+      "summary": "照片展示八角形瞭望塔、上下观景层和塔内螺旋楼梯；树木遮挡部分下部结构，保留相关建筑分类。"
+    },
+    "de-berlin-funkturm-berlin": {
+      "name": "柏林柏林展览中心铁塔",
+      "label": "柏林",
+      "city": "柏林",
+      "venue": "柏林展览中心",
+      "summary": "照片清楚展示浅色钢架广播塔、上下两处宽平台与中央楼梯；下部部分被前景屋顶遮挡。"
+    },
+    "dk-copenhagen-copenhagen-zoo-tower": {
+      "name": "丹麦动物园塔",
+      "label": "哥本哈根",
+      "city": "哥本哈根",
+      "venue": "动物园",
+      "summary": "动物园入口上方可见深色窄塔身、白色横带和宽大顶部观景室。文件给出的2005年日期是上传日期，未作为拍摄日期。"
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "name": "鲁伊Thézieu城堡塔（旧称埃菲尔塔）",
+      "label": "鲁伊城堡塔",
+      "city": "Ruy-Montceau",
+      "venue": "Château de Thézieu, Avenue des Cantinières",
+      "summary": "旧照片中的“埃菲尔塔”名称线索指向鲁伊的Thézieu城堡塔，地方旅游资料称其Tour des Morts。已纠正原先Bourgoin-Jallieu的地点写法；名字相同不能证明复制关系，这条记录保持关系待核，不进入首期地球或公开复制塔模型。\n\nBourgoin-Jallieu历史明信片中为多层阶梯状地方塔造型，尖顶。 历史影像不能支持2026存在，塔体与普通细钢格构差异大，保留历史候选。"
+    },
+    "fr-lyon-metallic-tower-of-fourviere": {
+      "name": "里昂富维耶山铁塔",
+      "label": "里昂",
+      "city": "里昂",
+      "venue": "富维耶山",
+      "summary": "近景显示深色细格构塔体、开敞顶部平台，以及后装的通信天线与圆盘设备。"
+    },
+    "gb-blackpool-tower": {
+      "name": "黑潭黑潭塔马戏团建筑群",
+      "label": "黑潭",
+      "city": "黑潭",
+      "venue": "黑潭塔马戏团建筑群",
+      "summary": "照片显示红棕色桁架塔立于砖砌建筑群上，顶部带多层装饰塔冠；继续作为相关建筑资料。"
+    },
+    "gb-brockham-eiffel-tower-brockham": {
+      "name": "布罗克姆花架铁塔",
+      "label": "Brockham",
+      "city": "Brockham",
+      "venue": "",
+      "summary": "2024年8月12日的实景照片记录了Brockham村绿地上一座细杆花架式铁塔：下部种有红白花卉，塔顶悬挂法国三色旗，周围设有白色矮围栏。照片支持当时的外观，不足以确认建造年份、真实高度、长期固定性质或今天的现状。模型按照片保留开放杆架，背面与被植物遮挡的脚部采用对称推测，花卉仅表达拍摄时的装饰。\n\nBrockham绿地上的小型细杆铁塔、双层薄平台、四腿弧拱。 顶部有法国三色旗，底部花盆/白围栏属于场景，永久设置尚未确认。"
+    },
+    "it-vergiate-corgeno-copy": {
+      "name": "科尔杰诺韦尔贾泰铁塔",
+      "label": "科尔杰诺",
+      "city": "科尔杰诺",
+      "venue": "韦尔贾泰",
+      "summary": "照片展示庭院铺地上的浅色镂空工艺塔，带装饰平台与小型塔冠。固定公共设置身份与实际尺寸仍待核，不把旧目录中的5米说法当作已核高度。"
+    },
+    "ae-dubai-falconcity-of-wonders": {
+      "name": "迪拜猎鹰奇迹城铁塔（候选）",
+      "label": "迪拜",
+      "city": "迪拜",
+      "venue": "猎鹰奇迹城",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "am-yerevan-club-parisian": {
+      "name": "埃里温巴黎人俱乐部铁塔（候选）",
+      "label": "埃里温",
+      "city": "埃里温",
+      "venue": "巴黎人俱乐部",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "at-zwingendorf-back-garden-tower-built-by-twin-brothers": {
+      "name": "Zwingendorf·双胞胎兄弟制作的后院铁塔（候选）",
+      "label": "Zwingendorf",
+      "city": "Zwingendorf",
+      "venue": "双胞胎兄弟制作的后院铁塔",
+      "summary": "Jon Worth的地图将“Back garden tower built by twin brothers”记录在奥地利的Zwingendorf。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "az-baku-eiffel-tower": {
+      "name": "巴库埃菲尔铁塔（候选）",
+      "label": "巴库",
+      "city": "巴库",
+      "venue": "埃菲尔铁塔",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "az-nakhchivan-yl-nc-adas": {
+      "name": "纳希切万·游乐岛铁塔（候选）",
+      "label": "纳希切万",
+      "city": "纳希切万",
+      "venue": "游乐岛铁塔",
+      "summary": "Jon Worth的地图将“Əyləncə Adası”记录在阿塞拜疆的纳希切万。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "br-sao-paulo-rooftop-unresolved": {
+      "name": "圣保罗商场屋顶线索，场所待核铁塔",
+      "label": "圣保罗",
+      "city": "圣保罗",
+      "venue": "商场屋顶线索，场所待核",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "ca-terrebonne-solarium-international": {
+      "name": "泰尔博讷国际阳光房公司，历史地点线索铁塔",
+      "label": "泰尔博讷",
+      "city": "泰尔博讷",
+      "venue": "国际阳光房公司，历史地点线索",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "cn-zhurihe-chinese-army-tower": {
+      "name": "朱日和基地埃菲尔铁塔复刻",
+      "label": "朱日和",
+      "city": "朱日和",
+      "venue": "训练基地",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "de-meckenheim-rungis-express": {
+      "name": "梅肯海姆荣吉斯快运公司铁塔",
+      "label": "梅肯海姆",
+      "city": "梅肯海姆",
+      "venue": "荣吉斯快运公司",
+      "summary": "梅肯海姆的Rungis屋顶铁塔仍是需要补证的发现线索，目前没有与这个地点匹配的实物照片或塔体位置。被引的图片对应另一地点，不能据此补入这里的外观、年代或高度。调查记录继续保留，尚未确认存在不等于已经不存在；在获得该处实体资料之前，不把它作为已验证的现存地图塔。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "dk-slagelse-wooden-tower-at-an-exhibition": {
+      "name": "斯拉厄尔瑟·展览木制铁塔（相似建筑候选）",
+      "label": "斯拉厄尔瑟",
+      "city": "斯拉厄尔瑟",
+      "venue": "展览木制铁塔",
+      "summary": "Jon Worth的地图将“Wooden tower at an exhibition”记录在丹麦的斯拉厄尔瑟。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade": {
+      "name": "圣巴托洛梅德蒂拉哈纳购物廊铁塔（候选）",
+      "label": "圣巴托洛梅德蒂拉哈纳",
+      "city": "圣巴托洛梅德蒂拉哈纳",
+      "venue": "购物廊",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "fr-biarritz-tower-on-a-house-roof": {
+      "name": "比亚里茨住宅屋顶铁塔（候选）",
+      "label": "比亚里茨",
+      "city": "比亚里茨",
+      "venue": "住宅屋顶",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "fr-breil-rue-des-cedres": {
+      "name": "布雷伊雪松街铁塔",
+      "label": "布雷伊",
+      "city": "布雷伊",
+      "venue": "雪松街",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "fr-la-doree-tower-at-a-metal-worker-s-house": {
+      "name": "拉多雷金属工人住宅铁塔（候选）",
+      "label": "拉多雷",
+      "city": "拉多雷",
+      "venue": "金属工人住宅",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "fr-menton-copy": {
+      "name": "芒通埃菲尔铁塔",
+      "label": "芒通",
+      "city": "芒通",
+      "venue": "",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "fr-menton-tower-with-lemons": {
+      "name": "芒通柠檬装饰塔（候选）",
+      "label": "芒通",
+      "city": "芒通",
+      "venue": "柠檬装饰塔",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "fr-thieblemont-faremont-copy": {
+      "name": "蒂耶布勒蒙法雷蒙埃菲尔铁塔",
+      "label": "蒂耶布勒蒙法雷蒙",
+      "city": "蒂耶布勒蒙法雷蒙",
+      "venue": "",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "gb-belfast-la-bastille-restaurant": {
+      "name": "贝尔法斯特巴士底餐厅铁塔（候选）",
+      "label": "贝尔法斯特",
+      "city": "贝尔法斯特",
+      "venue": "巴士底餐厅",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "id-lake-toba-world-heritage-mini-mini": {
+      "name": "多巴湖世界遗产微缩园铁塔（候选）",
+      "label": "多巴湖",
+      "city": "多巴湖",
+      "venue": "世界遗产微缩园",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "id-lembang-reddit-replica": {
+      "name": "伦邦埃菲尔铁塔（候选）",
+      "label": "伦邦",
+      "city": "伦邦",
+      "venue": "",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "kh-phnom-penh-eiffel-map-candidate": {
+      "name": "金边已命名地图景点，场所归属待核铁塔（候选）",
+      "label": "金边",
+      "city": "金边",
+      "venue": "已命名地图景点，场所归属待核",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "kr-bucheon-aiins-world": {
+      "name": "富川爱仁世界微缩公园铁塔",
+      "label": "富川",
+      "city": "富川",
+      "venue": "爱仁世界微缩公园",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "kz-aktau-oil-company-tower": {
+      "name": "阿克套石油公司铁塔（候选）",
+      "label": "阿克套",
+      "city": "阿克套",
+      "venue": "石油公司",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "lb-broummana-chez-alain": {
+      "name": "Broummana·Chez Alain铁塔（候选）",
+      "label": "Broummana",
+      "city": "Broummana",
+      "venue": "Chez Alain",
+      "summary": "Jon Worth的地图将“Chez Alain”记录在黎巴嫩的Broummana。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "md-tiraspol-tower-in-front-of-a-store": {
+      "name": "蒂拉斯波尔商店前铁塔（候选）",
+      "label": "蒂拉斯波尔",
+      "city": "蒂拉斯波尔",
+      "venue": "商店前",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "my-ayer-hitam-tropical-village": {
+      "name": "亚依淡热带村乐园铁塔",
+      "label": "亚依淡",
+      "city": "亚依淡",
+      "venue": "热带村乐园",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "nl-grootebroek-tower-in-the-grounds-of-a-college": {
+      "name": "赫罗特布鲁克学院场地铁塔（候选）",
+      "label": "赫罗特布鲁克",
+      "city": "赫罗特布鲁克",
+      "venue": "学院场地",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "nl-toldijk-achterhoeks-planetarium": {
+      "name": "托尔代克阿赫特胡克天文馆铁塔（候选）",
+      "label": "托尔代克",
+      "city": "托尔代克",
+      "venue": "阿赫特胡克天文馆",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "nz-dunedin-new-zealand-and-south-seas-exhibition-1889": {
+      "name": "达尼丁·New Zealand and South Seas Exhibition (1889)铁塔（相似建筑候选）",
+      "label": "达尼丁",
+      "city": "达尼丁",
+      "venue": "New Zealand and South Seas Exhibition (1889)",
+      "summary": "Jon Worth的地图将“New Zealand and South Seas Exhibition (1889)”记录在新西兰的达尼丁。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ph-dipolog-city-dipolog": {
+      "name": "第波罗·Dipolog铁塔（候选）",
+      "label": "第波罗",
+      "city": "第波罗",
+      "venue": "Dipolog",
+      "summary": "Jon Worth的地图将“Dipolog”记录在菲律宾的第波罗。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ph-megamall-temporary-display": {
+      "name": "地点未定超级购物中心铁塔",
+      "label": "地点未定",
+      "city": "地点未定",
+      "venue": "超级购物中心",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "rs-lozovik-tower-in-a-garden": {
+      "name": "洛佐维克庭园铁塔（候选）",
+      "label": "洛佐维克",
+      "city": "洛佐维克",
+      "venue": "庭园",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "ru-ekaterinoslavka-edge-of-town": {
+      "name": "Ekaterinoslavka·城镇边缘铁塔（候选）",
+      "label": "Ekaterinoslavka",
+      "city": "Ekaterinoslavka",
+      "venue": "城镇边缘铁塔",
+      "summary": "Jon Worth的地图将“Edge of town”记录在俄罗斯的Ekaterinoslavka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ru-irkutsk-small-tower": {
+      "name": "伊尔库茨克小型铁塔（候选）",
+      "label": "伊尔库茨克",
+      "city": "伊尔库茨克",
+      "venue": "小型铁塔",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower": {
+      "name": "莫赫索戈洛赫迷你埃菲尔铁塔（候选）",
+      "label": "莫赫索戈洛赫",
+      "city": "莫赫索戈洛赫",
+      "venue": "迷你埃菲尔铁塔",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "sv-san-salvador-inti-tower": {
+      "name": "圣萨尔瓦多·INTI Tower铁塔（候选）",
+      "label": "圣萨尔瓦多",
+      "city": "圣萨尔瓦多",
+      "venue": "INTI Tower",
+      "summary": "Jon Worth的地图将“INTI Tower”记录在萨尔瓦多的圣萨尔瓦多。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "tw-taipei-shopping-street": {
+      "name": "台北购物街铁塔（候选）",
+      "label": "台北",
+      "city": "台北",
+      "venue": "购物街",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "ua-hertsa-notary-office": {
+      "name": "Hertsa·Notary Office铁塔（候选）",
+      "label": "Hertsa",
+      "city": "Hertsa",
+      "venue": "Notary Office",
+      "summary": "Jon Worth的地图将“Notary Office”记录在乌克兰的Hertsa。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-kamyanets-podilskyi-margaret-pizzeria": {
+      "name": "Kamyanets-Podilskyi·\"Margaret\" pizzeria铁塔（候选）",
+      "label": "Kamyanets-Podilskyi",
+      "city": "Kamyanets-Podilskyi",
+      "venue": "\"Margaret\" pizzeria",
+      "summary": "Jon Worth的地图将“\"Margaret\" pizzeria”记录在乌克兰的Kamyanets-Podilskyi。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-kostyantynikka-euro-city-restaurant": {
+      "name": "Kostyantynikka·'Euro-city' restaurant铁塔（候选）",
+      "label": "Kostyantynikka",
+      "city": "Kostyantynikka",
+      "venue": "'Euro-city' restaurant",
+      "summary": "Jon Worth的地图将“'Euro-city' restaurant”记录在乌克兰的Kostyantynikka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-mariupol-paris-cafe": {
+      "name": "马里乌波尔·'Paris' cafe铁塔（候选）",
+      "label": "马里乌波尔",
+      "city": "马里乌波尔",
+      "venue": "'Paris' cafe",
+      "summary": "Jon Worth的地图将“'Paris' cafe”记录在乌克兰的马里乌波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-melitopol-on-the-roof-of-a-pharmacy": {
+      "name": "梅利托波尔·药店屋顶铁塔（候选）",
+      "label": "梅利托波尔",
+      "city": "梅利托波尔",
+      "venue": "药店屋顶铁塔",
+      "summary": "Jon Worth的地图将“On the roof of a pharmacy”记录在乌克兰的梅利托波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-rivne-small-coffee-shop": {
+      "name": "里夫内·小咖啡店铁塔（候选）",
+      "label": "里夫内",
+      "city": "里夫内",
+      "venue": "小咖啡店铁塔",
+      "summary": "Jon Worth的地图将“small coffee shop”记录在乌克兰的里夫内。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-sevastopol-tower-near-a-cafe": {
+      "name": "塞瓦斯托波尔·咖啡馆附近铁塔（候选）",
+      "label": "塞瓦斯托波尔",
+      "city": "塞瓦斯托波尔",
+      "venue": "咖啡馆附近铁塔",
+      "summary": "Jon Worth的地图将“Tower near a cafe”记录在乌克兰的塞瓦斯托波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-severodonetsk-tower-in-the-yard-of-impuls-institute": {
+      "name": "北顿涅茨克·Impuls研究所庭院铁塔（候选）",
+      "label": "北顿涅茨克",
+      "city": "北顿涅茨克",
+      "venue": "Impuls研究所庭院铁塔",
+      "summary": "Jon Worth的地图将“Tower in the yard of Impuls Institute”记录在乌克兰的北顿涅茨克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-strilkivtsi-ozirna-cave": {
+      "name": "Strilkivtsi·'Ozirna' cave铁塔（候选）",
+      "label": "Strilkivtsi",
+      "city": "Strilkivtsi",
+      "venue": "'Ozirna' cave",
+      "summary": "Jon Worth的地图将“'Ozirna' cave”记录在乌克兰的Strilkivtsi。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "ua-uman-uman-eiffel-tower": {
+      "name": "乌曼埃菲尔铁塔（候选）",
+      "label": "乌曼",
+      "city": "乌曼",
+      "venue": "埃菲尔铁塔",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "us-abington-ma-back-yard-tower": {
+      "name": "马萨诸塞州阿宾顿后院铁塔（候选）",
+      "label": "马萨诸塞州阿宾顿",
+      "city": "马萨诸塞州阿宾顿",
+      "venue": "后院",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "us-columbus-oh-liberty-street-tower": {
+      "name": "俄亥俄州哥伦布自由街铁塔（候选）",
+      "label": "俄亥俄州哥伦布",
+      "city": "俄亥俄州哥伦布",
+      "venue": "自由街",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "us-fountain-valley-ca-mini-golf-eiffel-tower": {
+      "name": "加利福尼亚州芳泉谷迷你高尔夫球场铁塔（候选）",
+      "label": "加利福尼亚州芳泉谷",
+      "city": "加利福尼亚州芳泉谷",
+      "venue": "迷你高尔夫球场",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "us-lacrosse-wi-mini-golf-eiffel-tower": {
+      "name": "威斯康星州拉克罗斯迷你高尔夫球场铁塔（候选）",
+      "label": "威斯康星州拉克罗斯",
+      "city": "威斯康星州拉克罗斯",
+      "venue": "迷你高尔夫球场",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "us-leonia-nj-tower-in-a-garden": {
+      "name": "新泽西州利奥尼亚庭园铁塔（候选）",
+      "label": "新泽西州利奥尼亚",
+      "city": "新泽西州利奥尼亚",
+      "venue": "庭园",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "us-mount-clemens-michigan-harper-metro-mini-golf": {
+      "name": "Mount Clemens, Michigan·Harper Metro Mini Golf铁塔（候选）",
+      "label": "Mount Clemens, Michigan",
+      "city": "Mount Clemens, Michigan",
+      "venue": "Harper Metro Mini Golf",
+      "summary": "Jon Worth的地图将“Harper Metro Mini Golf”记录在美国的Mount Clemens, Michigan。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "us-roanoke-front-yard-tower": {
+      "name": "罗阿诺克前院铁塔（候选）",
+      "label": "罗阿诺克",
+      "city": "罗阿诺克",
+      "venue": "前院",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "name": "Taylor, Michigan·Vinson’s Miniature Golf铁塔（候选）",
+      "label": "Taylor, Michigan",
+      "city": "Taylor, Michigan",
+      "venue": "Vinson’s Miniature Golf",
+      "summary": "美国国会图书馆保存了John Margolies于1986年拍摄的Vinson迷你高尔夫球场铁塔洞照片，明确对应密歇根州Taylor。档案证明的是历史存在；尚未查到准确移除日期和当前塔体位置。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "currentUses": []
+    },
+    "us-wellfleet-comment-replica": {
+      "name": "Wellfleet埃菲尔模型安装方案",
+      "label": "Wellfleet模型",
+      "city": "马萨诸塞州韦尔弗利特",
+      "venue": "",
+      "summary": "2023年报道明确区分了存放中的21英尺模型、被否决的2020年近28英尺含基座方案，以及2023年获批的21英尺3英寸方案。安装仍需建筑检查员许可；现有资料不能证明它已安装在拟定位置。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "vn-da-lat-viettel-telecommunication-tower": {
+      "name": "大叻越南军队电信通信塔（候选）",
+      "label": "大叻",
+      "city": "大叻",
+      "venue": "越南军队电信通信塔",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "vn-dalat-post-office-unresolved": {
+      "name": "大叻越南邮政电信通信塔（关系待核，默认排除）",
+      "label": "大叻",
+      "city": "大叻",
+      "venue": "越南邮政电信通信塔",
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。"
+    },
+    "br-rio-claro-sao-paulo-eiffel-tower-rio-claro": {
+      "name": "里奥克拉罗埃菲尔铁塔（别名记录）",
+      "label": "里奥克拉罗",
+      "city": "里奥克拉罗",
+      "venue": "埃菲尔铁塔"
+    },
+    "by-gomel-tower-at-the-riverbank-park": {
+      "name": "戈梅利·河滨公园铁塔（别名记录）",
+      "label": "戈梅利",
+      "city": "戈梅利",
+      "venue": "河滨公园铁塔",
+      "summary": "Jon Worth的地图将“Tower at the riverbank park”记录在白俄罗斯的戈梅利。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "de-bexbach-eiffelturm": {
+      "name": "贝克斯巴赫埃菲尔铁塔（别名记录）",
+      "label": "贝克斯巴赫",
+      "city": "贝克斯巴赫",
+      "venue": "埃菲尔铁塔"
+    },
+    "de-lauterstein-eiffelturm-im-privaten-miniaturpark": {
+      "name": "劳特施泰因私人微缩公园铁塔（别名记录）",
+      "label": "劳特施泰因",
+      "city": "劳特施泰因",
+      "venue": "私人微缩公园"
+    },
+    "de-lichtentein-tower-at-a-miniature-park": {
+      "name": "利希滕施泰因微缩公园铁塔（别名记录）",
+      "label": "利希滕施泰因",
+      "city": "利希滕施泰因",
+      "venue": "微缩公园"
+    },
+    "fr-capendac-tower-next-to-the-railway-station": {
+      "name": "卡普德纳克火车站旁铁塔（别名记录）",
+      "label": "卡普德纳克",
+      "city": "卡普德纳克",
+      "venue": "火车站旁"
+    },
+    "fr-chanverrie-eyffela": {
+      "name": "尚韦里尚布勒托埃菲拉装置铁塔（别名记录）",
+      "label": "尚韦里尚布勒托",
+      "city": "尚韦里尚布勒托",
+      "venue": "埃菲拉装置"
+    },
+    "fr-chanverrie-tower-on-a-building": {
+      "name": "尚韦里建筑屋顶铁塔（别名记录）",
+      "label": "尚韦里",
+      "city": "尚韦里",
+      "venue": "建筑屋顶"
+    },
+    "fr-saint-georges-des-gardes-ndc-bar": {
+      "name": "Saint-Georges-des-Gardes·NDC Bar铁塔（别名记录）",
+      "label": "Saint-Georges-des-Gardes",
+      "city": "Saint-Georges-des-Gardes",
+      "venue": "NDC Bar",
+      "summary": "Jon Worth的地图将“NDC Bar”记录在法国的Saint-Georges-des-Gardes。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "fr-saint-hilaire-de-riez-tower-at-the-beach": {
+      "name": "圣伊莱尔德里耶海滩铁塔（别名记录）",
+      "label": "圣伊莱尔德里耶",
+      "city": "圣伊莱尔德里耶",
+      "venue": "海滩"
+    },
+    "gr-filiatra-messinia-filiatra-eiffel-tower": {
+      "name": "菲利亚特拉埃菲尔铁塔（别名记录）",
+      "label": "菲利亚特拉",
+      "city": "菲利亚特拉",
+      "venue": "埃菲尔铁塔"
+    },
+    "hn-tegucilgapa-los-dolores-square": {
+      "name": "特古西加尔巴多洛雷斯广场铁塔（别名记录）",
+      "label": "特古西加尔巴",
+      "city": "特古西加尔巴",
+      "venue": "多洛雷斯广场"
+    },
+    "in-chandigarh-eiffel-tower-replica": {
+      "name": "昌迪加尔埃菲尔复制塔（别名记录）",
+      "label": "昌迪加尔",
+      "city": "昌迪加尔",
+      "venue": "埃菲尔复制塔"
+    },
+    "lt-mazeikiai-telsiai-county-eifilis-shopping-centre": {
+      "name": "马热伊基艾埃菲利斯购物中心铁塔（别名记录）",
+      "label": "马热伊基艾",
+      "city": "马热伊基艾",
+      "venue": "埃菲利斯购物中心"
+    },
+    "pk-islamabad-outskirts-bahria-town": {
+      "name": "伊斯兰堡郊区巴赫里亚城铁塔（别名记录）",
+      "label": "伊斯兰堡郊区",
+      "city": "伊斯兰堡郊区",
+      "venue": "巴赫里亚城"
+    },
+    "pl-krakow-friendship-copy": {
+      "name": "克拉科夫波法友好协会铁塔（别名记录）",
+      "label": "克拉科夫",
+      "city": "克拉科夫",
+      "venue": "波法友好协会"
+    },
+    "ua-vinnytsya-tower-outside-a-tower-block": {
+      "name": "文尼察高层住宅楼外铁塔（别名记录）",
+      "label": "文尼察",
+      "city": "文尼察",
+      "venue": "高层住宅楼外"
+    },
+    "id-limboto-pakaya-unresolved": {
+      "name": "林博托帕卡亚塔（别名记录）",
+      "label": "林博托",
+      "city": "林博托",
+      "venue": "帕卡亚塔"
+    },
+    "pl-inwa-d-miniatura-placu-sw-piotra-w-rzymie": {
+      "name": "因瓦乌德罗马圣彼得广场微缩场景铁塔（别名记录）",
+      "label": "因瓦乌德",
+      "city": "因瓦乌德",
+      "venue": "罗马圣彼得广场微缩场景"
+    },
+    "us-kings-island-topiary-kings-island-topiary-tower": {
+      "name": "Kings Island (Topiary)·国王岛绿植造型铁塔（别名记录）",
+      "label": "Kings Island (Topiary)",
+      "city": "Kings Island (Topiary)",
+      "venue": "国王岛绿植造型铁塔",
+      "summary": "Jon Worth的地图将“Kings Island topiary tower”记录在美国的Kings Island (Topiary)。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。",
+      "currentUses": []
+    },
+    "ru-krasnoyarsk-krasnoyarsk-eiffel-tower": {
+      "name": "克拉斯诺亚尔斯克埃菲尔铁塔（别名记录）",
+      "label": "克拉斯诺亚尔斯克",
+      "city": "克拉斯诺亚尔斯克",
+      "venue": "埃菲尔铁塔"
+    }
+  }
+}

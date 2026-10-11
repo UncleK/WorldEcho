@@ -1,0 +1,13 @@
+{
+  "towers": {
+    "gb-brockham-eiffel-tower-brockham": {
+      "name": "Brockham planted Eiffel tower",
+      "label": "Brockham",
+      "city": "Brockham",
+      "summary": "A photograph taken on 12 August 2024 shows a slender planted Eiffel-shaped framework on Brockham village green, with red and white flowers, a French tricolour and a low white fence around it. The photograph documents that appearance, not its construction date, height, permanence or present-day status. The model keeps the open rods; hidden feet and rear structure use symmetry, and flowers represent the photographed decoration."
+    },
+    "de-satteldorf-rungis-express": {
+      "summary": "A 2008 photograph shows the grey replica on the former Rungis Express roof in Satteldorf, with its lower section obscured. Owner LEONHARD WEISS reports removal in March 2021 for demolition of the building, followed by restoration and installation on the formwork workshop roof further east. The exact reinstallation date, new tower coordinates and present-day condition remain unverified. The model follows the historical photograph, with explicitly inferred hidden feet."
+    }
+  }
+}

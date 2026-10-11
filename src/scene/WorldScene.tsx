@@ -15,7 +15,7 @@ import { globeZoomAfterFactor, globeCloseView, MIN_GLOBE_ZOOM, MAX_GLOBE_ZOOM } 
 import GlobeLoading from '../features/GlobeLoading';
 import AdaptiveResolution from './AdaptiveResolution';
 import { useEarthAtlas, type EarthAtlas, type EarthAtlasStatus } from './useEarthAtlas';
-import { angularDistance, clusterTowers, exhibitTowerHeight, hasExhibitModel, modelPresentation } from './density';
+import { angularDistance, clusterTowers, exhibitTowerHeight, hasExhibitModel, modelPresentation, wideModelEnvelope } from './density';
 import { advanceFocusOpacity, findFocusOccluders, installFocusFade } from './focus-occlusion';
 import { TOWER_TRIGGERS } from '../domain/tower-play';
 import { createTowerModel, getTowerIllumination, setTowerRenderStyle, updateTowerIllumination } from './tower-model';
@@ -1170,7 +1170,9 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
     const target = normal.clone().multiplyScalar(radius + height * (narrowViewport ? 0.12 : 0.36));
     const front = new Vector3(0.28, 0, 1).normalize().applyQuaternion(geoRotation(tower.lat, tower.lon));
     const direction = front.multiplyScalar(0.94).addScaledVector(normal, 0.35).normalize();
-    const distance = height > 0 ? Math.max(0.075, height * (narrowViewport ? 2.7 : 1.95)) : 0.48;
+    const wide=wideModelEnvelope(tower);
+    const normalDistance = height > 0 ? Math.max(0.075, height * (narrowViewport ? 2.7 : 1.95)) : 0.48;
+    const distance=wide&&height>0?Math.max(normalDistance,fitSphereDistance(height*Math.hypot(wide.width,wide.height,wide.depth)/2,FOV,viewport.current.width/Math.max(1,viewport.current.height))*1.08):normalDistance;
     const destination = target.clone().addScaledVector(direction, distance);
     beginNavigation(destination, target, normal, 'focus', id);
   }, [beginNavigation, planet]);
@@ -1371,7 +1373,8 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
         const rotation = geoRotation(tower.lat, tower.lon);
         globeCamera.updateMatrixWorld();
         let safelyFramed = true;
-        for (const y of [0, 1]) for (const x of [-0.55, 0.55]) for (const z of [-0.55, 0.55]) {
+        const wide=wideModelEnvelope(tower),halfWidth=wide?wide.width/2:.55,halfDepth=wide?wide.depth/2:.55;
+        for (const y of [0, 1]) for (const x of [-halfWidth, halfWidth]) for (const z of [-halfDepth, halfDepth]) {
           const point = new Vector3(x * height, y * height, z * height).applyQuaternion(rotation).add(anchor).project(globeCamera);
           if (Math.abs(point.x) > 0.9 || Math.abs(point.y) > 0.86 || point.z <= -1 || point.z >= 1) safelyFramed = false;
         }

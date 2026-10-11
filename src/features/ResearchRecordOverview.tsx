@@ -5,10 +5,22 @@ import { metricCopy } from '../domain/measurements.mjs';
 import { getLanguage, t } from '../i18n';
 import './research-record.css';
 import DisplayHeightEvidence from './DisplayHeightEvidence';
+import ModelEvidence from './ModelEvidence';
 
-export default function ResearchRecordOverview({ row, sources }: { row: ResearchRow; sources: Map<string, ResearchSource> }) {
+export function ResearchRecordLocation({ row, sources }: { row: ResearchRow; sources: Map<string, ResearchSource> }) {
+  return <section className="research-record-location" aria-label={t('位置与现状')}>
+    <h3>{t('位置与现状')}</h3>
+    <p>{[row.countryName, row.city || t('城市待核'), row.venue].filter(Boolean).join(' · ')}</p>
+    <p>{row.mapReady ? t('地图为已匹配塔体的展示锚点，可能来自轮廓推导。') : row.approximateLocation || row.globeAvailable ? t('已按大致位置加入地球，具体塔址可继续核对。') : t('塔体位置待核，暂未进入地球地图。')}</p>
+    <EvidenceSources ids={row.coordinateSourceIds} sources={sources} />
+    <p>{t(STATUS_LABELS[row.status] || row.status)}{row.status === 'unknown' && ` · ${t('现状待核，照片与模型保留历史来源。')}`}</p>
+    <EvidenceSources ids={row.statusSourceIds} sources={sources} />
+  </section>;
+}
+
+export default function ResearchRecordOverview({ row, sources, showLocation=true, showModel=true, showAliasNotice=true }: { row: ResearchRow; sources: Map<string, ResearchSource>; showLocation?:boolean;showModel?:boolean;showAliasNotice?:boolean }) {
   return <div className="research-record-summary" data-research-record={row.id}>
-    {row.aliasOf && <p className="cat-alias-notice">{t('这是一条已合并的别名记录。')} <a href={`/catalog.html?entry=${encodeURIComponent(row.aliasOf)}`}>{t('打开合并后的档案')}</a></p>}
+    {showAliasNotice&&row.aliasOf && <p className="cat-alias-notice">{t('这是一条已合并的别名记录。')} <a href={`/catalog.html?entry=${encodeURIComponent(row.aliasOf)}`}>{t('打开合并后的档案')}</a></p>}
     <div className="research-record-badges">
       <span>{t(CLASS_LABELS[row.classification] || row.classification)}</span>
       <span>{t(STATUS_LABELS[row.status] || row.status)}</span>
@@ -18,19 +30,7 @@ export default function ResearchRecordOverview({ row, sources }: { row: Research
     {row.summary && <EvidenceSources ids={row.summarySourceIds} sources={sources} />}
     <DisplayHeightEvidence id={row.aliasOf??row.id} heightM={row.heightM}/>
     {row.uses.length > 0 && <p className="research-record-uses">{t('来源记录用途：')}{row.uses.join(' · ')}</p>}
-    <section className="research-record-location" aria-label={t('位置与现状')}>
-      <h3>{t('位置与现状')}</h3>
-      <p>{[row.countryName, row.city || t('城市待核'), row.venue].filter(Boolean).join(' · ')}</p>
-      <p>{row.mapReady ? t('地图为已匹配塔体的展示锚点，可能来自轮廓推导。') : row.approximateLocation || row.globeAvailable ? t('已按大致位置加入地球，具体塔址可继续核对。') : t('塔体位置待核，暂未进入地球地图。')}</p>
-      <EvidenceSources ids={row.coordinateSourceIds} sources={sources} />
-      <p>{t(STATUS_LABELS[row.status] || row.status)}{row.status === 'unknown' && ` · ${t('现状待核，照片与模型保留历史来源。')}`}</p>
-      <EvidenceSources ids={row.statusSourceIds} sources={sources} />
-    </section>
-    <div className="research-record-model">
-      <p>{row.modelKey ? t('已有简化3D模型。') : t('3D模型尚未制作。')}</p>
-      {row.modelContext === 'inferred-completion' && <p>{t('含推测补全')}</p>}
-      {row.modelScope === 'visible-section' && <p>{t('只呈现实景可见的塔段，未补造被遮挡的塔体。')}</p>}
-      {row.modelKey && row.heightM === null && <p>{t('这个模型采用独立展示尺寸；实际高度待核，不进入高度比较。')}</p>}
-    </div>
+    {showLocation&&<ResearchRecordLocation row={row} sources={sources}/>}
+    {showModel&&<ModelEvidence row={row}/>}
   </div>;
 }

@@ -14216,6 +14216,4360 @@
           "src_861b94d792922839"
         ]
       }
+    },
+    "gb-brockham-eiffel-tower-brockham": {
+      "entityId": "gb-brockham-eiffel-tower-brockham",
+      "city": "Brockham",
+      "countryCode": "GB",
+      "title": {
+        "zh-CN": "花架微光",
+        "en": "Garden glimmer",
+        "fr": "Lueur du jardin"
+      },
+      "palette": "garden",
+      "colors": [
+        "#719e52",
+        "#fff0ce",
+        "#de474f"
+      ],
+      "mode": "waltz",
+      "cue": "A soft green, cream and red composition inspired by the photographed flowers; not observed site lighting.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_318eef96b7310b30"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:The_Eiffel_Tower,_Brockham_-_geograph.org.uk_-_7853190.jpg"
+      ],
+      "tempo": 0.7,
+      "waveScale": 5,
+      "direction": 1,
+      "completionContext": "The light programme is an artistic display, not a documented event or installation."
+    },
+    "fr-erstein-tower-at-a-roundabout": {
+      "entityId": "fr-erstein-tower-at-a-roundabout",
+      "city": "埃尔斯坦",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "埃尔斯坦冬夜",
+        "en": "Erstein winter night",
+        "fr": "Nuit hivernale à Erstein"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#799dba",
+        "#d9e8ef",
+        "#d6b995"
+      ],
+      "mode": "waltz",
+      "cue": "Authored display light inspired by the place and its recorded setting; not a record of site lighting.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_c46abcf5b6c0fb85",
+        "src_05112a04bd677070"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Erstein_67-_Eiffel_Replica_ERLEADG.jpg"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "xk-janjeve-anija-restaurant-eiffel-tower": {
+      "entityId": "xk-janjeve-anija-restaurant-eiffel-tower",
+      "city": "亚涅沃",
+      "countryCode": "XK",
+      "title": {
+        "zh-CN": "阿尼亚花园微光",
+        "en": "Anija garden glimmer",
+        "fr": "Lueur du jardin Anija"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#72a98a",
+        "#d4b090",
+        "#c6dced"
+      ],
+      "mode": "waltz",
+      "cue": "Authored display light inspired by the place and its recorded setting; not a record of site lighting.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_05112a04bd677070"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Amusement_park_nearby_Gornja_Gu%C5%A1terica_(nearby_Anija_restaurant).jpg"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "cz-ostrava-miniuni": {
+      "entityId": "cz-ostrava-miniuni",
+      "city": "俄斯特拉发",
+      "countryCode": "CZ",
+      "title": {
+        "zh-CN": "Miniuni微缩记忆",
+        "en": "Miniuni miniature memories",
+        "fr": "Souvenirs miniatures de Miniuni"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc986a",
+        "#c4d4db",
+        "#e9d3a3"
+      ],
+      "mode": "waltz",
+      "cue": "Authored display light inspired by the place and its recorded setting; not a record of site lighting.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a368034f102c1a72",
+        "src_f43e4f10cd3e80b4",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.turistika.cz/mista/ostrava-svet-miniatur-miniuni/foto?id=2009877"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "at-mattersburg-tower-on-a-roundabout": {
+      "entityId": "at-mattersburg-tower-on-a-roundabout",
+      "city": "马特斯堡",
+      "countryCode": "AT",
+      "title": {
+        "zh-CN": "马特斯堡法语节",
+        "en": "Mattersburg French festival",
+        "fr": "Fête francophone de Mattersburg"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#728eb9",
+        "#ece7d8",
+        "#c67a7a"
+      ],
+      "mode": "waltz",
+      "cue": "Authored display light inspired by the place and its recorded setting; not a record of site lighting.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@47.7317327,16.4119208,239a,75y,301.34h,92.63t/data=!3m7!1e1!3m5!1saQFcQnWxqmWvt6un117OYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6299999999999955%26panoid%3DaQFcQnWxqmWvt6un117OYg%26yaw%3D301.34!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "de-hollage-tower-on-a-roundabout": {
+      "entityId": "de-hollage-tower-on-a-roundabout",
+      "city": "霍拉格",
+      "countryCode": "DE",
+      "title": {
+        "zh-CN": "霍拉格交通岛构想",
+        "en": "Hollage traffic-island concept",
+        "fr": "Évocation de l’îlot de Hollage"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8197a6",
+        "#c8bb93",
+        "#dce1df"
+      ],
+      "mode": "waltz",
+      "cue": "Authored display light inspired by the place and its recorded setting; not a record of site lighting.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ae-dubai-falconcity-of-wonders": {
+      "entityId": "ae-dubai-falconcity-of-wonders",
+      "city": "迪拜",
+      "countryCode": "AE",
+      "title": {
+        "zh-CN": "Dubai埃菲尔铁塔候选（Falconcity of Wonders） · 灯光构想",
+        "en": "迪拜 · Falconcity of Wonders · model light study",
+        "fr": "迪拜 · Falconcity of Wonders · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 迪拜 · Falconcity of Wonders, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "al-tirana-tower-on-a-shopping-street": {
+      "entityId": "al-tirana-tower-on-a-shopping-street",
+      "city": "地拉那",
+      "countryCode": "AL",
+      "title": {
+        "zh-CN": "Tirana埃菲尔铁塔候选（Tower on a shopping street） · 灯光构想",
+        "en": "地拉那 · Tower on a shopping street · model light study",
+        "fr": "地拉那 · Tower on a shopping street · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 地拉那 · Tower on a shopping street, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@41.3226795,19.8176966,107a,37.5y,235.47h,87.22t/data=!3m8!1e1!3m6!1szfGqmTc4SUFhfEUDt5YfQw!2e0!5s20160501T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.780000000000001%26panoid%3DzfGqmTc4SUFhfEUDt5YfQw%26yaw%3D235.47!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "am-yerevan-club-parisian": {
+      "entityId": "am-yerevan-club-parisian",
+      "city": "埃里温",
+      "countryCode": "AM",
+      "title": {
+        "zh-CN": "Yerevan埃菲尔铁塔候选（Club Parisian） · 灯光构想",
+        "en": "埃里温 · Club Parisian · model light study",
+        "fr": "埃里温 · Club Parisian · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 埃里温 · Club Parisian, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "am-yerevan-yerevani-herustaashtarak": {
+      "entityId": "am-yerevan-yerevani-herustaashtarak",
+      "city": "埃里温",
+      "countryCode": "AM",
+      "title": {
+        "zh-CN": "埃里温·Yerevani herustaashtarak铁塔（相似建筑候选） · 灯光构想",
+        "en": "埃里温 · Yerevani herustaashtarak · model light study",
+        "fr": "埃里温 · Yerevani herustaashtarak · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 埃里温 · Yerevani herustaashtarak, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_627ecd6501b325b4",
+        "src_976cfa97a439df7f"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Yerevan_TV_tower.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Yerevan_TV_Tower"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "at-zwingendorf-back-garden-tower-built-by-twin-brothers": {
+      "entityId": "at-zwingendorf-back-garden-tower-built-by-twin-brothers",
+      "city": "Zwingendorf",
+      "countryCode": "AT",
+      "title": {
+        "zh-CN": "Zwingendorf·双胞胎兄弟制作的后院铁塔（候选） · 灯光构想",
+        "en": "Zwingendorf · Back garden tower built by twin brothers · model light study",
+        "fr": "Zwingendorf · Back garden tower built by twin brothers · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for Zwingendorf · Back garden tower built by twin brothers, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "au-sydney-new-south-wales-awa-tower": {
+      "entityId": "au-sydney-new-south-wales-awa-tower",
+      "city": "悉尼",
+      "countryCode": "AU",
+      "title": {
+        "zh-CN": "Sydney AWA Tower（暂不收录） · 灯光构想",
+        "en": "悉尼 · AWA Building · model light study",
+        "fr": "悉尼 · AWA Building · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 悉尼 · AWA Building, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_c2aaf74354d89190",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:AWA_Tower.jpg",
+        "https://en.wikipedia.org/wiki/AWA_Tower",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "au-tasmazia-the-village-of-lower-crackpot-tower-at-a-miniature-park": {
+      "entityId": "au-tasmazia-the-village-of-lower-crackpot-tower-at-a-miniature-park",
+      "city": "塔斯马齐亚",
+      "countryCode": "AU",
+      "title": {
+        "zh-CN": "Tasmazia & The Village Of Lower Crackpot埃菲尔铁塔候选（Tower at a miniature park） · 灯光构想",
+        "en": "塔斯马齐亚 · Tower at a miniature park · model light study",
+        "fr": "塔斯马齐亚 · Tower at a miniature park · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 塔斯马齐亚 · Tower at a miniature park, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@-41.4264223,146.2045735,3a,75y,80.57h,90t/data=!3m8!1e1!3m6!1sAF1QipNIHFNujcQaoDsjpJ0RP0gw0KQq_kL1G2Cl5n0k!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNIHFNujcQaoDsjpJ0RP0gw0KQq_kL1G2Cl5n0k%3Dw900-h600-k-no-pi0-ya44.56999999999999-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "az-baku-eiffel-tower": {
+      "entityId": "az-baku-eiffel-tower",
+      "city": "巴库",
+      "countryCode": "AZ",
+      "title": {
+        "zh-CN": "Baku埃菲尔铁塔候选（Eiffel Tower） · 灯光构想",
+        "en": "巴库 · Sahil shopping center, entrance of Parfums de France · model light study",
+        "fr": "巴库 · Sahil shopping center, entrance of Parfums de France · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 巴库 · Sahil shopping center, entrance of Parfums de France, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_6a36e7b51b8553ae"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Azerbaidjan.php"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "az-nakhchivan-yl-nc-adas": {
+      "entityId": "az-nakhchivan-yl-nc-adas",
+      "city": "纳希切万",
+      "countryCode": "AZ",
+      "title": {
+        "zh-CN": "纳希切万·游乐岛铁塔（候选） · 灯光构想",
+        "en": "纳希切万 · Əyləncə Adası · model light study",
+        "fr": "纳希切万 · Əyləncə Adası · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 纳希切万 · Əyləncə Adası, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "be-jurbise-tower-in-a-front-garden": {
+      "entityId": "be-jurbise-tower-in-a-front-garden",
+      "city": "于尔比斯",
+      "countryCode": "BE",
+      "title": {
+        "zh-CN": "Jurbise埃菲尔铁塔候选（Tower in. a front garden） · 灯光构想",
+        "en": "于尔比斯 · Tower in. a front garden · model light study",
+        "fr": "于尔比斯 · Tower in. a front garden · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 于尔比斯 · Tower in. a front garden, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@50.5046885,3.8870361,70a,75y,163.77h,89.94t/data=!3m7!1e1!3m5!1s6gZbPEva90FogXkq_bIbUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.060000000000002274%26panoid%3D6gZbPEva90FogXkq_bIbUg%26yaw%3D163.77!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "be-kampenhout-tower-in-front-of-a-house": {
+      "entityId": "be-kampenhout-tower-in-front-of-a-house",
+      "city": "坎彭豪特",
+      "countryCode": "BE",
+      "title": {
+        "zh-CN": "Kampenhout埃菲尔铁塔候选（Tower in front of a house） · 灯光构想",
+        "en": "坎彭豪特 · Tower in front of a house · model light study",
+        "fr": "坎彭豪特 · Tower in front of a house · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 坎彭豪特 · Tower in front of a house, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@50.9399697,4.5680202,19a,75y,42.44h,86.92t/data=!3m8!1e1!3m6!1syxzeGwkDI82LG1jRgFKCHw!2e0!5s20211201T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.0818250179674465%26panoid%3DyxzeGwkDI82LG1jRgFKCHw%26yaw%3D42.43511917316173!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "bo-sucre-parque-simon-bolivar": {
+      "entityId": "bo-sucre-parque-simon-bolivar",
+      "city": "苏克雷",
+      "countryCode": "BO",
+      "title": {
+        "zh-CN": "玻利维亚Sucre塔线索 · 灯光构想",
+        "en": "苏克雷 · Parque Bolívar · model light study",
+        "fr": "苏克雷 · Parque Bolívar · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 苏克雷 · Parque Bolívar, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Parque_Sim%C3%B3n_Bol%C3%ADvar,_Sucre.jpg",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "br-sao-paulo-rooftop-unresolved": {
+      "entityId": "br-sao-paulo-rooftop-unresolved",
+      "city": "圣保罗",
+      "countryCode": "BR",
+      "title": {
+        "zh-CN": "巴西São Paulo铁塔线索 · 灯光构想",
+        "en": "圣保罗 · possible JK Iguatemi rooftop (unverified) · model light study",
+        "fr": "圣保罗 · possible JK Iguatemi rooftop (unverified) · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 圣保罗 · possible JK Iguatemi rooftop (unverified), following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_fb11d6b88d8a7e8d"
+      ],
+      "appearanceSources": [
+        "https://brilliantmaps.com/eiffel-tower/"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ca-terrebonne-solarium-international": {
+      "entityId": "ca-terrebonne-solarium-international",
+      "city": "泰尔博讷",
+      "countryCode": "CA",
+      "title": {
+        "zh-CN": "加拿大Terrebonne店招铁塔 · 灯光构想",
+        "en": "泰尔博讷 · Solarium International near Autoroute640 (historical claim) · model light study",
+        "fr": "泰尔博讷 · Solarium International near Autoroute640 (historical claim) · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 泰尔博讷 · Solarium International near Autoroute640 (historical claim), following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_fb11d6b88d8a7e8d",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://brilliantmaps.com/eiffel-tower/",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ca-vancouver-woodwards": {
+      "entityId": "ca-vancouver-woodwards",
+      "city": "温哥华",
+      "countryCode": "CA",
+      "title": {
+        "zh-CN": "加拿大Woodwards屋顶塔 · 灯光构想",
+        "en": "温哥华 · Woodwards Building · model light study",
+        "fr": "温哥华 · Woodwards Building · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 温哥华 · Woodwards Building, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.flickr.com/photos/time-to-look/50910923048",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "cn-harbin-heilongjiang-province-dragon-tower": {
+      "entityId": "cn-harbin-heilongjiang-province-dragon-tower",
+      "city": "哈尔滨",
+      "countryCode": "CN",
+      "title": {
+        "zh-CN": "Harbin , Heilongjiang Province埃菲尔铁塔候选（Dragon Tower） · 灯光构想",
+        "en": "哈尔滨 · Dragon Tower · model light study",
+        "fr": "哈尔滨 · Dragon Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 哈尔滨 · Dragon Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Dragon_Tower_(Harbin).jpg",
+        "https://commons.wikimedia.org/wiki/File:Dragon_Tower,_Harbin.jpg",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "cn-ma-anshan-children-s-park-tower": {
+      "entityId": "cn-ma-anshan-children-s-park-tower",
+      "city": "马鞍山",
+      "countryCode": "CN",
+      "title": {
+        "zh-CN": "Ma'anshan埃菲尔铁塔候选（Children's Park Tower） · 灯光构想",
+        "en": "马鞍山 · Children's Park Tower · model light study",
+        "fr": "马鞍山 · Children's Park Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 马鞍山 · Children's Park Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/place/Children's+Park/@31.684994,118.500574,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNSKBeoH0BbXdnvCULGcDol6SuZAomHf3gCGzof!2e10!3e12!7i2976!8i3968!4m7!3m6!1s0x35ca859d7dcd2f75:0xd27e66eed1736a9a!8m2!3d31.684994!4d118.500574!10e5!16s%2Fg%2F1tdcdglh?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "cn-suzhou-dong-wu-inspired": {
+      "entityId": "cn-suzhou-dong-wu-inspired",
+      "city": "苏州",
+      "countryCode": "CN",
+      "title": {
+        "zh-CN": "苏州东吴塔（暂不收录） · 灯光构想",
+        "en": "苏州 · Dong Wu Tower · model light study",
+        "fr": "苏州 · Dong Wu Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 苏州 · Dong Wu Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_a711c81312759ead",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Dongwu_Tower_in_Wuzhou_District,_Suzhou,_Jiangsu,_China_20250809.jpg",
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-China.php",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "cn-zhurihe-chinese-army-tower": {
+      "entityId": "cn-zhurihe-chinese-army-tower",
+      "city": "朱日和",
+      "countryCode": "CN",
+      "title": {
+        "zh-CN": "朱日和基地埃菲尔铁塔复刻 · 灯光构想",
+        "en": "朱日和 · Zhurihe Training Base · model light study",
+        "fr": "朱日和 · Zhurihe Training Base · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 朱日和 · Zhurihe Training Base, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_a558269fcf1c4022",
+        "src_41b8bc2333b1413b",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_55ee7a24a1613f49"
+      ],
+      "appearanceSources": [
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://aroundus.com/p/6531749-zhurihe-training-base",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.twz.com/33591/chinas-biggest-base-has-huge-replicas-of-taiwans-presidential-building-and-the-eiffel-tower"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "cz-prague-petrin-lookout-tower-petrinska-rozhledna": {
+      "entityId": "cz-prague-petrin-lookout-tower-petrinska-rozhledna",
+      "city": "布拉格",
+      "countryCode": "CZ",
+      "title": {
+        "zh-CN": "捷克Petřín瞭望塔 · 灯光构想",
+        "en": "布拉格 · Petřín hill · model light study",
+        "fr": "布拉格 · Petřín hill · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 布拉格 · Petřín hill, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_538c5b61ef900c4a"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Pet%C5%99%C3%ADnsk%C3%A1_rozhledna,_Prague.jpg",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "de-berlin-funkturm-berlin": {
+      "entityId": "de-berlin-funkturm-berlin",
+      "city": "柏林",
+      "countryCode": "DE",
+      "title": {
+        "zh-CN": "德国Berlin广播塔 · 灯光构想",
+        "en": "柏林 · Messe Berlin · model light study",
+        "fr": "柏林 · Messe Berlin · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 柏林 · Messe Berlin, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_514dcd88f3f3c2e7"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Berlin_-_Funkturm1.jpg",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "de-freiburg-breisgau-tower-at-a-adventure-play-ground": {
+      "entityId": "de-freiburg-breisgau-tower-at-a-adventure-play-ground",
+      "city": "Freiburg (Breisgau)",
+      "countryCode": "DE",
+      "title": {
+        "zh-CN": "Freiburg (Breisgau)·探险游乐场铁塔（候选） · 灯光构想",
+        "en": "Freiburg (Breisgau) · Tower at a adventure play ground · model light study",
+        "fr": "Freiburg (Breisgau) · Tower at a adventure play ground · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for Freiburg (Breisgau) · Tower at a adventure play ground, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/place/Abenteuerspielplatz+Freiburg/@47.9989839,7.8046904,245a,20.6y,353.4h,90.01t/data=!3m7!1e1!3m5!1sv5PHwhRVgyqOyLF2XTgb2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.010000000000005116%26panoid%3Dv5PHwhRVgyqOyLF2XTgb2g%26yaw%3D353.4!7i16384!8i8192!4m7!3m6!1s0x47911b1bc52f8a41:0x1a2446e30a18f040!8m2!3d47.9998806!4d7.8047202!10e5!16s%2Fg%2F11h550b2sd?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "de-ismaning-bavaria-ismaning-radio-tower": {
+      "entityId": "de-ismaning-bavaria-ismaning-radio-tower",
+      "city": "伊斯马宁",
+      "countryCode": "DE",
+      "title": {
+        "zh-CN": "Ismaning , Bavaria埃菲尔铁塔候选（Ismaning Radio Tower） · 灯光构想",
+        "en": "伊斯马宁 · Ismaning Radio Tower · model light study",
+        "fr": "伊斯马宁 · Ismaning Radio Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 伊斯马宁 · Ismaning Radio Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_f6441b109628989e"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Sendeturm_Ismaning.gif",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Ismaning_radio_transmitter"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "de-lauchhammer-liegender-eiffelturm": {
+      "entityId": "de-lauchhammer-liegender-eiffelturm",
+      "city": "劳赫哈默",
+      "countryCode": "DE",
+      "title": {
+        "zh-CN": "劳赫哈默·Liegender Eiffelturm铁塔（相似建筑候选） · 灯光构想",
+        "en": "劳赫哈默 · Liegender Eiffelturm · model light study",
+        "fr": "劳赫哈默 · Liegender Eiffelturm · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 劳赫哈默 · Liegender Eiffelturm, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_fdd7e3a17bede4c5"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Abraumf%C3%B6rderbr%C3%BCcke_F60.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://de.wikipedia.org/wiki/F60"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "de-meckenheim-rungis-express": {
+      "entityId": "de-meckenheim-rungis-express",
+      "city": "梅肯海姆",
+      "countryCode": "DE",
+      "title": {
+        "zh-CN": "梅肯海姆Rungis屋顶铁塔线索 · 灯光构想",
+        "en": "梅肯海姆 · Rungis Express · model light study",
+        "fr": "梅肯海姆 · Rungis Express · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 梅肯海姆 · Rungis Express, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_24dae787e5404c67"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.spiegel.de/fotostrecke/pariser-eiffelturm-nachbauten-aus-aller-welt-fotostrecke-112422.html"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "dk-copenhagen-copenhagen-zoo-tower": {
+      "entityId": "dk-copenhagen-copenhagen-zoo-tower",
+      "city": "哥本哈根",
+      "countryCode": "DK",
+      "title": {
+        "zh-CN": "丹麦动物园塔 · 灯光构想",
+        "en": "哥本哈根 · Copenhagen Zoo · model light study",
+        "fr": "哥本哈根 · Copenhagen Zoo · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 哥本哈根 · Copenhagen Zoo, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_7a3534292b5b3025"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Zoo-kbh-2005.jpg",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "dk-slagelse-wooden-tower-at-an-exhibition": {
+      "entityId": "dk-slagelse-wooden-tower-at-an-exhibition",
+      "city": "斯拉厄尔瑟",
+      "countryCode": "DK",
+      "title": {
+        "zh-CN": "斯拉厄尔瑟·展览木制铁塔（相似建筑候选） · 灯光构想",
+        "en": "斯拉厄尔瑟 · Wooden tower at an exhibition · model light study",
+        "fr": "斯拉厄尔瑟 · Wooden tower at an exhibition · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 斯拉厄尔瑟 · Wooden tower at an exhibition, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_4f6a99e4dd719111"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Copies-of-the-Eiffel-tower.php"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ee-reigi-tower-pointing-to-the-bigger-tower-down-the-road": {
+      "entityId": "ee-reigi-tower-pointing-to-the-bigger-tower-down-the-road",
+      "city": "雷吉",
+      "countryCode": "EE",
+      "title": {
+        "zh-CN": "雷吉·大塔导引小铁塔（候选） · 灯光构想",
+        "en": "雷吉 · Tower pointing to the bigger tower down the road · model light study",
+        "fr": "雷吉 · Tower pointing to the bigger tower down the road · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 雷吉 · Tower pointing to the bigger tower down the road, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/place/Wooden+copy+of+the+Eiffel+Tower/@58.9966921,22.5288019,10a,75y,276.3h,93.51t/data=!3m7!1e1!3m5!1sLNpYfejgDxLIOCwLVCxHoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.510000000000005%26panoid%3DLNpYfejgDxLIOCwLVCxHoA%26yaw%3D276.3!7i16384!8i8192!4m7!3m6!1s0x46f2dd722815d287:0x23d7bb8c7864874b!8m2!3d59.0091119!4d22.4973724!10e5!16s%2Fg%2F11xt9jll2?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "es-alava-cruz-del-monte-gorbea": {
+      "entityId": "es-alava-cruz-del-monte-gorbea",
+      "city": "阿拉瓦",
+      "countryCode": "ES",
+      "title": {
+        "zh-CN": "阿拉瓦·Cruz Del Monte Gorbea铁塔（相似建筑候选） · 灯光构想",
+        "en": "阿拉瓦 · Cruz Del Monte Gorbea · model light study",
+        "fr": "阿拉瓦 · Cruz Del Monte Gorbea · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 阿拉瓦 · Cruz Del Monte Gorbea, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_987305b4d8246761"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Cruz_de_Gorbea_01.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.euskonews.eus/0090zbk/gaia9002es.html"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade": {
+      "entityId": "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade",
+      "city": "圣巴托洛梅德蒂拉哈纳",
+      "countryCode": "ES",
+      "title": {
+        "zh-CN": "San Bartolomé de Tirajana, Canary Islands埃菲尔铁塔候选（Tower at shopping arcade） · 灯光构想",
+        "en": "圣巴托洛梅德蒂拉哈纳 · Tower at shopping arcade · model light study",
+        "fr": "圣巴托洛梅德蒂拉哈纳 · Tower at shopping arcade · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 圣巴托洛梅德蒂拉哈纳 · Tower at shopping arcade, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "es-san-juan-del-puerto-andalusia-school-patio-tower": {
+      "entityId": "es-san-juan-del-puerto-andalusia-school-patio-tower",
+      "city": "San Juan del Puerto, Andalusia",
+      "countryCode": "ES",
+      "title": {
+        "zh-CN": "San Juan del Puerto, Andalusia·学校庭院铁塔（候选） · 灯光构想",
+        "en": "San Juan del Puerto, Andalusia · School patio tower · model light study",
+        "fr": "San Juan del Puerto, Andalusia · School patio tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for San Juan del Puerto, Andalusia · School patio tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/@37.3135285,-6.8392944,5a,75y,212.09h,96.12t/data=!3m7!1e1!3m5!1svjeYOT4QXxPuSKpSPxly7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.1200000000000045%26panoid%3DvjeYOT4QXxPuSKpSPxly7g%26yaw%3D212.09!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-aix-les-bains-tower-in-a-garden": {
+      "entityId": "fr-aix-les-bains-tower-in-a-garden",
+      "city": "艾克斯莱班",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Aix les Bains埃菲尔铁塔候选（Tower in a garden） · 灯光构想",
+        "en": "艾克斯莱班 · Tower in a garden · model light study",
+        "fr": "艾克斯莱班 · Tower in a garden · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 艾克斯莱班 · Tower in a garden, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@45.6858648,5.9067352,241a,75y,192.36h,87.17t/data=!3m7!1e1!3m5!1s4SgD5-EthvNSMmPyQAJ30Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.8299999999999983%26panoid%3D4SgD5-EthvNSMmPyQAJ30Q%26yaw%3D192.36!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-altkirch-tower-in-the-garden-of-a-bistro": {
+      "entityId": "fr-altkirch-tower-in-the-garden-of-a-bistro",
+      "city": "阿尔特基什",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Altkirch埃菲尔铁塔候选（Tower in the garden of a Bistro） · 灯光构想",
+        "en": "阿尔特基什 · Le Bistr’O, former Restaurant de la Gare opposite Altkirch railway/bus station · model light study",
+        "fr": "阿尔特基什 · Le Bistr’O, former Restaurant de la Gare opposite Altkirch railway/bus station · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 阿尔特基什 · Le Bistr’O, former Restaurant de la Gare opposite Altkirch railway/bus station, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_b24b5c1e624e3366"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/@47.6264147,7.2393497,289a,75y,316.78h,94.45t/data=!3m7!1e1!3m5!1snoeSFbBG3iWnit0Q8wUM-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.450000000000003%26panoid%3DnoeSFbBG3iWnit0Q8wUM-w%26yaw%3D316.78!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.jds.fr/mulhouse/altkirch/restaurants-thematiques/restaurant-brasserie-le-bistr-o-13459_L"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "fr-anglet-tower-on-the-roof-of-a-house": {
+      "entityId": "fr-anglet-tower-on-the-roof-of-a-house",
+      "city": "昂格莱",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "昂格莱·住宅屋顶铁塔（候选） · 灯光构想",
+        "en": "昂格莱 · Tower on the roof of a house · model light study",
+        "fr": "昂格莱 · Tower on the roof of a house · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 昂格莱 · Tower on the roof of a house, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@43.4871904,-1.5379189,53a,75y,198.6h,99.91t/data=!3m8!1e1!3m6!1sDs368zn2Npx3mZnnBVwhIg!2e0!5s20180801T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.909999999999997%26panoid%3DDs368zn2Npx3mZnnBVwhIg%26yaw%3D198.6!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "fr-biarritz-tower-on-a-house-roof": {
+      "entityId": "fr-biarritz-tower-on-a-house-roof",
+      "city": "比亚里茨",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Biarritz埃菲尔铁塔候选（Tower on a house roof） · 灯光构想",
+        "en": "比亚里茨 · Tower on a house roof · model light study",
+        "fr": "比亚里茨 · Tower on a house roof · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 比亚里茨 · Tower on a house roof, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "entityId": "fr-bourgoin-jallieu-copie-de-la-tour-eiffel",
+      "city": "Ruy-Montceau",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "鲁伊 Thézieu 城堡塔（旧称埃菲尔塔） · 灯光构想",
+        "en": "Ruy-Montceau · Château de Thézieu, Avenue des Cantinières · model light study",
+        "fr": "Ruy-Montceau · Château de Thézieu, Avenue des Cantinières · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for Ruy-Montceau · Château de Thézieu, Avenue des Cantinières, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_60c86df1603579ff",
+        "src_bb88b9c67839fbe8",
+        "src_568e4ddb9a233cd3",
+        "src_40e365b032f6c12d"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Bourgoin-Jallieu.Copie_de_la_Tour_Eiffel.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Models_of_the_Eiffel_Tower",
+        "https://follies.org.uk/wp/wp-content/uploads/pdfs/2016-Appendix-webversion.pdf",
+        "https://www.monweekendalacapi.fr/decouvrir/patrimoine/chateaux/chateau-de-thezieu"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-breil-rue-des-cedres": {
+      "entityId": "fr-breil-rue-des-cedres",
+      "city": "布雷伊",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "法国Breil小铁塔 · 灯光构想",
+        "en": "布雷伊 · Rue des Cèdres · model light study",
+        "fr": "布雷伊 · Rue des Cèdres · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 布雷伊 · Rue des Cèdres, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_d579228a277d5d87"
+      ],
+      "appearanceSources": [
+        "https://de.wikipedia.org/wiki/Liste_der_Eiffelturm-Nachbildungen_und_Derivate"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "fr-buhl-tower-in-a-garden-on-the-edge-of-the-village": {
+      "entityId": "fr-buhl-tower-in-a-garden-on-the-edge-of-the-village",
+      "city": "比尔",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Buhl埃菲尔铁塔候选（Tower in a garden on the edge of the village） · 灯光构想",
+        "en": "比尔 · Tower in a garden on the edge of the village · model light study",
+        "fr": "比尔 · Tower in a garden on the edge of the village · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 比尔 · Tower in a garden on the edge of the village, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/@47.9294739,7.1915688,342a,75y,241.56h,80.77t/data=!3m7!1e1!3m5!1sl8IDU_qxCOvOdR_pjBVfRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.230000000000004%26panoid%3Dl8IDU_qxCOvOdR_pjBVfRQ%26yaw%3D241.56!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "fr-buhl-tower-in-a-yard": {
+      "entityId": "fr-buhl-tower-in-a-yard",
+      "city": "比尔",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Buhl埃菲尔铁塔候选（Tower in a yard） · 灯光构想",
+        "en": "比尔 · Tower in a yard · model light study",
+        "fr": "比尔 · Tower in a yard · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 比尔 · Tower in a yard, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@47.9234156,7.1889851,343a,62.3y,248.91h,99.9t/data=!3m7!1e1!3m5!1smCuJ0vK9VMsH4r60QS8NKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.900000000000006%26panoid%3DmCuJ0vK9VMsH4r60QS8NKw%26yaw%3D248.91!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-buhl-tower-in-the-centre-of-the-village": {
+      "entityId": "fr-buhl-tower-in-the-centre-of-the-village",
+      "city": "比尔",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Buhl埃菲尔铁塔候选（Tower in the centre of the village） · 灯光构想",
+        "en": "比尔 · Tower in the centre of the village · model light study",
+        "fr": "比尔 · Tower in the centre of the village · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 比尔 · Tower in the centre of the village, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/@47.9284658,7.1850726,346a,75y,134.74h,88.14t/data=!3m7!1e1!3m5!1s7Qmhvkmmtqcj1N6lkdj3Sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8599999999999994%26panoid%3D7Qmhvkmmtqcj1N6lkdj3Sw%26yaw%3D134.74!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-champagne-sur-seine-tower-in-an-industrial-yard": {
+      "entityId": "fr-champagne-sur-seine-tower-in-an-industrial-yard",
+      "city": "塞纳河畔香槟",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Champagne-sur-Seine埃菲尔铁塔候选（Tower in an industrial yard） · 灯光构想",
+        "en": "塞纳河畔香槟 · Tower in an industrial yard · model light study",
+        "fr": "塞纳河畔香槟 · Tower in an industrial yard · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 塞纳河畔香槟 · Tower in an industrial yard, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@48.3952618,2.7907052,47a,75y,113.38h,88.58t/data=!3m7!1e1!3m5!1szbJTql8Nh7BJYiYpjPGtiA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4200000000000017%26panoid%3DzbJTql8Nh7BJYiYpjPGtiA%26yaw%3D113.38!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "fr-la-doree-tower-at-a-metal-worker-s-house": {
+      "entityId": "fr-la-doree-tower-at-a-metal-worker-s-house",
+      "city": "拉多雷",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "La Dorée埃菲尔铁塔候选（Tower at a metal worker's house） · 灯光构想",
+        "en": "拉多雷 · Tower at a metal worker's house · model light study",
+        "fr": "拉多雷 · Tower at a metal worker's house · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 拉多雷 · Tower at a metal worker's house, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-lyon-metallic-tower-of-fourviere": {
+      "entityId": "fr-lyon-metallic-tower-of-fourviere",
+      "city": "里昂",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "法国Fourvière金属塔 · 灯光构想",
+        "en": "里昂 · Fourvière hill · model light study",
+        "fr": "里昂 · Fourvière hill · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 里昂 · Fourvière hill, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_f25345ef8c320271"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Lyon_-_Tour_m%C3%A9tallique_de_Fourvi%C3%A8re,_septembre_2015.jpg",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-menton-copy": {
+      "entityId": "fr-menton-copy",
+      "city": "芒通",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "法国Menton铁塔线索 · 灯光构想",
+        "en": "芒通 · fr-menton-copy · model light study",
+        "fr": "芒通 · fr-menton-copy · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 芒通 · fr-menton-copy, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_f4f34bbb86be0600"
+      ],
+      "appearanceSources": [
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://www.paris.fr/pages/la-tour-eiffel-fete-ses-130-ans-6554"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-menton-tower-with-lemons": {
+      "entityId": "fr-menton-tower-with-lemons",
+      "city": "芒通",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Menton埃菲尔铁塔候选（Tower with lemons） · 灯光构想",
+        "en": "芒通 · Tower with lemons · model light study",
+        "fr": "芒通 · Tower with lemons · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 芒通 · Tower with lemons, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_861069599aa02dfc"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.gettyimages.ae/detail/news-photo/people-work-on-sculptures-made-with-oranges-and-lemons-news-photo/2079444924"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "fr-mulhouse-emetteur-du-belvedere": {
+      "entityId": "fr-mulhouse-emetteur-du-belvedere",
+      "city": "米卢斯",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "米卢斯·Émetteur du Belvédère铁塔（相似建筑候选） · 灯光构想",
+        "en": "米卢斯 · Émetteur du Belvédère · model light study",
+        "fr": "米卢斯 · Émetteur du Belvédère · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 米卢斯 · Émetteur du Belvédère, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_d9c79363729020d4"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Mulhouse_-_Sendeturm_Mulhouse-Belv%C3%A9d%C3%A8re2.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://de.wikipedia.org/wiki/Sendeturm_Mulhouse-Belv%C3%A9d%C3%A8re"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "fr-paris-bassin-de-la-villette-eiffel-tower-rocket-sculpture": {
+      "entityId": "fr-paris-bassin-de-la-villette-eiffel-tower-rocket-sculpture",
+      "city": "Paris, Bassin de la Villette",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "Paris, Bassin de la Villette·铁塔火箭雕塑（相似建筑候选） · 灯光构想",
+        "en": "Paris, Bassin de la Villette · Eiffel Tower Rocket Sculpture · model light study",
+        "fr": "Paris, Bassin de la Villette · Eiffel Tower Rocket Sculpture · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for Paris, Bassin de la Villette · Eiffel Tower Rocket Sculpture, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "fr-poyans-tower-in-a-back-garden": {
+      "entityId": "fr-poyans-tower-in-a-back-garden",
+      "city": "普瓦扬",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "普瓦扬·后花园铁塔（候选） · 灯光构想",
+        "en": "普瓦扬 · Tower in a back garden · model light study",
+        "fr": "普瓦扬 · Tower in a back garden · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 普瓦扬 · Tower in a back garden, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@47.449767,5.4694908,208a,75y,344.06h,81.31t/data=!3m7!1e1!3m5!1sSdOPPuBJsmtKFW-ljGy-Ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.689999999999998%26panoid%3DSdOPPuBJsmtKFW-ljGy-Ug%26yaw%3D344.06!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "fr-thieblemont-faremont-copy": {
+      "entityId": "fr-thieblemont-faremont-copy",
+      "city": "蒂耶布勒蒙法雷蒙",
+      "countryCode": "FR",
+      "title": {
+        "zh-CN": "法国Thiéblemont-Farémont铁塔 · 灯光构想",
+        "en": "蒂耶布勒蒙法雷蒙 · fr-thieblemont-faremont-copy · model light study",
+        "fr": "蒂耶布勒蒙法雷蒙 · fr-thieblemont-faremont-copy · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 蒂耶布勒蒙法雷蒙 · fr-thieblemont-faremont-copy, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_fb11d6b88d8a7e8d"
+      ],
+      "appearanceSources": [
+        "https://brilliantmaps.com/eiffel-tower/"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "gb-belfast-la-bastille-restaurant": {
+      "entityId": "gb-belfast-la-bastille-restaurant",
+      "city": "贝尔法斯特",
+      "countryCode": "GB",
+      "title": {
+        "zh-CN": "Belfast埃菲尔铁塔候选（La Bastille Restaurant） · 灯光构想",
+        "en": "贝尔法斯特 · La Bastille restaurant, 182 Lisburn Road (2015 source) · model light study",
+        "fr": "贝尔法斯特 · La Bastille restaurant, 182 Lisburn Road (2015 source) · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 贝尔法斯特 · La Bastille restaurant, 182 Lisburn Road (2015 source), following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_145913fa4f2fcf43"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.irishnews.com/lifestyle/2015/11/14/news/eating-out-cause-for-celebration-at-la-bastille-322218/"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "gb-blackpool-tower": {
+      "entityId": "gb-blackpool-tower",
+      "city": "黑潭",
+      "countryCode": "GB",
+      "title": {
+        "zh-CN": "英国Blackpool Tower · 灯光构想",
+        "en": "黑潭 · Blackpool Tower Circus complex · model light study",
+        "fr": "黑潭 · Blackpool Tower Circus complex · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 黑潭 · Blackpool Tower Circus complex, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_5ed25144fbea7fac",
+        "src_d59abfdfb0000f45"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Blackpool_Tower_Buildings.jpg",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "gb-crystal-palace-london-crystal-palace-transmitting-station": {
+      "entityId": "gb-crystal-palace-london-crystal-palace-transmitting-station",
+      "city": "Crystal Palace, London",
+      "countryCode": "GB",
+      "title": {
+        "zh-CN": "Crystal Palace, London·水晶宫发射塔（相似建筑候选） · 灯光构想",
+        "en": "Crystal Palace, London · Crystal Palace transmitting station · model light study",
+        "fr": "Crystal Palace, London · Crystal Palace transmitting station · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for Crystal Palace, London · Crystal Palace transmitting station, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_47158537100d3a42"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Cp_mast.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Crystal_Palace_transmitting_station"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "gb-hastings-garden-eiffel-tower": {
+      "entityId": "gb-hastings-garden-eiffel-tower",
+      "city": "黑斯廷斯",
+      "countryCode": "GB",
+      "title": {
+        "zh-CN": "Hastings埃菲尔铁塔候选（Garden Eiffel Tower） · 灯光构想",
+        "en": "黑斯廷斯 · Garden Eiffel Tower · model light study",
+        "fr": "黑斯廷斯 · Garden Eiffel Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 黑斯廷斯 · Garden Eiffel Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://web.archive.org/web/20211024143540/https://www.hastingsobserver.co.uk/news/people/st-leonards-man-told-to-take-down-eiffel-tower-in-front-garden-pictures-3142146",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "gb-new-brighton-merseyside-new-brighton-tower": {
+      "entityId": "gb-new-brighton-merseyside-new-brighton-tower",
+      "city": "新布赖顿",
+      "countryCode": "GB",
+      "title": {
+        "zh-CN": "New Brighton, Merseyside埃菲尔铁塔候选（New Brighton Tower） · 灯光构想",
+        "en": "新布赖顿 · New Brighton Tower · model light study",
+        "fr": "新布赖顿 · New Brighton Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 新布赖顿 · New Brighton Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_47af34af6fb2267b"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:New_Brighton_Tower.jpg",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/New_Brighton_Tower"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "gb-wembley-greater-london-watkin-s-tower": {
+      "entityId": "gb-wembley-greater-london-watkin-s-tower",
+      "city": "温布利",
+      "countryCode": "GB",
+      "title": {
+        "zh-CN": "Wembley , Greater London埃菲尔铁塔候选（Watkin's Tower） · 灯光构想",
+        "en": "温布利 · Watkin's Tower · model light study",
+        "fr": "温布利 · Watkin's Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 温布利 · Watkin's Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_658be1846ff43ab1"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Watkin_Tower_winning_design.jpg",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Watkin%27s_Tower"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "gq-bata-torre-de-bata": {
+      "entityId": "gq-bata-torre-de-bata",
+      "city": "巴塔",
+      "countryCode": "GQ",
+      "title": {
+        "zh-CN": "巴塔·Torre de Bata铁塔（相似建筑候选） · 灯光构想",
+        "en": "巴塔 · Torre de Bata · model light study",
+        "fr": "巴塔 · Torre de Bata · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 巴塔 · Torre de Bata, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_63b2a319a11ff5f0"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Torre_libertad,_Bata_-_panoramio.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Torre_de_La_Libertad"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "gr-attica-tower-at-a-metalworker-shop": {
+      "entityId": "gr-attica-tower-at-a-metalworker-shop",
+      "city": "阿提卡",
+      "countryCode": "GR",
+      "title": {
+        "zh-CN": "Attica埃菲尔铁塔候选（Tower at a metalworker shop） · 灯光构想",
+        "en": "阿提卡 · Tower at a metalworker shop · model light study",
+        "fr": "阿提卡 · Tower at a metalworker shop · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 阿提卡 · Tower at a metalworker shop, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@37.9413312,23.7264033,63a,75y,220.16h,91.64t/data=!3m7!1e1!3m5!1stNE2-T8IQynZVqi1euOvZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6400000000000006%26panoid%3DtNE2-T8IQynZVqi1euOvZQ%26yaw%3D220.16!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "gr-heraklion-tower-in-a-garden-in-a-narrow-street": {
+      "entityId": "gr-heraklion-tower-in-a-garden-in-a-narrow-street",
+      "city": "伊拉克利翁",
+      "countryCode": "GR",
+      "title": {
+        "zh-CN": "Heraklion埃菲尔铁塔候选（Tower in a garden in a narrow street） · 灯光构想",
+        "en": "伊拉克利翁 · Tower in a garden in a narrow street · model light study",
+        "fr": "伊拉克利翁 · Tower in a garden in a narrow street · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 伊拉克利翁 · Tower in a garden in a narrow street, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "gt-guatemala-city-torre-del-reformador": {
+      "entityId": "gt-guatemala-city-torre-del-reformador",
+      "city": "危地马拉城",
+      "countryCode": "GT",
+      "title": {
+        "zh-CN": "危地马拉改革者塔 · 灯光构想",
+        "en": "危地马拉城 · city tower · model light study",
+        "fr": "危地马拉城 · city tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 危地马拉城 · city tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Torre_del_Reformador_Fabriccio_D%C3%ADaz.jpg",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "hn-tegucigalpa-copy": {
+      "entityId": "hn-tegucigalpa-copy",
+      "city": "特古西加尔巴",
+      "countryCode": "HN",
+      "title": {
+        "zh-CN": "洪都拉斯Tegucigalpa铁塔 · 灯光构想",
+        "en": "特古西加尔巴 · hn-tegucigalpa-copy · model light study",
+        "fr": "特古西加尔巴 · hn-tegucigalpa-copy · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 特古西加尔巴 · hn-tegucigalpa-copy, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_d579228a277d5d87",
+        "src_81b3873cd6dc1324"
+      ],
+      "appearanceSources": [
+        "https://www.spiegel.de/fotostrecke/pariser-eiffelturm-nachbauten-aus-aller-welt-fotostrecke-112422.html",
+        "https://de.wikipedia.org/wiki/Liste_der_Eiffelturm-Nachbildungen_und_Derivate",
+        "https://www.thenationalnews.com/business/in-pictures-faux-eiffel-towers-around-the-world-1.577976"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "id-lake-toba-world-heritage-mini-mini": {
+      "entityId": "id-lake-toba-world-heritage-mini-mini",
+      "city": "多巴湖",
+      "countryCode": "ID",
+      "title": {
+        "zh-CN": "Lake Toba埃菲尔铁塔候选（World heritage mini mini） · 灯光构想",
+        "en": "多巴湖 · World heritage mini mini · model light study",
+        "fr": "多巴湖 · World heritage mini mini · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 多巴湖 · World heritage mini mini, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "id-lembang-reddit-replica": {
+      "entityId": "id-lembang-reddit-replica",
+      "city": "伦邦",
+      "countryCode": "ID",
+      "title": {
+        "zh-CN": "Lembang埃菲尔铁塔候选（null） · 灯光构想",
+        "en": "伦邦 · id-lembang-reddit-replica · model light study",
+        "fr": "伦邦 · id-lembang-reddit-replica · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 伦邦 · id-lembang-reddit-replica, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_eeb4932e55c611f7"
+      ],
+      "appearanceSources": [
+        "https://www.reddit.com/r/architecture/comments/1wxc1z0/map_of_all_the_eiffel_towers_found_across_the/"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "in-fazilka-fazilka-tv-tower": {
+      "entityId": "in-fazilka-fazilka-tv-tower",
+      "city": "法齐尔卡",
+      "countryCode": "IN",
+      "title": {
+        "zh-CN": "法齐尔卡·Fazilka TV Tower铁塔（相似建筑候选） · 灯光构想",
+        "en": "法齐尔卡 · Fazilka TV Tower · model light study",
+        "fr": "法齐尔卡 · Fazilka TV Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 法齐尔卡 · Fazilka TV Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_8bf9774f99216c9c"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Fernsehturm_fazilka.png",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Fazilka_TV_Tower"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "it-amiata-monte-amiata-summit-cross": {
+      "entityId": "it-amiata-monte-amiata-summit-cross",
+      "city": "阿米亚塔山",
+      "countryCode": "IT",
+      "title": {
+        "zh-CN": "意大利Monte Amiata山顶十字架 · 灯光构想",
+        "en": "阿米亚塔山 · summit cross · model light study",
+        "fr": "阿米亚塔山 · summit cross · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 阿米亚塔山 · summit cross, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b413e52091d224e6",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:MonteAmiataVettaCroce.JPG",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "it-avola-sicily-tower-in-a-car-park": {
+      "entityId": "it-avola-sicily-tower-in-a-car-park",
+      "city": "阿沃拉",
+      "countryCode": "IT",
+      "title": {
+        "zh-CN": "Avola (Sicily)埃菲尔铁塔候选（Tower in a car park） · 灯光构想",
+        "en": "阿沃拉 · Tower in a car park · model light study",
+        "fr": "阿沃拉 · Tower in a car park · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 阿沃拉 · Tower in a car park, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@36.9205826,15.1496148,23a,75y,131.78h,90t/data=!3m7!1e1!3m5!1sQr356WKUuC7KgCb0uQvEeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DQr356WKUuC7KgCb0uQvEeA%26yaw%3D131.78!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "it-bibbiano-tower-at-a-road-junction-by-an-office": {
+      "entityId": "it-bibbiano-tower-at-a-road-junction-by-an-office",
+      "city": "比比亚诺",
+      "countryCode": "IT",
+      "title": {
+        "zh-CN": "比比亚诺·办公楼旁路口铁塔（候选） · 灯光构想",
+        "en": "比比亚诺 · Tower at a road junction by an office · model light study",
+        "fr": "比比亚诺 · Tower at a road junction by an office · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 比比亚诺 · Tower at a road junction by an office, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@44.6627159,10.4724674,128a,75y,247.9h,82.99t/data=!3m7!1e1!3m5!1sJZ-UvzSZ-K70YGTak2yXkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.010000000000005%26panoid%3DJZ-UvzSZ-K70YGTak2yXkw%26yaw%3D247.9!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "it-marche-tower-in-a-field": {
+      "entityId": "it-marche-tower-in-a-field",
+      "city": "马尔凯",
+      "countryCode": "IT",
+      "title": {
+        "zh-CN": "Marche埃菲尔铁塔候选（Tower in a field） · 灯光构想",
+        "en": "马尔凯 · Tower in a field · model light study",
+        "fr": "马尔凯 · Tower in a field · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 马尔凯 · Tower in a field, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@43.106439,13.5481844,172a,75y,305.92h,90.17t/data=!3m7!1e1!3m5!1sNEl7FxL-o-JEkEpFJsidqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.1700000000000017%26panoid%3DNEl7FxL-o-JEkEpFJsidqw%26yaw%3D305.92!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "it-trescore-balneario-tower-suspended-over-a-sort-of-trench": {
+      "entityId": "it-trescore-balneario-tower-suspended-over-a-sort-of-trench",
+      "city": "Trescore Balneario",
+      "countryCode": "IT",
+      "title": {
+        "zh-CN": "Trescore Balneario·沟槽上方悬置铁塔（候选） · 灯光构想",
+        "en": "Trescore Balneario · Tower suspended over a sort of trench · model light study",
+        "fr": "Trescore Balneario · Tower suspended over a sort of trench · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for Trescore Balneario · Tower suspended over a sort of trench, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/@45.6921857,9.828436,261a,25.2y,77.42h,93.98t/data=!3m7!1e1!3m5!1sRPmScBG_nvzTtS1s5c7UVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.980000000000004%26panoid%3DRPmScBG_nvzTtS1s5c7UVQ%26yaw%3D77.42!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "it-vergiate-corgeno-copy": {
+      "entityId": "it-vergiate-corgeno-copy",
+      "city": "科尔杰诺",
+      "countryCode": "IT",
+      "title": {
+        "zh-CN": "意大利Corgeno铁塔线索 · 灯光构想",
+        "en": "科尔杰诺 · it-vergiate-corgeno-copy · model light study",
+        "fr": "科尔杰诺 · it-vergiate-corgeno-copy · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 科尔杰诺 · it-vergiate-corgeno-copy, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_1b4c941f1b97ae98",
+        "src_97e01655192006d5",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Tour_eiffel_Mario_da_Corgeno.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Replicas_of_the_Eiffel_Tower",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "jp-minato-tokyo-tokyo-tower": {
+      "entityId": "jp-minato-tokyo-tokyo-tower",
+      "city": "东京",
+      "countryCode": "JP",
+      "title": {
+        "zh-CN": "东京塔（暂不收录） · 灯光构想",
+        "en": "东京 · Tokyo Tower · model light study",
+        "fr": "东京 · Tokyo Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 东京 · Tokyo Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_1a1ec45e4bdc3911",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_bd7e1a06d1806212"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_2023.jpg",
+        "https://en.wikipedia.org/wiki/Tokyo_Tower",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.japan.travel/en/spot/1709/"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "jp-nagoya-nagoya-tv-tower": {
+      "entityId": "jp-nagoya-nagoya-tv-tower",
+      "city": "名古屋",
+      "countryCode": "JP",
+      "title": {
+        "zh-CN": "Nagoya MIRAI TOWER（关系待核，默认排除） · 灯光构想",
+        "en": "名古屋 · Nagoya TV Tower · model light study",
+        "fr": "名古屋 · Nagoya TV Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 名古屋 · Nagoya TV Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_2d7a1cf99c029d30",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_3af9e394c3cac89e"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Nagoya_TV_Tower2.jpg",
+        "https://en.wikipedia.org/wiki/Nagoya_TV_Tower",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.nagoya-tv-tower.co.jp/news/202609101053/"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "jp-osaka-tsutenkaku-tower-reaching-heaven": {
+      "entityId": "jp-osaka-tsutenkaku-tower-reaching-heaven",
+      "city": "大阪",
+      "countryCode": "JP",
+      "title": {
+        "zh-CN": "Osaka埃菲尔铁塔候选（Tsūtenkaku (\"Tower Reaching Heaven\")） · 灯光构想",
+        "en": "大阪 · Tsūtenkaku (\"Tower Reaching Heaven\") · model light study",
+        "fr": "大阪 · Tsūtenkaku (\"Tower Reaching Heaven\") · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 大阪 · Tsūtenkaku (\"Tower Reaching Heaven\"), following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_6483b6a79350592b"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Original_Tsutenkaku_and_Shinsekai_Luna_Park.jpg",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://osaka-info.jp/special/coolosaka/en/cool-spot/323/"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "jp-sapporo-sapporo-television-tower": {
+      "entityId": "jp-sapporo-sapporo-television-tower",
+      "city": "札幌",
+      "countryCode": "JP",
+      "title": {
+        "zh-CN": "札幌·Sapporo Television Tower铁塔（相似建筑候选） · 灯光构想",
+        "en": "札幌 · Sapporo Television Tower · model light study",
+        "fr": "札幌 · Sapporo Television Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 札幌 · Sapporo Television Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_53e3edfa6c8ed61a"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Sapporo_television_tower_01.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Sapporo_TV_Tower"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "kh-phnom-penh-eiffel-map-candidate": {
+      "entityId": "kh-phnom-penh-eiffel-map-candidate",
+      "city": "金边",
+      "countryCode": "KH",
+      "title": {
+        "zh-CN": "Phnom Penh 埃菲尔铁塔地图候选 · 灯光构想",
+        "en": "金边 · Named map attraction; venue ownership unknown · model light study",
+        "fr": "金边 · Named map attraction; venue ownership unknown · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 金边 · Named map attraction; venue ownership unknown, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_af22aca9989f8b23"
+      ],
+      "appearanceSources": [
+        "https://cambodiatoday.online/map/phnom-penh/eiffel-tower-1c7tfuo7"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "kr-bucheon-aiins-world": {
+      "entityId": "kr-bucheon-aiins-world",
+      "city": "富川",
+      "countryCode": "KR",
+      "title": {
+        "zh-CN": "Bucheon Aiins World 埃菲尔铁塔 · 灯光构想",
+        "en": "富川 · Aiins World · model light study",
+        "fr": "富川 · Aiins World · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 富川 · Aiins World, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_b42ffde9bad3f0de"
+      ],
+      "appearanceSources": [
+        "https://koreajoongangdaily.joins.com/2004/07/08/features/Bucheon-Culture-in-the-suburbs/2439254.html"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "kz-aktau-oil-company-tower": {
+      "entityId": "kz-aktau-oil-company-tower",
+      "city": "阿克套",
+      "countryCode": "KZ",
+      "title": {
+        "zh-CN": "Aktau埃菲尔铁塔候选（Oil Company Tower） · 灯光构想",
+        "en": "阿克套 · Oil Company Tower · model light study",
+        "fr": "阿克套 · Oil Company Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 阿克套 · Oil Company Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "lb-broummana-chez-alain": {
+      "entityId": "lb-broummana-chez-alain",
+      "city": "Broummana",
+      "countryCode": "LB",
+      "title": {
+        "zh-CN": "Broummana·Chez Alain铁塔（候选） · 灯光构想",
+        "en": "Broummana · Chez Alain · model light study",
+        "fr": "Broummana · Chez Alain · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for Broummana · Chez Alain, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "lb-jounieh-trocadero-lb": {
+      "entityId": "lb-jounieh-trocadero-lb",
+      "city": "朱尼耶",
+      "countryCode": "LB",
+      "title": {
+        "zh-CN": "朱尼耶·Trocadéro LB铁塔（候选） · 灯光构想",
+        "en": "朱尼耶 · Trocadéro LB · model light study",
+        "fr": "朱尼耶 · Trocadéro LB · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 朱尼耶 · Trocadéro LB, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/place/TROCAD%C3%89RO+LB/@33.9847758,35.6329241,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICxkZX3Kg!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FANWiy9T0zt6d9ggZRmsXxfZgmF-ULTr4DcJJmEScic5T0u5dEpEh19B3uEEwUdYm3ACQHfUh7dACQf7_cSsFQ04qEKwklHxiUtycAs5FiRwtqlSqVCoOt1pyfqi0sssbbT5qcP1AxRc%3Dw203-h152-k-no!7i8064!8i6048!4m7!3m6!1s0x151f41daf9ccf805:0x869a0fe94c206a11!8m2!3d33.9849827!4d35.632967!10e5!16s%2Fg%2F11kpgskl3m?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "lt-marijampole-tower-at-a-hotel-beside-the-motorway": {
+      "entityId": "lt-marijampole-tower-at-a-hotel-beside-the-motorway",
+      "city": "马里扬波莱",
+      "countryCode": "LT",
+      "title": {
+        "zh-CN": "Marijampolė埃菲尔铁塔候选（Tower at a hotel beside the motorway） · 灯光构想",
+        "en": "马里扬波莱 · Tower at a hotel beside the motorway · model light study",
+        "fr": "马里扬波莱 · Tower at a hotel beside the motorway · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 马里扬波莱 · Tower at a hotel beside the motorway, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@54.6348921,23.4342568,59a,75y,187.93h,88.4t/data=!3m7!1e1!3m5!1sBc0B7gYScmc66EF1yb8_Xw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5999999999999943%26panoid%3DBc0B7gYScmc66EF1yb8_Xw%26yaw%3D187.93!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "lv-riga-rigas-radio-un-televizijas-tornis": {
+      "entityId": "lv-riga-rigas-radio-un-televizijas-tornis",
+      "city": "里加",
+      "countryCode": "LV",
+      "title": {
+        "zh-CN": "里加·Rīgas radio un televīzijas tornis铁塔（相似建筑候选） · 灯光构想",
+        "en": "里加 · Rīgas radio un televīzijas tornis · model light study",
+        "fr": "里加 · Rīgas radio un televīzijas tornis · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 里加 · Rīgas radio un televīzijas tornis, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_1a4155a3fd55236e"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Skylines_of_Riga_by_Nasta_Faley.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Riga_Radio_and_TV_Tower"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "md-tiraspol-tower-in-front-of-a-store": {
+      "entityId": "md-tiraspol-tower-in-front-of-a-store",
+      "city": "蒂拉斯波尔",
+      "countryCode": "MD",
+      "title": {
+        "zh-CN": "Tiraspol埃菲尔铁塔候选（Tower in front of a store） · 灯光构想",
+        "en": "蒂拉斯波尔 · Tower in front of a store · model light study",
+        "fr": "蒂拉斯波尔 · Tower in front of a store · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 蒂拉斯波尔 · Tower in front of a store, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "my-ayer-hitam-tropical-village": {
+      "entityId": "my-ayer-hitam-tropical-village",
+      "city": "亚依淡",
+      "countryCode": "MY",
+      "title": {
+        "zh-CN": "Ayer Hitam Tropical Village 埃菲尔铁塔 · 灯光构想",
+        "en": "亚依淡 · Tropical Village, Batu Pahat, Johor · model light study",
+        "fr": "亚依淡 · Tropical Village, Batu Pahat, Johor · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 亚依淡 · Tropical Village, Batu Pahat, Johor, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_248ced4fd3f7ef71"
+      ],
+      "appearanceSources": [
+        "https://en.wikipedia.org/wiki/Tropical_Village"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "my-langkawi-maha-tower": {
+      "entityId": "my-langkawi-maha-tower",
+      "city": "兰卡威",
+      "countryCode": "MY",
+      "title": {
+        "zh-CN": "兰卡威·Maha Tower铁塔（相似建筑候选） · 灯光构想",
+        "en": "兰卡威 · Maha Tower · model light study",
+        "fr": "兰卡威 · Maha Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 兰卡威 · Maha Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_e63a6a62cafd09b2"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Langkawi_20230317.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.theislanddrum.com/maha-tower-langkawi-is-it-worth-the-hype/"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "nl-alkmaar-tower-on-shipping-containers": {
+      "entityId": "nl-alkmaar-tower-on-shipping-containers",
+      "city": "阿尔克马尔",
+      "countryCode": "NL",
+      "title": {
+        "zh-CN": "Alkmaar埃菲尔铁塔候选（Tower on shipping containers） · 灯光构想",
+        "en": "阿尔克马尔 · Tower on shipping containers · model light study",
+        "fr": "阿尔克马尔 · Tower on shipping containers · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 阿尔克马尔 · Tower on shipping containers, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@52.6201883,4.775635,0a,75y,103.56h,88.02t/data=!3m7!1e1!3m5!1sTVF0Cp1GSGVw_App-bkvWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.980000000000004%26panoid%3DTVF0Cp1GSGVw_App-bkvWA%26yaw%3D103.56!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "nl-grootebroek-tower-in-the-grounds-of-a-college": {
+      "entityId": "nl-grootebroek-tower-in-the-grounds-of-a-college",
+      "city": "赫罗特布鲁克",
+      "countryCode": "NL",
+      "title": {
+        "zh-CN": "Grootebroek埃菲尔铁塔候选（Tower in the grounds of a college） · 灯光构想",
+        "en": "赫罗特布鲁克 · Tower in the grounds of a college · model light study",
+        "fr": "赫罗特布鲁克 · Tower in the grounds of a college · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 赫罗特布鲁克 · Tower in the grounds of a college, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "nl-toldijk-achterhoeks-planetarium": {
+      "entityId": "nl-toldijk-achterhoeks-planetarium",
+      "city": "托尔代克",
+      "countryCode": "NL",
+      "title": {
+        "zh-CN": "Toldijk埃菲尔铁塔候选（Achterhoeks Planetarium） · 灯光构想",
+        "en": "托尔代克 · Achterhoeks Planetarium · model light study",
+        "fr": "托尔代克 · Achterhoeks Planetarium · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 托尔代克 · Achterhoeks Planetarium, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "nz-dunedin-new-zealand-and-south-seas-exhibition-1889": {
+      "entityId": "nz-dunedin-new-zealand-and-south-seas-exhibition-1889",
+      "city": "达尼丁",
+      "countryCode": "NZ",
+      "title": {
+        "zh-CN": "达尼丁·New Zealand and South Seas Exhibition (1889)铁塔（相似建筑候选） · 灯光构想",
+        "en": "达尼丁 · New Zealand and South Seas Exhibition (1889) · model light study",
+        "fr": "达尼丁 · New Zealand and South Seas Exhibition (1889) · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 达尼丁 · New Zealand and South Seas Exhibition (1889), following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_8ecbf0a19375c444"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://nzhistory.govt.nz/media/photo/new-zealands-eiffel-tower"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ph-dipolog-city-dipolog": {
+      "entityId": "ph-dipolog-city-dipolog",
+      "city": "第波罗",
+      "countryCode": "PH",
+      "title": {
+        "zh-CN": "第波罗·Dipolog铁塔（候选） · 灯光构想",
+        "en": "第波罗 · Dipolog · model light study",
+        "fr": "第波罗 · Dipolog · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 第波罗 · Dipolog, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ph-megamall-temporary-display": {
+      "entityId": "ph-megamall-temporary-display",
+      "city": "地点未定",
+      "countryCode": "PH",
+      "title": {
+        "zh-CN": "Megamall 临时埃菲尔模型记录 · 灯光构想",
+        "en": "地点未定 · Megamall · model light study",
+        "fr": "地点未定 · Megamall · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 地点未定 · Megamall, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5aa838a1ea53f50b",
+        "src_1f28211647df1e97"
+      ],
+      "appearanceSources": [
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Philippines.php",
+        "https://www.merveilles-du-monde.com/Tour-Eiffel/Repliques/Copies-de-la-tour-Eiffel-aux-Philippines.php"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "pk-karachi-bent-tower-with-a-lamp-on-top": {
+      "entityId": "pk-karachi-bent-tower-with-a-lamp-on-top",
+      "city": "卡拉奇",
+      "countryCode": "PK",
+      "title": {
+        "zh-CN": "Karachi埃菲尔铁塔候选（Bent tower with a lamp on top） · 灯光构想",
+        "en": "卡拉奇 · Bent tower with a lamp on top · model light study",
+        "fr": "卡拉奇 · Bent tower with a lamp on top · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 卡拉奇 · Bent tower with a lamp on top, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/place/Asim+Jofa+Salea/@24.8230028,67.0350494,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNCsFRPc05sSy610KpkHPlZ5dVUW-u9WI6Z7Qoi!2e10!3e12!7i1080!8i1920!4m16!1m8!3m7!1s0x3eb33d9642b1e0a7:0x42167008c5bf070b!2sAsim+Jofa+Salea!8m2!3d24.8230771!4d67.035162!10e5!16s%2Fg%2F11gs0wnzpm!3m6!1s0x3eb33d9642b1e0a7:0x42167008c5bf070b!8m2!3d24.8230771!4d67.035162!10e5!16s%2Fg%2F11gs0wnzpm?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "pl-gliwice-gliwice-radio-tower": {
+      "entityId": "pl-gliwice-gliwice-radio-tower",
+      "city": "格利维采",
+      "countryCode": "PL",
+      "title": {
+        "zh-CN": "格利维采·Gliwice Radio Tower铁塔（相似建筑候选） · 灯光构想",
+        "en": "格利维采 · Gliwice Radio Tower · model light study",
+        "fr": "格利维采 · Gliwice Radio Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 格利维采 · Gliwice Radio Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_5e1661be0e1690ff"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Gliwice_Radiostacja_DSC_9386.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Gliwice_Radio_Tower"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "rs-belgrade-avalski-toranj": {
+      "entityId": "rs-belgrade-avalski-toranj",
+      "city": "贝尔格莱德",
+      "countryCode": "RS",
+      "title": {
+        "zh-CN": "贝尔格莱德·Avalski toranj铁塔（相似建筑候选） · 灯光构想",
+        "en": "贝尔格莱德 · Avalski toranj · model light study",
+        "fr": "贝尔格莱德 · Avalski toranj · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 贝尔格莱德 · Avalski toranj, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_f42065e24241bc4d"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Avala_Tower.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Avala_Tower"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "rs-lozovik-tower-in-a-garden": {
+      "entityId": "rs-lozovik-tower-in-a-garden",
+      "city": "洛佐维克",
+      "countryCode": "RS",
+      "title": {
+        "zh-CN": "Lozovik埃菲尔铁塔候选（Tower in a garden） · 灯光构想",
+        "en": "洛佐维克 · Tower in a garden · model light study",
+        "fr": "洛佐维克 · Tower in a garden · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 洛佐维克 · Tower in a garden, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "rs-velika-plana-tower-in-a-front-garden": {
+      "entityId": "rs-velika-plana-tower-in-a-front-garden",
+      "city": "大普拉纳",
+      "countryCode": "RS",
+      "title": {
+        "zh-CN": "Velika Plana埃菲尔铁塔候选（Tower in a front garden） · 灯光构想",
+        "en": "大普拉纳 · Tower in a front garden · model light study",
+        "fr": "大普拉纳 · Tower in a front garden · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 大普拉纳 · Tower in a front garden, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_05112a04bd677070"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/place/Eiffel+Tower/@44.3362113,21.0603437,126a,75y,195.01h,93.86t/data=!3m7!1e1!3m5!1sqkXVDrUcRH-yCLrWSmPiCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8599999999999994%26panoid%3DqkXVDrUcRH-yCLrWSmPiCg%26yaw%3D195.01!7i13312!8i6656!4m7!3m6!1s0x4750d13b4139ffd9:0xb983c2708a75688!8m2!3d44.3361613!4d21.0606277!10e5!16s%2Fg%2F11s5cwh2_v?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://api.openstreetmap.org/api/0.6/nodes?nodes=8307389297%2C4812418823%2C10836985692%2C4316268408%2C11499726120%2C7533302183%2C4100356882%2C9826770955%2C8026487358%2C11898399510%2C7308805064%2C7107573881%2C5230713820%2C8296308417%2C4755549070"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ru-beliy-island-eiffel-tower-of-the-arctic": {
+      "entityId": "ru-beliy-island-eiffel-tower-of-the-arctic",
+      "city": "别雷岛",
+      "countryCode": "RU",
+      "title": {
+        "zh-CN": "别雷岛木灯塔（相似构筑物） · 灯光构想",
+        "en": "别雷岛 · Eiffel Tower of the Arctic · model light study",
+        "fr": "别雷岛 · Eiffel Tower of the Arctic · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 别雷岛 · Eiffel Tower of the Arctic, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_0d7b660f497ef2ac"
+      ],
+      "appearanceSources": [
+        "https://rgo.ru/activity/redaction/articles/kak-poyavilas-eyfeleva-bashnya-v-rossiyskom-zapolyare/",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ru-ekaterinoslavka-edge-of-town": {
+      "entityId": "ru-ekaterinoslavka-edge-of-town",
+      "city": "Ekaterinoslavka",
+      "countryCode": "RU",
+      "title": {
+        "zh-CN": "Ekaterinoslavka·城镇边缘铁塔（候选） · 灯光构想",
+        "en": "Ekaterinoslavka · Edge of town · model light study",
+        "fr": "Ekaterinoslavka · Edge of town · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for Ekaterinoslavka · Edge of town, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ru-irkutsk-small-tower": {
+      "entityId": "ru-irkutsk-small-tower",
+      "city": "伊尔库茨克",
+      "countryCode": "RU",
+      "title": {
+        "zh-CN": "Irkutsk埃菲尔铁塔候选（Small tower） · 灯光构想",
+        "en": "伊尔库茨克 · Small tower · model light study",
+        "fr": "伊尔库茨克 · Small tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 伊尔库茨克 · Small tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower": {
+      "entityId": "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower",
+      "city": "莫赫索戈洛赫",
+      "countryCode": "RU",
+      "title": {
+        "zh-CN": "Mokhsogollokh, Sakha Republic埃菲尔铁塔候选（The Mini Eiffel Tower） · 灯光构想",
+        "en": "莫赫索戈洛赫 · The Mini Eiffel Tower · model light study",
+        "fr": "莫赫索戈洛赫 · The Mini Eiffel Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 莫赫索戈洛赫 · The Mini Eiffel Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ru-moscow-moskabelmet-factory": {
+      "entityId": "ru-moscow-moskabelmet-factory",
+      "city": "莫斯科",
+      "countryCode": "RU",
+      "title": {
+        "zh-CN": "Moscow埃菲尔铁塔候选（Moskabelmet Factory） · 灯光构想",
+        "en": "莫斯科 · Moskabelmet Factory · model light study",
+        "fr": "莫斯科 · Moskabelmet Factory · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 莫斯科 · Moskabelmet Factory, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/place/Moskabel'met/@55.7458731,37.7165033,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipP3OIeUikNpLEy_5VIFFonlj3KLTLqlw99zSSmO!2e10!3e12!7i2473!8i4643!4m20!1m10!3m9!1s0x46b54aae0b212e2f:0x1695156c4c3659f2!2sMoskabel'met!8m2!3d55.7458299!4d37.7161751!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tdg6gmc!3m8!1s0x46b54aae0b212e2f:0x1695156c4c3659f2!8m2!3d55.7458299!4d37.7161751!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1tdg6gmc?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ru-nazran-replica-in-residential-area": {
+      "entityId": "ru-nazran-replica-in-residential-area",
+      "city": "纳兹兰",
+      "countryCode": "RU",
+      "title": {
+        "zh-CN": "纳兹兰·住宅区复制塔铁塔（候选） · 灯光构想",
+        "en": "纳兹兰 · Replica in residential area · model light study",
+        "fr": "纳兹兰 · Replica in residential area · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 纳兹兰 · Replica in residential area, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/@43.2315207,44.7682062,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNPhEGXLqvZVmwWwh1QpdJ7Eu2dxamQhAXGqqrd!2e10!3e12!7i3120!8i4160?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ru-st-petersburg-saint-petersburg-tv-tower": {
+      "entityId": "ru-st-petersburg-saint-petersburg-tv-tower",
+      "city": "圣彼得堡",
+      "countryCode": "RU",
+      "title": {
+        "zh-CN": "圣彼得堡·Saint Petersburg TV Tower铁塔（相似建筑候选） · 灯光构想",
+        "en": "圣彼得堡 · Saint Petersburg TV Tower · model light study",
+        "fr": "圣彼得堡 · Saint Petersburg TV Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 圣彼得堡 · Saint Petersburg TV Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_ab1a07c93511e1b7"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:Television_Tower_SPB_(img2).jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Saint_Petersburg_TV_Tower"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "sv-san-salvador-inti-tower": {
+      "entityId": "sv-san-salvador-inti-tower",
+      "city": "圣萨尔瓦多",
+      "countryCode": "SV",
+      "title": {
+        "zh-CN": "圣萨尔瓦多·INTI Tower铁塔（候选） · 灯光构想",
+        "en": "圣萨尔瓦多 · INTI Tower · model light study",
+        "fr": "圣萨尔瓦多 · INTI Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 圣萨尔瓦多 · INTI Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "tw-chiayi-clock-tower": {
+      "entityId": "tw-chiayi-clock-tower",
+      "city": "嘉义",
+      "countryCode": "TW",
+      "title": {
+        "zh-CN": "嘉义·时钟塔（相似建筑候选） · 灯光构想",
+        "en": "嘉义 · Clock tower · model light study",
+        "fr": "嘉义 · Clock tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 嘉义 · Clock tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@23.4799937,120.4498552,38a,75y,59.71h,109.65t/data=!3m7!1e1!3m5!1sUFg2diUTlYVj2OchP_XeAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.650000000000006%26panoid%3DUFg2diUTlYVj2OchP_XeAA%26yaw%3D59.71!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "tw-taipei-shopping-street": {
+      "entityId": "tw-taipei-shopping-street",
+      "city": "台北",
+      "countryCode": "TW",
+      "title": {
+        "zh-CN": "Taipei埃菲尔铁塔候选（Shopping Street） · 灯光构想",
+        "en": "台北 · Shopping Street · model light study",
+        "fr": "台北 · Shopping Street · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 台北 · Shopping Street, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "tw-taoyuan-baleng-tower": {
+      "entityId": "tw-taoyuan-baleng-tower",
+      "city": "桃园",
+      "countryCode": "TW",
+      "title": {
+        "zh-CN": "巴陵防灾广播塔（相似构筑物） · 灯光构想",
+        "en": "桃园 · Baleng Tower · model light study",
+        "fr": "桃园 · Baleng Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 桃园 · Baleng Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_31518ec1c367b65f"
+      ],
+      "appearanceSources": [
+        "https://www.cna.com.tw/news/aloc/201807180232.aspx",
+        "https://www.google.de/maps/@24.684811,121.3953047,3a,75y,179.04h,106.31t/data=!3m8!1e1!3m6!1sAF1QipOX1-KJ9KcX9llv2Ro32oWOCFDEOVYNrm6UqgQq!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOX1-KJ9KcX9llv2Ro32oWOCFDEOVYNrm6UqgQq%3Dw900-h600-k-no-pi-16.310000000000002-ya126.03999999999999-ro0-fo100!7i10752!8i4788?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach": {
+      "entityId": "ua-bohorodchans-kyi-pilgrimage-center-of-symeon-lukach",
+      "city": "Starunia",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "Starunia朝圣中心金属十字架（相似构筑物） · 灯光构想",
+        "en": "Starunia · Pilgrimage Center of Symeon Lukach · model light study",
+        "fr": "Starunia · Pilgrimage Center of Symeon Lukach · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for Starunia · Pilgrimage Center of Symeon Lukach, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_6e696f2d32f81ffc"
+      ],
+      "appearanceSources": [
+        "https://svmlukach.org.ua/u-staruni-vpershe-zasvityly-hrest-na-vershyni-hresnoyi-dorogy/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ua-hertsa-notary-office": {
+      "entityId": "ua-hertsa-notary-office",
+      "city": "Hertsa",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "Hertsa·Notary Office铁塔（候选） · 灯光构想",
+        "en": "Hertsa · Notary Office · model light study",
+        "fr": "Hertsa · Notary Office · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for Hertsa · Notary Office, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ua-kamyanets-podilskyi-margaret-pizzeria": {
+      "entityId": "ua-kamyanets-podilskyi-margaret-pizzeria",
+      "city": "Kamyanets-Podilskyi",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "Kamyanets-Podilskyi·\"Margaret\" pizzeria铁塔（候选） · 灯光构想",
+        "en": "Kamyanets-Podilskyi · \"Margaret\" pizzeria · model light study",
+        "fr": "Kamyanets-Podilskyi · \"Margaret\" pizzeria · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for Kamyanets-Podilskyi · \"Margaret\" pizzeria, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ua-kostyantynikka-euro-city-restaurant": {
+      "entityId": "ua-kostyantynikka-euro-city-restaurant",
+      "city": "Kostyantynikka",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "Kostyantynikka·'Euro-city' restaurant铁塔（候选） · 灯光构想",
+        "en": "Kostyantynikka · 'Euro-city' restaurant · model light study",
+        "fr": "Kostyantynikka · 'Euro-city' restaurant · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for Kostyantynikka · 'Euro-city' restaurant, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ua-mariupol-paris-cafe": {
+      "entityId": "ua-mariupol-paris-cafe",
+      "city": "马里乌波尔",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "马里乌波尔·'Paris' cafe铁塔（候选） · 灯光构想",
+        "en": "马里乌波尔 · 'Paris' cafe · model light study",
+        "fr": "马里乌波尔 · 'Paris' cafe · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 马里乌波尔 · 'Paris' cafe, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ua-melitopol-on-the-roof-of-a-pharmacy": {
+      "entityId": "ua-melitopol-on-the-roof-of-a-pharmacy",
+      "city": "梅利托波尔",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "梅利托波尔·药店屋顶铁塔（候选） · 灯光构想",
+        "en": "梅利托波尔 · On the roof of a pharmacy · model light study",
+        "fr": "梅利托波尔 · On the roof of a pharmacy · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 梅利托波尔 · On the roof of a pharmacy, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ua-rivne-small-coffee-shop": {
+      "entityId": "ua-rivne-small-coffee-shop",
+      "city": "里夫内",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "里夫内·小咖啡店铁塔（候选） · 灯光构想",
+        "en": "里夫内 · small coffee shop · model light study",
+        "fr": "里夫内 · small coffee shop · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 里夫内 · small coffee shop, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ua-sevastopol-tower-near-a-cafe": {
+      "entityId": "ua-sevastopol-tower-near-a-cafe",
+      "city": "塞瓦斯托波尔",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "塞瓦斯托波尔·咖啡馆附近铁塔（候选） · 灯光构想",
+        "en": "塞瓦斯托波尔 · Tower near a cafe · model light study",
+        "fr": "塞瓦斯托波尔 · Tower near a cafe · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 塞瓦斯托波尔 · Tower near a cafe, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ua-severodonetsk-tower-in-the-yard-of-impuls-institute": {
+      "entityId": "ua-severodonetsk-tower-in-the-yard-of-impuls-institute",
+      "city": "北顿涅茨克",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "北顿涅茨克·Impuls研究所庭院铁塔（候选） · 灯光构想",
+        "en": "北顿涅茨克 · Tower in the yard of Impuls Institute · model light study",
+        "fr": "北顿涅茨克 · Tower in the yard of Impuls Institute · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 北顿涅茨克 · Tower in the yard of Impuls Institute, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "ua-strilkivtsi-ozirna-cave": {
+      "entityId": "ua-strilkivtsi-ozirna-cave",
+      "city": "Strilkivtsi",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "Strilkivtsi·'Ozirna' cave铁塔（候选） · 灯光构想",
+        "en": "Strilkivtsi · 'Ozirna' cave · model light study",
+        "fr": "Strilkivtsi · 'Ozirna' cave · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for Strilkivtsi · 'Ozirna' cave, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "ua-uman-uman-eiffel-tower": {
+      "entityId": "ua-uman-uman-eiffel-tower",
+      "city": "乌曼",
+      "countryCode": "UA",
+      "title": {
+        "zh-CN": "Uman埃菲尔铁塔候选（Uman Eiffel Tower） · 灯光构想",
+        "en": "乌曼 · Uman Eiffel Tower · model light study",
+        "fr": "乌曼 · Uman Eiffel Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 乌曼 · Uman Eiffel Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "us-abington-ma-back-yard-tower": {
+      "entityId": "us-abington-ma-back-yard-tower",
+      "city": "马萨诸塞州阿宾顿",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Abington, MA埃菲尔铁塔候选（Back Yard Tower） · 灯光构想",
+        "en": "马萨诸塞州阿宾顿 · Back Yard Tower · model light study",
+        "fr": "马萨诸塞州阿宾顿 · Back Yard Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 马萨诸塞州阿宾顿 · Back Yard Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "us-bemidji-lac-du-bois": {
+      "entityId": "us-bemidji-lac-du-bois",
+      "city": "伯米吉",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "美国 Lac du Bois 法语营地铁塔 · 灯光构想",
+        "en": "伯米吉 · Concordia Language Villages, Lac du Bois · model light study",
+        "fr": "伯米吉 · Concordia Language Villages, Lac du Bois · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 伯米吉 · Concordia Language Villages, Lac du Bois, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_60c86df1603579ff",
+        "src_c6904933369a0515"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:LacDuBoisEiffelTower.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Models_of_the_Eiffel_Tower"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "us-columbus-oh-liberty-street-tower": {
+      "entityId": "us-columbus-oh-liberty-street-tower",
+      "city": "俄亥俄州哥伦布",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Columbus, OH埃菲尔铁塔候选（Liberty Street Tower） · 灯光构想",
+        "en": "俄亥俄州哥伦布 · Liberty Street Tower · model light study",
+        "fr": "俄亥俄州哥伦布 · Liberty Street Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 俄亥俄州哥伦布 · Liberty Street Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "us-corona-ny-louvre-hotel-nyc": {
+      "entityId": "us-corona-ny-louvre-hotel-nyc",
+      "city": "纽约科罗纳",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Corona, NY埃菲尔铁塔候选（Louvre Hotel NYC） · 灯光构想",
+        "en": "纽约科罗纳 · Louvre Hotel NYC · model light study",
+        "fr": "纽约科罗纳 · Louvre Hotel NYC · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for 纽约科罗纳 · Louvre Hotel NYC, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@40.7380128,-73.8499259,12a,75y,316.08h,91.15t/data=!3m7!1e1!3m5!1sgBBFnjOx3EZWwUAECoAoaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1500000000000057%26panoid%3DgBBFnjOx3EZWwUAECoAoaw%26yaw%3D316.08!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "us-fountain-valley-ca-mini-golf-eiffel-tower": {
+      "entityId": "us-fountain-valley-ca-mini-golf-eiffel-tower",
+      "city": "加利福尼亚州芳泉谷",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Fountain Valley, CA埃菲尔铁塔候选（Mini golf Eiffel Tower） · 灯光构想",
+        "en": "加利福尼亚州芳泉谷 · Mini golf Eiffel Tower · model light study",
+        "fr": "加利福尼亚州芳泉谷 · Mini golf Eiffel Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 加利福尼亚州芳泉谷 · Mini golf Eiffel Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "us-glendale-americana-at-brand": {
+      "entityId": "us-glendale-americana-at-brand",
+      "city": "格伦代尔",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "格伦代尔·Americana at Brand铁塔（相似建筑候选） · 灯光构想",
+        "en": "格伦代尔 · Americana at Brand · model light study",
+        "fr": "格伦代尔 · Americana at Brand · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 格伦代尔 · Americana at Brand, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_4e4e406e859687dc"
+      ],
+      "appearanceSources": [
+        "https://live.staticflickr.com/2043/2461662267_86284e78d8_b.jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://sah-archipedia.org/buildings/CA-01-037-0093"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "us-lacrosse-wi-mini-golf-eiffel-tower": {
+      "entityId": "us-lacrosse-wi-mini-golf-eiffel-tower",
+      "city": "威斯康星州拉克罗斯",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Lacrosse, WI埃菲尔铁塔候选（Mini golf Eiffel Tower） · 灯光构想",
+        "en": "威斯康星州拉克罗斯 · Mini golf Eiffel Tower · model light study",
+        "fr": "威斯康星州拉克罗斯 · Mini golf Eiffel Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 威斯康星州拉克罗斯 · Mini golf Eiffel Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "us-leonia-nj-tower-in-a-garden": {
+      "entityId": "us-leonia-nj-tower-in-a-garden",
+      "city": "新泽西州利奥尼亚",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Leonia, NJ埃菲尔铁塔候选（Tower in a garden） · 灯光构想",
+        "en": "新泽西州利奥尼亚 · Tower in a garden · model light study",
+        "fr": "新泽西州利奥尼亚 · Tower in a garden · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 新泽西州利奥尼亚 · Tower in a garden, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "us-mount-clemens-michigan-harper-metro-mini-golf": {
+      "entityId": "us-mount-clemens-michigan-harper-metro-mini-golf",
+      "city": "Mount Clemens, Michigan",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Mount Clemens, Michigan·Harper Metro Mini Golf铁塔（候选） · 灯光构想",
+        "en": "Mount Clemens, Michigan · Harper Metro Mini Golf · model light study",
+        "fr": "Mount Clemens, Michigan · Harper Metro Mini Golf · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for Mount Clemens, Michigan · Harper Metro Mini Golf, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "us-napa-napa-county-courthouse": {
+      "entityId": "us-napa-napa-county-courthouse",
+      "city": "加利福尼亚州纳帕",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "美国Napa法院铁塔模型 · 灯光构想",
+        "en": "加利福尼亚州纳帕 · Superior Courthouse grounds · model light study",
+        "fr": "加利福尼亚州纳帕 · Superior Courthouse grounds · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 加利福尼亚州纳帕 · Superior Courthouse grounds, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_a558269fcf1c4022",
+        "src_02edcb5e9368c154",
+        "src_225c220e7fa859f9",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@38.2981003,-122.2857283,8a,90y,166.03h,107.41t/data=!3m8!1e1!3m6!1sZvNZ7AknMpNvCPrJYhP6zQ!2e0!5s20210101T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.409999999999997%26panoid%3DZvNZ7AknMpNvCPrJYhP6zQ%26yaw%3D166.03!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://www.hmdb.org/m.asp?m=16404",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "us-riverside-ca-indoor-mini-golf-eiffel-tower": {
+      "entityId": "us-riverside-ca-indoor-mini-golf-eiffel-tower",
+      "city": "加利福尼亚州里弗赛德",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Riverside, CA埃菲尔铁塔候选（Indoor mini golf Eiffel Tower） · 灯光构想",
+        "en": "加利福尼亚州里弗赛德 · Indoor mini golf Eiffel Tower · model light study",
+        "fr": "加利福尼亚州里弗赛德 · Indoor mini golf Eiffel Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 加利福尼亚州里弗赛德 · Indoor mini golf Eiffel Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.com/maps/place/GLO+Mini+Golf+%7CArcade+%7C+Virtual+Reality+%7C+Ice+Cream+Bar/@33.9100025,-117.4564953,3a,75y,20h,90t/data=!3m8!1e1!3m6!1sAF1QipNZhmHSl4wDWEyrq8hfYbGfdjVetPpaJKF-vyWJ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNZhmHSl4wDWEyrq8hfYbGfdjVetPpaJKF-vyWJ%3Dw900-h600-k-no-pi0-ya91.09750366210938-ro0-fo100!7i11896!8i5948!4m9!3m8!1s0x80dcb74ac7904627:0x97b563ee7acde9c2!8m2!3d33.9098509!4d-117.4567082!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bwd2hl9n?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "us-roanoke-front-yard-tower": {
+      "entityId": "us-roanoke-front-yard-tower",
+      "city": "罗阿诺克",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Roanoke埃菲尔铁塔候选（Front Yard Tower） · 灯光构想",
+        "en": "罗阿诺克 · Front Yard Tower · model light study",
+        "fr": "罗阿诺克 · Front Yard Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 罗阿诺克 · Front Yard Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "us-skokie-il-mini-golf-eiffel-tower": {
+      "entityId": "us-skokie-il-mini-golf-eiffel-tower",
+      "city": "伊利诺伊州斯科基",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Skokie, IL埃菲尔铁塔候选（Mini golf Eiffel Tower） · 灯光构想",
+        "en": "伊利诺伊州斯科基 · Mini golf Eiffel Tower · model light study",
+        "fr": "伊利诺伊州斯科基 · Mini golf Eiffel Tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#b4c98f",
+        "#8ab7c2",
+        "#e5d4aa"
+      ],
+      "mode": "river-ripple",
+      "cue": "Original light rhythm for 伊利诺伊州斯科基 · Mini golf Eiffel Tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_12b45bac0ddd5189"
+      ],
+      "appearanceSources": [
+        "https://hanabiboy.blogspot.com/2012/04/miniature-golf.html",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.skokieparks.org/skokie-sports-park/"
+      ],
+      "tempo": 0.75,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "entityId": "us-taylor-michigan-vinson-s-miniature-golf",
+      "city": "Taylor, Michigan",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Taylor, Michigan·Vinson’s Miniature Golf铁塔（候选） · 灯光构想",
+        "en": "Taylor, Michigan · Vinson’s Miniature Golf · model light study",
+        "fr": "Taylor, Michigan · Vinson’s Miniature Golf · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#86aa9b",
+        "#d0c198",
+        "#dfddd0"
+      ],
+      "mode": "aurora-flow",
+      "cue": "Original light rhythm for Taylor, Michigan · Vinson’s Miniature Golf, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac",
+        "src_ff03840506313284"
+      ],
+      "appearanceSources": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.loc.gov/item/2017705257/"
+      ],
+      "tempo": 0.9500000000000001,
+      "waveScale": 5,
+      "direction": 1
+    },
+    "us-washington-dc-tower-on-a-restaurant-roof": {
+      "entityId": "us-washington-dc-tower-on-a-restaurant-roof",
+      "city": "华盛顿哥伦比亚特区",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Washington DC埃菲尔铁塔候选（Tower on a restaurant roof） · 灯光构想",
+        "en": "华盛顿哥伦比亚特区 · Tower on a restaurant roof · model light study",
+        "fr": "华盛顿哥伦比亚特区 · Tower on a restaurant roof · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 华盛顿哥伦比亚特区 · Tower on a restaurant roof, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@38.9169925,-77.0419562,37a,75y,29.52h,94.76t/data=!3m7!1e1!3m5!1s8MLZvOF6OasLNfKYcGvg0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.760000000000005%26panoid%3D8MLZvOF6OasLNfKYcGvg0w%26yaw%3D29.52!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "us-wellfleet-comment-replica": {
+      "entityId": "us-wellfleet-comment-replica",
+      "city": "马萨诸塞州韦尔弗利特",
+      "countryCode": "US",
+      "title": {
+        "zh-CN": "Wellfleet埃菲尔模型安装方案 · 灯光构想",
+        "en": "马萨诸塞州韦尔弗利特 · us-wellfleet-comment-replica · model light study",
+        "fr": "马萨诸塞州韦尔弗利特 · us-wellfleet-comment-replica · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 马萨诸塞州韦尔弗利特 · us-wellfleet-comment-replica, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_eeb4932e55c611f7",
+        "src_0193ce3bec84fc0f"
+      ],
+      "appearanceSources": [
+        "https://www.reddit.com/r/architecture/comments/1wxc1z0/map_of_all_the_eiffel_towers_found_across_the/",
+        "https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "vn-da-lat-viettel-telecommunication-tower": {
+      "entityId": "vn-da-lat-viettel-telecommunication-tower",
+      "city": "大叻",
+      "countryCode": "VN",
+      "title": {
+        "zh-CN": "Da Lat埃菲尔铁塔候选（Viettel telecommunication tower） · 灯光构想",
+        "en": "大叻 · Viettel telecommunication tower · model light study",
+        "fr": "大叻 · Viettel telecommunication tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 大叻 · Viettel telecommunication tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "vn-dalat-post-office-unresolved": {
+      "entityId": "vn-dalat-post-office-unresolved",
+      "city": "大叻",
+      "countryCode": "VN",
+      "title": {
+        "zh-CN": "Da Lat 邮政通信塔（关系待核，默认排除） · 灯光构想",
+        "en": "大叻 · VNPT telecommunications tower · model light study",
+        "fr": "大叻 · VNPT telecommunications tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 大叻 · VNPT telecommunications tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_4ce8823770b0c2e7",
+        "src_ac7aac2496fdf218"
+      ],
+      "appearanceSources": [
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Vietnam.php",
+        "https://stepintovietnam.com/dalat-vietnam-attractions"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "vn-ha-giang-communication-tower": {
+      "entityId": "vn-ha-giang-communication-tower",
+      "city": "河江",
+      "countryCode": "VN",
+      "title": {
+        "zh-CN": "河江·通信塔（相似建筑候选） · 灯光构想",
+        "en": "河江 · Communication tower · model light study",
+        "fr": "河江 · Communication tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#8fbdc6",
+        "#e5d3ab",
+        "#bc8a88"
+      ],
+      "mode": "waltz",
+      "cue": "Original light rhythm for 河江 · Communication tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_de_Ha_Giang_(47677739971).jpg",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.65,
+      "waveScale": 5,
+      "direction": -1
+    },
+    "vn-phu-thuy-tall-mast-like-tower": {
+      "entityId": "vn-phu-thuy-tall-mast-like-tower",
+      "city": "富水",
+      "countryCode": "VN",
+      "title": {
+        "zh-CN": "Phú Thúy埃菲尔铁塔候选（Tall mast like tower） · 灯光构想",
+        "en": "富水 · Tall mast like tower · model light study",
+        "fr": "富水 · Tall mast like tower · étude lumineuse du modèle"
+      },
+      "palette": "authored-reference",
+      "colors": [
+        "#bc9486",
+        "#e0cba0",
+        "#919dd0"
+      ],
+      "mode": "jewel-chase",
+      "cue": "Original light rhythm for 富水 · Tall mast like tower, following the normalized model structure; not a record of an installed site show.",
+      "scope": "original-art-inspired-by-place-not-site-show",
+      "localitySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
+      "appearanceSources": [
+        "https://www.google.de/maps/@10.9337013,108.1152592,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipPQqStCVEQ1V_xjTLEMHE1cLO4Q4T9C0Dweq33d!2e10!3e12!7i3456!8i4608?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "tempo": 0.8500000000000001,
+      "waveScale": 5,
+      "direction": -1
     }
   }
 }

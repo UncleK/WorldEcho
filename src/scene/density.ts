@@ -1,5 +1,11 @@
 import type { SceneTower } from '../types';
 import { exhibitionHeightMetres } from '../domain/display-height.mjs';
+import modelFraming from '../../data/model-framing.v1.json' with {type:'json'};
+
+/** Only wide horizontal exhibits need a separate footprint and camera envelope. */
+export function wideModelEnvelope(tower:SceneTower):{width:number;height:number;depth:number}|null {
+  return tower.modelKey?(modelFraming.entries as Record<string,{width:number;height:number;depth:number}>)[tower.modelKey]??null:null;
+}
 
 export interface TowerCluster { representative: SceneTower; members: SceneTower[] }
 export type ModelPresentation = 'overview' | 'region';
@@ -12,12 +18,13 @@ export function modelPresentation(cameraMode: 'overview' | 'focus', _scale: numb
 /** Display-only, compressed at the tall end. The comparison stage never uses this function. */
 export function exhibitTowerHeight(tower: SceneTower, scale = 1): number | null {
   const finiteScale = Number.isFinite(scale) ? Math.max(0.1, Math.min(1.6, scale)) : 1;
-  if(tower.modelScope==='visible-section')return tower.modelKey?0.055*finiteScale:null;
+  const widthCompression=Math.max(1,(wideModelEnvelope(tower)?.width??0)/1.4);
+  if(tower.modelScope==='visible-section')return tower.modelKey?0.055*finiteScale/widthCompression:null;
   const height=exhibitionHeightMetres(tower);
-  if(height===null)return tower.heightM===null&&tower.modelKey?0.055*finiteScale:null;
+  if(height===null)return tower.heightM===null&&tower.modelKey?0.055*finiteScale/widthCompression:null;
   // Keep Paris near its established .28 display height, with much less of the
   // old .07 minimum that made 1m, 5m and 20m structures look alike.
-  return Math.min(.33,.01+.27*Math.pow(height/330,.66))*finiteScale;
+  return Math.min(.33,.01+.27*Math.pow(height/330,.66))*finiteScale/widthCompression;
 }
 
 export function hasExhibitModel(tower: SceneTower): boolean {
@@ -27,7 +34,8 @@ export function hasExhibitModel(tower: SceneTower): boolean {
 /** Approximate footprint radius of the displayed miniature, not a real-world geographic buffer. */
 export function exhibitFootprint(tower: SceneTower, scale = 1): number {
   const finiteScale = Number.isFinite(scale) ? Math.max(0.1, Math.min(1.6, scale)) : 1;
-  return hasExhibitModel(tower) ? (exhibitTowerHeight(tower, finiteScale) ?? 0) * 0.24 : 0.0025 * finiteScale;
+  const wide=wideModelEnvelope(tower);
+  return hasExhibitModel(tower) ? (exhibitTowerHeight(tower, finiteScale) ?? 0) * (wide?Math.hypot(wide.width,wide.depth)/2:.24) : 0.0025 * finiteScale;
 }
 
 export function angularDistance(a: SceneTower, b: SceneTower): number {
