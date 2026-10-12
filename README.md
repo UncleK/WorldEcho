@@ -63,6 +63,8 @@ pnpm preview
 
 The public checkout includes code and public data snapshots. Original third-party reference photographs and the private research working archive are not bundled as openly licensed assets. See [the export notes](docs/EXPORT.md) for what is included and how the public build is prepared.
 
+The default view prioritizes the original tower, clear replicas and closely related local versions. The library contains 533 browsable models, including 51 illustrations with unconfirmed appearance or identity. Related architecture and unconfirmed illustrations are hidden by default and enabled through separate filters. An illustration does not establish photographic verification, measured dimensions or current existence.
+
 ## Built to be inspectable
 
 The project keeps reference images, observed features, inferred additions, model recipes and visual-review decisions distinct. A source-photo comparison and rendered-model review are separate from a code or geometry check. Night lighting is either based on a documented photo palette or described as a locally inspired original design.

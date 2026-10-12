@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-11T19:18:48.250Z",
+  "generatedAt": "2026-10-12T05:21:09.677Z",
   "entries": [
     {
       "id": "ad-andorra-tower-at-a-restaurant",
@@ -187,11 +187,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ae-dubai-falconcity-of-wonders",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -201,8 +201,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "对象身份与复刻关系待核。",
@@ -212,7 +215,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -236,6 +238,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour à identifier — Dubai · Falconcity of Wonders (fiche de recherche)"
     },
     {
@@ -670,11 +687,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "am-yerevan-club-parisian",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -684,8 +701,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -694,7 +714,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://twitter.com/vascopolaco/status/1370341044232069121"
       ],
@@ -719,6 +738,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Yerevan · Club Parisian (fiche de recherche)"
     },
     {
@@ -1912,23 +1946,40 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "at-zwingendorf-back-garden-tower-built-by-twin-brothers",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Back garden tower built by twin brothers”记录在奥地利的Zwingendorf。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "photos": [
+        {
+          "id": "img_7f02e16e4c49ef99",
+          "pageUrl": "https://www.grossharras.gv.at/system/web/GetDocument.ashx?cts=1740943141&fileId=2985693&gnr_search=1121&menuonr=218470753",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_7f02e16e4c49ef99-100d692d44de.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_7f02e16e4c49ef99-100d692d44de-thumb.webp",
+          "author": "Susanne Bauer",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://www.grossharras.gv.at/system/web/GetDocument.ashx?cts=1740943141&fileId=2985693&gnr_search=1121&menuonr=218470753"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "Jon Worth的地图将“Back garden tower built by twin brothers”记录在奥地利的Zwingendorf。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n金色四腿桁架，两个薄平台、密集交叉撑杆和开放圆顶塔冠。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
       "summarySourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_ca77591bcaefb773"
       ],
       "uses": [],
       "gaps": [
@@ -1937,16 +1988,20 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_ca77591bcaefb773"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "核实实体身份、永久设置及当前现状；补运营方或政府来源。",
@@ -1965,6 +2020,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "金色四腿桁架，两个薄平台、密集交叉撑杆和开放圆顶塔冠。"
+          ],
+          "en": [
+            "Golden four-legged lattice, two thin decks, dense cross bracing and an open domed crown."
+          ],
+          "fr": [
+            "Treillis doré à quatre pieds, deux plateformes fines, croisillons serrés et couronnement ajouré."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_7f02e16e4c49ef99"
+        ]
+      },
       "nameFr": "Tour de jardin construite par deux frères jumeaux — Zwingendorf"
     },
     {
@@ -2431,11 +2503,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "az-baku-eiffel-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -2445,8 +2517,13 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_6a36e7b51b8553ae"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -2455,7 +2532,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://en.trend.az/azerbaijan/politics/1055741.html",
         "资料页明确Sahil商场Parfums deFrance入口约3m复制塔，页面没有单塔事件/拍摄日，当前现状与精确塔体点仍未解。"
@@ -2485,6 +2561,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Baku · Tour Eiffel (fiche de recherche)"
     },
     {
@@ -2526,11 +2617,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "az-nakhchivan-yl-nc-adas",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -2540,7 +2631,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Əyləncə Adası”记录在阿塞拜疆的纳希切万。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“Əyləncə Adası”记录在阿塞拜疆的纳希切万。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -2552,7 +2643,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -2579,6 +2669,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour de l’île des loisirs — Nakhchivan"
     },
     {
@@ -3172,11 +3277,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "bo-sucre-parque-simon-bolivar",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "related",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -3202,9 +3307,12 @@
       ],
       "photoCount": 1,
       "displayPhotoCount": 1,
-      "summary": "公园内橙红色小塔带宽敞拱脚、两层观景平台和开敞笼状塔冠；周围人可作宽范围比例参照。",
+      "summary": "公园内橙红色小塔带宽敞拱脚、两层观景平台和开敞笼状塔冠；周围人可作宽范围比例参照。\n\n此模型作为衍生或相似建筑参考，默认隐藏，可通过对应筛选开启；未归为已确认的埃菲尔铁塔复刻。",
       "summarySourceIds": [
-        "src_291d5bc4538778fd"
+        "src_291d5bc4538778fd",
+        "src_b413e52091d224e6",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
       ],
       "uses": [],
       "gaps": [
@@ -3216,7 +3324,6 @@
         "塔体材料缺少明确来源。",
         "目前只有一个实景视角，侧面与细部照片待补。",
         "部分照片拍摄日期未记录。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Bolivia.php"
       ],
@@ -3253,6 +3360,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "公园内橙红色小塔带宽敞拱脚、两层观景平台和开敞笼状塔冠；周围人可作宽范围比例参照。"
+          ],
+          "en": [
+            "Orange-red park tower with open arched feet, two viewing decks and an open cage crown; people provide only a broad scale reference."
+          ],
+          "fr": [
+            "Petite tour orange-rouge dans un parc, larges arcs, deux plateformes panoramiques et sommet en cage ouverte ; personnes utilisables seulement comme repère approximatif."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_9d6ec32396a4d479"
+        ]
+      },
       "nameFr": "Tour à identifier — Sucre · Parque Bolívar (fiche de recherche)"
     },
     {
@@ -4574,11 +4698,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "br-sao-paulo-rooftop-unresolved",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -4588,8 +4712,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_fb11d6b88d8a7e8d"
+      ],
       "uses": [],
       "gaps": [
         "对象身份与复刻关系待核。",
@@ -4599,7 +4725,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -4618,6 +4743,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour à identifier — São Paulo · possible JK Iguatemi rooftop (unverified) (fiche de recherche)"
     },
     {
@@ -5607,7 +5747,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 2,
@@ -6224,11 +6364,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ca-terrebonne-solarium-international",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -6238,8 +6378,12 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_fb11d6b88d8a7e8d",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -6248,7 +6392,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -6281,6 +6424,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Terrebonne, Quebec · Solarium International near Autoroute640 (historical claim) (fiche de recherche)"
     },
     {
@@ -8887,22 +9045,45 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "cn-zhurihe-chinese-army-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "amap"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "photos": [
+        {
+          "id": "img_cf342e752288049b",
+          "pageUrl": "https://www.twz.com/34009/when-you-get-killed-in-a-chinese-wargame-smoke-pops-out-the-top-of-your-helmet",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_cf342e752288049b-c30587c118dd.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_cf342e752288049b-c30587c118dd-thumb.webp",
+          "author": "CCTV",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://www.twz.com/34009/when-you-get-killed-in-a-chinese-wargame-smoke-pops-out-the-top-of-your-helmet"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n公开视频画面中可见灰色桁架、宽平台和收窄上轴；下部与背面仅作比例推测。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
+      "summarySourceIds": [
+        "src_22b4f5abf9c49e69",
+        "src_a558269fcf1c4022",
+        "src_41b8bc2333b1413b",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_55ee7a24a1613f49"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -8910,8 +9091,9 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://www.thedrive.com/the-war-zone/33591/chinas-biggest-base-has-huge-replicas-of-taiwans-presidential-building-and-the-eiffel-tower",
         "2020原文塔照片说明日期为2020-02-11；作者明确复制塔动机不清，约2010建造属于作者判读，不能补成精确工程日、训练用途或100m实测。"
@@ -8921,11 +9103,14 @@
         "src_41b8bc2333b1413b",
         "src_02edcb5e9368c154",
         "src_5ed25144fbea7fac",
-        "src_55ee7a24a1613f49"
+        "src_55ee7a24a1613f49",
+        "src_22b4f5abf9c49e69"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "补一手尺寸、塔体坐标、近年现状与照片",
@@ -8948,6 +9133,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "公开视频画面中可见灰色桁架、宽平台和收窄上轴；下部与背面仅作比例推测。"
+          ],
+          "en": [
+            "A public video still shows grey lattice, wide decks and a tapering shaft; hidden lower and rear details are inferred."
+          ],
+          "fr": [
+            "Une image vidéo publique montre un treillis gris, de larges plateformes et un fût effilé ; parties cachées déduites."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_cf342e752288049b"
+        ]
+      },
       "nameFr": "Tour Eiffel — Zhurihe · Zhurihe Training Base (fiche de recherche)"
     },
     {
@@ -12203,23 +12405,43 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "de-ismaning-bavaria-ismaning-radio-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "related",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": "这是旧木制广播塔的线描图，不是现场照片；轮廓宽脚、长窄上轴和交叉撑杆。",
+      "photos": [
+        {
+          "id": "img_70979e551729ea59",
+          "pageUrl": "https://www.br.de/unternehmen/inhalt/organisation/zwanzigstes-fundstueck-100.html",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_70979e551729ea59-9cad1031503a.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_70979e551729ea59-9cad1031503a-thumb.webp",
+          "author": "BR / Historisches Archiv",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://www.br.de/unternehmen/inhalt/organisation/zwanzigstes-fundstueck-100.html"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "这是旧木制广播塔的线描图，不是现场照片；轮廓宽脚、长窄上轴和交叉撑杆。\n\n历史照片中的木制广播塔为宽脚、长窄上轴和分层横撑，按相关建筑单独展示。\n\n此模型作为衍生或相似建筑参考，默认隐藏，可通过对应筛选开启；未归为已确认的埃菲尔铁塔复刻。",
       "summarySourceIds": [
-        "src_0eb69e694262ec60"
+        "src_0eb69e694262ec60",
+        "src_9bd130a94c640c84",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_f6441b109628989e"
       ],
       "uses": [],
       "gaps": [
@@ -12227,19 +12449,23 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
         "src_a558269fcf1c4022",
         "src_5ed25144fbea7fac",
         "src_f6441b109628989e",
-        "src_0eb69e694262ec60"
+        "src_0eb69e694262ec60",
+        "src_9bd130a94c640c84"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "核实实体身份、永久设置与现状；补运营方或政府事实来源。",
@@ -12254,6 +12480,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "历史照片中的木制广播塔为宽脚、长窄上轴和分层横撑，按相关建筑单独展示。"
+          ],
+          "en": [
+            "The historical wooden transmitter has a broad base, a long narrow shaft and horizontal bracing; shown as related architecture."
+          ],
+          "fr": [
+            "La tour émettrice historique en bois possède une base large, un long fût étroit et des traverses ; architecture apparentée."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_70979e551729ea59"
+        ]
+      },
       "nameFr": "Tour inspirée — Ismaning , Bavaria · Ismaning Radio Tower (fiche de recherche)"
     },
     {
@@ -12873,11 +13116,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "de-meckenheim-rungis-express",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -12887,10 +13130,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "梅肯海姆的Rungis屋顶铁塔仍是需要补证的发现线索，目前没有与这个地点匹配的实物照片或塔体位置。被引的图片对应另一地点，不能据此补入这里的外观、年代或高度。调查记录继续保留，尚未确认存在不等于已经不存在；在获得该处实体资料之前，不把它作为已验证的现存地图塔。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "梅肯海姆的Rungis屋顶铁塔仍是需要补证的发现线索，目前没有与这个地点匹配的实物照片或塔体位置。被引的图片对应另一地点，不能据此补入这里的外观、年代或高度。调查记录继续保留，尚未确认存在不等于已经不存在；在获得该处实体资料之前，不把它作为已验证的现存地图塔。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac",
-        "src_24dae787e5404c67"
+        "src_24dae787e5404c67",
+        "src_02edcb5e9368c154"
       ],
       "uses": [],
       "gaps": [
@@ -12901,7 +13145,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "发现清单声称Rungis屋顶塔，但尚缺具体地点的实物外观、制造/安装/现存证明和塔体点。",
         "不将相同公司名作为Satteldorf/Meckenheim同物迁移依据；不alias合并、不丢旧调查记录。",
@@ -12930,6 +13173,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Piste de tour sur le toit de Rungis, Meckenheim"
     },
     {
@@ -14208,11 +14466,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "dk-slagelse-wooden-tower-at-an-exhibition",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -14222,9 +14480,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Wooden tower at an exhibition”记录在丹麦的斯拉厄尔瑟。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“Wooden tower at an exhibition”记录在丹麦的斯拉厄尔瑟。来源将它归为衍生或相似建筑，作为衍生建筑单独展示。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_4f6a99e4dd719111"
       ],
       "uses": [],
       "gaps": [
@@ -14234,7 +14493,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "来源将此记录列为已拆除或未建成；具体状态与事件日期仍待交叉核对。"
       ],
@@ -14267,6 +14525,21 @@
           "resolution": "collection-policy"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour en bois d’une exposition — Slagelse"
     },
     {
@@ -15527,11 +15800,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -15541,8 +15814,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -15551,7 +15826,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://expressional.social/@notsoloud/110712383463712905"
       ],
@@ -15575,6 +15849,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — San Bartolomé de Tirajana, Canary Islands · Galerie marchande (fiche de recherche)"
     },
     {
@@ -16998,11 +17287,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "fr-biarritz-tower-on-a-house-roof",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -17012,8 +17301,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -17022,7 +17313,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://sociale.network/@AnnaRami/110881605549963473"
       ],
@@ -17046,6 +17336,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Biarritz · Toit d’une maison (fiche de recherche)"
     },
     {
@@ -17088,11 +17393,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "fr-bourgoin-jallieu-copie-de-la-tour-eiffel",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "related",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -17118,11 +17423,12 @@
       ],
       "photoCount": 1,
       "displayPhotoCount": 1,
-      "summary": "旧照片中的“埃菲尔塔”名称线索指向鲁伊的Thézieu城堡塔，地方旅游资料称其Tour des Morts。已纠正原先Bourgoin-Jallieu的地点写法；名字相同不能证明复制关系，这条记录保持关系待核，不进入首期地球或公开复制塔模型。\n\nBourgoin-Jallieu历史明信片中为多层阶梯状地方塔造型，尖顶。 历史影像不能支持2026存在，塔体与普通细钢格构差异大，保留历史候选。",
+      "summary": "旧照片中的“埃菲尔塔”名称线索指向鲁伊的Thézieu城堡塔，地方旅游资料称其Tour des Morts。已纠正原先Bourgoin-Jallieu的地点写法；名字相同不能证明复制关系，这条记录保持关系待核，不进入首期地球或公开复制塔模型。\n\nBourgoin-Jallieu历史明信片中为多层阶梯状地方塔造型，尖顶。 历史影像不能支持2026存在，塔体与普通细钢格构差异大，保留历史候选。\n\n此模型作为衍生或相似建筑参考，默认隐藏，可通过对应筛选开启；未归为已确认的埃菲尔铁塔复刻。",
       "summarySourceIds": [
         "src_568e4ddb9a233cd3",
         "src_40e365b032f6c12d",
-        "src_bb88b9c67839fbe8"
+        "src_bb88b9c67839fbe8",
+        "src_60c86df1603579ff"
       ],
       "uses": [],
       "gaps": [
@@ -17133,7 +17439,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "目前只有一个实景视角，侧面与细部照片待补。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "核明信片对象是否仍存在；永久地图前必须补近年存在证据。"
       ],
@@ -17170,6 +17475,24 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "Bourgoin-Jallieu历史明信片中为多层阶梯状地方塔造型，尖顶。",
+            "历史影像不能支持2026存在，塔体与普通细钢格构差异大，保留历史候选。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Carte postale historique d’une tour locale à niveaux étagés et sommet décoré ; ne prouve pas une présence actuelle."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_bb88b9c67839fbe8"
+        ]
+      },
       "nameFr": "Tour du château de Thézieu à Ruy (ancienne appellation Eiffel)"
     },
     {
@@ -17215,11 +17538,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "fr-breil-rue-des-cedres",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -17229,8 +17552,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_d579228a277d5d87"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -17239,7 +17564,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -17260,6 +17584,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Breil, Maine-et-Loire · Rue des Cèdres (fiche de recherche)"
     },
     {
@@ -19706,11 +20045,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "fr-la-doree-tower-at-a-metal-worker-s-house",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -19720,8 +20059,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -19730,7 +20072,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://twitter.com/celriflo/status/1417151927981314049"
       ],
@@ -19755,6 +20096,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — La Dorée · Maison d’un artisan du métal (fiche de recherche)"
     },
     {
@@ -20655,11 +21011,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "fr-menton-copy",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -20669,8 +21025,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_b413e52091d224e6",
+        "src_f4f34bbb86be0600"
+      ],
       "uses": [],
       "gaps": [
         "对象身份与复刻关系待核。",
@@ -20680,9 +21039,7 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
-        "未完成任何图像像素观察；本片段features的verification仅能为text。",
         "单塔建造/首次开放/改造或搬迁日期未取得可明确归属的证据；不使用园区开业、报道、拍摄或上传日替代。",
         "单塔材料缺一手或明确现场文字，不根据外形默认写钢，也不由图片文件名推断。",
         "当前日间涂装/局部色彩未得到可归属版本的证据，灯光色未混入漆色。",
@@ -20704,8 +21061,28 @@
         {
           "text": "补地方官方/运营方、高度端点、塔体点位与具体实景图片许可",
           "resolution": "field-checklist"
+        },
+        {
+          "text": "未完成任何图像像素观察；本片段features的verification仅能为text。",
+          "resolution": "visual-review",
+          "checkedAt": "2026-10-12"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour à identifier — Menton (fiche de recherche)"
     },
     {
@@ -20749,30 +21126,51 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "fr-menton-tower-with-lemons",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "photos": [
+        {
+          "id": "img_8055c5a1b521d615",
+          "pageUrl": "https://www.weloveprovence.fr/Alpes-Maritimes/Menton/photo-6915959475-Fete-du-Citron-a-Menton-la-Tour-Eiffel-en-citrons-%21.html",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_8055c5a1b521d615-2e61aae409a5.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_8055c5a1b521d615-2e61aae409a5-thumb.webp",
+          "author": "Office de tourisme de Menton",
+          "capturedAt": "2012-02-17",
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://www.weloveprovence.fr/Alpes-Maritimes/Menton/photo-6915959475-Fete-du-Citron-a-Menton-la-Tour-Eiffel-en-citrons-%21.html"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n2012年柑橘节照片显示橙黄色填充面、深色斜撑、外挑框架平台和四个拱脚。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
+      "summarySourceIds": [
+        "src_ccacd707fe73cc64",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_861069599aa02dfc"
+      ],
       "uses": [],
       "gaps": [
         "具体塔体位置待核；地球上的近似落点仅用于浏览。",
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-France.php",
         "AFP图注明确2012-02-16一届柑橘Eiffel/地铁装置；Menton有多届塔，旧候选未标届次，不能将所有记录合为同一物理对象或将上传2024当拍摄日。"
@@ -20780,11 +21178,14 @@
       "sourceIds": [
         "src_02edcb5e9368c154",
         "src_5ed25144fbea7fac",
-        "src_861069599aa02dfc"
+        "src_861069599aa02dfc",
+        "src_ccacd707fe73cc64"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "核实实体身份及现状；补运营方或政府事实来源。",
@@ -20799,6 +21200,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "2012年柑橘节照片显示橙黄色填充面、深色斜撑、外挑框架平台和四个拱脚。"
+          ],
+          "en": [
+            "The 2012 citrus-festival photograph shows orange-yellow infill, dark diagonal bracing, projecting frame platforms and four arches."
+          ],
+          "fr": [
+            "La photo de la fête des agrumes 2012 montre un remplissage jaune-orangé, des diagonales sombres, des plateformes en cadre et quatre arcs."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_8055c5a1b521d615"
+        ]
+      },
       "nameFr": "Tour Eiffel — Menton · Tour décorée de citrons (fiche de recherche)"
     },
     {
@@ -22512,7 +22930,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 2,
@@ -23479,11 +23897,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "fr-thieblemont-faremont-copy",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -23493,8 +23911,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_fb11d6b88d8a7e8d"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -23503,7 +23923,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -23522,6 +23941,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Thiéblemont-Farémont (fiche de recherche)"
     },
     {
@@ -23996,11 +24430,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "gb-belfast-la-bastille-restaurant",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -24010,8 +24444,12 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac",
+        "src_145913fa4f2fcf43"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -24020,7 +24458,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "2015原文直接用餐并记餐厅外灯亮微缩塔；2026当前运营/塔体保留仍未证实，BelfastTelegraph3m原文403不采用新高度。"
       ],
@@ -24046,6 +24483,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Belfast · La Bastille Restaurant (fiche de recherche)"
     },
     {
@@ -24206,11 +24658,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "gb-brockham-eiffel-tower-brockham",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -24236,9 +24688,10 @@
       ],
       "photoCount": 1,
       "displayPhotoCount": 1,
-      "summary": "2024年8月12日的实景照片记录了Brockham村绿地上一座细杆花架式铁塔：下部种有红白花卉，塔顶悬挂法国三色旗，周围设有白色矮围栏。照片支持当时的外观，不足以确认建造年份、真实高度、长期固定性质或今天的现状。模型按照片保留开放杆架，背面与被植物遮挡的脚部采用对称推测，花卉仅表达拍摄时的装饰。\n\nBrockham绿地上的小型细杆铁塔、双层薄平台、四腿弧拱。 顶部有法国三色旗，底部花盆/白围栏属于场景，永久设置尚未确认。",
+      "summary": "2024年8月12日的实景照片记录了Brockham村绿地上一座细杆花架式铁塔：下部种有红白花卉，塔顶悬挂法国三色旗，周围设有白色矮围栏。照片支持当时的外观，不足以确认建造年份、真实高度、长期固定性质或今天的现状。模型按照片保留开放杆架，背面与被植物遮挡的脚部采用对称推测，花卉仅表达拍摄时的装饰。\n\nBrockham绿地上的小型细杆铁塔、双层薄平台、四腿弧拱。 顶部有法国三色旗，底部花盆/白围栏属于场景，永久设置尚未确认。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
       "summarySourceIds": [
-        "src_318eef96b7310b30"
+        "src_318eef96b7310b30",
+        "src_60c86df1603579ff"
       ],
       "uses": [],
       "gaps": [
@@ -24248,7 +24701,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "目前只有一个实景视角，侧面与细部照片待补。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -24282,6 +24734,26 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "细杆向上收拢，低处有少量横向连接，未见密集埃菲尔式交叉桁架。",
+            "红白花卉集中于下部，顶部有小型法国三色旗；不包含围栏、花坛或周边地面。"
+          ],
+          "en": [
+            "Slender rods taper upwards with sparse horizontal ties, without dense Eiffel cross-bracing.",
+            "Red and white flowers cluster low down; a small French tricolour hangs at the top. Fence, flower bed and ground are excluded."
+          ],
+          "fr": [
+            "De fines tiges convergent vers le sommet, reliées par quelques traverses, sans treillis croisé dense.",
+            "Des fleurs rouges et blanches occupent la partie basse ; un petit drapeau français est suspendu au sommet. Clôture, parterre et sol sont exclus."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_318eef96b7310b30"
+        ]
+      },
       "nameFr": "Tour Eiffel végétalisée de Brockham"
     },
     {
@@ -24993,11 +25465,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "gb-wembley-greater-london-watkin-s-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -25007,9 +25479,12 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "这是Watkin塔中选方案图，展示多层平台和极长上轴；不是已建成全塔的照片。",
+      "summary": "这是Watkin塔中选方案图，展示多层平台和极长上轴；不是已建成全塔的照片。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
-        "src_3b0e86d7d7d83e30"
+        "src_3b0e86d7d7d83e30",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_658be1846ff43ab1"
       ],
       "uses": [],
       "gaps": [
@@ -25018,7 +25493,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -25044,6 +25518,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "这是Watkin塔中选方案图，展示多层平台和极长上轴；不是已建成全塔的照片。"
+          ],
+          "en": [
+            "Winning-design illustration for Watkin Tower, with multiple platforms and a very long upper shaft; not a photograph of a completed tower."
+          ],
+          "fr": [
+            "Dessin du projet retenu pour la tour Watkin, à plusieurs plateformes et longue partie haute ; il ne montre pas une tour entièrement construite."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour inspirée — Wembley , Greater London · Watkin's Tower (fiche de recherche)"
     },
     {
@@ -25848,11 +26337,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "gr-heraklion-tower-in-a-garden-in-a-narrow-street",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -25878,9 +26367,10 @@
       ],
       "photoCount": 1,
       "displayPhotoCount": 1,
-      "summary": "阳台后方小型浅色铁塔装饰，只有上段及窄塔冠可见，下部被栏杆挡住。",
+      "summary": "阳台后方小型浅色铁塔装饰，只有上段及窄塔冠可见，下部被栏杆挡住。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
-        "src_02edcb5e9368c154"
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
       ],
       "uses": [],
       "gaps": [
@@ -25893,7 +26383,6 @@
         "目前只有一个实景视角，侧面与细部照片待补。",
         "部分照片拍摄日期未记录。",
         "部分照片仅作本站演示参考，公开复用许可仍待核。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://twitter.com/varranro/status/1417410433602965504"
       ],
@@ -25920,6 +26409,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "阳台后方小型浅色铁塔装饰，只有上段及窄塔冠可见，下部被栏杆挡住。"
+          ],
+          "en": [
+            "Small pale tower ornament behind a balcony railing; only the upper section and narrow crown are visible."
+          ],
+          "fr": [
+            "Petit ornement clair derrière un balcon ; seuls la partie haute et le sommet fin sont visibles, base cachée par la balustrade."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_e95c47584774c234"
+        ]
+      },
       "nameFr": "Tour à identifier — Heraklion · Jardin dans une ruelle (fiche de recherche)"
     },
     {
@@ -27103,11 +27609,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "id-lake-toba-world-heritage-mini-mini",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -27117,8 +27623,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -27127,7 +27636,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -27151,6 +27659,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Lake Toba · World heritage mini mini (fiche de recherche)"
     },
     {
@@ -27332,11 +27855,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "id-lembang-reddit-replica",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -27346,8 +27869,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_eeb4932e55c611f7"
+      ],
       "uses": [],
       "gaps": [
         "对象身份与复刻关系待核。",
@@ -27357,7 +27882,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "原评论只说Lembang有塔，没有Minimania或其他园区名；即使运营方确有Lembang模型，也不能凭同城合并匿名Reddit线索。"
       ],
@@ -27381,6 +27905,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour à identifier — Lembang (fiche de recherche)"
     },
     {
@@ -33176,11 +33715,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "it-vergiate-corgeno-copy",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -33206,9 +33745,11 @@
       ],
       "photoCount": 1,
       "displayPhotoCount": 1,
-      "summary": "照片展示庭院铺地上的浅色镂空工艺塔，带装饰平台与小型塔冠。固定公共设置身份与实际尺寸仍待核，不把旧目录中的5米说法当作已核高度。",
+      "summary": "照片展示庭院铺地上的浅色镂空工艺塔，带装饰平台与小型塔冠。固定公共设置身份与实际尺寸仍待核，不把旧目录中的5米说法当作已核高度。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
-        "src_97e01655192006d5"
+        "src_97e01655192006d5",
+        "src_1b4c941f1b97ae98",
+        "src_5ed25144fbea7fac"
       ],
       "uses": [],
       "gaps": [
@@ -33218,7 +33759,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "目前只有一个实景视角，侧面与细部照片待补。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -33241,6 +33781,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "照片展示庭院铺地上的浅色镂空工艺塔，带装饰平台与小型塔冠。固定公共设置身份与实际尺寸仍待核，不把旧目录中的5米说法当作已核高度。"
+          ],
+          "en": [
+            "The photograph shows a pale fretwork craft tower on courtyard paving, with ornamental decks and a small crown. Permanent public-installation status and dimensions remain unverified; the old five-metre claim is not adopted."
+          ],
+          "fr": [
+            "Tour ajourée claire photographiée dans une cour, plateformes décorées et petit sommet ; caractère permanent et dimensions non confirmés."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_97c1bce33ff6fb4d"
+        ]
+      },
       "nameFr": "Tour Eiffel — Corgeno / Vergiate (fiche de recherche)"
     },
     {
@@ -33551,11 +34108,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "jp-nagoya-nagoya-tv-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "related",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -33581,9 +34138,14 @@
       ],
       "photoCount": 1,
       "displayPhotoCount": 1,
-      "summary": "浅色电视塔具有宽矩形低观景舱、细长四角上轴、上部小舱和连续天线。",
+      "summary": "浅色电视塔具有宽矩形低观景舱、细长四角上轴、上部小舱和连续天线。\n\n此模型作为衍生或相似建筑参考，默认隐藏，可通过对应筛选开启；未归为已确认的埃菲尔铁塔复刻。",
       "summarySourceIds": [
-        "src_b685f798abac7d8a"
+        "src_b685f798abac7d8a",
+        "src_2d7a1cf99c029d30",
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022",
+        "src_5ed25144fbea7fac",
+        "src_3af9e394c3cac89e"
       ],
       "uses": [],
       "gaps": [
@@ -33593,7 +34155,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "目前只有一个实景视角，侧面与细部照片待补。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "取得运营方或建筑史设计关系；未确认前排除默认地图"
       ],
@@ -33624,6 +34185,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "浅色电视塔具有宽矩形低观景舱、细长四角上轴、上部小舱和连续天线。"
+          ],
+          "en": [
+            "Pale television tower with a broad rectangular lower cabin, a slender square shaft, small upper cabin and antenna mast."
+          ],
+          "fr": [
+            "Tour claire, large cabine rectangulaire basse, longue ossature à quatre angles, petite cabine supérieure et antenne continue."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_63cc197b1bce47b6"
+        ]
+      },
       "nameFr": "Tour à identifier — Nagoya · Nagoya TV Tower (fiche de recherche)"
     },
     {
@@ -34520,11 +35098,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "kh-phnom-penh-eiffel-map-candidate",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -34534,8 +35112,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_af22aca9989f8b23"
+      ],
       "uses": [],
       "gaps": [
         "对象身份与复刻关系待核。",
@@ -34545,7 +35125,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "补一手复刻关系、尺寸、塔体坐标与近年现状",
         "检查实景内容与单文件许可"
@@ -34557,6 +35136,21 @@
       "coverage": 0,
       "coverageFields": [],
       "historicalNotes": [],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour à identifier — Phnom Penh · Attraction cartographique nommée, attribution du site inconnue (fiche de recherche)"
     },
     {
@@ -34598,22 +35192,41 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "kr-bucheon-aiins-world",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "photos": [
+        {
+          "id": "img_974360ec98519a02",
+          "pageUrl": "https://www.postcardsandplaces.com/stories/visiting-aiins-world",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_974360ec98519a02-70363bd2139b.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_974360ec98519a02-70363bd2139b-thumb.webp",
+          "author": "Author not identified in the retained source",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://www.postcardsandplaces.com/stories/visiting-aiins-world"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n深灰色埃菲尔塔式模型，弧形四腿、密集桁架、两层平台与紧凑塔冠。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
+      "summarySourceIds": [
+        "src_9f176ff4b53178f7",
+        "src_b42ffde9bad3f0de"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -34621,16 +35234,20 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
-        "src_b42ffde9bad3f0de"
+        "src_b42ffde9bad3f0de",
+        "src_9f176ff4b53178f7"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "补一手尺寸、塔体坐标、近年现状与照片",
@@ -34641,6 +35258,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "深灰色埃菲尔塔式模型，弧形四腿、密集桁架、两层平台与紧凑塔冠。"
+          ],
+          "en": [
+            "Dark-grey Eiffel-style model with curved legs, dense lattice, two decks and a compact crown."
+          ],
+          "fr": [
+            "Modèle de type Eiffel gris foncé, pieds courbes, treillis dense, deux plateformes et sommet compact."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_974360ec98519a02"
+        ]
+      },
       "nameFr": "Tour Eiffel — Bucheon · Aiins World (fiche de recherche)"
     },
     {
@@ -34949,11 +35583,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "kz-aktau-oil-company-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -34963,8 +35597,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -34973,7 +35610,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -34997,6 +35633,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Aktau · Tour d’une société pétrolière (fiche de recherche)"
     },
     {
@@ -35164,11 +35815,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "lb-broummana-chez-alain",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -35178,7 +35829,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Chez Alain”记录在黎巴嫩的Broummana。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“Chez Alain”记录在黎巴嫩的Broummana。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -35190,7 +35841,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -35217,6 +35867,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Chez Alain — Broummana"
     },
     {
@@ -36583,11 +37248,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "md-tiraspol-tower-in-front-of-a-store",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -36597,8 +37262,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -36607,7 +37275,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -36631,6 +37298,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Tiraspol · Devant un magasin (fiche de recherche)"
     },
     {
@@ -37713,22 +38395,41 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "my-ayer-hitam-tropical-village",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "photos": [
+        {
+          "id": "img_0782e51c6d6a38de",
+          "pageUrl": "https://ryyhan.blogspot.com/2014/10/betul-ke-ada-eiffel-tower-di-ayer-hitam.html",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_0782e51c6d6a38de-578bf4632196.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0782e51c6d6a38de-578bf4632196-thumb.webp",
+          "author": "ryyhan / Wonderful Motherhood",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://ryyhan.blogspot.com/2014/10/betul-ke-ada-eiffel-tower-di-ayer-hitam.html"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n灰色开放桁架、较宽四腿和两层外挑平台；照片截掉的塔顶明确推测补全。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
+      "summarySourceIds": [
+        "src_89e5ca11045d8974",
+        "src_248ced4fd3f7ef71"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -37736,19 +38437,40 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。",
         "补一手复刻关系、尺寸、塔体坐标与近年现状",
         "检查实景内容与单文件许可"
       ],
       "sourceIds": [
-        "src_248ced4fd3f7ef71"
+        "src_248ced4fd3f7ef71",
+        "src_89e5ca11045d8974"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "灰色开放桁架、较宽四腿和两层外挑平台；照片截掉的塔顶明确推测补全。"
+          ],
+          "en": [
+            "Grey open lattice, broad legs and two projecting decks; the cropped summit is explicitly reconstructed."
+          ],
+          "fr": [
+            "Treillis gris ouvert, pieds larges et deux plateformes saillantes ; sommet hors cadre explicitement reconstitué."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_0782e51c6d6a38de"
+        ]
+      },
       "nameFr": "Tour Eiffel — Ayer Hitam · Tropical Village, Batu Pahat, Johor (fiche de recherche)"
     },
     {
@@ -38595,11 +39317,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "nl-grootebroek-tower-in-the-grounds-of-a-college",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -38609,8 +39331,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -38619,7 +39344,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -38643,6 +39367,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Grootebroek · Terrain d’un établissement d’enseignement (fiche de recherche)"
     },
     {
@@ -38962,22 +39701,42 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "nl-toldijk-achterhoeks-planetarium",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "photos": [
+        {
+          "id": "img_4bd77ce91ea61baa",
+          "pageUrl": "https://www.achterhoeksplanetarium.nl/wie-zijn-wij.html",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_4bd77ce91ea61baa-bee7b7d2069e.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_4bd77ce91ea61baa-bee7b7d2069e-thumb.webp",
+          "author": "Author not identified in the retained source",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://www.achterhoeksplanetarium.nl/wie-zijn-wij.html"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n场地照片左侧可见浅色微缩铁塔，拱脚与渐缩上轴；部分塔脚被植物遮挡。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
+      "summarySourceIds": [
+        "src_d59f36577a914402",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -38985,18 +39744,22 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://web.archive.org/web/20210920085625/http://www.aplf-planetariums.org/en/index.php?onglet=planetariums&menu=sheet_planetarium&filtre=2308"
       ],
       "sourceIds": [
         "src_02edcb5e9368c154",
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_d59f36577a914402"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "核实实体身份及现状；补运营方或政府事实来源。",
@@ -39011,6 +39774,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "场地照片左侧可见浅色微缩铁塔，拱脚与渐缩上轴；部分塔脚被植物遮挡。"
+          ],
+          "en": [
+            "A pale miniature tower stands at the left of the site photograph, with arched legs and a tapering shaft; plants hide some feet."
+          ],
+          "fr": [
+            "Une tour miniature claire apparaît à gauche de la photo du site, avec pieds arqués et fût effilé ; végétation devant les pieds."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_4bd77ce91ea61baa"
+        ]
+      },
       "nameFr": "Tour Eiffel — Toldijk · Achterhoeks Planetarium (fiche de recherche)"
     },
     {
@@ -39484,11 +40264,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "nz-dunedin-new-zealand-and-south-seas-exhibition-1889",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -39498,9 +40278,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“New Zealand and South Seas Exhibition (1889)”记录在新西兰的达尼丁。来源将它归为衍生或相似建筑，暂不纳入当前复刻范围。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“New Zealand and South Seas Exhibition (1889)”记录在新西兰的达尼丁。来源将它归为衍生或相似建筑，作为衍生建筑单独展示。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_8ecbf0a19375c444"
       ],
       "uses": [],
       "gaps": [
@@ -39509,7 +40290,6 @@
         "已记录高度数值，测量起止端点仍待核。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "来源将此记录列为已拆除或未建成；具体状态与事件日期仍待交叉核对。"
       ],
@@ -39544,6 +40324,21 @@
           "resolution": "collection-policy"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "New Zealand and South Seas Exhibition (1889) — Dunedin"
     },
     {
@@ -39720,11 +40515,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ph-dipolog-city-dipolog",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -39734,7 +40529,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Dipolog”记录在菲律宾的第波罗。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“Dipolog”记录在菲律宾的第波罗。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -39746,7 +40541,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -39773,6 +40567,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Dipolog — Dipolog City"
     },
     {
@@ -40103,11 +40912,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ph-megamall-temporary-display",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -40117,8 +40926,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_5aa838a1ea53f50b",
+        "src_1f28211647df1e97"
+      ],
       "uses": [],
       "gaps": [
         "具体塔体位置待核；地球上的近似落点仅用于浏览。",
@@ -40126,7 +40938,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "补一手复刻关系、尺寸、塔体坐标与近年现状",
         "检查实景内容与单文件许可"
@@ -40141,6 +40952,21 @@
         "height"
       ],
       "historicalNotes": [],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Localisation à confirmer · Megamall (fiche de recherche)"
     },
     {
@@ -42562,7 +43388,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 1,
@@ -43283,11 +44109,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "rs-lozovik-tower-in-a-garden",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -43297,8 +44123,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -43307,7 +44136,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://twitter.com/jonworth/status/1417396883643932673",
         "后续来源线索（本轮未单独访问）：https://www.novosti.rs/vesti/srbija.73.html:848417-Dragisa-i-Stanka-dvoriste-ukrasili-simbolom-Pariza-Milanovici-sa-terase-gledaju-kopiju-Ajfelove-kule-FOTO"
@@ -43333,6 +44161,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Lozovik · Dans un jardin (fiche de recherche)"
     },
     {
@@ -44266,11 +45109,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ru-ekaterinoslavka-edge-of-town",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -44280,7 +45123,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Edge of town”记录在俄罗斯的Ekaterinoslavka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“Edge of town”记录在俄罗斯的Ekaterinoslavka。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -44292,7 +45135,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -44319,6 +45161,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour en périphérie de la ville — Ekaterinoslavka"
     },
     {
@@ -44360,11 +45217,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ru-irkutsk-small-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -44374,8 +45231,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -44384,7 +45244,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Russia.php",
         "后续来源线索（本轮未单独访问）：http://wikimapia.org/32988637/Model-Eiffel-Tower"
@@ -44410,6 +45269,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Irkutsk · Petite tour (fiche de recherche)"
     },
     {
@@ -44825,11 +45699,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -44839,8 +45713,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -44849,7 +45726,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -44873,6 +45749,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Mokhsogollokh, Sakha Republic · Petite tour Eiffel (fiche de recherche)"
     },
     {
@@ -47303,11 +48194,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "sv-san-salvador-inti-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -47317,7 +48208,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“INTI Tower”记录在萨尔瓦多的圣萨尔瓦多。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“INTI Tower”记录在萨尔瓦多的圣萨尔瓦多。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -47329,7 +48220,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -47356,6 +48246,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "INTI Tower — San Salvador"
     },
     {
@@ -48583,11 +49488,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "tw-taipei-shopping-street",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -48597,8 +49502,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -48607,7 +49515,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Taiwan.php"
       ],
@@ -48632,6 +49539,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Taipei · Rue commerçante (fiche de recherche)"
     },
     {
@@ -50396,7 +51318,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 1,
@@ -51073,11 +51995,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-hertsa-notary-office",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -51087,7 +52009,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Notary Office”记录在乌克兰的Hertsa。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“Notary Office”记录在乌克兰的Hertsa。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -51099,7 +52021,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -51126,6 +52047,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Notary Office — Hertsa"
     },
     {
@@ -51965,11 +52901,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-kamyanets-podilskyi-margaret-pizzeria",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -51979,7 +52915,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“\"Margaret\" pizzeria”记录在乌克兰的Kamyanets-Podilskyi。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“\"Margaret\" pizzeria”记录在乌克兰的Kamyanets-Podilskyi。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -51991,7 +52927,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -52018,6 +52953,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "\"Margaret\" pizzeria — Kamyanets-Podilskyi"
     },
     {
@@ -52590,7 +53540,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 1,
@@ -52865,7 +53815,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 1,
@@ -53297,23 +54247,40 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-kostyantynikka-euro-city-restaurant",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“'Euro-city' restaurant”记录在乌克兰的Kostyantynikka。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "photos": [
+        {
+          "id": "img_e0924ab284c8ad2f",
+          "pageUrl": "https://www.marshruty.ru/travel/po_donbassu_posle_voyni/?mode=print",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_e0924ab284c8ad2f-4171a4a9964a.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_e0924ab284c8ad2f-4171a4a9964a-thumb.webp",
+          "author": "Author not identified in the retained source",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://www.marshruty.ru/travel/po_donbassu_posle_voyni/?mode=print"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "Jon Worth的地图将“'Euro-city' restaurant”记录在乌克兰的Kostyantynikka。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n褐色细杆铁塔，弧形塔腿、两层纤细平台、长锥形上轴和小型开放塔冠。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
       "summarySourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_dfb5b8d96c5a3cde"
       ],
       "uses": [],
       "gaps": [
@@ -53322,16 +54289,20 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_dfb5b8d96c5a3cde"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "核实实体身份、永久设置及当前现状；补运营方或政府来源。",
@@ -53350,6 +54321,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "褐色细杆铁塔，弧形塔腿、两层纤细平台、长锥形上轴和小型开放塔冠。"
+          ],
+          "en": [
+            "Brown slender lattice tower with curved legs, two thin platforms, a long tapering shaft and a small open crown."
+          ],
+          "fr": [
+            "Tour brune à treillis fin, pieds courbes, deux plateformes minces, long fût effilé et petit sommet ouvert."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_e0924ab284c8ad2f"
+        ]
+      },
       "nameFr": "'Euro-city' restaurant — Kostyantynikka"
     },
     {
@@ -54979,7 +55967,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 1,
@@ -56316,11 +57304,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-mariupol-paris-cafe",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -56330,7 +57318,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“'Paris' cafe”记录在乌克兰的马里乌波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“'Paris' cafe”记录在乌克兰的马里乌波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -56342,7 +57330,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -56369,6 +57356,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "'Paris' cafe — Mariupol"
     },
     {
@@ -56545,11 +57547,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-melitopol-on-the-roof-of-a-pharmacy",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -56559,7 +57561,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“On the roof of a pharmacy”记录在乌克兰的梅利托波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“On the roof of a pharmacy”记录在乌克兰的梅利托波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -56571,7 +57573,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -56598,6 +57599,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour sur le toit d’une pharmacie — Melitopol"
     },
     {
@@ -59579,7 +60595,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 1,
@@ -59725,11 +60741,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-rivne-small-coffee-shop",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -59739,7 +60755,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“small coffee shop”记录在乌克兰的里夫内。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“small coffee shop”记录在乌克兰的里夫内。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -59751,7 +60767,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -59778,6 +60793,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour d’un petit café — Rivne"
     },
     {
@@ -60075,7 +61105,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 1,
@@ -60368,11 +61398,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-sevastopol-tower-near-a-cafe",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -60382,7 +61412,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Tower near a cafe”记录在乌克兰的塞瓦斯托波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“Tower near a cafe”记录在乌克兰的塞瓦斯托波尔。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -60394,7 +61424,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -60421,6 +61450,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour près d’un café — Sevastopol"
     },
     {
@@ -60462,11 +61506,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-severodonetsk-tower-in-the-yard-of-impuls-institute",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -60476,7 +61520,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Tower in the yard of Impuls Institute”记录在乌克兰的北顿涅茨克。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“Tower in the yard of Impuls Institute”记录在乌克兰的北顿涅茨克。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -60488,7 +61532,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -60515,6 +61558,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour dans la cour de l’institut Impuls — Severodonetsk"
     },
     {
@@ -61104,11 +62162,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-strilkivtsi-ozirna-cave",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -61118,7 +62176,7 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“'Ozirna' cave”记录在乌克兰的Strilkivtsi。这条资料目前作为候选保留，建筑身份与现状仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "Jon Worth的地图将“'Ozirna' cave”记录在乌克兰的Strilkivtsi。这条资料目前作为候选保留，建筑身份与现状仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
         "src_5ed25144fbea7fac"
       ],
@@ -61130,7 +62188,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -61157,6 +62214,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "'Ozirna' cave — Strilkivtsi"
     },
     {
@@ -61594,11 +62666,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "ua-uman-uman-eiffel-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -61608,8 +62680,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_a558269fcf1c4022"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -61618,7 +62693,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -61642,6 +62716,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Uman · Uman Eiffel Tower (fiche de recherche)"
     },
     {
@@ -62876,7 +63965,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 1,
@@ -64226,11 +65315,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-abington-ma-back-yard-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -64240,8 +65329,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -64250,7 +65342,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://eu.milforddailynews.com/story/news/local/2020/07/20/man-builds-eiffel-tower-in-his-backyard/113926694/"
       ],
@@ -64275,6 +65366,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Abington, MA · Tour dans une arrière-cour (fiche de recherche)"
     },
     {
@@ -64598,11 +65704,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-bemidji-lac-du-bois",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -64628,9 +65734,10 @@
       ],
       "photoCount": 1,
       "displayPhotoCount": 1,
-      "summary": "林间空地上的锈褐细杆模型，两道方平台、宽展开四脚和细小塔冠；脚部无遮挡。",
+      "summary": "林间空地上的锈褐细杆模型，两道方平台、宽展开四脚和细小塔冠；脚部无遮挡。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
-        "src_c6904933369a0515"
+        "src_c6904933369a0515",
+        "src_60c86df1603579ff"
       ],
       "uses": [],
       "gaps": [
@@ -64642,7 +65749,6 @@
         "塔体材料缺少明确来源。",
         "目前只有一个实景视角，侧面与细部照片待补。",
         "部分照片拍摄日期未记录。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -64668,6 +65774,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "林间空地上的锈褐细杆模型，两道方平台、宽展开四脚和细小塔冠；脚部无遮挡。"
+          ],
+          "en": [
+            "A rusty-brown rod model in a forest clearing, with two square platforms, splayed legs and a small crown; the base is visible."
+          ],
+          "fr": [
+            "Fine réplique brun rouille dans une clairière, deux cadres carrés, quatre pieds écartés et petit couronnement ; base dégagée."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_5ec78497c3ef5a55"
+        ]
+      },
       "nameFr": "Tour à identifier — Bemidji, Minnesota · Concordia Language Villages, Lac du Bois (fiche de recherche)"
     },
     {
@@ -64981,11 +66104,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-columbus-oh-liberty-street-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -64995,8 +66118,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -65005,7 +66131,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://www.flickr.com/photos/sanguis_vitam_est/3645114768",
         "后续来源线索（本轮未单独访问）：https://web.archive.org/web/20210421105942/https://shop.blackdogsalvage.com/eiffel-tower-replica/"
@@ -65031,6 +66156,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Columbus, OH · Liberty Street Tower (fiche de recherche)"
     },
     {
@@ -65786,11 +66926,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-fountain-valley-ca-mini-golf-eiffel-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -65800,8 +66940,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -65810,7 +66953,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://www.yelp.com/biz/boomers-fountain-valley"
       ],
@@ -65835,6 +66977,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Fountain Valley, CA · Tour Eiffel de minigolf (fiche de recherche)"
     },
     {
@@ -65863,7 +67020,7 @@
       "heightScope": null,
       "heightApproximate": false,
       "heightConverted": false,
-      "heightRankEligible": true,
+      "heightRankEligible": false,
       "heightDisplayRole": null,
       "heightSourceIds": [],
       "heightObservationCount": 2,
@@ -66638,22 +67795,42 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-lacrosse-wi-mini-golf-eiffel-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "photos": [
+        {
+          "id": "img_0c350ab344491c8b",
+          "pageUrl": "https://acoupleofputts.com/2021/07/22/walsh-lacrosse/",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_0c350ab344491c8b-5be7f06ca698.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0c350ab344491c8b-5be7f06ca698-thumb.webp",
+          "author": "Author not identified in the retained source",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://acoupleofputts.com/2021/07/22/walsh-lacrosse/"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n迷你高尔夫球道上的蓝灰色塔形障碍，弧形脚与开放桁架，上端是一圈风车叶片。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
+      "summarySourceIds": [
+        "src_18ab4c976cada780",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -66661,18 +67838,22 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://acoupleofputts.com/2021/07/22/walsh-lacrosse/"
       ],
       "sourceIds": [
         "src_02edcb5e9368c154",
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_18ab4c976cada780"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "核实实体身份及现状；补运营方或政府事实来源。",
@@ -66687,6 +67868,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "迷你高尔夫球道上的蓝灰色塔形障碍，弧形脚与开放桁架，上端是一圈风车叶片。"
+          ],
+          "en": [
+            "A blue-grey tower-shaped mini-golf obstacle with arched feet and open lattice, topped by a wind wheel."
+          ],
+          "fr": [
+            "Obstacle de minigolf en forme de tour bleu-gris, pieds arqués et treillis ouvert, surmonté d’une roue à vent."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_0c350ab344491c8b"
+        ]
+      },
       "nameFr": "Tour Eiffel — Lacrosse, WI · Tour Eiffel de minigolf (fiche de recherche)"
     },
     {
@@ -66957,11 +68155,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-leonia-nj-tower-in-a-garden",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -66971,8 +68169,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -66981,7 +68182,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -67005,6 +68205,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour Eiffel — Leonia, NJ · Dans un jardin (fiche de recherche)"
     },
     {
@@ -67357,23 +68572,40 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-mount-clemens-michigan-harper-metro-mini-golf",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": "Jon Worth的地图将“Harper Metro Mini Golf”记录在美国的Mount Clemens, Michigan。来源将它列为已移除或未建成，具体状态和年代仍待核对。照片与尺寸线索尚未完成独立核验。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "photos": [
+        {
+          "id": "img_ef48ebb9331f7428",
+          "pageUrl": "https://loc.getarchive.net/media/harper-metro-mini-golf-eiffel-tower-mount-clemens-michigan-6211ad",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_ef48ebb9331f7428-2f9294c0792e.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_ef48ebb9331f7428-2f9294c0792e-thumb.webp",
+          "author": "John Margolies / Library of Congress",
+          "capturedAt": "1986",
+          "license": {
+            "text": "No known restrictions on publication",
+            "url": "https://www.loc.gov/rr/print/res/723_marg.html"
+          },
+          "reuseStatus": "ready",
+          "demoDisplayStatus": null,
+          "originPageUrl": null
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "Jon Worth的地图将“Harper Metro Mini Golf”记录在美国的Mount Clemens, Michigan。来源将它列为已移除或未建成，具体状态和年代仍待核对。尺寸与现状仍需分别核实。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n1986年历史照片中的蓝色板状拱脚、细长网面塔身和银色通风帽，属于简化游乐模型。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
       "summarySourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_b713b669cba0b035"
       ],
       "uses": [],
       "gaps": [
@@ -67382,17 +68614,19 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
         "模型含推测补全部分，需更多实景视角核对。",
         "来源将此记录列为已拆除或未建成；具体状态与事件日期仍待交叉核对。"
       ],
       "sourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_b713b669cba0b035"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "核实实体身份、永久设置及当前现状；补运营方或政府来源。",
@@ -67411,6 +68645,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "1986年历史照片中的蓝色板状拱脚、细长网面塔身和银色通风帽，属于简化游乐模型。"
+          ],
+          "en": [
+            "The 1986 photograph shows blue panel arches, a slender mesh-sided shaft and a silver vent cap, a simplified recreational model."
+          ],
+          "fr": [
+            "La photo de 1986 montre des arcs en panneaux bleus, un fût mince grillagé et un chapeau argenté, modèle de loisir simplifié."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_ef48ebb9331f7428"
+        ]
+      },
       "nameFr": "Harper Metro Mini Golf — Mount Clemens, Michigan"
     },
     {
@@ -67453,11 +68704,11 @@
       "mapReady": true,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-napa-napa-county-courthouse",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "related",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": "https://www.google.com/maps/search/?api=1&query=38.298084%2C-122.285532",
         "amap": null,
@@ -67485,9 +68736,13 @@
       ],
       "photoCount": 1,
       "displayPhotoCount": 1,
-      "summary": "法院院内为细瘦深色格构旗杆，外张脚与一块下横板可见，没有观景平台或埃菲尔式塔冠；分类继续待核。",
+      "summary": "法院院内为细瘦深色格构旗杆，外张脚与一块下横板可见，没有观景平台或埃菲尔式塔冠；分类继续待核。\n\n此模型作为衍生或相似建筑参考，默认隐藏，可通过对应筛选开启；未归为已确认的埃菲尔铁塔复刻。",
       "summarySourceIds": [
-        "src_80dde3f2ce3cf1f4"
+        "src_80dde3f2ce3cf1f4",
+        "src_a558269fcf1c4022",
+        "src_02edcb5e9368c154",
+        "src_225c220e7fa859f9",
+        "src_5ed25144fbea7fac"
       ],
       "uses": [],
       "gaps": [
@@ -67498,7 +68753,6 @@
         "塔体材料缺少明确来源。",
         "目前只有一个实景视角，侧面与细部照片待补。",
         "部分照片仅作本站演示参考，公开复用许可仍待核。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "Current existence and surveyed tower centre are not established; source-reported approximate display location only."
       ],
@@ -67537,6 +68791,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "法院院内为细瘦深色格构旗杆，外张脚与一块下横板可见，没有观景平台或埃菲尔式塔冠；分类继续待核。"
+          ],
+          "en": [
+            "Courthouse grounds: narrow dark lattice flag mast with spread feet and one small lower cross plate, no observation decks or Eiffel crown. Trees obscure part of the shaft. Unresolved classification retained."
+          ],
+          "fr": [
+            "Mât de drapeau sombre et élancé devant le tribunal, pieds écartés et plaque transversale basse, sans plateforme panoramique ni sommet de type Eiffel ; classification non résolue."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_b1b5e15fd199a2ac"
+        ]
+      },
       "nameFr": "Tour à identifier — Napa, California · Terrain du tribunal supérieur (fiche de recherche)"
     },
     {
@@ -68870,22 +70141,42 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-roanoke-front-yard-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "photos": [
+        {
+          "id": "img_0300e568ca4b47aa",
+          "pageUrl": "https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_0300e568ca4b47aa-f371ee11662e.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0300e568ca4b47aa-f371ee11662e-thumb.webp",
+          "author": "Author not identified in the retained source",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n新闻历史照片中的银白色四腿桁架、薄框平台、细长上轴和开放多边形塔冠。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
+      "summarySourceIds": [
+        "src_c80c86a812b10a7e",
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -68893,18 +70184,22 @@
         "实际高度尚未采用；来源线索与展示估算单独保留。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。",
         "后续来源线索（本轮未单独访问）：https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html"
       ],
       "sourceIds": [
         "src_02edcb5e9368c154",
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_c80c86a812b10a7e"
       ],
       "researchStatus": "candidate",
-      "coverage": 0,
-      "coverageFields": [],
+      "coverage": 1,
+      "coverageFields": [
+        "photo"
+      ],
       "historicalNotes": [
         {
           "text": "核实实体身份及现状；补运营方或政府事实来源。",
@@ -68919,6 +70214,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "新闻历史照片中的银白色四腿桁架、薄框平台、细长上轴和开放多边形塔冠。"
+          ],
+          "en": [
+            "The historical news photograph shows silver-white four-legged lattice, thin frame platforms, a long shaft and an open polygonal crown."
+          ],
+          "fr": [
+            "La photographie de presse historique montre un treillis blanc argenté à quatre pieds, des plateformes fines et un sommet polygonal ouvert."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_0300e568ca4b47aa"
+        ]
+      },
       "nameFr": "Tour Eiffel — Roanoke · Tour dans un jardin de façade (fiche de recherche)"
     },
     {
@@ -69252,11 +70564,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-taylor-michigan-vinson-s-miniature-golf",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -69266,9 +70578,10 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": "美国国会图书馆保存了John Margolies于1986年拍摄的Vinson迷你高尔夫球场铁塔洞照片，明确对应密歇根州Taylor。档案证明的是历史存在；尚未查到准确移除日期和当前塔体位置。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "summary": "美国国会图书馆保存了John Margolies于1986年拍摄的Vinson迷你高尔夫球场铁塔洞照片，明确对应密歇根州Taylor。档案证明的是历史存在；尚未查到准确移除日期和当前塔体位置。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
       "summarySourceIds": [
-        "src_5ed25144fbea7fac"
+        "src_5ed25144fbea7fac",
+        "src_ff03840506313284"
       ],
       "uses": [],
       "gaps": [
@@ -69278,7 +70591,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "来源将此记录列为已拆除或未建成；具体状态与事件日期仍待交叉核对。",
         "1986为照片创建年份，采购2010与关联条目2024不作塔体日期。"
@@ -69308,6 +70620,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Vinson’s Miniature Golf — Taylor, Michigan"
     },
     {
@@ -69616,23 +70943,40 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "us-wellfleet-comment-replica",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "reference",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
         "preferred": "google"
       },
       "coordinateSourceIds": [],
-      "photos": [],
-      "photoCount": 0,
-      "displayPhotoCount": 0,
-      "summary": "2023年报道明确区分了存放中的21英尺模型、被否决的2020年近28英尺含基座方案，以及2023年获批的21英尺3英寸方案。安装仍需建筑检查员许可；现有资料不能证明它已安装在拟定位置。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。",
+      "photos": [
+        {
+          "id": "img_a7d966b876e5aa1b",
+          "pageUrl": "https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/",
+          "url": "https://worldecho.beaverstudio.net/assets/photos/img_a7d966b876e5aa1b-bb91af615536.webp",
+          "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a7d966b876e5aa1b-bb91af615536-thumb.webp",
+          "author": "Philippe Rispoli",
+          "capturedAt": null,
+          "license": {
+            "text": "Original publisher rights · reference only",
+            "url": null
+          },
+          "reuseStatus": "research_only",
+          "demoDisplayStatus": "demo_only_user_authorized",
+          "originPageUrl": "https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/"
+        }
+      ],
+      "photoCount": 1,
+      "displayPhotoCount": 1,
+      "summary": "2023年报道明确区分了存放中的21英尺模型、被否决的2020年近28英尺含基座方案，以及2023年获批的21英尺3英寸方案。安装仍需建筑检查员许可；现有资料不能证明它已安装在拟定位置。\n\n现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n业主提供的照片显示红色塔脚与第一平台、白色中段、深蓝色上轴和两层开放塔冠。\n\n照片已用于核对可见外观；模型对遮挡和不可见部分作明确推测补全。真实高度、坐标及现状仍分别依原来源与待核记录。",
       "summarySourceIds": [
-        "src_0193ce3bec84fc0f"
+        "src_0193ce3bec84fc0f",
+        "src_eeb4932e55c611f7"
       ],
       "uses": [],
       "gaps": [
@@ -69641,8 +70985,9 @@
         "已记录高度数值，测量起止端点仍待核。",
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
-        "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
+        "目前只有一个实景视角，侧面与细部照片待补。",
+        "部分照片拍摄日期未记录。",
+        "部分照片仅作本站演示参考，公开复用许可仍待核。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -69650,9 +70995,10 @@
         "src_0193ce3bec84fc0f"
       ],
       "researchStatus": "candidate",
-      "coverage": 1,
+      "coverage": 2,
       "coverageFields": [
-        "height"
+        "height",
+        "photo"
       ],
       "historicalNotes": [
         {
@@ -69668,6 +71014,23 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "业主提供的照片显示红色塔脚与第一平台、白色中段、深蓝色上轴和两层开放塔冠。"
+          ],
+          "en": [
+            "The owner-supplied photograph shows red legs and first deck, a white middle section, a dark-blue shaft and a two-tier open crown."
+          ],
+          "fr": [
+            "La photo fournie par le propriétaire montre des pieds et une première plateforme rouges, une section blanche, un fût bleu foncé et un sommet ouvert à deux niveaux."
+          ]
+        },
+        "referencePhotoIds": [
+          "img_a7d966b876e5aa1b"
+        ]
+      },
       "nameFr": "Projet d'installation du modèle Eiffel de Wellfleet"
     },
     {
@@ -70239,11 +71602,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "vn-da-lat-viettel-telecommunication-tower",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -70253,8 +71616,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_02edcb5e9368c154",
+        "src_5ed25144fbea7fac"
+      ],
       "uses": [],
       "gaps": [
         "当前是否仍存在及使用情况待核。",
@@ -70263,7 +71629,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。"
       ],
       "sourceIds": [
@@ -70287,6 +71652,21 @@
           "resolution": "field-checklist"
         }
       ],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour inspirée — Da Lat · Tour de télécommunications Viettel (fiche de recherche)"
     },
     {
@@ -70328,11 +71708,11 @@
       "mapReady": false,
       "globeAvailable": true,
       "approximateLocation": true,
-      "modelKey": null,
+      "modelKey": "vn-dalat-post-office-unresolved",
       "modelScope": "whole-model",
-      "modelCollection": "pending",
+      "modelCollection": "provisional",
       "modelContext": "inferred-completion",
-      "modelAvailability": "draft",
+      "modelAvailability": "public",
       "maps": {
         "google": null,
         "amap": null,
@@ -70342,8 +71722,11 @@
       "photos": [],
       "photoCount": 0,
       "displayPhotoCount": 0,
-      "summary": null,
-      "summarySourceIds": [],
+      "summary": "现有资料只有文字线索，尚不足以确认这处对象的具体外观。概念草稿的尺寸与细节均为假设，现状仍以具名来源为准。\n\n待核示意模型：现有证据尚未确认外观或实体身份；比例与细节仅用于浏览，默认隐藏，可通过“待核示意”筛选开启。",
+      "summarySourceIds": [
+        "src_4ce8823770b0c2e7",
+        "src_ac7aac2496fdf218"
+      ],
       "uses": [],
       "gaps": [
         "对象身份与复刻关系待核。",
@@ -70353,7 +71736,6 @@
         "建造与首次开放时间待补。",
         "塔体材料缺少明确来源。",
         "尚缺可展示的实景照片。",
-        "尚无公开模型；须先具备可核对的外观依据。",
         "模型含推测补全部分，需更多实景视角核对。",
         "查运营方设计来历与真正复刻关系；否则留在排除列表"
       ],
@@ -70365,6 +71747,21 @@
       "coverage": 0,
       "coverageFields": [],
       "historicalNotes": [],
+      "modelEvidence": {
+        "checkedAt": "2026-10-12",
+        "features": {
+          "zh": [
+            "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          ],
+          "en": [
+            "Provisional source-led concept. Appearance remains unverified."
+          ],
+          "fr": [
+            "Ébauche conceptuelle fondée sur les sources disponibles. L’apparence reste non vérifiée."
+          ]
+        },
+        "referencePhotoIds": []
+      },
       "nameFr": "Tour à identifier — Da Lat · Tour de télécommunications VNPT (fiche de recherche)"
     },
     {
@@ -73597,6 +74994,13 @@
       "kind": "community"
     },
     {
+      "id": "src_18ab4c976cada780",
+      "title": "Dated appearance reference",
+      "url": "https://acoupleofputts.com/2021/07/22/walsh-lacrosse/",
+      "publisher": "acoupleofputts.com",
+      "kind": "community"
+    },
+    {
       "id": "src_18f4db3ae56a2738",
       "title": "Der Eiffelturm — Das Comeback zum Start des Jahres",
       "url": "https://de.linkedin.com/posts/leonhard-weiss-gmbh-%26-co-kg_der-eiffelturm-das-comeback-zum-start-des-activity-7024320478710267904-AcW-",
@@ -73854,6 +75258,13 @@
       "url": "https://www.google.com/maps/search/?api=1&query=kleiner+Eiffelturm+Moorfleet+Hamburg",
       "publisher": "Google Maps via SerpApi",
       "kind": "map"
+    },
+    {
+      "id": "src_22b4f5abf9c49e69",
+      "title": "Dated appearance reference",
+      "url": "https://www.twz.com/34009/when-you-get-killed-in-a-chinese-wargame-smoke-pops-out-the-top-of-your-helmet",
+      "publisher": "www.twz.com",
+      "kind": "community"
     },
     {
       "id": "src_22c3b639fae17f17",
@@ -76936,6 +78347,13 @@
       "kind": "community"
     },
     {
+      "id": "src_89e5ca11045d8974",
+      "title": "Dated appearance reference",
+      "url": "https://ryyhan.blogspot.com/2014/10/betul-ke-ada-eiffel-tower-di-ayer-hitam.html",
+      "publisher": "ryyhan.blogspot.com",
+      "kind": "community"
+    },
+    {
       "id": "src_8a0337c60262861b",
       "title": "Photographic appearance reference",
       "url": "https://www.instagram.com/littleparisukraine/p/Co4aNPqNU_e/",
@@ -77419,6 +78837,13 @@
       "kind": "primary"
     },
     {
+      "id": "src_9bd130a94c640c84",
+      "title": "Dated appearance reference",
+      "url": "https://www.br.de/unternehmen/inhalt/organisation/zwanzigstes-fundstueck-100.html",
+      "publisher": "www.br.de",
+      "kind": "community"
+    },
+    {
       "id": "src_9bec2d08073265a9",
       "title": "罗利Lafayette Village铁塔 — local context",
       "url": "https://triangleexplorer.com/2012/12/10/picture-of-the-week-ooh-la-la-mini-eiffel-tower-in-north-raleigh/",
@@ -77522,6 +78947,13 @@
       "url": "https://dnpr.com.ua/storage/media/publishing-media/2019/09/19/1601029077-2ih0i/conversions/vezha-optimized.jpg",
       "publisher": "dnpr.com.ua",
       "kind": "secondary"
+    },
+    {
+      "id": "src_9f176ff4b53178f7",
+      "title": "Dated appearance reference",
+      "url": "https://www.postcardsandplaces.com/stories/visiting-aiins-world",
+      "publisher": "www.postcardsandplaces.com",
+      "kind": "community"
     },
     {
       "id": "src_9f51a172661213a6",
@@ -78133,6 +79565,13 @@
       "kind": "community"
     },
     {
+      "id": "src_b713b669cba0b035",
+      "title": "Dated appearance reference",
+      "url": "https://loc.getarchive.net/media/harper-metro-mini-golf-eiffel-tower-mount-clemens-michigan-6211ad",
+      "publisher": "loc.getarchive.net",
+      "kind": "community"
+    },
+    {
       "id": "src_b7373859fdbae91f",
       "title": "Photographic appearance reference",
       "url": "https://www.instagram.com/littleparisukraine/p/CnrrhWVt3Zj/",
@@ -78567,6 +80006,13 @@
       "kind": "primary"
     },
     {
+      "id": "src_c80c86a812b10a7e",
+      "title": "Dated appearance reference",
+      "url": "https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html",
+      "publisher": "web.archive.org",
+      "kind": "community"
+    },
+    {
       "id": "src_c89f4357c5940509",
       "title": "Appearance of Ma'anshan埃菲尔铁塔候选（Children's Park Tower）",
       "url": "https://www.google.com/maps/place/Children's+Park/@31.684994,118.500574,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNSKBeoH0BbXdnvCULGcDol6SuZAomHf3gCGzof!2e10!3e12!7i2976!8i3968!4m7!3m6!1s0x35ca859d7dcd2f75:0xd27e66eed1736a9a!8m2!3d31.684994!4d118.500574!10e5!16s%2Fg%2F1tdcdglh?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
@@ -78585,6 +80031,13 @@
       "title": "Photographic appearance reference",
       "url": "https://commons.wikimedia.org/wiki/File:Zhuozhou%E6%B6%BF%E5%B7%9E.jpg",
       "publisher": "commons.wikimedia.org",
+      "kind": "community"
+    },
+    {
+      "id": "src_ca77591bcaefb773",
+      "title": "Dated appearance reference",
+      "url": "https://www.grossharras.gv.at/system/web/GetDocument.ashx?cts=1740943141&fileId=2985693&gnr_search=1121&menuonr=218470753",
+      "publisher": "www.grossharras.gv.at",
       "kind": "community"
     },
     {
@@ -78613,6 +80066,13 @@
       "title": "Photographic appearance reference",
       "url": "https://commons.wikimedia.org/wiki/File:Eifelis_-_panoramio.jpg",
       "publisher": "commons.wikimedia.org",
+      "kind": "community"
+    },
+    {
+      "id": "src_ccacd707fe73cc64",
+      "title": "Dated appearance reference",
+      "url": "https://www.weloveprovence.fr/Alpes-Maritimes/Menton/photo-6915959475-Fete-du-Citron-a-Menton-la-Tour-Eiffel-en-citrons-%21.html",
+      "publisher": "www.weloveprovence.fr",
       "kind": "community"
     },
     {
@@ -78858,6 +80318,13 @@
       "title": "Photographic appearance reference",
       "url": "https://commons.wikimedia.org/wiki/File:Blackpool_Tower_Buildings.jpg",
       "publisher": "commons.wikimedia.org",
+      "kind": "community"
+    },
+    {
+      "id": "src_d59f36577a914402",
+      "title": "Dated appearance reference",
+      "url": "https://www.achterhoeksplanetarium.nl/wie-zijn-wij.html",
+      "publisher": "www.achterhoeksplanetarium.nl",
       "kind": "community"
     },
     {
@@ -79118,6 +80585,13 @@
       "url": "https://www.ladepeche.fr/article/2016/10/03/2431242-la-tour-eiffel-est-installee-dans-le-village.html",
       "publisher": "La Dépêche du Midi",
       "kind": "secondary"
+    },
+    {
+      "id": "src_dfb5b8d96c5a3cde",
+      "title": "Dated appearance reference",
+      "url": "https://www.marshruty.ru/travel/po_donbassu_posle_voyni/?mode=print",
+      "publisher": "www.marshruty.ru",
+      "kind": "community"
     },
     {
       "id": "src_e034264ef085c51c",

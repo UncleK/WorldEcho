@@ -1,6 +1,7 @@
 import type { SceneTower } from '../types';
 import { exhibitionHeightMetres } from '../domain/display-height.mjs';
 import modelFraming from '../../data/model-framing.v1.json' with {type:'json'};
+import {modelPriority} from '../domain/model-priority.mjs';
 
 /** Only wide horizontal exhibits need a separate footprint and camera envelope. */
 export function wideModelEnvelope(tower:SceneTower):{width:number;height:number;depth:number}|null {
@@ -48,7 +49,7 @@ export function angularDistance(a: SceneTower, b: SceneTower): number {
 export function clusterTowers(towers: SceneTower[], selectedId: string, scale = 1): TowerCluster[] {
   const finiteScale = Number.isFinite(scale) ? Math.max(0.1, Math.min(1.6, scale)) : 1;
   const remaining = [...towers].sort((a, b) => Number(hasExhibitModel(b)) - Number(hasExhibitModel(a))
-    || Number(b.id === selectedId) - Number(a.id === selectedId) || (exhibitionHeightMetres(b) ?? 0) - (exhibitionHeightMetres(a) ?? 0) || a.id.localeCompare(b.id));
+    || Number(b.id === selectedId) - Number(a.id === selectedId) || modelPriority(a)-modelPriority(b) || (exhibitionHeightMetres(b) ?? 0) - (exhibitionHeightMetres(a) ?? 0) || a.id.localeCompare(b.id));
   // At regional display size every recorded location gets its own miniature or
   // point. Keeping a single representative here defeated the size slider even
   // when all of the models would comfortably fit in the same camera region.

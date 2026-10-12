@@ -33,14 +33,14 @@ export interface Tower {
   approximateLocation?: boolean;
   mapPlacement?: {basis:string;precisionLabel:{zh:string;en:string;fr:string};reason:string;sourceIds:string[];sourceUrls:string[]};
 }
-export type ModelCollection = 'core' | 'reference' | 'related' | 'other' | 'pending';
-export interface ModelCase { city?:string|null;venue?:string|null;aliases?:string[]; id:string;modelKey:string;modelScope?:string;modelCollection?:ModelCollection;modelContext?:'tower-body'|'inferred-completion';name:string;nameEn?:string;communityNameReviewed?:boolean;communitySummary?:{zh:string;en:string;fr?:string};countryCode:string;countryName:string;heightM:number|null;heightApproximate?:boolean;hasMap:boolean;previewUrl:string;previewHash?:string;views?:Partial<Record<ModelView,{url:string;sha256:string}>>;status?:string;access?:'private'|'public'|'unknown';historicalAppearance?:boolean }
+export type ModelCollection = 'core' | 'reference' | 'related' | 'other' | 'provisional' | 'pending';
+export interface ModelCase { classification?:string; city?:string|null;venue?:string|null;aliases?:string[]; id:string;modelKey:string;modelScope?:string;modelCollection?:ModelCollection;modelContext?:'tower-body'|'inferred-completion';name:string;nameEn?:string;communityNameReviewed?:boolean;communitySummary?:{zh:string;en:string;fr?:string};countryCode:string;countryName:string;heightM:number|null;heightApproximate?:boolean;hasMap:boolean;previewUrl:string;previewHash?:string;views?:Partial<Record<ModelView,{url:string;sha256:string}>>;status?:string;access?:'private'|'public'|'unknown';historicalAppearance?:boolean }
 export interface AppCatalog { version: string; generatedAt?: string; communityRevision?: number; quizSetId: string; towers: Tower[]; approximateTowers?:Tower[]; modelCases?:ModelCase[]; researchCount: number; modeledCount: number;
   routes: Array<{id: string; title: string; intro: string; stops: string[]}>;
   families: Array<{ id: string; nameZh: string; landmarkType: string; status: string }>;
   geographicCredit: { name: string; url: string } }
 export const toSceneTower = (tower: Tower): SceneTower => ({ id: tower.id, name: tower.label, countryCode: tower.countryCode,
-  lat: tower.coordinates.lat, lon: tower.coordinates.lon, heightM: tower.heightM, heightText: heightLabel(tower), heightScope: tower.height?.scope ?? 'unknown', modelKey: tower.modelKey,modelScope:tower.modelScope,modelContext:tower.modelContext });
+  lat: tower.coordinates.lat, lon: tower.coordinates.lon, heightM: tower.heightM, heightText: heightLabel(tower), heightScope: tower.height?.scope ?? 'unknown', modelKey: tower.modelKey,modelScope:tower.modelScope,modelContext:tower.modelContext,modelCollection:tower.modelCollection });
 export function heightLabel(tower: Tower) {
   if (!tower.height) return displayHeightRange(tower.id,getLanguage())??t("待核对");
   const originalUnit = tower.height.originalUnit ?? tower.height.researchOriginal?.unit;
@@ -63,7 +63,7 @@ export function builtLabel(tower: Tower) {
 function yearEvent(tower: Tower) { return ['built', 'opened', 'rebuilt'].map((kind) => tower.history.events.find((event) => event.kind === kind && event.date)).find(Boolean); }
 export function yearScope(tower: Tower) { const event = yearEvent(tower); return event?.kind === 'opened' ? t("开放") : event?.kind === 'rebuilt' ? t("重建") : t("建成"); }
 export function strictComparison(towers: Tower[]) {
-  return towers.length >= 2 && towers.every((tower) => tower.comparisonEligible !== false && tower.modelKey && tower.modelScope!=='visible-section' && tower.modelContext!=='inferred-completion' && tower.height && Number.isFinite(tower.heightM) && (tower.heightM ?? 0) > 0 && tower.height.scope !== 'unknown')
+  return towers.length >= 2 && towers.every((tower) => tower.comparisonEligible !== false && tower.modelCollection!=='provisional' && tower.modelKey && tower.modelScope!=='visible-section' && tower.modelContext!=='inferred-completion' && tower.height && Number.isFinite(tower.heightM) && (tower.heightM ?? 0) > 0 && tower.height.scope !== 'unknown')
     && towers.every((tower) => tower.height?.scope === towers[0].height?.scope);
 }
 

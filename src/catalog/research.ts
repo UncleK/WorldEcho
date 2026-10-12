@@ -3,6 +3,7 @@ import { galleryEligible, demoGalleryEligible, isMapAnchor } from '../../scripts
 import { DEFAULT_TOWER_FILTERS, readTowerFilters, towerMatchesFilters, writeTowerFilters, type TowerFilters } from '../domain/tower-filters.ts';
 import { towerDisplayMetadata } from '../../scripts/tower-display-policy.mjs';
 import { isPublicModel, isPublicResearchModel } from '../domain/model-publication.mjs';
+import {modelPriority} from '../domain/model-priority.mjs';
 
 export type Region = 'asia' | 'europe' | 'north-america' | 'south-america' | 'africa' | 'oceania' | 'other';
 export type MaterialGroup = 'steel' | 'iron' | 'metal' | 'wood' | 'bamboo' | 'stone' | 'concrete' | 'plastic' | 'composite' | 'reused' | 'other';
@@ -28,7 +29,7 @@ export interface ResearchRow {
   builtYear: number | null; openedYear: number | null; events: EvidenceEvent[];
   materials: MaterialClaim[]; materialGroups: MaterialGroup[];
   mapReady: boolean; globeAvailable: boolean; approximateLocation?:boolean; modelKey: string | null; modelScope?:string;
-  modelCollection?:'core'|'reference'|'related'|'other'|'pending'; modelContext?:'tower-body'|'inferred-completion';
+  modelCollection?:'core'|'reference'|'related'|'other'|'provisional'|'pending'; modelContext?:'tower-body'|'inferred-completion';
   modelAvailability?: 'public' | 'draft' | 'not-started';
   maps: { google: string | null; amap: string | null; preferred: string }; coordinateSourceIds: string[];
   photoCount: number; displayPhotoCount: number; photos: ResearchPhoto[];
@@ -130,7 +131,7 @@ export function buildResearchDataset(input: { towers: CanonicalTower[]; sources:
       heightM, heightScope: heightM !== null ? rawHeight!.scope : null,
       heightApproximate: heightM !== null && (converted || rawHeight!.precision === 'approximate'),
       heightConverted: converted,
-      heightRankEligible: tower.model?.collection !== 'pending' && tower.model?.collection !== 'other' && tower.model?.publicationEligibility !== 'held' && tower.dimensions.comparisonEligible !== false && tower.model?.normalizationScope !== 'visible-section' && tower.model?.modelContext !== 'inferred-completion',
+      heightRankEligible: !['pending','other','provisional','related'].includes(tower.model?.collection??'core') && tower.model?.publicationEligibility !== 'held' && tower.dimensions.comparisonEligible !== false && tower.model?.normalizationScope !== 'visible-section' && tower.model?.modelContext !== 'inferred-completion',
       heightDisplayRole: tower.dimensions.heightDisplayRole ?? null,
       heightSourceIds: heightM !== null ? validSources(rawHeight!.sourceIds) : [],
       heightObservationCount: tower.dimensions.observations.filter(height => heightInMeters(height, sourceIds) !== null).length,
@@ -184,7 +185,7 @@ export function filterRows(entries: ResearchRow[], query: CatalogQuery): Researc
   const rows = entries.filter(row => {
     const text = searchKey([row.name, row.nameEn, row.nameFr, row.localName, row.id, row.label, row.countryName, row.countryCode, row.city, row.venue, ...row.aliases].filter(Boolean).join(' '));
     // Publication holds apply to models, not to the underlying research record.
-    const filterable = row.modelKey ? row : { ...row, modelCollection: undefined };
+    const filterable = row.modelKey || row.modelCollection==='related'||row.modelCollection==='other' ? row : { ...row, modelCollection: undefined };
     return towerMatchesFilters(filterable, query) && (!query.status || row.status === query.status)
       && (!query.missing || (query.missing === 'location' ? !row.mapReady : query.missing === 'height' ? row.heightM === null : query.missing === 'status' ? row.status === 'unknown' : row.photoCount === 0))
       && words.every(word => text.includes(word)) && (!query.region || row.region === query.region) && (!query.country || row.countryCode === query.country)
@@ -195,7 +196,7 @@ export function filterRows(entries: ResearchRow[], query: CatalogQuery): Researc
   return rows.sort((a, b) => {
     const order = query.sort === 'height-desc' ? numeric(a.heightM, b.heightM, true) : query.sort === 'height-asc' ? numeric(a.heightM, b.heightM)
       : query.sort === 'year-asc' ? numeric(a.builtYear ?? a.openedYear, b.builtYear ?? b.openedYear) : query.sort === 'photos' ? b.photoCount - a.photoCount
-      : query.sort === 'coverage' ? b.coverage - a.coverage || Number(!!b.modelKey) - Number(!!a.modelKey) : 0;
+      : query.sort === 'coverage' ? modelPriority(a)-modelPriority(b) || b.coverage - a.coverage || Number(!!b.modelKey) - Number(!!a.modelKey) : 0;
     return order || textCompare(a, b);
   });
 }

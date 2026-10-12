@@ -735,5 +735,13 @@
   "已有模型草稿，身份或展示资格仍待核，暂未公开。": "Un brouillon de modèle existe, mais son identité ou son admissibilité restent à vérifier ; il n’est pas public.",
   "迁移": "Déplacement",
   "概述": "Présentation",
-  "{0}三维模型": "Modèle 3D de {0}"
+  "{0}三维模型": "Modèle 3D de {0}",
+  "包含外观参考模型": "Inclure les modèles de référence visuelle",
+  "显示衍生或相似建筑": "Afficher les dérivés et bâtiments similaires",
+  "显示待核示意模型": "Afficher les modèles illustratifs à vérifier",
+  "待核示意模型": "Modèle illustratif à vérifier",
+  "待核示意模型 · 外观或身份尚未确认": "Modèle illustratif · Apparence ou identité non vérifiée",
+  "依据已有线索绘制，不代表已核实外观。": "Illustration fondée sur les indices disponibles ; apparence non vérifiée.",
+  "这份示意用于浏览与继续补证。比例、颜色和构件可能与实物不同，不作为事实尺寸或现场照片。": "Cette illustration aide à explorer et à poursuivre la recherche. Proportions, couleurs et éléments peuvent différer de l’objet ; ce n’est ni un relevé ni une photographie du site.",
+  "示意模型检查：{0}": "Illustration examinée : {0}"
 }

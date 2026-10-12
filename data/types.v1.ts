@@ -40,7 +40,7 @@ export interface Tower {
   mediaIds: MediaId[];
   researchStatus: 'candidate' | 'researched';
   modelStatus: 'not_started' | 'prototype';
-  model: { key: string; status: 'prototype'; familyId: string; normalizationScope?:string; publicationEligibility?:'held'|'scope_reviewed'|'reference_only'|'related_only'|'other_only'; collection?:'core'|'reference'|'related'|'other'|'pending'; reviewReason?:string; modelContext?:'tower-body'|'inferred-completion' } | null;
+  model: { key: string; status: 'prototype'; familyId: string; normalizationScope?:string; publicationEligibility?:'held'|'scope_reviewed'|'reference_only'|'related_only'|'other_only'|'provisional_only'; collection?:'core'|'reference'|'related'|'other'|'provisional'|'pending'; reviewReason?:string; modelContext?:'tower-body'|'inferred-completion' } | null;
   readiness: { mapLinkEnabled: boolean; heightComparisonEligible: boolean; galleryMediaAvailable: boolean; visualReferenceAvailable: boolean; evidenceCandidate: boolean; missing: string[] };
   maps: { preferred: 'amap' | 'google'; google: string | null; amap: string | null; status: 'available' | 'research_only' | 'unavailable'; reason: string | null };
   gaps: string[];

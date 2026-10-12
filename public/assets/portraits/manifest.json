@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-11T18:49:04.321Z",
+  "generatedAt": "2026-10-12T05:15:31.775Z",
   "background": "transparent",
   "encoding": "webp-lossless",
-  "modelSha256": "d3edb5c764c3ecae389eedf330688444c0032d362bd1813968ecb1f0e822f7c5",
-  "recipeSha256": "226355e865a92b3b16badd4b51c9ecd6e45b7bdaf3ec12a9b3ba1ade29d97044",
+  "modelSha256": "c8ae1386e4a189063d324f4ff9514c7970215b78f4a2fa982a848ea73b7cea8c",
+  "recipeSha256": "eb7f44ac72a28233d66c21088dd8cbdb417b951c88dd145814fc56b5be55b172",
   "runtimeSha256": "7a6e3582f8405140d1aedfe56941882aafccac25b775e883de5fc209bd8b4a9d",
   "rendererSha256": "c2221f3e299bf90f160471b3d8f5bd2bb55f652d3b95e0b9a4dfcd8a22d596bb",
   "camera": {
@@ -24764,12 +24764,3354 @@
       "normalizationScope": "whole-model",
       "modelFeatures": "红白格构广播塔的下部可见外张脚、两道开敞结构带、圆拱与中央爬梯；上端不在照片中，补全仍为推测。",
       "caption": "依据有限实景与明确推测补全的参考模型；统一展示高度，不是现场照片或工程测绘。"
+    },
+    {
+      "modelKey": "gb-brockham-eiffel-tower-brockham",
+      "towerId": "gb-brockham-eiffel-tower-brockham",
+      "url": "/assets/portraits/gb-brockham-eiffel-tower-brockham.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "f72308be66a9d105f158d78e632aab1df8e05931c52a07467c7fdc3859d2ee78",
+      "width": 960,
+      "height": 1320,
+      "sha256": "dde9e46bdd3c82dfeafd789276812017741531a2136bb2ce4992bf236c9fbe06",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/gb-brockham-eiffel-tower-brockham.webp",
+          "sha256": "dde9e46bdd3c82dfeafd789276812017741531a2136bb2ce4992bf236c9fbe06",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/gb-brockham-eiffel-tower-brockham-axonometric.webp",
+          "sha256": "5f0de51006d01f1ccb95f7cd517f1f15b7eb647e94225a44aa9e75f3bf8f5b7e",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/gb-brockham-eiffel-tower-brockham-side.webp",
+          "sha256": "94d661ab8d3f9fb07c229d5814e463eb361ed88f670bd90e366193145a16c18f",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://commons.wikimedia.org/wiki/File:The_Eiffel_Tower,_Brockham_-_geograph.org.uk_-_7853190.jpg"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "细杆向上收拢，低处有少量横向连接，未见密集埃菲尔式交叉桁架。 · 红白花卉集中于下部，顶部有小型法国三色旗；不包含围栏、花坛或周边地面。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "ae-dubai-falconcity-of-wonders",
+      "towerId": "ae-dubai-falconcity-of-wonders",
+      "url": "/assets/portraits/ae-dubai-falconcity-of-wonders.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "02ab9e6e774da6af9f252cdabcf5f14ac487e25163672b5db8e427df9a758987",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ae-dubai-falconcity-of-wonders.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ae-dubai-falconcity-of-wonders-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ae-dubai-falconcity-of-wonders-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "am-yerevan-club-parisian",
+      "towerId": "am-yerevan-club-parisian",
+      "url": "/assets/portraits/am-yerevan-club-parisian.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "59a123def22fc28ebe2e3a29be64b014323b5cb068e66bf8cae25eabfec07302",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/am-yerevan-club-parisian.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/am-yerevan-club-parisian-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/am-yerevan-club-parisian-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "at-zwingendorf-back-garden-tower-built-by-twin-brothers",
+      "towerId": "at-zwingendorf-back-garden-tower-built-by-twin-brothers",
+      "url": "/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "9e7917f7a1f5f34077de13c8bdb527691b0ce6ce5b49ea23701704b7bf952d5e",
+      "width": 960,
+      "height": 1320,
+      "sha256": "6f10d5581a82f51f594ede7d54df526a6bd819192c093cbc34fcc4f965c0fba0",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers.webp",
+          "sha256": "6f10d5581a82f51f594ede7d54df526a6bd819192c093cbc34fcc4f965c0fba0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers-axonometric.webp",
+          "sha256": "b7dc291c77ee48f7ea5bbfd5e3bf660ebe6119eae3a8d8a7a484731f2aec10de",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers-side.webp",
+          "sha256": "caf67c539b4f41b1f1fd62eb3b92170574f95ed5747a1976d59b6efc62eb1de1",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.grossharras.gv.at/system/web/GetDocument.ashx?cts=1740943141&fileId=2985693&gnr_search=1121&menuonr=218470753",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "金色四腿桁架，两个薄平台、密集交叉撑杆和开放圆顶塔冠。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "az-baku-eiffel-tower",
+      "towerId": "az-baku-eiffel-tower",
+      "url": "/assets/portraits/az-baku-eiffel-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "174ab85640c4863c2a269f08f3bf78b2bf1b66714fecff80864e3838898720aa",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/az-baku-eiffel-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/az-baku-eiffel-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/az-baku-eiffel-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Azerbaidjan.php"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "az-nakhchivan-yl-nc-adas",
+      "towerId": "az-nakhchivan-yl-nc-adas",
+      "url": "/assets/portraits/az-nakhchivan-yl-nc-adas.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "95aa2925b97f75381ff5810bd9d1b89fe6fe7d861e8c3d7ed946d3b3e9cd263a",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/az-nakhchivan-yl-nc-adas.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/az-nakhchivan-yl-nc-adas-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/az-nakhchivan-yl-nc-adas-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "bo-sucre-parque-simon-bolivar",
+      "towerId": "bo-sucre-parque-simon-bolivar",
+      "url": "/assets/portraits/bo-sucre-parque-simon-bolivar.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "9066b85bb5bf9ebf24a63da2c0d9747e6163bc475651dd85e74ec1c411d2261b",
+      "width": 960,
+      "height": 1320,
+      "sha256": "b7371a6db40154f5111247a35c7d9107b7c87dc9d6f0c8af9bc56ef09719d567",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/bo-sucre-parque-simon-bolivar.webp",
+          "sha256": "b7371a6db40154f5111247a35c7d9107b7c87dc9d6f0c8af9bc56ef09719d567",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/bo-sucre-parque-simon-bolivar-axonometric.webp",
+          "sha256": "e450fa20f60ae4de39f5dcec41e7e45c00f37f09022a17eea61cc6f8ca6938f2",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/bo-sucre-parque-simon-bolivar-side.webp",
+          "sha256": "4d2322f2b82fe219f1f4ce1188165406734bdda649a4095560af124282791b73",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://commons.wikimedia.org/wiki/File:Parque_Sim%C3%B3n_Bol%C3%ADvar,_Sucre.jpg",
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "公园内橙红色小塔带宽敞拱脚、两层观景平台和开敞笼状塔冠；周围人可作宽范围比例参照。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "br-sao-paulo-rooftop-unresolved",
+      "towerId": "br-sao-paulo-rooftop-unresolved",
+      "url": "/assets/portraits/br-sao-paulo-rooftop-unresolved.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "4dd02241c93061bb188dfc7123dc4e6523423aa36c93dd2bb5e8dafdcb765b72",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/br-sao-paulo-rooftop-unresolved.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/br-sao-paulo-rooftop-unresolved-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/br-sao-paulo-rooftop-unresolved-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://brilliantmaps.com/eiffel-tower/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ca-terrebonne-solarium-international",
+      "towerId": "ca-terrebonne-solarium-international",
+      "url": "/assets/portraits/ca-terrebonne-solarium-international.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "7f7049292b907c8a5cc52919a791b59849164e9f4b431df79ee5646bdba13a15",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ca-terrebonne-solarium-international.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ca-terrebonne-solarium-international-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ca-terrebonne-solarium-international-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://brilliantmaps.com/eiffel-tower/",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "cn-zhurihe-chinese-army-tower",
+      "towerId": "cn-zhurihe-chinese-army-tower",
+      "url": "/assets/portraits/cn-zhurihe-chinese-army-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "9e0da04c56233c202cfe35b5499135ab56483569c05bf5afcc3146e401bda437",
+      "width": 960,
+      "height": 1320,
+      "sha256": "4911cfd31670294b76dc4c9c4c5ff2e6be7d049c840771a2b8de3baa21541409",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/cn-zhurihe-chinese-army-tower.webp",
+          "sha256": "4911cfd31670294b76dc4c9c4c5ff2e6be7d049c840771a2b8de3baa21541409",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/cn-zhurihe-chinese-army-tower-axonometric.webp",
+          "sha256": "6ef8d0c8f7c9d820bc8adf570937843cfbdea9ff7c6d499f55463da9ee9c6636",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/cn-zhurihe-chinese-army-tower-side.webp",
+          "sha256": "ea404f01c7fd89453c75b4999ba068229f561f03145d55e39f51e5edaaad61eb",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.twz.com/34009/when-you-get-killed-in-a-chinese-wargame-smoke-pops-out-the-top-of-your-helmet",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://aroundus.com/p/6531749-zhurihe-training-base",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.twz.com/33591/chinas-biggest-base-has-huge-replicas-of-taiwans-presidential-building-and-the-eiffel-tower"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "公开视频画面中可见灰色桁架、宽平台和收窄上轴；下部与背面仅作比例推测。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "de-ismaning-bavaria-ismaning-radio-tower",
+      "towerId": "de-ismaning-bavaria-ismaning-radio-tower",
+      "url": "/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "fac4a5a6e73913872a7a07ff6b284f7ab4c1359cf0fb47bee9e54b1115d70f42",
+      "width": 960,
+      "height": 1320,
+      "sha256": "1143a2a4d56608a880a5ea79efcbfc103d410693b3b181ff4af3303e4ecad648",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower.webp",
+          "sha256": "1143a2a4d56608a880a5ea79efcbfc103d410693b3b181ff4af3303e4ecad648",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower-axonometric.webp",
+          "sha256": "5166467b46bebf23e1fdfece406e117aff571334cf558ae2e5ed4a431b995b01",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower-side.webp",
+          "sha256": "3ee87a4f2c5933a6ddfaded4d718338f3ea8a98a2acdf5bb818dfe7102a2c206",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.br.de/unternehmen/inhalt/organisation/zwanzigstes-fundstueck-100.html",
+        "https://commons.wikimedia.org/wiki/File:Sendeturm_Ismaning.gif",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Ismaning_radio_transmitter"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "历史照片中的木制广播塔为宽脚、长窄上轴和分层横撑，按相关建筑单独展示。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "de-meckenheim-rungis-express",
+      "towerId": "de-meckenheim-rungis-express",
+      "url": "/assets/portraits/de-meckenheim-rungis-express.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "dd0a5ae2a708ad1845d0396218f6f3ffba3944089af963e9b79811d126c7ce65",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/de-meckenheim-rungis-express.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/de-meckenheim-rungis-express-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/de-meckenheim-rungis-express-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.spiegel.de/fotostrecke/pariser-eiffelturm-nachbauten-aus-aller-welt-fotostrecke-112422.html"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "dk-slagelse-wooden-tower-at-an-exhibition",
+      "towerId": "dk-slagelse-wooden-tower-at-an-exhibition",
+      "url": "/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "49a6f5aa6d9cc0c78868ffb8ed4676f55252e8ed50b2877cbcb9cb25ca96d1c9",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Copies-of-the-Eiffel-tower.php"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade",
+      "towerId": "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade",
+      "url": "/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "17c8706a71a36f16ee20d77ca8090053f35efae2e8b05b04028ccc69781eca1f",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "fr-biarritz-tower-on-a-house-roof",
+      "towerId": "fr-biarritz-tower-on-a-house-roof",
+      "url": "/assets/portraits/fr-biarritz-tower-on-a-house-roof.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "c42365730e0e0e8add068f4678d3e5c5a42f92f68aeba7bc4761e97d5d944142",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/fr-biarritz-tower-on-a-house-roof.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/fr-biarritz-tower-on-a-house-roof-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/fr-biarritz-tower-on-a-house-roof-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "fr-bourgoin-jallieu-copie-de-la-tour-eiffel",
+      "towerId": "fr-bourgoin-jallieu-copie-de-la-tour-eiffel",
+      "url": "/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "848cb4cd18de1ffc30b0c1569275bb79f8678380b7ecf1c905c3daf4eef00b95",
+      "width": 960,
+      "height": 1320,
+      "sha256": "a5c4a5f47e6a2a403d9fca1fcc395c247c148f0dcea54761843632b2debf4020",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel.webp",
+          "sha256": "a5c4a5f47e6a2a403d9fca1fcc395c247c148f0dcea54761843632b2debf4020",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel-axonometric.webp",
+          "sha256": "ea520bf71e59651c8a6cea6cdc90a65cd79412840fcada3dd0135da377fe29eb",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel-side.webp",
+          "sha256": "479b4b7565c3d099bd750b798493c3e7bd6f0d81d219890e337c2af1063badbd",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://commons.wikimedia.org/wiki/File:Bourgoin-Jallieu.Copie_de_la_Tour_Eiffel.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Models_of_the_Eiffel_Tower",
+        "https://follies.org.uk/wp/wp-content/uploads/pdfs/2016-Appendix-webversion.pdf",
+        "https://www.monweekendalacapi.fr/decouvrir/patrimoine/chateaux/chateau-de-thezieu"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "Bourgoin-Jallieu历史明信片中为多层阶梯状地方塔造型，尖顶。 · 历史影像不能支持2026存在，塔体与普通细钢格构差异大，保留历史候选。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "fr-breil-rue-des-cedres",
+      "towerId": "fr-breil-rue-des-cedres",
+      "url": "/assets/portraits/fr-breil-rue-des-cedres.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "24b0da42f97624eb0a99079222eca5d9e9d74788bbafdfd159d057f54be17635",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/fr-breil-rue-des-cedres.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/fr-breil-rue-des-cedres-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/fr-breil-rue-des-cedres-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://de.wikipedia.org/wiki/Liste_der_Eiffelturm-Nachbildungen_und_Derivate"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "fr-la-doree-tower-at-a-metal-worker-s-house",
+      "towerId": "fr-la-doree-tower-at-a-metal-worker-s-house",
+      "url": "/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "71321c30495bb5abca44831e2e9fb243bcf9530d35d71eeb91c98a49e8ade308",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "fr-menton-copy",
+      "towerId": "fr-menton-copy",
+      "url": "/assets/portraits/fr-menton-copy.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "c547f3b5f866693987b9b2e79fe79c26229c25ddb6038051aca14f4da4d50bfe",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/fr-menton-copy.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/fr-menton-copy-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/fr-menton-copy-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9pliques_et_imitations_de_la_tour_Eiffel",
+        "https://www.paris.fr/pages/la-tour-eiffel-fete-ses-130-ans-6554"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "fr-menton-tower-with-lemons",
+      "towerId": "fr-menton-tower-with-lemons",
+      "url": "/assets/portraits/fr-menton-tower-with-lemons.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "1bbebfa32af9c34d3e12b28c7523d6ff710b7e8cd1e052c13ec9e5b80030238d",
+      "width": 960,
+      "height": 1320,
+      "sha256": "312c9513d535ba1a4c2b47ffa6cc4a2edab4fe478e6b06fe493d481affc45231",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/fr-menton-tower-with-lemons.webp",
+          "sha256": "312c9513d535ba1a4c2b47ffa6cc4a2edab4fe478e6b06fe493d481affc45231",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/fr-menton-tower-with-lemons-axonometric.webp",
+          "sha256": "9160b74edc97ee32963d3b7df22017168fca0742c8491b514c8fd1de3f4926b3",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/fr-menton-tower-with-lemons-side.webp",
+          "sha256": "fd11a059afa8ba1b9477ba5aee1f8a00d4e638ed3c14a20ac7cd28b083f3eb83",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.weloveprovence.fr/Alpes-Maritimes/Menton/photo-6915959475-Fete-du-Citron-a-Menton-la-Tour-Eiffel-en-citrons-%21.html",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.gettyimages.ae/detail/news-photo/people-work-on-sculptures-made-with-oranges-and-lemons-news-photo/2079444924"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "2012年柑橘节照片显示橙黄色填充面、深色斜撑、外挑框架平台和四个拱脚。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "fr-thieblemont-faremont-copy",
+      "towerId": "fr-thieblemont-faremont-copy",
+      "url": "/assets/portraits/fr-thieblemont-faremont-copy.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "190e555ea98b95926e8d655f9003a39390520934a9cc46d164baf63fbac182f1",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/fr-thieblemont-faremont-copy.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/fr-thieblemont-faremont-copy-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/fr-thieblemont-faremont-copy-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://brilliantmaps.com/eiffel-tower/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "gb-belfast-la-bastille-restaurant",
+      "towerId": "gb-belfast-la-bastille-restaurant",
+      "url": "/assets/portraits/gb-belfast-la-bastille-restaurant.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "45dc1c3f5d4fd4acdb2b3759c959d9372f43f8c16178b08c3ddeed51034e520b",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/gb-belfast-la-bastille-restaurant.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/gb-belfast-la-bastille-restaurant-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/gb-belfast-la-bastille-restaurant-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.irishnews.com/lifestyle/2015/11/14/news/eating-out-cause-for-celebration-at-la-bastille-322218/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "gb-wembley-greater-london-watkin-s-tower",
+      "towerId": "gb-wembley-greater-london-watkin-s-tower",
+      "url": "/assets/portraits/gb-wembley-greater-london-watkin-s-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "c45b3171a0f80775bf3715fd2890cd01a7f353a2f5e4404c7f32c2d2eea5bd67",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99ee7c0f2e3fd08215c31042c4f2556cd04842e64052f73e02fc3b6eff05eeb4",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/gb-wembley-greater-london-watkin-s-tower.webp",
+          "sha256": "99ee7c0f2e3fd08215c31042c4f2556cd04842e64052f73e02fc3b6eff05eeb4",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/gb-wembley-greater-london-watkin-s-tower-axonometric.webp",
+          "sha256": "c7637b2299735ae51247e4b4617e230607dbcdf85069f5ff90d6085ab6369c15",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/gb-wembley-greater-london-watkin-s-tower-side.webp",
+          "sha256": "d56b1e1ab1958099c34f5ca092951396402da37abf1fe8c706788c074640059a",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://commons.wikimedia.org/wiki/File:Watkin_Tower_winning_design.jpg",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://en.wikipedia.org/wiki/Watkin%27s_Tower"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "这是Watkin塔中选方案图，展示多层平台和极长上轴；不是已建成全塔的照片。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "gr-heraklion-tower-in-a-garden-in-a-narrow-street",
+      "towerId": "gr-heraklion-tower-in-a-garden-in-a-narrow-street",
+      "url": "/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "e8dbb5b65d3417f8fe9dd02310b92278f09438a45a5c82e5127a8225a3a29b8e",
+      "width": 960,
+      "height": 1320,
+      "sha256": "7bb17a6c20b5d6e0989c7c7ab2f6d3cbb773660df5cb1a2cf4189377ed71d9e5",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street.webp",
+          "sha256": "7bb17a6c20b5d6e0989c7c7ab2f6d3cbb773660df5cb1a2cf4189377ed71d9e5",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street-axonometric.webp",
+          "sha256": "d44afb8c212d3253dbad7f9d0bde5e8cc8e6ee248be4cf493bb0d325b4c8fcd1",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street-side.webp",
+          "sha256": "07edc322a3a6227055b0b3bba88f31ccc7e093bbd0ae98ee576bb2a866f410be",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "阳台后方小型浅色铁塔装饰，只有上段及窄塔冠可见，下部被栏杆挡住。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "id-lake-toba-world-heritage-mini-mini",
+      "towerId": "id-lake-toba-world-heritage-mini-mini",
+      "url": "/assets/portraits/id-lake-toba-world-heritage-mini-mini.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "7c785a9903a87cf9db097c7c8e870e04df937d546c15b3701e84b1ac8496c527",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/id-lake-toba-world-heritage-mini-mini.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/id-lake-toba-world-heritage-mini-mini-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/id-lake-toba-world-heritage-mini-mini-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "id-lembang-reddit-replica",
+      "towerId": "id-lembang-reddit-replica",
+      "url": "/assets/portraits/id-lembang-reddit-replica.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "d988632cd3c0fcd31b32126ec1c2eb3cafefab64677d146f3d35ba4a09ceffe6",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/id-lembang-reddit-replica.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/id-lembang-reddit-replica-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/id-lembang-reddit-replica-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.reddit.com/r/architecture/comments/1wxc1z0/map_of_all_the_eiffel_towers_found_across_the/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "it-vergiate-corgeno-copy",
+      "towerId": "it-vergiate-corgeno-copy",
+      "url": "/assets/portraits/it-vergiate-corgeno-copy.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "3f500d7aea7ca50fb6748953fef4f2ce1646cef099c74e038bc34f345bf6f3ed",
+      "width": 960,
+      "height": 1320,
+      "sha256": "9e45c66300569012d8b10ab422cbf4d9c48d864ac9c1b683369c14dd1ef57f99",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/it-vergiate-corgeno-copy.webp",
+          "sha256": "9e45c66300569012d8b10ab422cbf4d9c48d864ac9c1b683369c14dd1ef57f99",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/it-vergiate-corgeno-copy-axonometric.webp",
+          "sha256": "a097f3a86e9dee896f0bf0d05481b90e6b90a4dc1150180350679563b28ad5a5",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/it-vergiate-corgeno-copy-side.webp",
+          "sha256": "61a31b78dd309fc3b352f7221e9e939c72f0c85ddfe5cd27a7f8223f8c250dc9",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://commons.wikimedia.org/wiki/File:Tour_eiffel_Mario_da_Corgeno.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Replicas_of_the_Eiffel_Tower",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "照片展示庭院铺地上的浅色镂空工艺塔，带装饰平台与小型塔冠。固定公共设置身份与实际尺寸仍待核，不把旧目录中的5米说法当作已核高度。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "jp-nagoya-nagoya-tv-tower",
+      "towerId": "jp-nagoya-nagoya-tv-tower",
+      "url": "/assets/portraits/jp-nagoya-nagoya-tv-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "7df0e4078e258e9c7d95ea26f0bc163df298290302b89eed14993a3d3697a0ca",
+      "width": 960,
+      "height": 1320,
+      "sha256": "49557b86e516dd9924d74b45b5f77e63806e4402fd4d9f52aa2a89f0e2158254",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/jp-nagoya-nagoya-tv-tower.webp",
+          "sha256": "49557b86e516dd9924d74b45b5f77e63806e4402fd4d9f52aa2a89f0e2158254",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/jp-nagoya-nagoya-tv-tower-axonometric.webp",
+          "sha256": "772a860d4c3966f2d27ed8464b6112204ba892d94c55965878b33a193fb0d272",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/jp-nagoya-nagoya-tv-tower-side.webp",
+          "sha256": "261ac6f1302aadd4186808ebaf0e31e36a1fc5872067b146d36df026faf9325f",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://commons.wikimedia.org/wiki/File:Nagoya_TV_Tower2.jpg",
+        "https://en.wikipedia.org/wiki/Nagoya_TV_Tower",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.nagoya-tv-tower.co.jp/news/202609101053/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "浅色电视塔具有宽矩形低观景舱、细长四角上轴、上部小舱和连续天线。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "kh-phnom-penh-eiffel-map-candidate",
+      "towerId": "kh-phnom-penh-eiffel-map-candidate",
+      "url": "/assets/portraits/kh-phnom-penh-eiffel-map-candidate.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "c5a42620ad2326cb874c0ed30c3d731db0ed50ea38da28ef6945d1951dd934eb",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/kh-phnom-penh-eiffel-map-candidate.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/kh-phnom-penh-eiffel-map-candidate-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/kh-phnom-penh-eiffel-map-candidate-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://cambodiatoday.online/map/phnom-penh/eiffel-tower-1c7tfuo7"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "kr-bucheon-aiins-world",
+      "towerId": "kr-bucheon-aiins-world",
+      "url": "/assets/portraits/kr-bucheon-aiins-world.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "c12d8d1a1dc1a9aa65de0cbb3916bd712aa9ef1ebec779ac6c0d6d2df0119e04",
+      "width": 960,
+      "height": 1320,
+      "sha256": "c7f92b3ca479c9ecb4b5038f4be0bdd8b5a545a009ce76fef0dda95673de6207",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/kr-bucheon-aiins-world.webp",
+          "sha256": "c7f92b3ca479c9ecb4b5038f4be0bdd8b5a545a009ce76fef0dda95673de6207",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/kr-bucheon-aiins-world-axonometric.webp",
+          "sha256": "4da291eede07d203b5cb44150eebdc8b08a142ff514aa2c23f4501f92ab31b3c",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/kr-bucheon-aiins-world-side.webp",
+          "sha256": "095df96302ffadd3ddd7b8af546a178e237f78b278ef54ffbd6fba95abefbf31",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.postcardsandplaces.com/stories/visiting-aiins-world",
+        "https://koreajoongangdaily.joins.com/2004/07/08/features/Bucheon-Culture-in-the-suburbs/2439254.html"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "深灰色埃菲尔塔式模型，弧形四腿、密集桁架、两层平台与紧凑塔冠。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "kz-aktau-oil-company-tower",
+      "towerId": "kz-aktau-oil-company-tower",
+      "url": "/assets/portraits/kz-aktau-oil-company-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "b1e06f77d17737a153fc0d5f0b42d6d6b83efc4c8dfcb0a943734cf42f738006",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/kz-aktau-oil-company-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/kz-aktau-oil-company-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/kz-aktau-oil-company-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "lb-broummana-chez-alain",
+      "towerId": "lb-broummana-chez-alain",
+      "url": "/assets/portraits/lb-broummana-chez-alain.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "60fbd30b9c3b9b782389028230a3528fc2b01fe38de9214688152094450f7e67",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/lb-broummana-chez-alain.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/lb-broummana-chez-alain-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/lb-broummana-chez-alain-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "md-tiraspol-tower-in-front-of-a-store",
+      "towerId": "md-tiraspol-tower-in-front-of-a-store",
+      "url": "/assets/portraits/md-tiraspol-tower-in-front-of-a-store.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "1a7b7481042a1ff12d9e57d4093b78c72706f7d290027e2f456c4f187b4e12f0",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/md-tiraspol-tower-in-front-of-a-store.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/md-tiraspol-tower-in-front-of-a-store-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/md-tiraspol-tower-in-front-of-a-store-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "my-ayer-hitam-tropical-village",
+      "towerId": "my-ayer-hitam-tropical-village",
+      "url": "/assets/portraits/my-ayer-hitam-tropical-village.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "ea5f190aefe67c16397c1142a319b821ec0854c34a9af4bf188a3c8616141b26",
+      "width": 960,
+      "height": 1320,
+      "sha256": "4c0cadb6f71be675c8f5d67f2be8b0cffb5ffe4bc1d9222267b244e76519def1",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/my-ayer-hitam-tropical-village.webp",
+          "sha256": "4c0cadb6f71be675c8f5d67f2be8b0cffb5ffe4bc1d9222267b244e76519def1",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/my-ayer-hitam-tropical-village-axonometric.webp",
+          "sha256": "5d86e2c0719f95f489ece226e234a14a05c3ac6adf30a5577e42107dc052e8b6",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/my-ayer-hitam-tropical-village-side.webp",
+          "sha256": "fbdf69eae62e636f4deafd4d37ed758e7a24f2e7469f60dd5665b0607d46db0d",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://ryyhan.blogspot.com/2014/10/betul-ke-ada-eiffel-tower-di-ayer-hitam.html",
+        "https://en.wikipedia.org/wiki/Tropical_Village"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "灰色开放桁架、较宽四腿和两层外挑平台；照片截掉的塔顶明确推测补全。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "nl-grootebroek-tower-in-the-grounds-of-a-college",
+      "towerId": "nl-grootebroek-tower-in-the-grounds-of-a-college",
+      "url": "/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "47b32e7e971776b4489c3e3a7a12c367d814cac599a730997f01a6f8421c77ca",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "nl-toldijk-achterhoeks-planetarium",
+      "towerId": "nl-toldijk-achterhoeks-planetarium",
+      "url": "/assets/portraits/nl-toldijk-achterhoeks-planetarium.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "ff04898a2a770443a06840ee1a214c155e814292440f6411b00015801b3e0cf2",
+      "width": 960,
+      "height": 1320,
+      "sha256": "a06280932a6015a937faf756bb06baa63ac4d46f1073ca782fd5a533117af5e2",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/nl-toldijk-achterhoeks-planetarium.webp",
+          "sha256": "a06280932a6015a937faf756bb06baa63ac4d46f1073ca782fd5a533117af5e2",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/nl-toldijk-achterhoeks-planetarium-axonometric.webp",
+          "sha256": "d182334e45427a059a2c187d2ba81f1289b3819aed7ebc0e7f869525d6875f1b",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/nl-toldijk-achterhoeks-planetarium-side.webp",
+          "sha256": "1a52cf4b6fd3aa451355ac00cfb5eca68b08dc78897ee6e603f3fc3a323a73da",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.achterhoeksplanetarium.nl/wie-zijn-wij.html",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "场地照片左侧可见浅色微缩铁塔，拱脚与渐缩上轴；部分塔脚被植物遮挡。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "nz-dunedin-new-zealand-and-south-seas-exhibition-1889",
+      "towerId": "nz-dunedin-new-zealand-and-south-seas-exhibition-1889",
+      "url": "/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "6ad5805d12f09f81fcc7c7003d4835dae626ce7d0c006efa73172cefbb9ea622",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://nzhistory.govt.nz/media/photo/new-zealands-eiffel-tower"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ph-dipolog-city-dipolog",
+      "towerId": "ph-dipolog-city-dipolog",
+      "url": "/assets/portraits/ph-dipolog-city-dipolog.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "cb1d88021988420c76403a3dbd59b84200c47b386809ea2bc90aaa56b8b3c7ee",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ph-dipolog-city-dipolog.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ph-dipolog-city-dipolog-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ph-dipolog-city-dipolog-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ph-megamall-temporary-display",
+      "towerId": "ph-megamall-temporary-display",
+      "url": "/assets/portraits/ph-megamall-temporary-display.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "5660867bc3fb25cfabb77f0873edb111a89c8d279150aaad70e8bbc145c258bb",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ph-megamall-temporary-display.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ph-megamall-temporary-display-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ph-megamall-temporary-display-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Philippines.php",
+        "https://www.merveilles-du-monde.com/Tour-Eiffel/Repliques/Copies-de-la-tour-Eiffel-aux-Philippines.php"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "rs-lozovik-tower-in-a-garden",
+      "towerId": "rs-lozovik-tower-in-a-garden",
+      "url": "/assets/portraits/rs-lozovik-tower-in-a-garden.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "2917673e2bfc6df2b342c2eb48b37d1479b0f62bacb27e60ea1ef9b515d31e5d",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/rs-lozovik-tower-in-a-garden.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/rs-lozovik-tower-in-a-garden-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/rs-lozovik-tower-in-a-garden-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ru-ekaterinoslavka-edge-of-town",
+      "towerId": "ru-ekaterinoslavka-edge-of-town",
+      "url": "/assets/portraits/ru-ekaterinoslavka-edge-of-town.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "e9f779f77439ea4c2ebbb182248b061c63c89f0bf4890fd61b95614c755f98d1",
+      "width": 960,
+      "height": 1320,
+      "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ru-ekaterinoslavka-edge-of-town.webp",
+          "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ru-ekaterinoslavka-edge-of-town-axonometric.webp",
+          "sha256": "394a528856b68bf72c9532b797d9a86ee192a72bc7593dad00a29ac4915c7bc4",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ru-ekaterinoslavka-edge-of-town-side.webp",
+          "sha256": "0a8e57f853e78372b1325a47840569a486fb451b4b6545d25895744a7a1bbd8e",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ru-irkutsk-small-tower",
+      "towerId": "ru-irkutsk-small-tower",
+      "url": "/assets/portraits/ru-irkutsk-small-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "9e6d7ce180c563244826c8f1b41608a5d3eea38f49275dcaf2fc11d9476e86c8",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ru-irkutsk-small-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ru-irkutsk-small-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ru-irkutsk-small-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower",
+      "towerId": "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower",
+      "url": "/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "a0fecf9b97915f14c5d988642735aae6f9b807a0ae2ed5236279676afce6d0ab",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "sv-san-salvador-inti-tower",
+      "towerId": "sv-san-salvador-inti-tower",
+      "url": "/assets/portraits/sv-san-salvador-inti-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "2433eacf3ce3fffdf8c8bb3f1e0727b94b3af93d4374a85f97cd31cd9573ca10",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/sv-san-salvador-inti-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/sv-san-salvador-inti-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/sv-san-salvador-inti-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "tw-taipei-shopping-street",
+      "towerId": "tw-taipei-shopping-street",
+      "url": "/assets/portraits/tw-taipei-shopping-street.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "ac9cc8376dc6eb4612bff831b5d14173970c314b8309618afa3fa43a673a0435",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/tw-taipei-shopping-street.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/tw-taipei-shopping-street-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/tw-taipei-shopping-street-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-hertsa-notary-office",
+      "towerId": "ua-hertsa-notary-office",
+      "url": "/assets/portraits/ua-hertsa-notary-office.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "6299d1272eb9775a05da362335480a41e1fa104dbd1bfe0a6fad26284b95dfde",
+      "width": 960,
+      "height": 1320,
+      "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-hertsa-notary-office.webp",
+          "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-hertsa-notary-office-axonometric.webp",
+          "sha256": "394a528856b68bf72c9532b797d9a86ee192a72bc7593dad00a29ac4915c7bc4",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-hertsa-notary-office-side.webp",
+          "sha256": "0a8e57f853e78372b1325a47840569a486fb451b4b6545d25895744a7a1bbd8e",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-kamyanets-podilskyi-margaret-pizzeria",
+      "towerId": "ua-kamyanets-podilskyi-margaret-pizzeria",
+      "url": "/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "3b4d5eb0b50a006050ac2d7b72026838cb06b830917fd91efdd56a589b99cebd",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-kostyantynikka-euro-city-restaurant",
+      "towerId": "ua-kostyantynikka-euro-city-restaurant",
+      "url": "/assets/portraits/ua-kostyantynikka-euro-city-restaurant.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "5a44ef43b946c3fbc09df7c007492e3f182e444c9c2816a22d835f8eae9b7fc7",
+      "width": 960,
+      "height": 1320,
+      "sha256": "6455efd14ae832334777032ff6c1228b93c62fd74e65967a61d5bfcfcacc6e62",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-kostyantynikka-euro-city-restaurant.webp",
+          "sha256": "6455efd14ae832334777032ff6c1228b93c62fd74e65967a61d5bfcfcacc6e62",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-kostyantynikka-euro-city-restaurant-axonometric.webp",
+          "sha256": "0f4dcd812323a6e66dbc007c163228fc1d786ede3ca2bd86a0084a40492aac8e",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-kostyantynikka-euro-city-restaurant-side.webp",
+          "sha256": "5c1e15df7ddb22237b1009f9d8caee8f9e859b8b5e3462d9f605ffd27c72916f",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.marshruty.ru/travel/po_donbassu_posle_voyni/?mode=print",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "褐色细杆铁塔，弧形塔腿、两层纤细平台、长锥形上轴和小型开放塔冠。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "ua-mariupol-paris-cafe",
+      "towerId": "ua-mariupol-paris-cafe",
+      "url": "/assets/portraits/ua-mariupol-paris-cafe.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "b1916a2b3e0089a7d953ecb233f2e6c061cf317d409b9a82d85fc3ae8e3ca154",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-mariupol-paris-cafe.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-mariupol-paris-cafe-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-mariupol-paris-cafe-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-melitopol-on-the-roof-of-a-pharmacy",
+      "towerId": "ua-melitopol-on-the-roof-of-a-pharmacy",
+      "url": "/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "54e83a5cf268eb00a88defa2d9673700ddb64815277deed6c9b4cb00c3c463bf",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-rivne-small-coffee-shop",
+      "towerId": "ua-rivne-small-coffee-shop",
+      "url": "/assets/portraits/ua-rivne-small-coffee-shop.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "32100a7f872cad98bea8acc06ce4dcd1280f93f7391d263dbdb5e55f39f252b5",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-rivne-small-coffee-shop.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-rivne-small-coffee-shop-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-rivne-small-coffee-shop-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-sevastopol-tower-near-a-cafe",
+      "towerId": "ua-sevastopol-tower-near-a-cafe",
+      "url": "/assets/portraits/ua-sevastopol-tower-near-a-cafe.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "214c2ce54f5983948d5c6e126dacbeafc0b35b893fdc6e73352277b6ceda80a1",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-sevastopol-tower-near-a-cafe.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-sevastopol-tower-near-a-cafe-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-sevastopol-tower-near-a-cafe-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-severodonetsk-tower-in-the-yard-of-impuls-institute",
+      "towerId": "ua-severodonetsk-tower-in-the-yard-of-impuls-institute",
+      "url": "/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "b4fb8f0d8fd2c3edd98445e9290f25dded4f6c202047ced882cb9efb66aebe28",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-strilkivtsi-ozirna-cave",
+      "towerId": "ua-strilkivtsi-ozirna-cave",
+      "url": "/assets/portraits/ua-strilkivtsi-ozirna-cave.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "39154f4c58290d53bc04123612728af8fb78eb78d95865a5eef1e81ec558cc8d",
+      "width": 960,
+      "height": 1320,
+      "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-strilkivtsi-ozirna-cave.webp",
+          "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-strilkivtsi-ozirna-cave-axonometric.webp",
+          "sha256": "394a528856b68bf72c9532b797d9a86ee192a72bc7593dad00a29ac4915c7bc4",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-strilkivtsi-ozirna-cave-side.webp",
+          "sha256": "0a8e57f853e78372b1325a47840569a486fb451b4b6545d25895744a7a1bbd8e",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "ua-uman-uman-eiffel-tower",
+      "towerId": "ua-uman-uman-eiffel-tower",
+      "url": "/assets/portraits/ua-uman-uman-eiffel-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "2135c1e3fca1ef819a03f97aa38ae15cbe280b86f9c3f41abfa1a1b1261e8afc",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/ua-uman-uman-eiffel-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/ua-uman-uman-eiffel-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/ua-uman-uman-eiffel-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "us-abington-ma-back-yard-tower",
+      "towerId": "us-abington-ma-back-yard-tower",
+      "url": "/assets/portraits/us-abington-ma-back-yard-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "a1a35f321f95a3d65c93c3ba556b1a79f0471b6f57b7830c361174d84e50c271",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-abington-ma-back-yard-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-abington-ma-back-yard-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-abington-ma-back-yard-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "us-bemidji-lac-du-bois",
+      "towerId": "us-bemidji-lac-du-bois",
+      "url": "/assets/portraits/us-bemidji-lac-du-bois.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "4520f130d317801ca0b282919c227a65bfa881ca397c5f44fb22fba7cfd5ea25",
+      "width": 960,
+      "height": 1320,
+      "sha256": "78ca623574645159808d474c51105679d6094fb34feb0218d8b46fd8f9ac6045",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-bemidji-lac-du-bois.webp",
+          "sha256": "78ca623574645159808d474c51105679d6094fb34feb0218d8b46fd8f9ac6045",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-bemidji-lac-du-bois-axonometric.webp",
+          "sha256": "535e9a1ea62bb0f92b72db0223e30ce97b327011704bdabf9a618a9b7b6fca06",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-bemidji-lac-du-bois-side.webp",
+          "sha256": "be7328afadf690ce8dc3c88bfbbf9b1c39d74ee686ec758914002848e7f3e6dd",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://commons.wikimedia.org/wiki/File:LacDuBoisEiffelTower.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Models_of_the_Eiffel_Tower"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "林间空地上的锈褐细杆模型，两道方平台、宽展开四脚和细小塔冠；脚部无遮挡。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "us-columbus-oh-liberty-street-tower",
+      "towerId": "us-columbus-oh-liberty-street-tower",
+      "url": "/assets/portraits/us-columbus-oh-liberty-street-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "6fa6895d5f785783f9eede3d81216067154bf5cc371a8fc6ca4e695dbbe586b8",
+      "width": 960,
+      "height": 1320,
+      "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-columbus-oh-liberty-street-tower.webp",
+          "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-columbus-oh-liberty-street-tower-axonometric.webp",
+          "sha256": "394a528856b68bf72c9532b797d9a86ee192a72bc7593dad00a29ac4915c7bc4",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-columbus-oh-liberty-street-tower-side.webp",
+          "sha256": "0a8e57f853e78372b1325a47840569a486fb451b4b6545d25895744a7a1bbd8e",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "us-fountain-valley-ca-mini-golf-eiffel-tower",
+      "towerId": "us-fountain-valley-ca-mini-golf-eiffel-tower",
+      "url": "/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "e858eb573a453cdfb90f56ef972712d4344baed4740d5093b93b2962049f7b30",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "us-lacrosse-wi-mini-golf-eiffel-tower",
+      "towerId": "us-lacrosse-wi-mini-golf-eiffel-tower",
+      "url": "/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "eb0a3808b23bfc2741aa74fb9f4fca6ef2142159127dbcf6159dd2e6ff53af92",
+      "width": 960,
+      "height": 1320,
+      "sha256": "1ab0763a00956b3be98e08c21e7dfc8b33ec30360432611a4d0c2f71eecc4003",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower.webp",
+          "sha256": "1ab0763a00956b3be98e08c21e7dfc8b33ec30360432611a4d0c2f71eecc4003",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower-axonometric.webp",
+          "sha256": "c04bf9e3ab332a92222195d6526e4c18b8ca00086f0fa94963c87d8d20c9f53b",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower-side.webp",
+          "sha256": "cfd30ef652c0d1316d923bb24bf0555e2dc04e2c0b7f7b790e6df2bfbc802160",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://acoupleofputts.com/2021/07/22/walsh-lacrosse/",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "迷你高尔夫球道上的蓝灰色塔形障碍，弧形脚与开放桁架，上端是一圈风车叶片。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "us-leonia-nj-tower-in-a-garden",
+      "towerId": "us-leonia-nj-tower-in-a-garden",
+      "url": "/assets/portraits/us-leonia-nj-tower-in-a-garden.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "446b1ccd8ec2971da894f20cabcd8fb2bfd037205b00dbf88c1a818cd3004dbe",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-leonia-nj-tower-in-a-garden.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-leonia-nj-tower-in-a-garden-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-leonia-nj-tower-in-a-garden-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "us-mount-clemens-michigan-harper-metro-mini-golf",
+      "towerId": "us-mount-clemens-michigan-harper-metro-mini-golf",
+      "url": "/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "fdf8a56962c384017cdb7264ed69d96547fd603158f7a9d62f35c50d83382665",
+      "width": 960,
+      "height": 1320,
+      "sha256": "98a2b4ea60080b9758d72798090a89d7e3ad46f06d93c7c09883196733559666",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf.webp",
+          "sha256": "98a2b4ea60080b9758d72798090a89d7e3ad46f06d93c7c09883196733559666",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf-axonometric.webp",
+          "sha256": "d96dbb33ac0c40884a6b66082ef4f8909804d57fe0893f37c253bf08f4d63e72",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf-side.webp",
+          "sha256": "3cd0d8ee3c9ca731309af0deede5421d230eed785669f9506a23c50bba4d5697",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://loc.getarchive.net/media/harper-metro-mini-golf-eiffel-tower-mount-clemens-michigan-6211ad",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "1986年历史照片中的蓝色板状拱脚、细长网面塔身和银色通风帽，属于简化游乐模型。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "us-napa-napa-county-courthouse",
+      "towerId": "us-napa-napa-county-courthouse",
+      "url": "/assets/portraits/us-napa-napa-county-courthouse.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "946fcfa53eeef75602852f695f90eb47057276a42acf795875cb37c538b595f9",
+      "width": 960,
+      "height": 1320,
+      "sha256": "0e00e275fe68c274b594f7fd8a0161af5708b16da4edd27537e1940e56b2be20",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-napa-napa-county-courthouse.webp",
+          "sha256": "0e00e275fe68c274b594f7fd8a0161af5708b16da4edd27537e1940e56b2be20",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-napa-napa-county-courthouse-axonometric.webp",
+          "sha256": "7d9d922ae49aeb0219d8923d5cc6092f3b29b8fb3e4838f53f15059ec5e01979",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-napa-napa-county-courthouse-side.webp",
+          "sha256": "70623c5448313b554623517af5327f7e5c2ab6d15d765aff5d1aa9269f18be65",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.google.de/maps/@38.2981003,-122.2857283,8a,90y,166.03h,107.41t/data=!3m8!1e1!3m6!1sZvNZ7AknMpNvCPrJYhP6zQ!2e0!5s20210101T000000!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.409999999999997%26panoid%3DZvNZ7AknMpNvCPrJYhP6zQ%26yaw%3D166.03!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://www.hmdb.org/m.asp?m=16404",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "法院院内为细瘦深色格构旗杆，外张脚与一块下横板可见，没有观景平台或埃菲尔式塔冠；分类继续待核。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "us-roanoke-front-yard-tower",
+      "towerId": "us-roanoke-front-yard-tower",
+      "url": "/assets/portraits/us-roanoke-front-yard-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "2df1783be3c81884ea018ce3e8652f30d0664218baadec49d217583c41eb7474",
+      "width": 960,
+      "height": 1320,
+      "sha256": "95dd1f28d62a13197e223bf81961dc9f4b6d40e38d6071b9e128dfed279a60dd",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-roanoke-front-yard-tower.webp",
+          "sha256": "95dd1f28d62a13197e223bf81961dc9f4b6d40e38d6071b9e128dfed279a60dd",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-roanoke-front-yard-tower-axonometric.webp",
+          "sha256": "b7c2f5a43419b201c2b083df68756361e02117a92754688da9880384ac3c3179",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-roanoke-front-yard-tower-side.webp",
+          "sha256": "f454f302ad4e52bef36d4df482326719eae949f6a599a42a2fccfbdcbdeefbb4",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html",
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "新闻历史照片中的银白色四腿桁架、薄框平台、细长上轴和开放多边形塔冠。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "us-taylor-michigan-vinson-s-miniature-golf",
+      "towerId": "us-taylor-michigan-vinson-s-miniature-golf",
+      "url": "/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "0cf04ef956c55c14edf37ecbefe0c8b7bc40b4306295ecf7e9394fe133486421",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
+        "https://www.loc.gov/item/2017705257/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "us-wellfleet-comment-replica",
+      "towerId": "us-wellfleet-comment-replica",
+      "url": "/assets/portraits/us-wellfleet-comment-replica.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "c182c7e63e885c84c7103118f8eb5a7a0fcdf6fefaa92f8cd8c47048fc96fc8e",
+      "width": 960,
+      "height": 1320,
+      "sha256": "38e67e553a8f3b8ffc3558cc2e9c306ee83cf75426e25985ffe59f40b03f50d4",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/us-wellfleet-comment-replica.webp",
+          "sha256": "38e67e553a8f3b8ffc3558cc2e9c306ee83cf75426e25985ffe59f40b03f50d4",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/us-wellfleet-comment-replica-axonometric.webp",
+          "sha256": "b516d20108fb58b723f6d0759cba679df549b2b2d63ad7fd5050d85f0b2c34a6",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/us-wellfleet-comment-replica-side.webp",
+          "sha256": "edc2350228a98d7ba26b454f54ced27f8f8c034b94f0600615f5388c47263102",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/",
+        "https://www.reddit.com/r/architecture/comments/1wxc1z0/map_of_all_the_eiffel_towers_found_across_the/"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "业主提供的照片显示红色塔脚与第一平台、白色中段、深蓝色上轴和两层开放塔冠。",
+      "caption": "照片外观参考模型；不可见部分明确推测补全，不是工程测绘。"
+    },
+    {
+      "modelKey": "vn-da-lat-viettel-telecommunication-tower",
+      "towerId": "vn-da-lat-viettel-telecommunication-tower",
+      "url": "/assets/portraits/vn-da-lat-viettel-telecommunication-tower.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "cc8591ba34cc1cfe6a50e5706cb4cd5fe08dbe288ccb8f8fdfd8f1dd21772152",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/vn-da-lat-viettel-telecommunication-tower.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/vn-da-lat-viettel-telecommunication-tower-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/vn-da-lat-viettel-telecommunication-tower-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
+        "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
+    },
+    {
+      "modelKey": "vn-dalat-post-office-unresolved",
+      "towerId": "vn-dalat-post-office-unresolved",
+      "url": "/assets/portraits/vn-dalat-post-office-unresolved.webp",
+      "orientation": "front",
+      "frontAxis": "+Z",
+      "kind": "model-render",
+      "displayScale": "normalized-height",
+      "recipeHash": "b0365a4bd974974ed577721a1b2bc479ae199b822843079f58eb12ee839c9915",
+      "width": 960,
+      "height": 1320,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "views": {
+        "front": {
+          "url": "/assets/portraits/vn-dalat-post-office-unresolved.webp",
+          "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+          "width": 960,
+          "height": 1320,
+          "orientation": "front",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "axonometric": {
+          "url": "/assets/portraits/vn-dalat-post-office-unresolved-axonometric.webp",
+          "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+          "width": 960,
+          "height": 1320,
+          "orientation": "axonometric",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        },
+        "side": {
+          "url": "/assets/portraits/vn-dalat-post-office-unresolved-side.webp",
+          "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+          "width": 960,
+          "height": 1320,
+          "orientation": "side",
+          "kind": "model-render",
+          "framing": "standard-normalized-height"
+        }
+      },
+      "appearanceReferenceUrls": [
+        "https://www.wonders-of-the-world.net/Eiffel-Tower/Repliques/Replicas-of-the-Eiffel-tower-in-Vietnam.php",
+        "https://stepintovietnam.com/dalat-vietnam-attractions"
+      ],
+      "normalizationScope": "whole-model",
+      "modelFeatures": "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。",
+      "caption": "待核示意模型：外观或身份尚未确认；不是实景照片或尺寸测量。"
     }
   ],
   "compatibilityEvidence": {
     "path": "[local provenance omitted]",
-    "preservedModels": 395,
-    "geometryChecks": 1588,
-    "scope": "Existing model geometry/material comparison at two LODs and two styles; only the previously held Hollage draft intentionally changed. All 1185 prior public portrait hashes retained. All 533 registered models separately checked for night motion and reduced motion."
+    "preservedPublicModels": 465,
+    "geometryChecks": 2132,
+    "scope": "Only 11 previously held recipes revised. All 1395 previous public portrait bytes retained; 68 opt-in or photo-reviewed models have final three-view and night evidence."
   }
 }

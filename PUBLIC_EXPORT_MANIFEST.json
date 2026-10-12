@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T19:29:17.045Z",
+  "generatedAt": "2026-10-12T05:38:18.483Z",
   "scope": "Public frontend source and static runtime snapshot; not a production-release approval",
   "photoOrigin": "https://worldecho.beaverstudio.net",
   "sourceStable": true,
   "stats": {
-    "sourceFiles": 1626,
-    "exportedFiles": 1640,
-    "bytes": 200561490,
+    "sourceFiles": 1833,
+    "exportedFiles": 1847,
+    "bytes": 214742265,
     "registeredModels": 533,
-    "publicModelCases": 465,
+    "publicModelCases": 533,
     "researchRecords": 554,
     "exactCatalogLocations": 132,
     "approximateDisplayLocations": 401,
-    "portraitCases": 465,
+    "portraitCases": 533,
     "thirdPartyPhotographFiles": 0
   },
   "adaptations": [
@@ -278,8 +278,8 @@
     },
     {
       "path": "data/model-batch100.json",
-      "bytes": 1695162,
-      "sha256": "c92a3403fd87bcaa2a137ecb2485b9089f81621d9003760e5dc7427beab70721",
+      "bytes": 1713678,
+      "sha256": "86222fa31aa953c25310a3c3c66342fbbe727c2d88dc3bf2176416fee3952275",
       "origin": "data/model-batch100.json"
     },
     {
@@ -308,8 +308,8 @@
     },
     {
       "path": "data/types.v1.ts",
-      "bytes": 3374,
-      "sha256": "b85d5f2d51d84805e998a1891626aa7f6706486a013cc045f16e219e17fe055c",
+      "bytes": 3407,
+      "sha256": "a9fdc8a39d5f0c71acc8793c32a14167aebe4432f8dc7d04245ccfafdfab597b",
       "origin": "data/types.v1.ts"
     },
     {
@@ -559,6 +559,24 @@
       "origin": "public/assets/portraits/ad-andorra-tower-at-a-restaurant.webp"
     },
     {
+      "path": "public/assets/portraits/ae-dubai-falconcity-of-wonders-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ae-dubai-falconcity-of-wonders-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ae-dubai-falconcity-of-wonders-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ae-dubai-falconcity-of-wonders-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ae-dubai-falconcity-of-wonders.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ae-dubai-falconcity-of-wonders.webp"
+    },
+    {
       "path": "public/assets/portraits/al-tirana-cafe-paris-axonometric.webp",
       "bytes": 39608,
       "sha256": "c6b58ad17c4156027f1d82869800c49d67facfaa5fae490af4ca07e018e2c870",
@@ -611,6 +629,24 @@
       "bytes": 47740,
       "sha256": "70cd40f2ba966bd596db11aa7c31b407780faf3c63b735753e506ef22fb2cd11",
       "origin": "public/assets/portraits/am-goris-tower-in-front-of-the-town-hall.webp"
+    },
+    {
+      "path": "public/assets/portraits/am-yerevan-club-parisian-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/am-yerevan-club-parisian-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/am-yerevan-club-parisian-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/am-yerevan-club-parisian-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/am-yerevan-club-parisian.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/am-yerevan-club-parisian.webp"
     },
     {
       "path": "public/assets/portraits/am-yerevan-yerevani-herustaashtarak-axonometric.webp",
@@ -757,6 +793,24 @@
       "origin": "public/assets/portraits/at-vienna-prater-children-s-park.webp"
     },
     {
+      "path": "public/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers-axonometric.webp",
+      "bytes": 147972,
+      "sha256": "b7dc291c77ee48f7ea5bbfd5e3bf660ebe6119eae3a8d8a7a484731f2aec10de",
+      "origin": "public/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers-side.webp",
+      "bytes": 65560,
+      "sha256": "caf67c539b4f41b1f1fd62eb3b92170574f95ed5747a1976d59b6efc62eb1de1",
+      "origin": "public/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers.webp",
+      "bytes": 72220,
+      "sha256": "6f10d5581a82f51f594ede7d54df526a6bd819192c093cbc34fcc4f965c0fba0",
+      "origin": "public/assets/portraits/at-zwingendorf-back-garden-tower-built-by-twin-brothers.webp"
+    },
+    {
       "path": "public/assets/portraits/au-brisbane-la-dolce-vita-axonometric.webp",
       "bytes": 88422,
       "sha256": "1c648dd4b37159843448d598f90d29bb1d72b0b83f631e0a476f2a794533dd11",
@@ -809,6 +863,42 @@
       "bytes": 131992,
       "sha256": "d257f6aa4d041af5b02109f45f80f4a03176284f9fa72c9a3ebe7d6ef23cf233",
       "origin": "public/assets/portraits/au-tasmazia-the-village-of-lower-crackpot-tower-at-a-miniature-park.webp"
+    },
+    {
+      "path": "public/assets/portraits/az-baku-eiffel-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/az-baku-eiffel-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/az-baku-eiffel-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/az-baku-eiffel-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/az-baku-eiffel-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/az-baku-eiffel-tower.webp"
+    },
+    {
+      "path": "public/assets/portraits/az-nakhchivan-yl-nc-adas-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/az-nakhchivan-yl-nc-adas-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/az-nakhchivan-yl-nc-adas-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/az-nakhchivan-yl-nc-adas-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/az-nakhchivan-yl-nc-adas.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/az-nakhchivan-yl-nc-adas.webp"
     },
     {
       "path": "public/assets/portraits/bd-rangpur-vinna-jogot-axonometric.webp",
@@ -917,6 +1007,24 @@
       "bytes": 61368,
       "sha256": "5c9868b97264ec1ec23749294eeac31650bf2629b44ff806f2d4615101c0d0f4",
       "origin": "public/assets/portraits/bloemfontein.webp"
+    },
+    {
+      "path": "public/assets/portraits/bo-sucre-parque-simon-bolivar-axonometric.webp",
+      "bytes": 69694,
+      "sha256": "e450fa20f60ae4de39f5dcec41e7e45c00f37f09022a17eea61cc6f8ca6938f2",
+      "origin": "public/assets/portraits/bo-sucre-parque-simon-bolivar-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/bo-sucre-parque-simon-bolivar-side.webp",
+      "bytes": 75446,
+      "sha256": "4d2322f2b82fe219f1f4ce1188165406734bdda649a4095560af124282791b73",
+      "origin": "public/assets/portraits/bo-sucre-parque-simon-bolivar-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/bo-sucre-parque-simon-bolivar.webp",
+      "bytes": 88054,
+      "sha256": "b7371a6db40154f5111247a35c7d9107b7c87dc9d6f0c8af9bc56ef09719d567",
+      "origin": "public/assets/portraits/bo-sucre-parque-simon-bolivar.webp"
     },
     {
       "path": "public/assets/portraits/br-bauru-bauru-eiffel-tower-axonometric.webp",
@@ -1061,6 +1169,24 @@
       "bytes": 40044,
       "sha256": "7b03ca2e7f9935ffbd18298af053656907d848dc12a79ebcec4d58c5a064707c",
       "origin": "public/assets/portraits/br-sao-paulo-hopi-hari.webp"
+    },
+    {
+      "path": "public/assets/portraits/br-sao-paulo-rooftop-unresolved-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/br-sao-paulo-rooftop-unresolved-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/br-sao-paulo-rooftop-unresolved-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/br-sao-paulo-rooftop-unresolved-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/br-sao-paulo-rooftop-unresolved.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/br-sao-paulo-rooftop-unresolved.webp"
     },
     {
       "path": "public/assets/portraits/br-umuarama-torre-eiffel-umuarama-axonometric.webp",
@@ -1223,6 +1349,24 @@
       "bytes": 68170,
       "sha256": "a021f230c756e5f0328afb9627e4df418f042626c39e46aac76fb51beb85c310",
       "origin": "public/assets/portraits/ca-terrebonne-le-roi-du-plancher.webp"
+    },
+    {
+      "path": "public/assets/portraits/ca-terrebonne-solarium-international-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ca-terrebonne-solarium-international-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ca-terrebonne-solarium-international-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ca-terrebonne-solarium-international-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ca-terrebonne-solarium-international.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ca-terrebonne-solarium-international.webp"
     },
     {
       "path": "public/assets/portraits/ca-toronto-lantern-festival-axonometric.webp",
@@ -1511,6 +1655,24 @@
       "bytes": 64228,
       "sha256": "732970fab8b8bc5ed6ba8f22ce7fbaf0e2869bfa7d9e91ef2a14cd4302704c95",
       "origin": "public/assets/portraits/cn-zhouzhou-large-tower-at-a-roundabout.webp"
+    },
+    {
+      "path": "public/assets/portraits/cn-zhurihe-chinese-army-tower-axonometric.webp",
+      "bytes": 138712,
+      "sha256": "6ef8d0c8f7c9d820bc8adf570937843cfbdea9ff7c6d499f55463da9ee9c6636",
+      "origin": "public/assets/portraits/cn-zhurihe-chinese-army-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/cn-zhurihe-chinese-army-tower-side.webp",
+      "bytes": 56248,
+      "sha256": "ea404f01c7fd89453c75b4999ba068229f561f03145d55e39f51e5edaaad61eb",
+      "origin": "public/assets/portraits/cn-zhurihe-chinese-army-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/cn-zhurihe-chinese-army-tower.webp",
+      "bytes": 62498,
+      "sha256": "4911cfd31670294b76dc4c9c4c5ff2e6be7d049c840771a2b8de3baa21541409",
+      "origin": "public/assets/portraits/cn-zhurihe-chinese-army-tower.webp"
     },
     {
       "path": "public/assets/portraits/co-barrancabermeja-parque-tapias-axonometric.webp",
@@ -1927,6 +2089,24 @@
       "origin": "public/assets/portraits/de-hollage-tower-on-a-roundabout.webp"
     },
     {
+      "path": "public/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower-axonometric.webp",
+      "bytes": 70022,
+      "sha256": "5166467b46bebf23e1fdfece406e117aff571334cf558ae2e5ed4a431b995b01",
+      "origin": "public/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower-side.webp",
+      "bytes": 21836,
+      "sha256": "3ee87a4f2c5933a6ddfaded4d718338f3ea8a98a2acdf5bb818dfe7102a2c206",
+      "origin": "public/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower.webp",
+      "bytes": 27276,
+      "sha256": "1143a2a4d56608a880a5ea79efcbfc103d410693b3b181ff4af3303e4ecad648",
+      "origin": "public/assets/portraits/de-ismaning-bavaria-ismaning-radio-tower.webp"
+    },
+    {
       "path": "public/assets/portraits/de-lauchhammer-liegender-eiffelturm-axonometric.webp",
       "bytes": 29970,
       "sha256": "0e22af05090e5ae18a7d6f36c92ca0b8240a6b3b5e1750327b116be4803cf987",
@@ -1997,6 +2177,24 @@
       "bytes": 72986,
       "sha256": "e983400c42a5e4274d7f3c056ada263b940eed4e8389569fb102109c2c457b2a",
       "origin": "public/assets/portraits/de-lichtenstein-miniwelt.webp"
+    },
+    {
+      "path": "public/assets/portraits/de-meckenheim-rungis-express-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/de-meckenheim-rungis-express-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/de-meckenheim-rungis-express-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/de-meckenheim-rungis-express-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/de-meckenheim-rungis-express.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/de-meckenheim-rungis-express.webp"
     },
     {
       "path": "public/assets/portraits/de-monchengladbach-nightclub-tower-axonometric.webp",
@@ -2161,6 +2359,24 @@
       "origin": "public/assets/portraits/dk-ejby-ejby-eiffel-tower.webp"
     },
     {
+      "path": "public/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/dk-slagelse-wooden-tower-at-an-exhibition.webp"
+    },
+    {
       "path": "public/assets/portraits/dk-taastrup-taastrup-eiffel-tower-axonometric.webp",
       "bytes": 116020,
       "sha256": "ba2a79ef2b0fb0bbf42d893e923169cd1045959595c29e65849c8b831d40df9a",
@@ -2323,6 +2539,24 @@
       "origin": "public/assets/portraits/es-las-palmas-tenerife-cita-shopping-center.webp"
     },
     {
+      "path": "public/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade.webp"
+    },
+    {
       "path": "public/assets/portraits/es-san-juan-del-puerto-andalusia-school-patio-tower-axonometric.webp",
       "bytes": 183162,
       "sha256": "1fef94b79f632c32148b4e8fe8eb2d743e65ed99a2a1ebc20fc89153e3a18819",
@@ -2483,6 +2717,60 @@
       "bytes": 44936,
       "sha256": "9f40fcecb218521bc427c4df4d332bc180cd333bcf4a042131218ca76b0bb2a0",
       "origin": "public/assets/portraits/fr-bantzenheim-roundabout-tower-route-de-mulhouse.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-biarritz-tower-on-a-house-roof-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/fr-biarritz-tower-on-a-house-roof-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-biarritz-tower-on-a-house-roof-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/fr-biarritz-tower-on-a-house-roof-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-biarritz-tower-on-a-house-roof.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/fr-biarritz-tower-on-a-house-roof.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel-axonometric.webp",
+      "bytes": 78624,
+      "sha256": "ea520bf71e59651c8a6cea6cdc90a65cd79412840fcada3dd0135da377fe29eb",
+      "origin": "public/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel-side.webp",
+      "bytes": 77294,
+      "sha256": "479b4b7565c3d099bd750b798493c3e7bd6f0d81d219890e337c2af1063badbd",
+      "origin": "public/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel.webp",
+      "bytes": 80498,
+      "sha256": "a5c4a5f47e6a2a403d9fca1fcc395c247c148f0dcea54761843632b2debf4020",
+      "origin": "public/assets/portraits/fr-bourgoin-jallieu-copie-de-la-tour-eiffel.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-breil-rue-des-cedres-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/fr-breil-rue-des-cedres-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-breil-rue-des-cedres-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/fr-breil-rue-des-cedres-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-breil-rue-des-cedres.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/fr-breil-rue-des-cedres.webp"
     },
     {
       "path": "public/assets/portraits/fr-breil-small-tower-on-the-edge-of-a-village-axonometric.webp",
@@ -2755,6 +3043,24 @@
       "origin": "public/assets/portraits/fr-issy-les-moulineaux-mayer.webp"
     },
     {
+      "path": "public/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/fr-la-doree-tower-at-a-metal-worker-s-house.webp"
+    },
+    {
       "path": "public/assets/portraits/fr-la-guerche-de-bretagne-tower-in-a-pensioner-s-garden-axonometric.webp",
       "bytes": 139860,
       "sha256": "6f6d10a0d82c3939fc290ffc24e34fbd0c022b3e4b1e2803325eea85953925be",
@@ -2861,6 +3167,42 @@
       "bytes": 58500,
       "sha256": "c112314abb69594304096c2894e841a7ffc1bef4a60582600e4015f77719b7d5",
       "origin": "public/assets/portraits/fr-mamers-place-de-la-republique.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-menton-copy-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/fr-menton-copy-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-menton-copy-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/fr-menton-copy-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-menton-copy.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/fr-menton-copy.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-menton-tower-with-lemons-axonometric.webp",
+      "bytes": 143312,
+      "sha256": "9160b74edc97ee32963d3b7df22017168fca0742c8491b514c8fd1de3f4926b3",
+      "origin": "public/assets/portraits/fr-menton-tower-with-lemons-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-menton-tower-with-lemons-side.webp",
+      "bytes": 76860,
+      "sha256": "fd11a059afa8ba1b9477ba5aee1f8a00d4e638ed3c14a20ac7cd28b083f3eb83",
+      "origin": "public/assets/portraits/fr-menton-tower-with-lemons-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-menton-tower-with-lemons.webp",
+      "bytes": 111256,
+      "sha256": "312c9513d535ba1a4c2b47ffa6cc4a2edab4fe478e6b06fe493d481affc45231",
+      "origin": "public/assets/portraits/fr-menton-tower-with-lemons.webp"
     },
     {
       "path": "public/assets/portraits/fr-mobile-location-tour-eiffel-mobile-maindron-axonometric.webp",
@@ -3187,6 +3529,24 @@
       "origin": "public/assets/portraits/fr-soussans-tower-at-an-aluminium-company.webp"
     },
     {
+      "path": "public/assets/portraits/fr-thieblemont-faremont-copy-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/fr-thieblemont-faremont-copy-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-thieblemont-faremont-copy-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/fr-thieblemont-faremont-copy-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/fr-thieblemont-faremont-copy.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/fr-thieblemont-faremont-copy.webp"
+    },
+    {
       "path": "public/assets/portraits/fr-vesoul-tower-in-a-back-garden-axonometric.webp",
       "bytes": 143678,
       "sha256": "5439b2d555019959528b62c21711418b56a03d38e96838295a5ac3212eb9c368",
@@ -3241,6 +3601,24 @@
       "origin": "public/assets/portraits/fr-waldighoffen-tall-wooden-tower-at-an-exhibition.webp"
     },
     {
+      "path": "public/assets/portraits/gb-belfast-la-bastille-restaurant-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/gb-belfast-la-bastille-restaurant-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/gb-belfast-la-bastille-restaurant-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/gb-belfast-la-bastille-restaurant-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/gb-belfast-la-bastille-restaurant.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/gb-belfast-la-bastille-restaurant.webp"
+    },
+    {
       "path": "public/assets/portraits/gb-blackpool-tower-axonometric.webp",
       "bytes": 54088,
       "sha256": "d5c1726af1bff4b5bfe59e9b96578ed278ebe7b5541fa524fe6902abc764cc5b",
@@ -3257,6 +3635,24 @@
       "bytes": 56522,
       "sha256": "02cf8167235c7d8295e5be200cba3d1cbf1bca1d9b843932e9c1a3c020cc2a9c",
       "origin": "public/assets/portraits/gb-blackpool-tower.webp"
+    },
+    {
+      "path": "public/assets/portraits/gb-brockham-eiffel-tower-brockham-axonometric.webp",
+      "bytes": 47972,
+      "sha256": "5f0de51006d01f1ccb95f7cd517f1f15b7eb647e94225a44aa9e75f3bf8f5b7e",
+      "origin": "public/assets/portraits/gb-brockham-eiffel-tower-brockham-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/gb-brockham-eiffel-tower-brockham-side.webp",
+      "bytes": 43344,
+      "sha256": "94d661ab8d3f9fb07c229d5814e463eb361ed88f670bd90e366193145a16c18f",
+      "origin": "public/assets/portraits/gb-brockham-eiffel-tower-brockham-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/gb-brockham-eiffel-tower-brockham.webp",
+      "bytes": 57406,
+      "sha256": "dde9e46bdd3c82dfeafd789276812017741531a2136bb2ce4992bf236c9fbe06",
+      "origin": "public/assets/portraits/gb-brockham-eiffel-tower-brockham.webp"
     },
     {
       "path": "public/assets/portraits/gb-chertsey-thorpe-park-axonometric.webp",
@@ -3349,6 +3745,24 @@
       "origin": "public/assets/portraits/gb-new-brighton-merseyside-new-brighton-tower.webp"
     },
     {
+      "path": "public/assets/portraits/gb-wembley-greater-london-watkin-s-tower-axonometric.webp",
+      "bytes": 68686,
+      "sha256": "c7637b2299735ae51247e4b4617e230607dbcdf85069f5ff90d6085ab6369c15",
+      "origin": "public/assets/portraits/gb-wembley-greater-london-watkin-s-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/gb-wembley-greater-london-watkin-s-tower-side.webp",
+      "bytes": 42418,
+      "sha256": "d56b1e1ab1958099c34f5ca092951396402da37abf1fe8c706788c074640059a",
+      "origin": "public/assets/portraits/gb-wembley-greater-london-watkin-s-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/gb-wembley-greater-london-watkin-s-tower.webp",
+      "bytes": 66354,
+      "sha256": "99ee7c0f2e3fd08215c31042c4f2556cd04842e64052f73e02fc3b6eff05eeb4",
+      "origin": "public/assets/portraits/gb-wembley-greater-london-watkin-s-tower.webp"
+    },
+    {
       "path": "public/assets/portraits/gb-windsor-legoland-windsor-axonometric.webp",
       "bytes": 49942,
       "sha256": "268bb00d863f478badb5566f73bb497ac974f0c5ff350134ebb1471350253404",
@@ -3437,6 +3851,24 @@
       "bytes": 54290,
       "sha256": "ef26b628783d753049c740e74a201a31de292e23b849ab489affc4c18089f3ff",
       "origin": "public/assets/portraits/gr-filiatra-town-entrance.webp"
+    },
+    {
+      "path": "public/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street-axonometric.webp",
+      "bytes": 163438,
+      "sha256": "d44afb8c212d3253dbad7f9d0bde5e8cc8e6ee248be4cf493bb0d325b4c8fcd1",
+      "origin": "public/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street-side.webp",
+      "bytes": 75018,
+      "sha256": "07edc322a3a6227055b0b3bba88f31ccc7e093bbd0ae98ee576bb2a866f410be",
+      "origin": "public/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street.webp",
+      "bytes": 71316,
+      "sha256": "7bb17a6c20b5d6e0989c7c7ab2f6d3cbb773660df5cb1a2cf4189377ed71d9e5",
+      "origin": "public/assets/portraits/gr-heraklion-tower-in-a-garden-in-a-narrow-street.webp"
     },
     {
       "path": "public/assets/portraits/gt-guatemala-city-torre-del-reformador-axonometric.webp",
@@ -3583,6 +4015,24 @@
       "origin": "public/assets/portraits/id-bogor-devoyage.webp"
     },
     {
+      "path": "public/assets/portraits/id-lake-toba-world-heritage-mini-mini-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/id-lake-toba-world-heritage-mini-mini-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/id-lake-toba-world-heritage-mini-mini-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/id-lake-toba-world-heritage-mini-mini-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/id-lake-toba-world-heritage-mini-mini.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/id-lake-toba-world-heritage-mini-mini.webp"
+    },
+    {
       "path": "public/assets/portraits/id-lembang-minimania-axonometric.webp",
       "bytes": 166860,
       "sha256": "71c64c71118feae3e44a2b43aacfdc8714ca96bf8ab620264067dcf2b4c24d3b",
@@ -3599,6 +4049,24 @@
       "bytes": 69280,
       "sha256": "235ba6f33522775e7241ea06118ba538ebb6d1e4d48f4c2503f37d2a47a15763",
       "origin": "public/assets/portraits/id-lembang-minimania.webp"
+    },
+    {
+      "path": "public/assets/portraits/id-lembang-reddit-replica-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/id-lembang-reddit-replica-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/id-lembang-reddit-replica-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/id-lembang-reddit-replica-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/id-lembang-reddit-replica.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/id-lembang-reddit-replica.webp"
     },
     {
       "path": "public/assets/portraits/id-madiun-pahlawan-street-center-axonometric.webp",
@@ -4339,6 +4807,24 @@
       "origin": "public/assets/portraits/it-vallesaccarda-piazzetta-buhl.webp"
     },
     {
+      "path": "public/assets/portraits/it-vergiate-corgeno-copy-axonometric.webp",
+      "bytes": 120944,
+      "sha256": "a097f3a86e9dee896f0bf0d05481b90e6b90a4dc1150180350679563b28ad5a5",
+      "origin": "public/assets/portraits/it-vergiate-corgeno-copy-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/it-vergiate-corgeno-copy-side.webp",
+      "bytes": 44736,
+      "sha256": "61a31b78dd309fc3b352f7221e9e939c72f0c85ddfe5cd27a7f8223f8c250dc9",
+      "origin": "public/assets/portraits/it-vergiate-corgeno-copy-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/it-vergiate-corgeno-copy.webp",
+      "bytes": 39878,
+      "sha256": "9e45c66300569012d8b10ab422cbf4d9c48d864ac9c1b683369c14dd1ef57f99",
+      "origin": "public/assets/portraits/it-vergiate-corgeno-copy.webp"
+    },
+    {
       "path": "public/assets/portraits/jp-kanzaki-saga-tower-in-fields-in-the-country-axonometric.webp",
       "bytes": 166564,
       "sha256": "4cc80cfd181a8302943b1f33f3cdd99f4920a936025726dccb655d8af1c97e99",
@@ -4373,6 +4859,24 @@
       "bytes": 68428,
       "sha256": "52c3696ccbaf6f2c867557a2c3e713e33c094f4e86c995a4dca3670764925935",
       "origin": "public/assets/portraits/jp-minato-tokyo-tokyo-tower.webp"
+    },
+    {
+      "path": "public/assets/portraits/jp-nagoya-nagoya-tv-tower-axonometric.webp",
+      "bytes": 68368,
+      "sha256": "772a860d4c3966f2d27ed8464b6112204ba892d94c55965878b33a193fb0d272",
+      "origin": "public/assets/portraits/jp-nagoya-nagoya-tv-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/jp-nagoya-nagoya-tv-tower-side.webp",
+      "bytes": 41596,
+      "sha256": "261ac6f1302aadd4186808ebaf0e31e36a1fc5872067b146d36df026faf9325f",
+      "origin": "public/assets/portraits/jp-nagoya-nagoya-tv-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/jp-nagoya-nagoya-tv-tower.webp",
+      "bytes": 47924,
+      "sha256": "49557b86e516dd9924d74b45b5f77e63806e4402fd4d9f52aa2a89f0e2158254",
+      "origin": "public/assets/portraits/jp-nagoya-nagoya-tv-tower.webp"
     },
     {
       "path": "public/assets/portraits/jp-osaka-tsutenkaku-tower-reaching-heaven-axonometric.webp",
@@ -4501,6 +5005,24 @@
       "origin": "public/assets/portraits/kg-bishkek-vostok-5-microdistrict.webp"
     },
     {
+      "path": "public/assets/portraits/kh-phnom-penh-eiffel-map-candidate-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/kh-phnom-penh-eiffel-map-candidate-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/kh-phnom-penh-eiffel-map-candidate-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/kh-phnom-penh-eiffel-map-candidate-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/kh-phnom-penh-eiffel-map-candidate.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/kh-phnom-penh-eiffel-map-candidate.webp"
+    },
+    {
       "path": "public/assets/portraits/kings-island-axonometric.webp",
       "bytes": 107260,
       "sha256": "3569c0a9c466cdc0e5ef176f92f988d59c0b6e0f0d719cf198a174e1d937f291",
@@ -4517,6 +5039,24 @@
       "bytes": 57992,
       "sha256": "95a9f56634f99e8f0b590ec6d6c306b328f829f228c8771364640a635b4f7f86",
       "origin": "public/assets/portraits/kings-island.webp"
+    },
+    {
+      "path": "public/assets/portraits/kr-bucheon-aiins-world-axonometric.webp",
+      "bytes": 119668,
+      "sha256": "4da291eede07d203b5cb44150eebdc8b08a142ff514aa2c23f4501f92ab31b3c",
+      "origin": "public/assets/portraits/kr-bucheon-aiins-world-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/kr-bucheon-aiins-world-side.webp",
+      "bytes": 49782,
+      "sha256": "095df96302ffadd3ddd7b8af546a178e237f78b278ef54ffbd6fba95abefbf31",
+      "origin": "public/assets/portraits/kr-bucheon-aiins-world-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/kr-bucheon-aiins-world.webp",
+      "bytes": 62078,
+      "sha256": "c7f92b3ca479c9ecb4b5038f4be0bdd8b5a545a009ce76fef0dda95673de6207",
+      "origin": "public/assets/portraits/kr-bucheon-aiins-world.webp"
     },
     {
       "path": "public/assets/portraits/kr-chungju-si-hotel-the-base-axonometric.webp",
@@ -4555,6 +5095,24 @@
       "origin": "public/assets/portraits/kr-seoul-tower-at-the-roadside.webp"
     },
     {
+      "path": "public/assets/portraits/kz-aktau-oil-company-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/kz-aktau-oil-company-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/kz-aktau-oil-company-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/kz-aktau-oil-company-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/kz-aktau-oil-company-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/kz-aktau-oil-company-tower.webp"
+    },
+    {
       "path": "public/assets/portraits/kz-almaty-french-house-tower-axonometric.webp",
       "bytes": 157060,
       "sha256": "5fcb93fada3565b3efb39957518482993b31c71032136e998bac35a0c0ffc792",
@@ -4589,6 +5147,24 @@
       "bytes": 83834,
       "sha256": "29c349a3f8bbe936d899390de786857e4987bb65343e47b0838cd1d392a50982",
       "origin": "public/assets/portraits/las-vegas.webp"
+    },
+    {
+      "path": "public/assets/portraits/lb-broummana-chez-alain-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/lb-broummana-chez-alain-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/lb-broummana-chez-alain-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/lb-broummana-chez-alain-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/lb-broummana-chez-alain.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/lb-broummana-chez-alain.webp"
     },
     {
       "path": "public/assets/portraits/lb-jounieh-trocadero-lb-axonometric.webp",
@@ -4754,8 +5330,8 @@
     },
     {
       "path": "public/assets/portraits/manifest.json",
-      "bytes": 1157958,
-      "sha256": "e38bfa162110275b823d71b8a798563a6b6d9b2c47b0a3c1074c338e5a2d8a11",
+      "bytes": 1309521,
+      "sha256": "27481273a556598ecf2c4954d555f64944152fd7a4637912716441b84dfedc2c",
       "origin": "public/assets/portraits/manifest.json"
     },
     {
@@ -4775,6 +5351,24 @@
       "bytes": 112840,
       "sha256": "132d7ade62199aba34582c3ebd3ac391dedbad50cfdd6c4e7c58bf01cf699a31",
       "origin": "public/assets/portraits/md-corjeuti-tower-at-a-french-restaurant.webp"
+    },
+    {
+      "path": "public/assets/portraits/md-tiraspol-tower-in-front-of-a-store-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/md-tiraspol-tower-in-front-of-a-store-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/md-tiraspol-tower-in-front-of-a-store-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/md-tiraspol-tower-in-front-of-a-store-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/md-tiraspol-tower-in-front-of-a-store.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/md-tiraspol-tower-in-front-of-a-store.webp"
     },
     {
       "path": "public/assets/portraits/me-budva-paris-night-club-axonometric.webp",
@@ -4903,6 +5497,24 @@
       "origin": "public/assets/portraits/mx-guadalajara-tower-on-periferico.webp"
     },
     {
+      "path": "public/assets/portraits/my-ayer-hitam-tropical-village-axonometric.webp",
+      "bytes": 140290,
+      "sha256": "5d86e2c0719f95f489ece226e234a14a05c3ac6adf30a5577e42107dc052e8b6",
+      "origin": "public/assets/portraits/my-ayer-hitam-tropical-village-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/my-ayer-hitam-tropical-village-side.webp",
+      "bytes": 82100,
+      "sha256": "fbdf69eae62e636f4deafd4d37ed758e7a24f2e7469f60dd5665b0607d46db0d",
+      "origin": "public/assets/portraits/my-ayer-hitam-tropical-village-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/my-ayer-hitam-tropical-village.webp",
+      "bytes": 99194,
+      "sha256": "4c0cadb6f71be675c8f5d67f2be8b0cffb5ffe4bc1d9222267b244e76519def1",
+      "origin": "public/assets/portraits/my-ayer-hitam-tropical-village.webp"
+    },
+    {
       "path": "public/assets/portraits/my-genting-highlands-skytropolis-first-world-plaza-axonometric.webp",
       "bytes": 123354,
       "sha256": "c6f0bf64b0336e2b7bc183736b8f64e9e3b873d9fe7bf0700899769a19ffa3d4",
@@ -5011,6 +5623,24 @@
       "origin": "public/assets/portraits/nl-gouda-tower-at-a-car-dealership.webp"
     },
     {
+      "path": "public/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/nl-grootebroek-tower-in-the-grounds-of-a-college.webp"
+    },
+    {
       "path": "public/assets/portraits/nl-harselaar-staal-bouw-axonometric.webp",
       "bytes": 76086,
       "sha256": "df7391cbeeb074e8988bec32174ca7108be9ac848093bcae867ac17fdcc9c3a2",
@@ -5045,6 +5675,24 @@
       "bytes": 70906,
       "sha256": "8b59ba1f0310c8711a4deae83fd83f6076061b82ff9ebbe3a4474ae04bab305a",
       "origin": "public/assets/portraits/nl-ijzendijke-petit-paris.webp"
+    },
+    {
+      "path": "public/assets/portraits/nl-toldijk-achterhoeks-planetarium-axonometric.webp",
+      "bytes": 111026,
+      "sha256": "d182334e45427a059a2c187d2ba81f1289b3819aed7ebc0e7f869525d6875f1b",
+      "origin": "public/assets/portraits/nl-toldijk-achterhoeks-planetarium-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/nl-toldijk-achterhoeks-planetarium-side.webp",
+      "bytes": 56954,
+      "sha256": "1a52cf4b6fd3aa451355ac00cfb5eca68b08dc78897ee6e603f3fc3a323a73da",
+      "origin": "public/assets/portraits/nl-toldijk-achterhoeks-planetarium-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/nl-toldijk-achterhoeks-planetarium.webp",
+      "bytes": 56068,
+      "sha256": "a06280932a6015a937faf756bb06baa63ac4d46f1073ca782fd5a533117af5e2",
+      "origin": "public/assets/portraits/nl-toldijk-achterhoeks-planetarium.webp"
     },
     {
       "path": "public/assets/portraits/nl-udenhout-t-achterhuis-axonometric.webp",
@@ -5101,6 +5749,24 @@
       "origin": "public/assets/portraits/nz-coromandel-replica-inside-the-eyefull-tower.webp"
     },
     {
+      "path": "public/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/nz-dunedin-new-zealand-and-south-seas-exhibition-1889.webp"
+    },
+    {
       "path": "public/assets/portraits/paris-axonometric.webp",
       "bytes": 143960,
       "sha256": "99365cb50477feacd0dd93d090188b11aee689a4b940c8b11e730548fa434504",
@@ -5155,6 +5821,24 @@
       "origin": "public/assets/portraits/ph-boracay-la-reserve.webp"
     },
     {
+      "path": "public/assets/portraits/ph-dipolog-city-dipolog-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ph-dipolog-city-dipolog-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ph-dipolog-city-dipolog-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ph-dipolog-city-dipolog-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ph-dipolog-city-dipolog.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ph-dipolog-city-dipolog.webp"
+    },
+    {
       "path": "public/assets/portraits/ph-iloilo-jaro-1889-bamboo-axonometric.webp",
       "bytes": 183578,
       "sha256": "17ab7e09e06c9d891a5339e28d27ba144d7adab77f559482fea81b3342e8bd63",
@@ -5189,6 +5873,24 @@
       "bytes": 132472,
       "sha256": "b2dae804888cd594681abe5dbd02e216abbb4318e3ca615ac726e280232a942a",
       "origin": "public/assets/portraits/ph-manila-megamall.webp"
+    },
+    {
+      "path": "public/assets/portraits/ph-megamall-temporary-display-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ph-megamall-temporary-display-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ph-megamall-temporary-display-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ph-megamall-temporary-display-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ph-megamall-temporary-display.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ph-megamall-temporary-display.webp"
     },
     {
       "path": "public/assets/portraits/ph-naic-torres-farm-and-resort-axonometric.webp",
@@ -5551,6 +6253,24 @@
       "origin": "public/assets/portraits/rs-belgrade-avalski-toranj.webp"
     },
     {
+      "path": "public/assets/portraits/rs-lozovik-tower-in-a-garden-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/rs-lozovik-tower-in-a-garden-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/rs-lozovik-tower-in-a-garden-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/rs-lozovik-tower-in-a-garden-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/rs-lozovik-tower-in-a-garden.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/rs-lozovik-tower-in-a-garden.webp"
+    },
+    {
       "path": "public/assets/portraits/rs-markovac-small-tower-in-a-back-yard-axonometric.webp",
       "bytes": 120308,
       "sha256": "23e9cb28a8e6556288112a649d1e1f502c8a28c7636f3daa35991f913adce460",
@@ -5659,6 +6379,42 @@
       "origin": "public/assets/portraits/ru-beliy-island-eiffel-tower-of-the-arctic.webp"
     },
     {
+      "path": "public/assets/portraits/ru-ekaterinoslavka-edge-of-town-axonometric.webp",
+      "bytes": 84454,
+      "sha256": "394a528856b68bf72c9532b797d9a86ee192a72bc7593dad00a29ac4915c7bc4",
+      "origin": "public/assets/portraits/ru-ekaterinoslavka-edge-of-town-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ru-ekaterinoslavka-edge-of-town-side.webp",
+      "bytes": 47376,
+      "sha256": "0a8e57f853e78372b1325a47840569a486fb451b4b6545d25895744a7a1bbd8e",
+      "origin": "public/assets/portraits/ru-ekaterinoslavka-edge-of-town-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ru-ekaterinoslavka-edge-of-town.webp",
+      "bytes": 50592,
+      "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+      "origin": "public/assets/portraits/ru-ekaterinoslavka-edge-of-town.webp"
+    },
+    {
+      "path": "public/assets/portraits/ru-irkutsk-small-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ru-irkutsk-small-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ru-irkutsk-small-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ru-irkutsk-small-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ru-irkutsk-small-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ru-irkutsk-small-tower.webp"
+    },
+    {
       "path": "public/assets/portraits/ru-kabardinka-kabardinka-eiffel-tower-axonometric.webp",
       "bytes": 126346,
       "sha256": "0a21f5e8a81ec6988a42b0082e60e82a3b65f3e7a28c098d0433a0e975422985",
@@ -5693,6 +6449,24 @@
       "bytes": 65544,
       "sha256": "b9e1bd34706a795dcc4c2dc309671aaf896b678c616bd2556b3061281a78189a",
       "origin": "public/assets/portraits/ru-krasnoyarsk-bonjour.webp"
+    },
+    {
+      "path": "public/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower.webp"
     },
     {
       "path": "public/assets/portraits/ru-moscow-moskabelmet-factory-axonometric.webp",
@@ -6037,6 +6811,24 @@
       "origin": "public/assets/portraits/sk-svrcinovec-paris-hotel.webp"
     },
     {
+      "path": "public/assets/portraits/sv-san-salvador-inti-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/sv-san-salvador-inti-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/sv-san-salvador-inti-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/sv-san-salvador-inti-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/sv-san-salvador-inti-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/sv-san-salvador-inti-tower.webp"
+    },
+    {
       "path": "public/assets/portraits/texas-axonometric.webp",
       "bytes": 92906,
       "sha256": "df999d0aa06b6abcf23396fa6b611ddc1b2bcac5c28abeeb163263c23ef2afa8",
@@ -6233,6 +7025,24 @@
       "bytes": 33918,
       "sha256": "e1d099aabff2ea46dc742293c2fc295f0d2fc8cb2a88a14bc8486ca74961e930",
       "origin": "public/assets/portraits/tw-taichung-carton-king.webp"
+    },
+    {
+      "path": "public/assets/portraits/tw-taipei-shopping-street-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/tw-taipei-shopping-street-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/tw-taipei-shopping-street-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/tw-taipei-shopping-street-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/tw-taipei-shopping-street.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/tw-taipei-shopping-street.webp"
     },
     {
       "path": "public/assets/portraits/tw-taoyuan-baleng-tower-axonometric.webp",
@@ -6541,6 +7351,24 @@
       "origin": "public/assets/portraits/ua-drohobych-eiffel-tower-in-city-center.webp"
     },
     {
+      "path": "public/assets/portraits/ua-hertsa-notary-office-axonometric.webp",
+      "bytes": 84454,
+      "sha256": "394a528856b68bf72c9532b797d9a86ee192a72bc7593dad00a29ac4915c7bc4",
+      "origin": "public/assets/portraits/ua-hertsa-notary-office-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-hertsa-notary-office-side.webp",
+      "bytes": 47376,
+      "sha256": "0a8e57f853e78372b1325a47840569a486fb451b4b6545d25895744a7a1bbd8e",
+      "origin": "public/assets/portraits/ua-hertsa-notary-office-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-hertsa-notary-office.webp",
+      "bytes": 50592,
+      "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+      "origin": "public/assets/portraits/ua-hertsa-notary-office.webp"
+    },
+    {
       "path": "public/assets/portraits/ua-horodok-front-yard-of-a-private-house-axonometric.webp",
       "bytes": 73016,
       "sha256": "01baea5c26118b8fc5f18c4662b1d94ce490f9b41a69ad2bda51eb1aeb15d681",
@@ -6647,6 +7475,24 @@
       "bytes": 55286,
       "sha256": "32b80c544480e22bbac5a040e821587825283bf099785cb8781ef1428769b683",
       "origin": "public/assets/portraits/ua-ivano-frankivsk-eiffel-tower-near-a-shop.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ua-kamyanets-podilskyi-margaret-pizzeria.webp"
     },
     {
       "path": "public/assets/portraits/ua-kamyanets-podilskyi-tower-outside-a-restaurant-axonometric.webp",
@@ -6809,6 +7655,24 @@
       "bytes": 36922,
       "sha256": "a0e3ca1357381dcc0e172eb8a466902e0edc080e1caf04e335b0eb986543a441",
       "origin": "public/assets/portraits/ua-kostopil-back-yard-of-a-private-house.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-kostyantynikka-euro-city-restaurant-axonometric.webp",
+      "bytes": 134980,
+      "sha256": "0f4dcd812323a6e66dbc007c163228fc1d786ede3ca2bd86a0084a40492aac8e",
+      "origin": "public/assets/portraits/ua-kostyantynikka-euro-city-restaurant-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-kostyantynikka-euro-city-restaurant-side.webp",
+      "bytes": 60226,
+      "sha256": "5c1e15df7ddb22237b1009f9d8caee8f9e859b8b5e3462d9f605ffd27c72916f",
+      "origin": "public/assets/portraits/ua-kostyantynikka-euro-city-restaurant-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-kostyantynikka-euro-city-restaurant.webp",
+      "bytes": 70180,
+      "sha256": "6455efd14ae832334777032ff6c1228b93c62fd74e65967a61d5bfcfcacc6e62",
+      "origin": "public/assets/portraits/ua-kostyantynikka-euro-city-restaurant.webp"
     },
     {
       "path": "public/assets/portraits/ua-kotelva-tower-at-kalyna-restaurant-axonometric.webp",
@@ -7207,6 +8071,24 @@
       "origin": "public/assets/portraits/ua-marganets-dnipro-club.webp"
     },
     {
+      "path": "public/assets/portraits/ua-mariupol-paris-cafe-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ua-mariupol-paris-cafe-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-mariupol-paris-cafe-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ua-mariupol-paris-cafe-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-mariupol-paris-cafe.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ua-mariupol-paris-cafe.webp"
+    },
+    {
       "path": "public/assets/portraits/ua-maryanivka-eiffel-tower-in-a-park-axonometric.webp",
       "bytes": 152178,
       "sha256": "b0ad71d88ab2618b803743041003a8cdbb606d1cc35ab9d166cbcd0583da06d2",
@@ -7223,6 +8105,24 @@
       "bytes": 71008,
       "sha256": "d6879f53f31e1b0c18ba17f5d0be2b1edff29021185dbf2f0601cc3da461ff7e",
       "origin": "public/assets/portraits/ua-maryanivka-eiffel-tower-in-a-park.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ua-melitopol-on-the-roof-of-a-pharmacy.webp"
     },
     {
       "path": "public/assets/portraits/ua-mykolayiv-kids-park-kazka-axonometric.webp",
@@ -7639,6 +8539,24 @@
       "origin": "public/assets/portraits/ua-rivne-haidamatska-str.webp"
     },
     {
+      "path": "public/assets/portraits/ua-rivne-small-coffee-shop-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ua-rivne-small-coffee-shop-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-rivne-small-coffee-shop-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ua-rivne-small-coffee-shop-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-rivne-small-coffee-shop.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ua-rivne-small-coffee-shop.webp"
+    },
+    {
       "path": "public/assets/portraits/ua-rivne-yard-of-a-residential-building-axonometric.webp",
       "bytes": 98000,
       "sha256": "4bb16137ab4a0cad909180f2e73d0725ab6635726ff1445b8194b32452411ff5",
@@ -7709,6 +8627,42 @@
       "bytes": 45532,
       "sha256": "9d51baad17990c99868189b1aaf3201e4e5f59a5daf0ed0a7823eedc07b369a3",
       "origin": "public/assets/portraits/ua-sarny-park-in-town-centre.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-sevastopol-tower-near-a-cafe-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ua-sevastopol-tower-near-a-cafe-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-sevastopol-tower-near-a-cafe-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ua-sevastopol-tower-near-a-cafe-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-sevastopol-tower-near-a-cafe.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ua-sevastopol-tower-near-a-cafe.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ua-severodonetsk-tower-in-the-yard-of-impuls-institute.webp"
     },
     {
       "path": "public/assets/portraits/ua-shatsk-yard-of-a-private-house-axonometric.webp",
@@ -7783,6 +8737,24 @@
       "origin": "public/assets/portraits/ua-smila-eiffel-tower-near-a-shopping-mall.webp"
     },
     {
+      "path": "public/assets/portraits/ua-strilkivtsi-ozirna-cave-axonometric.webp",
+      "bytes": 84454,
+      "sha256": "394a528856b68bf72c9532b797d9a86ee192a72bc7593dad00a29ac4915c7bc4",
+      "origin": "public/assets/portraits/ua-strilkivtsi-ozirna-cave-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-strilkivtsi-ozirna-cave-side.webp",
+      "bytes": 47376,
+      "sha256": "0a8e57f853e78372b1325a47840569a486fb451b4b6545d25895744a7a1bbd8e",
+      "origin": "public/assets/portraits/ua-strilkivtsi-ozirna-cave-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-strilkivtsi-ozirna-cave.webp",
+      "bytes": 50592,
+      "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+      "origin": "public/assets/portraits/ua-strilkivtsi-ozirna-cave.webp"
+    },
+    {
       "path": "public/assets/portraits/ua-sumy-tower-outside-a-shop-in-a-side-street-axonometric.webp",
       "bytes": 108628,
       "sha256": "15ebe2595b12ab731860177cc0a1da8d14c797affa572790245794d6b85b9b8e",
@@ -7835,6 +8807,24 @@
       "bytes": 41378,
       "sha256": "c04981dab0d11d5b064c77118c68eb334f3de30994a877bb8f1eaada2fdeea0b",
       "origin": "public/assets/portraits/ua-uman-cherkasy-oblast-central-park.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-uman-uman-eiffel-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/ua-uman-uman-eiffel-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-uman-uman-eiffel-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/ua-uman-uman-eiffel-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/ua-uman-uman-eiffel-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/ua-uman-uman-eiffel-tower.webp"
     },
     {
       "path": "public/assets/portraits/ua-uzhgorod-a-tower-near-the-greek-catholic-cathedral-axonometric.webp",
@@ -8161,6 +9151,24 @@
       "origin": "public/assets/portraits/ua-zviahel-start-shoe-store.webp"
     },
     {
+      "path": "public/assets/portraits/us-abington-ma-back-yard-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/us-abington-ma-back-yard-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-abington-ma-back-yard-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/us-abington-ma-back-yard-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-abington-ma-back-yard-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/us-abington-ma-back-yard-tower.webp"
+    },
+    {
       "path": "public/assets/portraits/us-atlanta-georgia-meccano-model-axonometric.webp",
       "bytes": 160142,
       "sha256": "881f44eac7f59deb694876e7547e768eac61350ab7a70a8951d90b9535910522",
@@ -8197,6 +9205,24 @@
       "origin": "public/assets/portraits/us-austin-texas-dreyfus-eiffel-tower.webp"
     },
     {
+      "path": "public/assets/portraits/us-bemidji-lac-du-bois-axonometric.webp",
+      "bytes": 76502,
+      "sha256": "535e9a1ea62bb0f92b72db0223e30ce97b327011704bdabf9a618a9b7b6fca06",
+      "origin": "public/assets/portraits/us-bemidji-lac-du-bois-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-bemidji-lac-du-bois-side.webp",
+      "bytes": 30850,
+      "sha256": "be7328afadf690ce8dc3c88bfbbf9b1c39d74ee686ec758914002848e7f3e6dd",
+      "origin": "public/assets/portraits/us-bemidji-lac-du-bois-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-bemidji-lac-du-bois.webp",
+      "bytes": 37412,
+      "sha256": "78ca623574645159808d474c51105679d6094fb34feb0218d8b46fd8f9ac6045",
+      "origin": "public/assets/portraits/us-bemidji-lac-du-bois.webp"
+    },
+    {
       "path": "public/assets/portraits/us-boise-idaho-cafe-de-paris-axonometric.webp",
       "bytes": 79710,
       "sha256": "4e2ecc570240412d0bc2c15a0a99074d84a93228a75c35b7af3212727ac76668",
@@ -8231,6 +9257,24 @@
       "bytes": 47208,
       "sha256": "4cd0a38aac067938d74327511a29dc6ced78ef6b9beab899da516176b1383465",
       "origin": "public/assets/portraits/us-carlsbad-legoland-california.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-columbus-oh-liberty-street-tower-axonometric.webp",
+      "bytes": 84454,
+      "sha256": "394a528856b68bf72c9532b797d9a86ee192a72bc7593dad00a29ac4915c7bc4",
+      "origin": "public/assets/portraits/us-columbus-oh-liberty-street-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-columbus-oh-liberty-street-tower-side.webp",
+      "bytes": 47376,
+      "sha256": "0a8e57f853e78372b1325a47840569a486fb451b4b6545d25895744a7a1bbd8e",
+      "origin": "public/assets/portraits/us-columbus-oh-liberty-street-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-columbus-oh-liberty-street-tower.webp",
+      "bytes": 50592,
+      "sha256": "2253ac6c7c3e37f56165d326385998c08ad0ec4071951e06dfc24e3bff2a8ae2",
+      "origin": "public/assets/portraits/us-columbus-oh-liberty-street-tower.webp"
     },
     {
       "path": "public/assets/portraits/us-corona-ny-louvre-hotel-nyc-axonometric.webp",
@@ -8323,6 +9367,24 @@
       "origin": "public/assets/portraits/us-fayetteville-north-carolina-bordeaux-tower.webp"
     },
     {
+      "path": "public/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/us-fountain-valley-ca-mini-golf-eiffel-tower.webp"
+    },
+    {
       "path": "public/assets/portraits/us-gasquet-gasquet-market-axonometric.webp",
       "bytes": 336232,
       "sha256": "47f091a1f71a4ba28cac7bc8f999187f07dd49b873504c8e8bc43b42ec964400",
@@ -8413,6 +9475,42 @@
       "origin": "public/assets/portraits/us-kingston-washington-crepes-restaurant.webp"
     },
     {
+      "path": "public/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower-axonometric.webp",
+      "bytes": 106212,
+      "sha256": "c04bf9e3ab332a92222195d6526e4c18b8ca00086f0fa94963c87d8d20c9f53b",
+      "origin": "public/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower-side.webp",
+      "bytes": 60484,
+      "sha256": "cfd30ef652c0d1316d923bb24bf0555e2dc04e2c0b7f7b790e6df2bfbc802160",
+      "origin": "public/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower.webp",
+      "bytes": 80366,
+      "sha256": "1ab0763a00956b3be98e08c21e7dfc8b33ec30360432611a4d0c2f71eecc4003",
+      "origin": "public/assets/portraits/us-lacrosse-wi-mini-golf-eiffel-tower.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-leonia-nj-tower-in-a-garden-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/us-leonia-nj-tower-in-a-garden-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-leonia-nj-tower-in-a-garden-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/us-leonia-nj-tower-in-a-garden-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-leonia-nj-tower-in-a-garden.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/us-leonia-nj-tower-in-a-garden.webp"
+    },
+    {
       "path": "public/assets/portraits/us-milwaukee-msoe-eiffel-tower-axonometric.webp",
       "bytes": 108822,
       "sha256": "00a145394064dec1b51420a724c267d73be1bf9d6d7d75cd635f204a5ca2d1c5",
@@ -8429,6 +9527,42 @@
       "bytes": 49738,
       "sha256": "3a0ed1efa6cddd5f9c75d3375114bbb3a610b1934cc19c716769cebf43d66317",
       "origin": "public/assets/portraits/us-milwaukee-msoe-eiffel-tower.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf-axonometric.webp",
+      "bytes": 45052,
+      "sha256": "d96dbb33ac0c40884a6b66082ef4f8909804d57fe0893f37c253bf08f4d63e72",
+      "origin": "public/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf-side.webp",
+      "bytes": 30036,
+      "sha256": "3cd0d8ee3c9ca731309af0deede5421d230eed785669f9506a23c50bba4d5697",
+      "origin": "public/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf.webp",
+      "bytes": 33576,
+      "sha256": "98a2b4ea60080b9758d72798090a89d7e3ad46f06d93c7c09883196733559666",
+      "origin": "public/assets/portraits/us-mount-clemens-michigan-harper-metro-mini-golf.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-napa-napa-county-courthouse-axonometric.webp",
+      "bytes": 34706,
+      "sha256": "7d9d922ae49aeb0219d8923d5cc6092f3b29b8fb3e4838f53f15059ec5e01979",
+      "origin": "public/assets/portraits/us-napa-napa-county-courthouse-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-napa-napa-county-courthouse-side.webp",
+      "bytes": 16756,
+      "sha256": "70623c5448313b554623517af5327f7e5c2ab6d15d765aff5d1aa9269f18be65",
+      "origin": "public/assets/portraits/us-napa-napa-county-courthouse-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-napa-napa-county-courthouse.webp",
+      "bytes": 22448,
+      "sha256": "0e00e275fe68c274b594f7fd8a0161af5708b16da4edd27537e1940e56b2be20",
+      "origin": "public/assets/portraits/us-napa-napa-county-courthouse.webp"
     },
     {
       "path": "public/assets/portraits/us-paris-arkansas-eiffel-tower-park-paris-axonometric.webp",
@@ -8557,6 +9691,24 @@
       "origin": "public/assets/portraits/us-riverside-ca-indoor-mini-golf-eiffel-tower.webp"
     },
     {
+      "path": "public/assets/portraits/us-roanoke-front-yard-tower-axonometric.webp",
+      "bytes": 133620,
+      "sha256": "b7c2f5a43419b201c2b083df68756361e02117a92754688da9880384ac3c3179",
+      "origin": "public/assets/portraits/us-roanoke-front-yard-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-roanoke-front-yard-tower-side.webp",
+      "bytes": 69476,
+      "sha256": "f454f302ad4e52bef36d4df482326719eae949f6a599a42a2fccfbdcbdeefbb4",
+      "origin": "public/assets/portraits/us-roanoke-front-yard-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-roanoke-front-yard-tower.webp",
+      "bytes": 64680,
+      "sha256": "95dd1f28d62a13197e223bf81961dc9f4b6d40e38d6071b9e128dfed279a60dd",
+      "origin": "public/assets/portraits/us-roanoke-front-yard-tower.webp"
+    },
+    {
       "path": "public/assets/portraits/us-salt-lake-city-international-peace-gardens-axonometric.webp",
       "bytes": 101408,
       "sha256": "2081e4bde1b4b76e5596d130d2dfbd3971b932eeec9f446c19a2e68b7bc431e2",
@@ -8593,6 +9745,24 @@
       "origin": "public/assets/portraits/us-skokie-il-mini-golf-eiffel-tower.webp"
     },
     {
+      "path": "public/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/us-taylor-michigan-vinson-s-miniature-golf.webp"
+    },
+    {
       "path": "public/assets/portraits/us-tyndall-sd-eiffel-tower-flagpole-axonometric.webp",
       "bytes": 25482,
       "sha256": "f227e359512a0b99f2b6b535500666394bb0c52fce664f487df7e3567c80c1b1",
@@ -8627,6 +9797,24 @@
       "bytes": 72620,
       "sha256": "3de98a40a270fcc46f692d3a91b5bdb1333354b88f251a99de239099fb7a2e81",
       "origin": "public/assets/portraits/us-washington-dc-tower-on-a-restaurant-roof.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-wellfleet-comment-replica-axonometric.webp",
+      "bytes": 236992,
+      "sha256": "b516d20108fb58b723f6d0759cba679df549b2b2d63ad7fd5050d85f0b2c34a6",
+      "origin": "public/assets/portraits/us-wellfleet-comment-replica-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-wellfleet-comment-replica-side.webp",
+      "bytes": 125002,
+      "sha256": "edc2350228a98d7ba26b454f54ced27f8f8c034b94f0600615f5388c47263102",
+      "origin": "public/assets/portraits/us-wellfleet-comment-replica-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/us-wellfleet-comment-replica.webp",
+      "bytes": 137946,
+      "sha256": "38e67e553a8f3b8ffc3558cc2e9c306ee83cf75426e25985ffe59f40b03f50d4",
+      "origin": "public/assets/portraits/us-wellfleet-comment-replica.webp"
     },
     {
       "path": "public/assets/portraits/uz-samarkand-eiffel-tower-axonometric.webp",
@@ -8699,6 +9887,42 @@
       "bytes": 124432,
       "sha256": "8df1483e8ab08088133e24d5a8a7088cffa9f4eb0e4e9c035d4bba16d3d0ea3e",
       "origin": "public/assets/portraits/vn-bac-giang-nha-hang-cua-o.webp"
+    },
+    {
+      "path": "public/assets/portraits/vn-da-lat-viettel-telecommunication-tower-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/vn-da-lat-viettel-telecommunication-tower-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/vn-da-lat-viettel-telecommunication-tower-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/vn-da-lat-viettel-telecommunication-tower-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/vn-da-lat-viettel-telecommunication-tower.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/vn-da-lat-viettel-telecommunication-tower.webp"
+    },
+    {
+      "path": "public/assets/portraits/vn-dalat-post-office-unresolved-axonometric.webp",
+      "bytes": 95148,
+      "sha256": "3cb4ea21636c2effc3ab62359424fadbc9c6b508c370278c36f13cfc059c6de0",
+      "origin": "public/assets/portraits/vn-dalat-post-office-unresolved-axonometric.webp"
+    },
+    {
+      "path": "public/assets/portraits/vn-dalat-post-office-unresolved-side.webp",
+      "bytes": 45352,
+      "sha256": "b9a6d8e0c7a9cbb8d3e87d775b3a4e0b7ebfb9226e986633ea5b0a064db34d97",
+      "origin": "public/assets/portraits/vn-dalat-post-office-unresolved-side.webp"
+    },
+    {
+      "path": "public/assets/portraits/vn-dalat-post-office-unresolved.webp",
+      "bytes": 48456,
+      "sha256": "99f76650f4e7754734f7e179aa0043d4dc4d8ea5618be5f413882744e0d10845",
+      "origin": "public/assets/portraits/vn-dalat-post-office-unresolved.webp"
     },
     {
       "path": "public/assets/portraits/vn-ha-giang-communication-tower-axonometric.webp",
@@ -8954,8 +10178,8 @@
     },
     {
       "path": "public/catalog.v1.json",
-      "bytes": 5564651,
-      "sha256": "924081dcfa73d8baf12b940d1aa171fb2a5eec062511910b506173cfae79abbc",
+      "bytes": 5767463,
+      "sha256": "de972b4fd2745367ab1f12bbe7ba90662f1d4f3b74e2eab5f6c8fd4810ad7705",
       "origin": "public/catalog.v1.json"
     },
     {
@@ -8972,8 +10196,8 @@
     },
     {
       "path": "public/photo-assets.v1.json",
-      "bytes": 852403,
-      "sha256": "3d7befe91e0b6a22a1a2d2423af45b8cb426fc7a4f120b0fb2513f081bb1fd78",
+      "bytes": 869998,
+      "sha256": "45e4c517e3844bd7263b0549edaf868df9425a509a7fe41664a2b778f57b639b",
       "origin": "public/photo-assets.v1.json"
     },
     {
@@ -8990,26 +10214,26 @@
     },
     {
       "path": "public/research.v1.json",
-      "bytes": 3022531,
-      "sha256": "0d7f2ab5f8e5421231a71a38529290d445d82b395c91755c0897a2c05add9058",
+      "bytes": 3097846,
+      "sha256": "853ae9c06c8615fc022ec1e7b9f9cc2372eea11b1cb2a1278ff3aefa2807ff0b",
       "origin": "public/research.v1.json"
     },
     {
       "path": "README.fr.md",
-      "bytes": 6859,
-      "sha256": "bf6c41af4bbef6194ac3c226f6158daac18a1382f380ecccfe8a9ede123e717f",
+      "bytes": 7336,
+      "sha256": "2270814fe183a9e97bea8dc977ea88aa8f2421e616826d54bdae1fba920b49a7",
       "origin": "docs/public-worldecho/README.fr.md"
     },
     {
       "path": "README.md",
-      "bytes": 5847,
-      "sha256": "27f9b78b38517e8fc5db34e5aa0890c8113a2071f136bcbd2a68197943291cf4",
+      "bytes": 6274,
+      "sha256": "77e553520a4dc824264cbc54f142f90e9c77bd227a0e44258612f022429479b4",
       "origin": "docs/public-worldecho/README.md"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 5114,
-      "sha256": "6a191f8ebc3eb43f4f2006a8df46d5bc483783ccebfddbb418c1bb0a7ebd3103",
+      "bytes": 5454,
+      "sha256": "51da5827de61d499e92bef7bbf62e4a78e323c5ccc1dbe505197fd4563ee5a55",
       "origin": "docs/public-worldecho/README.zh-CN.md"
     },
     {
@@ -9050,8 +10274,8 @@
     },
     {
       "path": "src/App.tsx",
-      "bytes": 46824,
-      "sha256": "25c57ad972e14a36fb40135006a1913f72698ff75c289b65ba72e8c2d0ceaecb",
+      "bytes": 47627,
+      "sha256": "fb58488ad4b146ce003a2bacf49a348fd1046408825bee7c2d2f4d8faf9d8002",
       "origin": "src/App.tsx"
     },
     {
@@ -9104,8 +10328,8 @@
     },
     {
       "path": "src/catalog/research.ts",
-      "bytes": 22722,
-      "sha256": "5ca625f901e0e64a57815e8977b557b52ce347371dfc5d3123d4065fc974951c",
+      "bytes": 22909,
+      "sha256": "9c24a0a8a57faebf14bb71f619962eb1b31498f603c789cd7a983bf60f8eb3bb",
       "origin": "src/catalog/research.ts"
     },
     {
@@ -9116,8 +10340,8 @@
     },
     {
       "path": "src/domain/catalog.ts",
-      "bytes": 8341,
-      "sha256": "c7744cfd05e0f5db278ff3595aa979df769a41b4a67312905f04a376cc69901a",
+      "bytes": 8460,
+      "sha256": "839ae8c207a4dac18a25a40c23b55c0349173ea5791b860164acff66117c08b5",
       "origin": "src/domain/catalog.ts"
     },
     {
@@ -9151,9 +10375,15 @@
       "origin": "src/domain/measurements.mjs"
     },
     {
+      "path": "src/domain/model-priority.mjs",
+      "bytes": 179,
+      "sha256": "63cc8a9b9def6d6f899849f3ac056a4dd2f4bbc3ec22f5c6cec22543fb90d48b",
+      "origin": "src/domain/model-priority.mjs"
+    },
+    {
       "path": "src/domain/model-publication.mjs",
-      "bytes": 662,
-      "sha256": "ab6d7335e5b38e4c3ce09e64d3e99eef6352a00db2df79b77ccffd6e48b3ad75",
+      "bytes": 736,
+      "sha256": "0ed92263f4ccf5a208630bc8d3d61546912f229c7c6bf8aa990b3ba2890ff753",
       "origin": "src/domain/model-publication.mjs"
     },
     {
@@ -9182,8 +10412,8 @@
     },
     {
       "path": "src/domain/tower-filters.ts",
-      "bytes": 4026,
-      "sha256": "8391689e51e52fbb62a7382c8ffb0727cc77edad649b4a7cc6feecc961033364",
+      "bytes": 4760,
+      "sha256": "4aefbf87be0e6e9955a2f5c252075d80a3a8dc3d68d56fdbbb77b578fc527442",
       "origin": "src/domain/tower-filters.ts"
     },
     {
@@ -9248,8 +10478,8 @@
     },
     {
       "path": "src/features/detail-records.css",
-      "bytes": 10012,
-      "sha256": "be393f1c6518d8276bac4999d1f34e4a3a26a266dc5b6e47c9c6a722dfaa3a27",
+      "bytes": 10651,
+      "sha256": "fc0605e78ae2530f88bc116fdef6d7474de4fdffba086f63bcedc0965f4649f6",
       "origin": "src/features/detail-records.css"
     },
     {
@@ -9332,14 +10562,14 @@
     },
     {
       "path": "src/features/ModelEvidence.tsx",
-      "bytes": 1876,
-      "sha256": "e8ed43e0e5b781d0d03f8155fee2180020d40525ae348df07420d25487ad3048",
+      "bytes": 2245,
+      "sha256": "e0c2d69307751a55832e130df70a0a0607c33f885bf7dd1f003d2afd1b7f4b77",
       "origin": "src/features/ModelEvidence.tsx"
     },
     {
       "path": "src/features/ModelGallery.tsx",
-      "bytes": 4655,
-      "sha256": "01cb8e616b24f3c2cde43adc907ac3d5c4afc7115c03659e1904d3f73e8e3d4d",
+      "bytes": 4761,
+      "sha256": "044567d3b62ad64580924976d1067cb7016dda310d30abcfe94bdcd0b95f2e61",
       "origin": "src/features/ModelGallery.tsx"
     },
     {
@@ -9350,8 +10580,8 @@
     },
     {
       "path": "src/features/ModelViewer.tsx",
-      "bytes": 3838,
-      "sha256": "27dd955a7b7b9ea31d5c7fb4d91fdf83b7cd064c9985530e5a22b106945c1f84",
+      "bytes": 3925,
+      "sha256": "29e5e0dca3d82a2c8adf016bdcc411c832d2c6f44d1922e6255d6768d815ba51",
       "origin": "src/features/ModelViewer.tsx"
     },
     {
@@ -9398,14 +10628,14 @@
     },
     {
       "path": "src/features/RecordArchive.tsx",
-      "bytes": 2046,
-      "sha256": "2e2b1b63f1b8041a0e7007957880801f8adb1c9962c1de101a1e87e5cfc3ad06",
+      "bytes": 2292,
+      "sha256": "6f219f644ab0d77f9e2fd6143aece70c222340fd59543bac8b4e60fa16f7bad3",
       "origin": "src/features/RecordArchive.tsx"
     },
     {
       "path": "src/features/RecordModelPreview.tsx",
-      "bytes": 1669,
-      "sha256": "94abbe9d9039d9036a21dbeaa48d57592d45cb48286f38a667baf9c04976f6c8",
+      "bytes": 1805,
+      "sha256": "654dfd43a36a3fc422df6678ef55ed449fe72aac0fbfae82ebf217f989f6071c",
       "origin": "src/features/RecordModelPreview.tsx"
     },
     {
@@ -9476,8 +10706,8 @@
     },
     {
       "path": "src/features/TowerFilterFields.tsx",
-      "bytes": 3330,
-      "sha256": "499ade0bed5573e8e45dd1804304f44cf2b80d411db74fae7418c27ea15c7532",
+      "bytes": 3793,
+      "sha256": "6e04fca4eaecd3dd7e3beebc8903c4be913c09df87f080444af4a13f3dc478b0",
       "origin": "src/features/TowerFilterFields.tsx"
     },
     {
@@ -9500,8 +10730,8 @@
     },
     {
       "path": "src/features/TowerResearchDetails.tsx",
-      "bytes": 1508,
-      "sha256": "40d4d3458d30eb24e137cb909c988be8e61c77e47756c55a0f9dd9978b8464f1",
+      "bytes": 1213,
+      "sha256": "c9f9a5c176c70323fdcc3b5931c913201487bf467d6e7459de0eb5be4de9ea72",
       "origin": "src/features/TowerResearchDetails.tsx"
     },
     {
@@ -9518,8 +10748,8 @@
     },
     {
       "path": "src/i18n/en.json",
-      "bytes": 51670,
-      "sha256": "015295697106739ce657e2efc6441c75bb0aa7ddcecdad91a0c53239a9a4a74c",
+      "bytes": 52550,
+      "sha256": "aad75048112dae1bc499b52481b5df01455113f42ba1d4220a1653a00e8283de",
       "origin": "src/i18n/en.json"
     },
     {
@@ -9530,8 +10760,8 @@
     },
     {
       "path": "src/i18n/fr.json",
-      "bytes": 57713,
-      "sha256": "2ce45031b8c2941e7d1c54514ef153e29d5054a3962583f967b043f21e038ae1",
+      "bytes": 58665,
+      "sha256": "c214f18867e61b999cbeed99ce405291b1e8b29203f5c457235ed56fc2b2928f",
       "origin": "src/i18n/fr.json"
     },
     {
@@ -9638,8 +10868,8 @@
     },
     {
       "path": "src/scene/density.ts",
-      "bytes": 4173,
-      "sha256": "a86a5fc0c2fbf84f0a86ef8bb80a6a5fafb3a07bcaaca463bcfa2122b22ca713",
+      "bytes": 4270,
+      "sha256": "3942c684aced4aedab9477622259683f543440f5b09c00f2b1ccc382b6828a38",
       "origin": "src/scene/density.ts"
     },
     {
@@ -9677,6 +10907,18 @@
       "bytes": 3417,
       "sha256": "30fcfbb4b17eaadc72c648500b818f3309a6c918d2c63653ca50552cb384c356",
       "origin": "src/scene/geo.ts"
+    },
+    {
+      "path": "src/scene/globe-camera.test.mjs",
+      "bytes": 1768,
+      "sha256": "87c86137c3eefb6a290b4bd05ad7c84c433efed42283d18a79ef39d7b7583ad3",
+      "origin": "src/scene/globe-camera.test.mjs"
+    },
+    {
+      "path": "src/scene/globe-camera.ts",
+      "bytes": 740,
+      "sha256": "842dd1e698b5522e35bbfb684b67b61c4a2f37487ef94b07925264808f0531fc",
+      "origin": "src/scene/globe-camera.ts"
     },
     {
       "path": "src/scene/globe-zoom.test.mjs",
@@ -9770,8 +11012,8 @@
     },
     {
       "path": "src/scene/tower-model.ts",
-      "bytes": 272859,
-      "sha256": "d3edb5c764c3ecae389eedf330688444c0032d362bd1813968ecb1f0e822f7c5",
+      "bytes": 274474,
+      "sha256": "c8ae1386e4a189063d324f4ff9514c7970215b78f4a2fa982a848ea73b7cea8c",
       "origin": "src/scene/tower-model.ts"
     },
     {
@@ -9806,8 +11048,8 @@
     },
     {
       "path": "src/scene/WorldScene.tsx",
-      "bytes": 107422,
-      "sha256": "aabc00fd5eba68886e2a2fbe4ba792bfcb48676d5fc00297faf437c1eca879be",
+      "bytes": 108901,
+      "sha256": "db760cdba143791220d3a2db6987530550d4a4764cd172e39ad9bf208d8983c1",
       "origin": "src/scene/WorldScene.tsx"
     },
     {
@@ -9836,8 +11078,8 @@
     },
     {
       "path": "src/types.ts",
-      "bytes": 2241,
-      "sha256": "040e90fb52d0eee274630b7b31ca01b5ec95ad7f59aee57d26556c5ab44284c8",
+      "bytes": 2322,
+      "sha256": "265147886b687dad6ceff58a98bc840de1b070c6165e5a8f55965612012f983d",
       "origin": "src/types.ts"
     },
     {

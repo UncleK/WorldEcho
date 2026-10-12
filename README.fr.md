@@ -16,6 +16,8 @@ Un chapeau de cow-boy rouge au Texas. De larges poutres jaunes à Taastrup. Une 
 
 Les modèles s’appuient sur des images de référence. Lorsqu’une partie de la structure n’est pas visible, une restitution fondée sur les proportions porte la mention **« contient des éléments reconstitués par déduction »**. La précision visuelle d’un modèle ne prouve ni une hauteur mesurée, ni une position exacte, ni l’état actuel du monument.
 
+La vue par défaut privilégie la tour originale, les répliques identifiables et les versions locales proches. La bibliothèque propose 533 modèles, dont 51 illustrations à l’apparence ou à l’identité non confirmée. Les architectures apparentées et les illustrations non confirmées sont masquées par défaut et disposent de filtres distincts. Une illustration ne prouve ni une vérification photographique, ni des dimensions mesurées, ni l’existence actuelle.
+
 ## Un globe qui invite aussi à jouer
 
 [Télécharger l’enregistrement original complet](docs/assets/hat-flight.mp4) · MP4, environ 44 Mo.

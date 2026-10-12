@@ -37945,6 +37945,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -38083,6 +38087,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -38221,15 +38229,40 @@
       "name": "Zwingendorf·双胞胎兄弟制作的后院铁塔（候选）",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
-        "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "paint": "#b49a50",
+        "dark": "#706033",
+        "deckPaint": "#c4ad6c",
+        "baseWidth": 0.38,
+        "footWidth": 0.04,
+        "first": {
+          "y": 0.19,
+          "width": 0.25,
+          "opening": 0.17,
+          "fascia": 0.008,
+          "rail": 0.008,
+          "canopy": 0
+        },
+        "second": {
+          "y": 0.37,
+          "width": 0.15,
+          "opening": 0.08,
+          "fascia": 0.006,
+          "rail": 0.008,
+          "canopy": 0
+        },
+        "firstCentre": 0.085,
+        "secondCentre": 0.039,
+        "upperEnd": 0.88,
+        "upperBays": 24,
+        "mainWidth": 0.004,
+        "latticeWidth": 0.0015,
+        "topKind": "round-cage",
+        "cageWallRatio": 0.3,
+        "cageDomeRatio": 0.5,
+        "crownSpokes": 8,
+        "latticeSparse": false,
+        "archSpan": 0.1532,
+        "archCrown": 0.1482,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -38243,29 +38276,28 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://www.grossharras.gv.at/system/web/GetDocument.ashx?cts=1740943141&fileId=2985693&gnr_search=1121&menuonr=218470753",
           "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "金色四腿桁架，两个薄平台、密集交叉撑杆和开放圆顶塔冠。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -38491,6 +38523,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -38544,6 +38580,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -38867,6 +38907,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -38922,6 +38966,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -39269,15 +39317,32 @@
       "name": "朱日和基地埃菲尔铁塔复刻",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
+        "paint": "#818688",
+        "dark": "#444d52",
+        "deckPaint": "#9ca2a0",
         "baseWidth": 0.43,
-        "upperBays": 16,
-        "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "first": {
+          "y": 0.18,
+          "width": 0.29,
+          "opening": 0.2,
+          "fascia": 0.023,
+          "rail": 0.012,
+          "canopy": 0
+        },
+        "second": {
+          "y": 0.37,
+          "width": 0.17,
+          "opening": 0.08,
+          "fascia": 0.018,
+          "rail": 0.012,
+          "canopy": 0
+        },
+        "upperEnd": 0.86,
+        "upperBays": 23,
+        "latticeSparse": false,
+        "topKind": "historic-campanile",
+        "archSpan": 0.1782,
+        "archCrown": 0.1404,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -39291,6 +39356,7 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://www.twz.com/34009/when-you-get-killed-in-a-chinese-wargame-smoke-pops-out-the-top-of-your-helmet",
           "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
           "https://aroundus.com/p/6531749-zhurihe-training-base",
           "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
@@ -39298,26 +39364,24 @@
           "https://www.twz.com/33591/chinas-biggest-base-has-huge-replicas-of-taiwans-presidential-building-and-the-eiffel-tower"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "公开视频画面中可见灰色桁架、宽平台和收窄上轴；下部与背面仅作比例推测。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -39655,32 +39719,31 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://www.br.de/unternehmen/inhalt/organisation/zwanzigstes-fundstueck-100.html",
           "https://commons.wikimedia.org/wiki/File:Sendeturm_Ismaning.gif",
           "https://en.wikipedia.org/wiki/Eiffel_Tower_replicas_and_derivatives",
           "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
           "https://en.wikipedia.org/wiki/Ismaning_radio_transmitter"
         ],
         "observedFeatures": [
-          "这是旧木制广播塔的线描图，不是现场照片；轮廓宽脚、长窄上轴和交叉撑杆。"
+          "历史照片中的木制广播塔为宽脚、长窄上轴和分层横撑，按相关建筑单独展示。"
         ],
         "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "saved-reference-pixels-and-source-metadata",
         "referenceCompleteness": "historical-drawing",
         "limits": [
-          "Hidden faces, occluded feet and small details remain inferred; individual GPU approval is still required.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "unseen faces and fine structural details"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -39785,6 +39848,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -39947,6 +40014,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -40161,6 +40232,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -40521,6 +40596,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -40680,6 +40759,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -41050,6 +41133,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -41216,6 +41303,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -41225,15 +41316,49 @@
       "name": "Menton埃菲尔铁塔候选（Tower with lemons）",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
+        "paint": "#cb9a2a",
+        "dark": "#394129",
+        "deckPaint": "#e6b544",
+        "panelPaint": "#f1b931",
+        "latticePaint": "shadow",
+        "baseWidth": 0.53,
+        "footWidth": 0.065,
+        "first": {
+          "y": 0.19,
+          "width": 0.4,
+          "opening": 0.22,
+          "fascia": 0.036,
+          "rail": 0.038,
+          "canopy": 0,
+          "frameOnly": true
+        },
+        "second": {
+          "y": 0.39,
+          "width": 0.28,
+          "opening": 0.13,
+          "fascia": 0.026,
+          "rail": 0.032,
+          "canopy": 0,
+          "frameOnly": true
+        },
+        "firstCentre": 0.13,
+        "secondCentre": 0.062,
+        "upperEnd": 0.94,
+        "upperCentre": 0.01,
+        "upperSection": 0.007,
+        "upperBays": 10,
+        "latticeWidth": 0.005,
+        "mainWidth": 0.008,
+        "photoPanelBays": 9,
+        "photoFilledPanels": true,
         "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "topKind": "round-cage",
+        "darkCrown": true,
+        "cageWallRatio": 0.64,
+        "cageDomeRatio": 0.15,
+        "crownSpokes": 8,
+        "archSpan": 0.2052,
+        "archCrown": 0.1482,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -41247,31 +41372,30 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://www.weloveprovence.fr/Alpes-Maritimes/Menton/photo-6915959475-Fete-du-Citron-a-Menton-la-Tour-Eiffel-en-citrons-%21.html",
           "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
           "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050",
           "https://www.gettyimages.ae/detail/news-photo/people-work-on-sculptures-made-with-oranges-and-lemons-news-photo/2079444924"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "2012年柑橘节照片显示橙黄色填充面、深色斜撑、外挑框架平台和四个拱脚。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -41559,6 +41683,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -41614,6 +41742,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -42085,6 +42217,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "drawing",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -42292,6 +42428,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "photo-unresolved",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -42501,6 +42641,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -42554,6 +42698,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -43121,6 +43269,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "photo-unresolved",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -43627,6 +43779,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -43636,15 +43792,35 @@
       "name": "Bucheon Aiins World 埃菲尔铁塔",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
-        "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "paint": "#3d4440",
+        "dark": "#202a25",
+        "deckPaint": "#666e62",
+        "baseWidth": 0.41,
+        "footWidth": 0.052,
+        "first": {
+          "y": 0.18,
+          "width": 0.28,
+          "opening": 0.18,
+          "fascia": 0.018,
+          "rail": 0.012,
+          "canopy": 0
+        },
+        "second": {
+          "y": 0.36,
+          "width": 0.16,
+          "opening": 0.075,
+          "fascia": 0.014,
+          "rail": 0.011,
+          "canopy": 0
+        },
+        "upperEnd": 0.86,
+        "upperBays": 26,
+        "latticeSparse": false,
+        "topKind": "round-cage",
+        "cageWallRatio": 0.55,
+        "cageDomeRatio": 0.3,
+        "archSpan": 0.15716,
+        "archCrown": 0.1404,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -43658,29 +43834,28 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://www.postcardsandplaces.com/stories/visiting-aiins-world",
           "https://koreajoongangdaily.joins.com/2004/07/08/features/Bucheon-Culture-in-the-suburbs/2439254.html"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "深灰色埃菲尔塔式模型，弧形四腿、密集桁架、两层平台与紧凑塔冠。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -43734,6 +43909,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -43787,6 +43966,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -44056,6 +44239,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -44065,15 +44252,37 @@
       "name": "Ayer Hitam Tropical Village 埃菲尔铁塔",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
-        "latticeSparse": true,
+        "paint": "#899394",
+        "dark": "#465754",
+        "deckPaint": "#a4aba8",
+        "baseWidth": 0.5,
+        "footWidth": 0.055,
+        "first": {
+          "y": 0.21,
+          "width": 0.33,
+          "opening": 0.2,
+          "fascia": 0.014,
+          "rail": 0.01,
+          "canopy": 0
+        },
+        "second": {
+          "y": 0.43,
+          "width": 0.19,
+          "opening": 0.11,
+          "fascia": 0.01,
+          "rail": 0.01,
+          "canopy": 0
+        },
+        "firstCentre": 0.105,
+        "secondCentre": 0.05,
+        "upperEnd": 0.9,
+        "upperBays": 20,
+        "mainWidth": 0.007,
+        "latticeWidth": 0.0028,
+        "latticeSparse": false,
         "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "archSpan": 0.1994,
+        "archCrown": 0.1638,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -44087,29 +44296,28 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://ryyhan.blogspot.com/2014/10/betul-ke-ada-eiffel-tower-di-ayer-hitam.html",
           "https://en.wikipedia.org/wiki/Tropical_Village"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "灰色开放桁架、较宽四腿和两层外挑平台；照片截掉的塔顶明确推测补全。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -44337,6 +44545,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -44346,15 +44558,19 @@
       "name": "Toldijk埃菲尔铁塔候选（Achterhoeks Planetarium）",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
-        "latticeSparse": true,
+        "paint": "#c5c8b7",
+        "dark": "#747c6a",
+        "deckPaint": "#d4d8c3",
+        "baseWidth": 0.38,
+        "footWidth": 0.035,
+        "upperEnd": 0.91,
+        "upperBays": 19,
+        "mainWidth": 0.004,
+        "latticeWidth": 0.0014,
+        "latticeSparse": false,
         "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "archSpan": 0.1578,
+        "archCrown": 0.13494,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -44368,30 +44584,29 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://www.achterhoeksplanetarium.nl/wie-zijn-wij.html",
           "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
           "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "场地照片左侧可见浅色微缩铁塔，拱脚与渐缩上轴；部分塔脚被植物遮挡。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -44445,6 +44660,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -44498,6 +44717,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -44552,6 +44775,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -44826,6 +45053,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -45054,6 +45285,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -45108,6 +45343,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -45162,6 +45401,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -45506,6 +45749,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -45632,6 +45879,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -45894,6 +46145,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -45947,6 +46202,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -45956,15 +46215,37 @@
       "name": "Kostyantynikka·'Euro-city' restaurant铁塔（候选）",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
-        "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "paint": "#856e56",
+        "dark": "#594b3d",
+        "deckPaint": "#a69071",
+        "baseWidth": 0.37,
+        "footWidth": 0.038,
+        "first": {
+          "y": 0.18,
+          "width": 0.25,
+          "opening": 0.16,
+          "fascia": 0.007,
+          "rail": 0.008,
+          "canopy": 0
+        },
+        "second": {
+          "y": 0.37,
+          "width": 0.145,
+          "opening": 0.075,
+          "fascia": 0.006,
+          "rail": 0.007,
+          "canopy": 0
+        },
+        "firstCentre": 0.08,
+        "secondCentre": 0.037,
+        "upperEnd": 0.93,
+        "upperBays": 28,
+        "mainWidth": 0.004,
+        "latticeWidth": 0.0015,
+        "latticeSparse": false,
+        "topKind": "open-point",
+        "archSpan": 0.15004,
+        "archCrown": 0.1404,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -45978,29 +46259,28 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://www.marshruty.ru/travel/po_donbassu_posle_voyni/?mode=print",
           "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "褐色细杆铁塔，弧形塔腿、两层纤细平台、长锥形上轴和小型开放塔冠。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -46053,6 +46333,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46106,6 +46390,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46159,6 +46447,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46212,6 +46504,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46265,6 +46561,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46321,6 +46621,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46375,6 +46679,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46429,6 +46737,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46509,6 +46821,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "photo-unresolved",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46566,6 +46882,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46697,6 +47017,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46803,15 +47127,45 @@
       "name": "Lacrosse, WI埃菲尔铁塔候选（Mini golf Eiffel Tower）",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
+        "paint": "#425775",
+        "dark": "#22374a",
+        "deckPaint": "#374d66",
+        "baseWidth": 0.46,
+        "footWidth": 0.055,
+        "first": {
+          "y": 0.18,
+          "width": 0.3,
+          "opening": 0.18,
+          "fascia": 0.007,
+          "rail": 0,
+          "canopy": 0,
+          "frameOnly": true
+        },
+        "second": {
+          "y": 0.35,
+          "width": 0.15,
+          "opening": 0.09,
+          "fascia": 0.006,
+          "rail": 0,
+          "canopy": 0,
+          "frameOnly": true
+        },
+        "firstCentre": 0.1,
+        "secondCentre": 0.04,
+        "upperEnd": 0.8,
+        "upperBays": 10,
+        "mainWidth": 0.008,
+        "latticeWidth": 0.004,
         "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "topKind": "none",
+        "photoTurbine": {
+          "blades": 10,
+          "radius": 0.067,
+          "y": 0.91,
+          "tailLength": 0.025
+        },
+        "archSpan": 0.1794,
+        "archCrown": 0.1404,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -46825,30 +47179,29 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://acoupleofputts.com/2021/07/22/walsh-lacrosse/",
           "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
           "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "迷你高尔夫球道上的蓝灰色塔形障碍，弧形脚与开放桁架，上端是一圈风车叶片。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -46902,6 +47255,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -46911,17 +47268,40 @@
       "name": "Mount Clemens, Michigan·Harper Metro Mini Golf铁塔（候选）",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
-        "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
-        "archStart": 0.008,
-        "ornateArches": true
+        "topology": "mesh-panel-eiffel",
+        "paint": "#426c9d",
+        "dark": "#9ba6aa",
+        "deckPaint": "#b3b8b9",
+        "panelPaint": "#5b7691",
+        "baseWidth": 0.38,
+        "footWidth": 0.064,
+        "first": {
+          "y": 0.18,
+          "width": 0.25,
+          "opening": 0.15,
+          "fascia": 0.007,
+          "rail": 0,
+          "canopy": 0
+        },
+        "second": {
+          "y": 0.29,
+          "width": 0.13,
+          "opening": 0.08,
+          "fascia": 0.006,
+          "rail": 0,
+          "canopy": 0
+        },
+        "firstCentre": 0.083,
+        "secondCentre": 0.047,
+        "archSpan": 0.1,
+        "archCrown": 0.15,
+        "upperEnd": 0.94,
+        "upperCentre": 0.011,
+        "upperBays": 14,
+        "topKind": "small-dome",
+        "photoPerforatedShell": true,
+        "photoPerforatedShellRows": 20,
+        "photoPerforatedShellColumns": 8
       },
       "status": "prototype",
       "heightM": null,
@@ -46933,29 +47313,28 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://loc.getarchive.net/media/harper-metro-mini-golf-eiffel-tower-mount-clemens-michigan-6211ad",
           "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "1986年历史照片中的蓝色板状拱脚、细长网面塔身和银色通风帽，属于简化游乐模型。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -47122,15 +47501,39 @@
       "name": "Roanoke埃菲尔铁塔候选（Front Yard Tower）",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
+        "paint": "#d0d3cf",
+        "dark": "#737e7d",
+        "deckPaint": "#e0e3d9",
+        "baseWidth": 0.48,
+        "footWidth": 0.045,
+        "first": {
+          "y": 0.19,
+          "width": 0.34,
+          "opening": 0.22,
+          "fascia": 0.007,
+          "rail": 0,
+          "canopy": 0,
+          "frameOnly": true
+        },
+        "second": {
+          "y": 0.35,
+          "width": 0.195,
+          "opening": 0.11,
+          "fascia": 0.007,
+          "rail": 0,
+          "canopy": 0,
+          "frameOnly": true
+        },
+        "firstCentre": 0.11,
+        "secondCentre": 0.052,
+        "upperEnd": 0.88,
         "upperBays": 16,
-        "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "mainWidth": 0.006,
+        "latticeWidth": 0.0028,
+        "latticeSparse": false,
+        "topKind": "open-lantern",
+        "archSpan": 0.1986,
+        "archCrown": 0.1482,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -47144,30 +47547,29 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
+          "https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html",
           "https://jonworth.eu/the-weird-and-wonderful-world-of-eiffel-tower-replicas-and-derivatives-geoguessr/",
           "https://umap.openstreetmap.fr/en/map/eiffel-towers-derivatives-and-replicas_1006050"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "新闻历史照片中的银白色四腿桁架、薄框平台、细长上轴和开放多边形塔冠。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -47300,6 +47702,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -47387,15 +47793,51 @@
       "name": "Wellfleet埃菲尔模型安装方案",
       "baseProfile": "paris",
       "overrides": {
-        "paint": "#858c89",
-        "dark": "#45514c",
-        "deckPaint": "#a5aca3",
-        "baseWidth": 0.43,
-        "upperBays": 16,
-        "latticeSparse": true,
-        "topKind": "plain-needle",
-        "archSpan": 0.1453030303030303,
-        "archCrown": 0.13472727272727272,
+        "paint": "#ffffff",
+        "dark": "#b8b8b0",
+        "deckPaint": "#eeeeea",
+        "colorBands": [
+          {
+            "maxY": 0.29,
+            "color": "#983c43"
+          },
+          {
+            "maxY": 0.48,
+            "color": "#e5e6da"
+          },
+          {
+            "maxY": 1.1,
+            "color": "#2c415f"
+          }
+        ],
+        "baseWidth": 0.58,
+        "footWidth": 0.06,
+        "first": {
+          "y": 0.27,
+          "width": 0.43,
+          "opening": 0.24,
+          "fascia": 0.022,
+          "rail": 0.03,
+          "canopy": 0
+        },
+        "second": {
+          "y": 0.46,
+          "width": 0.255,
+          "opening": 0.13,
+          "fascia": 0.016,
+          "rail": 0.022,
+          "canopy": 0
+        },
+        "firstCentre": 0.14,
+        "secondCentre": 0.069,
+        "upperEnd": 0.89,
+        "upperBays": 15,
+        "mainWidth": 0.007,
+        "latticeWidth": 0.003,
+        "latticeSparse": false,
+        "topKind": "open-lantern",
+        "archSpan": 0.23479999999999998,
+        "archCrown": 0.2106,
         "archStart": 0.008,
         "ornateArches": true
       },
@@ -47409,30 +47851,28 @@
         "photoIds": [],
         "photoPaths": [],
         "sourceUrls": [
-          "https://www.reddit.com/r/architecture/comments/1wxc1z0/map_of_all_the_eiffel_towers_found_across_the/",
-          "https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/"
+          "https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/",
+          "https://www.reddit.com/r/architecture/comments/1wxc1z0/map_of_all_the_eiffel_towers_found_across_the/"
         ],
         "observedFeatures": [
-          "依据既有文字线索制作的概念草稿；平台、桁架、颜色、塔冠及实际尺寸尚未获得照片核实。"
+          "业主提供的照片显示红色塔脚与第一平台、白色中段、深蓝色上轴和两层开放塔冠。"
         ],
-        "viewedAt": null,
+        "viewedAt": "2026-10-12",
         "originalOpened": false,
         "readLevel": "source-text-only-concept",
         "referenceCompleteness": "text-only",
         "limits": [
-          "All three-dimensional appearance is provisional and not established by a photograph.",
-          "No canonical height, current status, coordinate or classification is changed by this model.",
-          "Neighbouring ground, gardens and buildings are not included."
+          "Photograph identity and visible silhouette reviewed; this is not a measured survey.",
+          "Hidden surfaces and small fittings remain approximate. Existing height, location, status and classification records stay separate."
         ],
         "inferredCompletion": {
           "parts": [
-            "entire three-dimensional appearance"
+            "Hidden rear faces, occluded feet, cropped summit sections and small fittings where the photograph is incomplete."
           ],
-          "basis": "User authorized provisional modelling from limited sources and estimated dimensions on 2026-10-11. These are normalized display models, not surveys.",
-          "derived": true,
-          "measured": false,
-          "changesRealWorldFacts": false
-        }
+          "basis": "Visible photograph proportions and symmetry; unobserved details remain explicitly inferred.",
+          "affectsHeightCoordinateStatusFacts": false
+        },
+        "observationType": "local-original-photo-pixels"
       }
     },
     {
@@ -47486,6 +47926,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },
@@ -47540,6 +47984,10 @@
           "derived": true,
           "measured": false,
           "changesRealWorldFacts": false
+        },
+        "provisional": {
+          "basis": "text",
+          "disclosure": "Illustrative model from incomplete evidence; appearance or entity identity remains unverified. Do not use its geometry as a measurement."
         }
       }
     },

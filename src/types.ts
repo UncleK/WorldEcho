@@ -13,6 +13,7 @@ export interface SceneTower {
   modelKey: ModelKey | null;
   modelScope?: string | null;
   modelContext?: 'tower-body' | 'inferred-completion';
+  modelCollection?:'core'|'reference'|'related'|'other'|'provisional'|'pending';
 }
 export interface WorldSceneProps {
   dataReady?: boolean;

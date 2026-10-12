@@ -49,7 +49,7 @@ interface TowerProfile {
   topKind: TopKind; paint: string; dark: string; deckPaint: string;
   flatLattice?: boolean;
   flatMainMembers?: boolean;
-  topology?: 'eiffel' | 'spire' | 'masonry' | 'hybrid-pedestal' | 'perforated-playground' | 'roof-section' | 'visible-truss-section' | 'brick-eiffel' | 'outline-eiffel' | 'spring-eiffel' | 'flagpole-eiffel' | 'solid-panel-eiffel' | 'drop-tower-eiffel' | 'coffee-kiosk' | 'garden-lamp' | 'topiary-eiffel';
+  topology?: 'eiffel' | 'spire' | 'masonry' | 'hybrid-pedestal' | 'perforated-playground' | 'roof-section' | 'visible-truss-section' | 'brick-eiffel' | 'outline-eiffel' | 'spring-eiffel' | 'flagpole-eiffel' | 'solid-panel-eiffel' | 'mesh-panel-eiffel' | 'drop-tower-eiffel' | 'coffee-kiosk' | 'garden-lamp' | 'topiary-eiffel';
   linearLegs?: boolean; ornateArches?: boolean; latticeSparse?: boolean;
   enclosedFirst?: boolean;
   secondArch?: boolean;
@@ -103,6 +103,7 @@ interface TowerProfile {
   photoRoundSign?: { y: number; radius: number; paint: Paint };
   photoCube?: { y: number; size: number; paint: Paint };
   photoFilledPanels?: boolean;
+  photoPanelBays?: number;
   photoBiplane?: boolean;
   photoPerforatedShell?: boolean;
   gardenFrameOnly?: boolean;
@@ -1363,13 +1364,13 @@ function buildPhotoFilledPanels(b: ModelBuilder, p: TowerProfile, ss: Station[],
       b.surface([a,z,d,c],[0,1,2,0,2,3],'clock');
       const t = row % 3 === 0 ? .31 : row % 3 === 1 ? .67 : .48;
       const mid = a.clone().lerp(z,t).lerp(c.clone().lerp(d,1-t),.47);
-      for (const point of [a,z,c,d]) b.beam(point,mid,p.latticeWidth*.66,'structure');
+      for (const point of [a,z,c,d]) b.beam(point,mid,p.latticeWidth*.66,p.latticePaint ?? 'structure');
     }
   };
   for (const sx of [-1,1]) for (const sz of [-1,1]) for(let i=0;i<levels.length-1;i++) {
     panel(sectionCorners(ss,levels[i],sx,sz),sectionCorners(ss,levels[i+1],sx,sz),i);
   }
-  const upper=subdivided(p.second.y,p.upperEnd,detail==='detail'?34:20);
+  const upper=subdivided(p.second.y,p.upperEnd,p.photoPanelBays ?? (detail==='detail'?34:20));
   for(let i=0;i<upper.length-1;i++)panel(outerCorners(ss,upper[i]),outerCorners(ss,upper[i+1]),i);
 }
 
@@ -3529,6 +3530,30 @@ function buildRemainingDetails(b:ModelBuilder,p:TowerProfile,ss:Station[],detail
 /** Cita is an opaque blue decorative shell with painted-looking dark lines, not an open iron tower.
  * The cropped ground is removed by visibleAboveY; symmetric hidden faces remain a stated approximation.
  */
+function buildMeshPanelEiffel(b: ModelBuilder, p: TowerProfile, detail: Detail): void {
+  const radius = (y:number) => lerp(p.baseWidth/2,p.secondCentre,y/p.second.y);
+  const panel=new THREE.Shape();
+  panel.moveTo(-radius(0),0);panel.lineTo(-radius(p.second.y),p.second.y);
+  panel.lineTo(radius(p.second.y),p.second.y);panel.lineTo(radius(0),0);
+  panel.lineTo(p.archSpan,0);
+  for(let i=0;i<=32;i++){const a=Math.PI*i/32;panel.lineTo(p.archSpan*Math.cos(a),p.archCrown*Math.sin(a));}
+  panel.lineTo(-p.archSpan,0);panel.closePath();
+  const upperRadius=(y:number)=>lerp(p.secondCentre,p.upperCentre,(y-p.second.y)/(p.upperEnd-p.second.y));
+  const rows=detail==='detail'?42:24,columns=detail==='detail'?8:5;
+  for(let side=0;side<4;side++){
+    b.facade(panel,side,radius,'structure');
+    for(let col=0;col<=columns;col++){
+      const t=col/columns*2-1;
+      b.beam(facePoint(t*upperRadius(p.second.y),p.second.y,side,upperRadius(p.second.y)),facePoint(t*upperRadius(p.upperEnd),p.upperEnd,side,upperRadius(p.upperEnd)),.00065,'shadow');
+    }
+    for(let row=0;row<=rows;row++){
+      const y=lerp(p.second.y,p.upperEnd,row/rows),r=upperRadius(y);
+      b.beam(facePoint(-r,y,side,r),facePoint(r,y,side,r),.00065,'shadow');
+    }
+  }
+  buildPlatform(b,p,p.first,detail);buildPlatform(b,p,p.second,detail);buildTop(b,p,detail);
+}
+
 function buildSolidPanelEiffel(b: ModelBuilder, detail: Detail): void {
   const levels = [{ y: 0, r: .224 }, { y: .285, r: .133 }, { y: .49, r: .077 },
     { y: .72, r: .038 }, { y: .9, r: .022 }];
@@ -4309,6 +4334,10 @@ export function createTowerModel(modelKey: SupportedModelKey, detail: Detail = '
   if (profile.topology === 'solid-panel-eiffel') {
     buildSolidPanelEiffel(builder, detail);
     return builder.finish(profile, detail, renderStyle);
+  }
+  if (profile.topology === 'mesh-panel-eiffel') {
+    buildMeshPanelEiffel(builder,profile,detail);
+    return builder.finish(profile,detail,renderStyle);
   }
   if (profile.topology === 'flagpole-eiffel') {
     buildFlagpoleEiffel(builder, detail);

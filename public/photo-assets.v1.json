@@ -305,6 +305,30 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_7f02e16e4c49ef99",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_7f02e16e4c49ef99-100d692d44de.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_7f02e16e4c49ef99-100d692d44de-thumb.webp",
+      "author": "Susanne Bauer",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.grossharras.gv.at/system/web/GetDocument.ashx?cts=1740943141&fileId=2985693&gnr_search=1121&menuonr=218470753",
+      "attribution": "Susanne Bauer · Original publisher rights · reference only · https://www.grossharras.gv.at/system/web/GetDocument.ashx?cts=1740943141&fileId=2985693&gnr_search=1121&menuonr=218470753",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "Golden four-legged lattice, two thin decks, dense cross bracing and an open domed crown."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.grossharras.gv.at/system/web/GetDocument.ashx?cts=1740943141&fileId=2985693&gnr_search=1121&menuonr=218470753",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_5c1008a80a6c0af3",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_5c1008a80a6c0af3-fba2d2b3ccf7.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_5c1008a80a6c0af3-fba2d2b3ccf7-thumb.webp",
@@ -1566,6 +1590,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_cf342e752288049b",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_cf342e752288049b-c30587c118dd.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_cf342e752288049b-c30587c118dd-thumb.webp",
+      "author": "CCTV",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.twz.com/34009/when-you-get-killed-in-a-chinese-wargame-smoke-pops-out-the-top-of-your-helmet",
+      "attribution": "CCTV · Original publisher rights · reference only · https://www.twz.com/34009/when-you-get-killed-in-a-chinese-wargame-smoke-pops-out-the-top-of-your-helmet",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "A public video still shows grey lattice, wide decks and a tapering shaft; hidden lower and rear details are inferred."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.twz.com/34009/when-you-get-killed-in-a-chinese-wargame-smoke-pops-out-the-top-of-your-helmet",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_843ec1e802f7966d",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_843ec1e802f7966d-ef6008a34382.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_843ec1e802f7966d-ef6008a34382-thumb.webp",
@@ -2130,6 +2178,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.google.de/maps/@52.3450003,7.9685895,62a,75y,10.87h,92.5t/data=!3m7!1e1!3m5!1sfUHdTu8bzB6fK_CwzTTITg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.5%26panoid%3DfUHdTu8bzB6fK_CwzTTITg%26yaw%3D10.87!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
       "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_70979e551729ea59",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_70979e551729ea59-9cad1031503a.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_70979e551729ea59-9cad1031503a-thumb.webp",
+      "author": "BR / Historisches Archiv",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.br.de/unternehmen/inhalt/organisation/zwanzigstes-fundstueck-100.html",
+      "attribution": "BR / Historisches Archiv · Original publisher rights · reference only · https://www.br.de/unternehmen/inhalt/organisation/zwanzigstes-fundstueck-100.html",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "The historical wooden transmitter has a broad base, a long narrow shaft and horizontal bracing; shown as related architecture."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.br.de/unternehmen/inhalt/organisation/zwanzigstes-fundstueck-100.html",
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_55fa52e150aadc7d",
@@ -3432,6 +3504,30 @@
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
       "originPageUrl": null,
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_8055c5a1b521d615",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_8055c5a1b521d615-2e61aae409a5.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_8055c5a1b521d615-2e61aae409a5-thumb.webp",
+      "author": "Office de tourisme de Menton",
+      "capturedAt": "2012-02-17",
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.weloveprovence.fr/Alpes-Maritimes/Menton/photo-6915959475-Fete-du-Citron-a-Menton-la-Tour-Eiffel-en-citrons-%21.html",
+      "attribution": "Office de tourisme de Menton · Original publisher rights · reference only · https://www.weloveprovence.fr/Alpes-Maritimes/Menton/photo-6915959475-Fete-du-Citron-a-Menton-la-Tour-Eiffel-en-citrons-%21.html",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "The 2012 citrus-festival photograph shows orange-yellow infill, dark diagonal bracing, projecting frame platforms and four arches."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.weloveprovence.fr/Alpes-Maritimes/Menton/photo-6915959475-Fete-du-Citron-a-Menton-la-Tour-Eiffel-en-citrons-%21.html",
       "assetRole": "tower_reference"
     },
     {
@@ -5806,6 +5902,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_974360ec98519a02",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_974360ec98519a02-70363bd2139b.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_974360ec98519a02-70363bd2139b-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.postcardsandplaces.com/stories/visiting-aiins-world",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://www.postcardsandplaces.com/stories/visiting-aiins-world",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "Dark-grey Eiffel-style model with curved legs, dense lattice, two decks and a compact crown."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.postcardsandplaces.com/stories/visiting-aiins-world",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_2c1ac99a225743a1",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_2c1ac99a225743a1-364fddf8b57d.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_2c1ac99a225743a1-364fddf8b57d-thumb.webp",
@@ -6354,6 +6474,30 @@
       "assetRole": "unknown"
     },
     {
+      "id": "img_0782e51c6d6a38de",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_0782e51c6d6a38de-578bf4632196.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0782e51c6d6a38de-578bf4632196-thumb.webp",
+      "author": "ryyhan / Wonderful Motherhood",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://ryyhan.blogspot.com/2014/10/betul-ke-ada-eiffel-tower-di-ayer-hitam.html",
+      "attribution": "ryyhan / Wonderful Motherhood · Original publisher rights · reference only · https://ryyhan.blogspot.com/2014/10/betul-ke-ada-eiffel-tower-di-ayer-hitam.html",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "Grey open lattice, broad legs and two projecting decks; the cropped summit is explicitly reconstructed."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://ryyhan.blogspot.com/2014/10/betul-ke-ada-eiffel-tower-di-ayer-hitam.html",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_77c26a9b4e829bca",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_77c26a9b4e829bca-3b4e2d59f46c.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_77c26a9b4e829bca-3b4e2d59f46c-thumb.webp",
@@ -6579,6 +6723,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.omroepzeeland.nl/nieuws/101011/vier-meter-hoge-eiffeltoren-onthuld-in-petit-paris",
       "assetRole": "construction_reference"
+    },
+    {
+      "id": "img_4bd77ce91ea61baa",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_4bd77ce91ea61baa-bee7b7d2069e.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_4bd77ce91ea61baa-bee7b7d2069e-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.achterhoeksplanetarium.nl/wie-zijn-wij.html",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://www.achterhoeksplanetarium.nl/wie-zijn-wij.html",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "A pale miniature tower stands at the left of the site photograph, with arched legs and a tapering shaft; plants hide some feet."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.achterhoeksplanetarium.nl/wie-zijn-wij.html",
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_ee852d93769c2166",
@@ -9305,6 +9473,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_e0924ab284c8ad2f",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_e0924ab284c8ad2f-4171a4a9964a.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_e0924ab284c8ad2f-4171a4a9964a-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://www.marshruty.ru/travel/po_donbassu_posle_voyni/?mode=print",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://www.marshruty.ru/travel/po_donbassu_posle_voyni/?mode=print",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "Brown slender lattice tower with curved legs, two thin platforms, a long tapering shaft and a small open crown."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://www.marshruty.ru/travel/po_donbassu_posle_voyni/?mode=print",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_a104561a125a6b5a",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_a104561a125a6b5a-53e1679630d1.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a104561a125a6b5a-53e1679630d1-thumb.webp",
@@ -11693,6 +11885,30 @@
       "assetRole": "tower_reference"
     },
     {
+      "id": "img_0c350ab344491c8b",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_0c350ab344491c8b-5be7f06ca698.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0c350ab344491c8b-5be7f06ca698-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://acoupleofputts.com/2021/07/22/walsh-lacrosse/",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://acoupleofputts.com/2021/07/22/walsh-lacrosse/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "A blue-grey tower-shaped mini-golf obstacle with arched feet and open lattice, topped by a wind wheel."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://acoupleofputts.com/2021/07/22/walsh-lacrosse/",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_1c2f59cb9c78fd24",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_1c2f59cb9c78fd24-24de1f4487a4.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_1c2f59cb9c78fd24-24de1f4487a4-thumb.webp",
@@ -11833,6 +12049,30 @@
       "reuseStatus": "ready",
       "demoDisplayStatus": null,
       "originPageUrl": "https://commons.wikimedia.org/wiki/File:Bastille_Days_July_2024_01.jpg",
+      "assetRole": "tower_reference"
+    },
+    {
+      "id": "img_ef48ebb9331f7428",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_ef48ebb9331f7428-2f9294c0792e.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_ef48ebb9331f7428-2f9294c0792e-thumb.webp",
+      "author": "John Margolies / Library of Congress",
+      "capturedAt": "1986",
+      "license": {
+        "text": "No known restrictions on publication",
+        "url": "https://www.loc.gov/rr/print/res/723_marg.html"
+      },
+      "pageUrl": "https://loc.getarchive.net/media/harper-metro-mini-golf-eiffel-tower-mount-clemens-michigan-6211ad",
+      "attribution": "John Margolies / Library of Congress · No known restrictions on publication · https://loc.getarchive.net/media/harper-metro-mini-golf-eiffel-tower-mount-clemens-michigan-6211ad",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Source rights statement retained.",
+        "The 1986 photograph shows blue panel arches, a slender mesh-sided shaft and a silver vent cap, a simplified recreational model."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "ready",
+      "demoDisplayStatus": null,
+      "originPageUrl": null,
       "assetRole": "tower_reference"
     },
     {
@@ -12119,6 +12359,30 @@
       "assetRole": "third_party_map_screenshot"
     },
     {
+      "id": "img_0300e568ca4b47aa",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_0300e568ca4b47aa-f371ee11662e.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_0300e568ca4b47aa-f371ee11662e-thumb.webp",
+      "author": "Author not identified in the retained source",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html",
+      "attribution": "Author not identified in the retained source · Original publisher rights · reference only · https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "The historical news photograph shows silver-white four-legged lattice, thin frame platforms, a long shaft and an open polygonal crown."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://web.archive.org/web/20210416170901/https://roanoke.com/news/local/petite-eiffel-tower-rises-in-northeast-roanoke-over-citys-objection/article_59a5170a-ab51-5684-9e22-3940d57638b6.html",
+      "assetRole": "tower_reference"
+    },
+    {
       "id": "img_195f99820449479f",
       "url": "https://worldecho.beaverstudio.net/assets/photos/img_195f99820449479f-a26a0e532477.webp",
       "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_195f99820449479f-a26a0e532477-thumb.webp",
@@ -12214,6 +12478,30 @@
       "demoDisplayStatus": "demo_only_user_authorized",
       "originPageUrl": "https://www.google.de/maps/@38.9169925,-77.0419562,37a,75y,29.52h,94.76t/data=!3m7!1e1!3m5!1s8MLZvOF6OasLNfKYcGvg0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.760000000000005%26panoid%3D8MLZvOF6OasLNfKYcGvg0w%26yaw%3D29.52!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
       "assetRole": "third_party_map_screenshot"
+    },
+    {
+      "id": "img_a7d966b876e5aa1b",
+      "url": "https://worldecho.beaverstudio.net/assets/photos/img_a7d966b876e5aa1b-bb91af615536.webp",
+      "thumbnail": "https://worldecho.beaverstudio.net/assets/photos/img_a7d966b876e5aa1b-bb91af615536-thumb.webp",
+      "author": "Philippe Rispoli",
+      "capturedAt": null,
+      "license": {
+        "text": "Original publisher rights · reference only",
+        "url": null
+      },
+      "pageUrl": "https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/",
+      "attribution": "Philippe Rispoli · Original publisher rights · reference only · https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/",
+      "modification": "网站展示副本经等比例缩放与WebP格式压缩；缩略图另有裁切。",
+      "notes": [
+        "Dated image reference, not proof of present existence or measured dimensions.",
+        "Original publisher rights retained; reference display only.",
+        "The owner-supplied photograph shows red legs and first deck, a white middle section, a dark-blue shaft and a two-tier open crown."
+      ],
+      "gameEligible": false,
+      "reuseStatus": "research_only",
+      "demoDisplayStatus": "demo_only_user_authorized",
+      "originPageUrl": "https://provincetownindependent.org/news/2023/12/20/a-boulangerie-will-have-its-eiffel-tower/",
+      "assetRole": "tower_reference"
     },
     {
       "id": "img_2466fd60e8601458",

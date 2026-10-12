@@ -13,7 +13,9 @@ export default function TowerFilterFields({ filters, onChange }: { filters: Towe
     setDraft(null);
   }
   return <div className="tower-filter-fields">
-    <label className="tower-filter-check"><input type="checkbox" checked={filters.includeReferences} onChange={event => onChange({ ...filters, includeReferences: event.target.checked })}/><span>{t('包含参考模型与其他类型')}</span></label>
+    <label className="tower-filter-check"><input type="checkbox" checked={filters.includeReferences} onChange={event => onChange({ ...filters, includeReferences: event.target.checked })}/><span>{t('包含外观参考模型')}</span></label>
+    <label className="tower-filter-check"><input type="checkbox" checked={filters.includeRelated} onChange={event=>onChange({...filters,includeRelated:event.target.checked})}/><span>{t('显示衍生或相似建筑')}</span></label>
+    <label className="tower-filter-check"><input type="checkbox" checked={filters.includeProvisional} onChange={event=>onChange({...filters,includeProvisional:event.target.checked})}/><span>{t('显示待核示意模型')}</span></label>
     <label className="tower-filter-check"><input type="checkbox" checked={filters.includeUnmodeled} onChange={event=>onChange({...filters,includeUnmodeled:event.target.checked})}/><span>{t('显示暂无模型的资料点')}</span></label>
     <label className="tower-filter-check"><input type="checkbox" checked={filters.hideApproximate} onChange={event=>onChange({...filters,hideApproximate:event.target.checked})}/><span>{t('仅看已核实位置')}</span></label>
     <label className="tower-filter-check"><input type="checkbox" checked={filters.hidePast} onChange={event => onChange({ ...filters, hidePast: event.target.checked })}/><span>{t('隐藏临时、已拆除及历史模型')}</span></label>

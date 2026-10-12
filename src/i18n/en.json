@@ -735,5 +735,13 @@
   "已有模型草稿，身份或展示资格仍待核，暂未公开。": "A model draft exists, but identity or display eligibility still needs review; it is not public.",
   "迁移": "Relocated",
   "概述": "Overview",
-  "{0}三维模型": "3D model of {0}"
+  "{0}三维模型": "3D model of {0}",
+  "包含外观参考模型": "Include appearance reference models",
+  "显示衍生或相似建筑": "Show derivatives and similar buildings",
+  "显示待核示意模型": "Show unverified illustrative models",
+  "待核示意模型": "Unverified illustration",
+  "待核示意模型 · 外观或身份尚未确认": "Illustrative model · Appearance or identity not verified",
+  "依据已有线索绘制，不代表已核实外观。": "Illustrated from available leads; the appearance is not verified.",
+  "这份示意用于浏览与继续补证。比例、颜色和构件可能与实物不同，不作为事实尺寸或现场照片。": "This illustration supports exploration and further research. Proportions, colours and components may differ from the object; it is not a measured model or a site photograph.",
+  "示意模型检查：{0}": "Illustration checked: {0}"
 }

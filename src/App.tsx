@@ -13,6 +13,7 @@ import { ArrowUpRight, Check, ExternalLink, Globe2,
   Layers3, PanelLeftClose, PanelLeftOpen, MapPin, Maximize2, Minimize2, Plus, Search, X, Info, Flag } from 'lucide-react';
 import GlobeLoading from './features/GlobeLoading';
 import { displayHeightEvidence } from './domain/display-height.mjs';
+import {modelPriority} from './domain/model-priority.mjs';
 import { useTowerPlay } from './features/useTowerPlay';
 import TowerPlayStatus from './features/TowerPlayStatus';
 import { TOWER_TRIGGERS, towerPlayCopy } from './domain/tower-play';
@@ -119,7 +120,6 @@ export default function App() {
   const [photoIndex, setPhotoIndex] = useState(0);
   const [modelView,setModelView]=useState<ModelView>(()=>{const value=new URLSearchParams(location.search).get("angle");return value==="front"||value==="side"?value:"axonometric";});
   const [detailsExpanded, setDetailsExpanded] = useState(false);
-  const [researchSummaryTarget, setResearchSummaryTarget] = useState<HTMLDivElement | null>(null);
   const detailPanel = useRef<HTMLElement>(null);
   const [photoOpen, setPhotoOpen] = useState(false);
   const [detailsOpen, setDetailsOpen] = useState(true);
@@ -152,13 +152,13 @@ export default function App() {
   const [toast, setToast] = useState('');
   const reducedMotion = useReducedMotion();
   const overlayOpen = modelGalleryOpen || !!previewModel || communityOpen || photoOpen || clusterIds.length > 0 || journeysOpen || !!game;
-  const towers = useMemo(()=>data?.towers.filter(tower=>mapTowerMatchesFilters(tower,towerFilters))??[],[data,towerFilters]);
-  const modelCases = useMemo(()=>data?.modelCases?.filter(entry=>towerMatchesFilters(entry,towerFilters))??[],[data,towerFilters]);
+  const towers = useMemo(()=>data?.towers.filter(tower=>mapTowerMatchesFilters(tower,towerFilters)).sort((a,b)=>modelPriority(a)-modelPriority(b))??[],[data,towerFilters]);
+  const modelCases = useMemo(()=>data?.modelCases?.filter(entry=>towerMatchesFilters(entry,towerFilters)).sort((a,b)=>modelPriority(a)-modelPriority(b))??[],[data,towerFilters]);
   const routes = useMemo(()=>filterJourneyRoutes(data?.routes??[],new Set(towers.map(tower=>tower.id))),[data,towers]);
   const selected = towers.find((tower) => tower.id === selectedId) ?? towers[0];
   const playTrigger = selected ? TOWER_TRIGGERS[selected.id] : undefined;
   const comparing = comparisonIds.map((id) => towers.find((tower) => tower.id === id)).filter((tower): tower is Tower => !!tower && !!tower.modelKey);
-  const metricComparisonAvailable = comparing.length >= 2 && comparing.every(tower => tower.comparisonEligible !== false && tower.modelScope !== 'visible-section' && tower.modelContext !== 'inferred-completion' && Number.isFinite(tower.heightM) && (tower.heightM ?? 0) > 0);
+  const metricComparisonAvailable = comparing.length >= 2 && comparing.every(tower => tower.comparisonEligible !== false && tower.modelCollection!=='provisional' && tower.modelScope !== 'visible-section' && tower.modelContext !== 'inferred-completion' && Number.isFinite(tower.heightM) && (tower.heightM ?? 0) > 0);
   const strict = strictComparison(comparing);
   const portraitPreview = (selected && comparisonIds.includes(selected.id) ? comparing : selected ? [selected] : []).flatMap(tower=>{
     const entry=data?.modelCases?.find(model=>model.id===tower.id);
@@ -351,7 +351,7 @@ export default function App() {
     url.searchParams.delete('connections'); history.replaceState({},'',url);
   }
   function changeLabels(value:boolean) {setShowLabels(value);const url=new URL(location.href);if(value)url.searchParams.delete('labels');else url.searchParams.set('labels','0');history.replaceState({},'',url);}
-  function randomStop() { const candidates=towers.filter((tower)=>tower.id!==selectedId && (tower.photos.length || tower.modelKey)); if(candidates.length) explore(candidates[Math.floor(Math.random()*candidates.length)].id); }
+  function randomStop() { const candidates=towers.filter((tower)=>tower.id!==selectedId && (tower.photos.length || tower.modelKey));const primary=candidates.filter(tower=>modelPriority(tower)<=1);const pool=primary.length?primary:candidates;if(pool.length)explore(pool[Math.floor(Math.random()*pool.length)].id); }
   function startGame() {
     if (!data?.quizSetId) return;
     const seed = [...crypto.getRandomValues(new Uint32Array(2))].map((n)=>n.toString(36)).join('-');
@@ -400,7 +400,7 @@ export default function App() {
     <div className="app-content" inert={overlayOpen}>
     <SiteHeader active={viewMode} onExplore={() => changeView('globe')} onCompare={() => changeView('comparison')} onChallenge={startGame} challengeDisabled={!data} comparisonCount={comparing.length}>
       <div className="search-wrap" onClick={(event) => { if (!(event.target as Element).closest('button, .search-results')) searchInput.current?.focus(); }}><Search size={17} /><input ref={searchInput} aria-label={t("搜索城市或铁塔")} placeholder={t("搜索城市或铁塔")} value={query} onChange={(event) => { setQuery(event.target.value); setSearchOpen(true); }} onFocus={() => setSearchOpen(true)} />{query && <button aria-label={t("清空搜索")} onClick={() => setQuery('')}><X size={15} /></button>}
-        {searchOpen && data && <div className="search-results"><div className="search-heading">{query ? t("{0} 个地点", searchResults.length) : t("地球上的地点")}</div>{searchResults.length ? searchResults.map((tower) => <button key={tower.id} onClick={() => explore(tower.id)}><MapPin size={15} /><span><strong>{tower.label}</strong><small>{tower.countryName} · {tower.modelKey ? t("可近看模型") : t("查看地点与资料")}</small></span><ArrowUpRight size={15} /></button>) : <p>{t("没有匹配当前搜索与筛选的地点。")}<a href="/catalog.html">{t("查看完整目录")}</a></p>}</div>}
+        {searchOpen && data && <div className="search-results"><div className="search-heading">{query ? t("{0} 个地点", searchResults.length) : t("地球上的地点")}</div>{searchResults.length ? searchResults.map((tower) => <button key={tower.id} onClick={() => explore(tower.id)}><MapPin size={15} /><span><strong>{tower.label}</strong><small>{tower.countryName} · {tower.modelCollection==='provisional'?t('待核示意模型'):tower.modelCollection==='related'?t('相关建筑参考'):tower.modelKey ? t("可近看模型") : t("查看地点与资料")}</small></span><ArrowUpRight size={15} /></button>) : <p>{t("没有匹配当前搜索与筛选的地点。")}<a href="/catalog.html">{t("查看完整目录")}</a></p>}</div>}
       </div>
     </SiteHeader>
 
@@ -418,28 +418,29 @@ export default function App() {
       </section>
 
       {selected && detailsOpen && <aside ref={detailPanel} id="tower-detail-panel" className={`detail-panel${detailsExpanded ? ' is-expanded' : ''}`} aria-label={t("所选铁塔资料")}>
-        <div className="detail-overview"><PhotoCarousel showCredit={detailsExpanded} modelView={modelView} onModelView={changeModelView} tower={selected} index={photoIndex} onChange={setPhotoIndex} onOpen={() => setPhotoOpen(true)} reducedMotion={reducedMotion} suspended={detailsExpanded || photoOpen || !!game || clusterIds.length > 0 || journeysOpen} portraits={portraitPreview}/>
+        <div className="detail-overview">{!detailsExpanded&&<PhotoCarousel showCredit={false} modelView={modelView} onModelView={changeModelView} tower={selected} index={photoIndex} onChange={setPhotoIndex} onOpen={() => setPhotoOpen(true)} reducedMotion={reducedMotion} suspended={photoOpen || !!game || clusterIds.length > 0 || journeysOpen} portraits={portraitPreview}/>}
         <div className="detail-content">
           {!detailsExpanded&&selected.approximateLocation&&<button className="approximate-location-badge" onClick={()=>askCommunity({type:"feedback",towerId:selected.id,name:selected.name,initialField:"location"})}><MapPin size={12}/>{t("大致位置")} · {selected.mapPlacement?.precisionLabel[lang==="zh-CN"?"zh":lang]}<span>{t("纠正位置")}</span></button>}
           <h1><button type="button" className="tower-title-focus" title={t('近看建筑')} onClick={()=>{if(detailsExpanded)changeDetailsExpansion(false);explore(selected.id);}}>{selected.label}</button></h1>{new Set(towers.map((tower)=>tower.familyId)).size > 1 && <p className="family-label">{data?.families.find((family)=>family.id===selected.familyId)?.nameZh}</p>}<div className="detail-location-row"><p className="location-line"><MapPin size={14} /><span>{selected.label} · {selected.countryName}</span></p><div className="detail-header-actions"><ShareTower key={selected.id} title={selected.name}/><button className="subtle-icon detail-expand" title={t(detailsExpanded ? '收起详细资料' : '展开详细资料')} aria-label={t(detailsExpanded ? '收起详细资料' : '展开详细资料')} aria-expanded={detailsExpanded} aria-controls="tower-research-details" onClick={()=>changeDetailsExpansion(!detailsExpanded)}>{detailsExpanded ? <PanelLeftOpen size={16}/> : <PanelLeftClose size={16}/>}</button></div></div>
           {!detailsExpanded && selected.status?.value === 'unknown' && <p className="status-disclosure">{t('现状待核，照片与模型保留历史来源。')}</p>}
           <div className="tower-contribution"><div><button onClick={()=>askCommunity({type:'feedback',towerId:selected.id,name:selected.name,initialField:selected.heightM===null?'height':selected.status?.value==='unknown'?'status':'other'})}><Flag size={13}/>{t('信息对吗？帮忙核对')}</button><button onClick={()=>askCommunity({type:'submission'})}><Plus size={13}/>{t('补充家乡的塔')}</button></div></div>
-          {detailsExpanded ? <div ref={setResearchSummaryTarget} className="research-record-summary-slot"/> : <>
+          {!detailsExpanded && <>
           <div className="facts-row"><div><strong>{heightLabel(selected)}</strong><span>{heightScope(selected)}</span></div><div><strong>{builtLabel(selected)}</strong><span>{builtLabel(selected) === '—' ? t("年代待补") : yearScope(selected)}</span></div></div>
-          {selected.modelContext==='inferred-completion' && <p className="model-scale-disclosure">{t('含推测补全')}</p>}{selected.modelScope==="visible-section" && <p className="model-scale-disclosure">{t("只呈现实景可见的塔段，未补造被遮挡的塔体。")}</p>}{selected.modelKey && selected.heightM === null && <p className="model-scale-disclosure">{displayHeightEvidence(selected.id)?.displayM?t('展示大小参考高度线索或图片估算；实际高度待核，不进入严格高度比较。'):t("这个模型采用独立展示尺寸；实际高度待核，不进入高度比较。")}</p>}
+          {selected.modelCollection==='provisional'&&<p className="model-scale-disclosure">{t('待核示意模型 · 外观或身份尚未确认')}</p>}{selected.modelCollection!=='provisional'&&selected.modelContext==='inferred-completion' && <p className="model-scale-disclosure">{t('含推测补全')}</p>}{selected.modelScope==="visible-section" && <p className="model-scale-disclosure">{t("只呈现实景可见的塔段，未补造被遮挡的塔体。")}</p>}{selected.modelKey && selected.heightM === null && <p className="model-scale-disclosure">{displayHeightEvidence(selected.id)?.displayM?t('展示大小参考高度线索或图片估算；实际高度待核，不进入严格高度比较。'):t("这个模型采用独立展示尺寸；实际高度待核，不进入高度比较。")}</p>}
           <p className="tower-story">{selected.editorial?.summary ?? t("这座地标位于{0}。它的地方故事与更多实景正在补充，先从地图和已有照片认识这里。", selected.label)}</p>
           {!!selected.editorial?.currentUses.length && <div className="use-tags" aria-label={t("主要用途")}>{selected.editorial.currentUses.map((use)=><span key={use}>{use}</span>)}</div>}
           {selected.editorial?.visitorNotice && (!selected.editorial.visitorNotice.endDate || new Date(selected.editorial.visitorNotice.endDate+'T23:59:59').getTime() >= Date.now()) && <a className="visitor-notice" href={selected.editorial.visitorNotice.sourceUrl} target="_blank" rel="noreferrer"><Info size={13} />{selected.editorial.visitorNotice.text}</a>}
           {selected.statedScale?.replicaToOriginal && <div className="scale-note"><Layers3 size={13} /><span>{t("约")}{selected.statedScale.replicaToOriginal}{t("复刻比例")}</span></div>}
           </>}
-          <RecordActions className="detail-actions"><button className="secondary-button compare-membership" title={comparisonIds.includes(selected.id) ? t('从比较中移除') : t('加入比较')} aria-label={comparisonIds.includes(selected.id) ? t('从比较中移除') : t('加入比较')} aria-pressed={comparisonIds.includes(selected.id)} disabled={!selected.modelKey} onClick={() => toggleCompare(selected)}>{comparisonIds.includes(selected.id) ? <Check size={17}/> : <Plus size={17}/>} {t('比较')}</button>
+          {!detailsExpanded&&<RecordActions className="detail-actions"><button className="secondary-button compare-membership" title={comparisonIds.includes(selected.id) ? t('从比较中移除') : t('加入比较')} aria-label={comparisonIds.includes(selected.id) ? t('从比较中移除') : t('加入比较')} aria-pressed={comparisonIds.includes(selected.id)} disabled={!selected.modelKey} onClick={() => toggleCompare(selected)}>{comparisonIds.includes(selected.id) ? <Check size={17}/> : <Plus size={17}/>} {t('比较')}</button>
             <a className="secondary-button" href={mapUrl ?? undefined} target="_blank" rel="noreferrer" title={t('在{0}地图中查看', selected.maps.preferred === 'amap' ? t('高德') : 'Google')} aria-label={t('在{0}地图中查看', selected.maps.preferred === 'amap' ? t('高德') : 'Google')}><MapPin size={17}/>{selected.maps.preferred==='amap'?t('高德地图'):t('Google地图')}</a>
-          </RecordActions>
-          {playTrigger && <button className="tower-play-discover" onClick={()=>changeDetailsExpansion(true)}><span><strong>{playCopy[playTrigger.effect].hint}</strong><small>{playCopy.learn}</small></span><span aria-hidden="true">↗</span></button>}
+          </RecordActions>}
+          {playTrigger && !detailsExpanded && <button className="tower-play-discover" onClick={()=>changeDetailsExpansion(true)}><span><strong>{playCopy[playTrigger.effect].hint}</strong><small>{playCopy.learn}</small></span><span aria-hidden="true">↗</span></button>}
         </div></div>
         {detailsExpanded && data && <section id="tower-research-details" className="tower-research-details" aria-label={t('详细资料')}><Suspense fallback={<p role="status">{t('正在整理地标资料…')}</p>}>
+          <TowerResearchDetails towerId={selected.id} comparisonAction={<button className="secondary-button compare-membership" aria-label={comparisonIds.includes(selected.id)?t('从比较中移除'):t('加入比较')} aria-pressed={comparisonIds.includes(selected.id)} disabled={!selected.modelKey} onClick={()=>toggleCompare(selected)}>{comparisonIds.includes(selected.id)?<Check size={17}/>:<Plus size={17}/>} {t('比较')}</button>}/>
           {playTrigger && <TowerPlayIntro tower={toSceneTower(selected)} state={towerPlay.state} onActivate={effect=>{changeDetailsExpansion(false);if(viewMode==='globe'&&focusProgress.phase==='arrived'&&focusProgress.id===selected.id)towerPlay.activate(effect);else{pendingIntroPlay.current=effect;explore(selected.id);}}} onVisit={()=>{changeDetailsExpansion(false);explore(selected.id);}}/>}
-          <TowerResearchDetails towerId={selected.id} summaryTarget={researchSummaryTarget}/></Suspense></section>}
+          </Suspense></section>}
       </aside>}
     </main>
     <footer className="app-footer"><span>{t('地图 {0} 处',towers.length)}<i/><button className="model-catalog-button" title={t("包含位置待核的独立模型")} onClick={openModels}>{t('模型 {0} 座',modelCases.length)}<ArrowUpRight size={10}/></button><i/><span className="passport-count">{t('已发现 {0} 座',towers.filter(tower=>discovered.includes(tower.id)).length)}</span></span><span><a href="/agents.html">Agents</a><i/><a href="/catalog.html">{t('研究目录')}<ArrowUpRight size={12}/></a></span></footer>
