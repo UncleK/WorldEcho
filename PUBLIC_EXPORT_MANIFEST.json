@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T05:38:18.483Z",
+  "generatedAt": "2026-10-12T05:52:31.814Z",
   "scope": "Public frontend source and static runtime snapshot; not a production-release approval",
   "photoOrigin": "https://worldecho.beaverstudio.net",
   "sourceStable": true,
   "stats": {
     "sourceFiles": 1833,
     "exportedFiles": 1847,
-    "bytes": 214742265,
+    "bytes": 214738679,
     "registeredModels": 533,
     "publicModelCases": 533,
     "researchRecords": 554,
@@ -10178,8 +10178,8 @@
     },
     {
       "path": "public/catalog.v1.json",
-      "bytes": 5767463,
-      "sha256": "de972b4fd2745367ab1f12bbe7ba90662f1d4f3b74e2eab5f6c8fd4810ad7705",
+      "bytes": 5765670,
+      "sha256": "d5189006c617fab2c15f9683433c536ec277af0a9419311a8104b5b17b5d383e",
       "origin": "public/catalog.v1.json"
     },
     {
@@ -10214,8 +10214,8 @@
     },
     {
       "path": "public/research.v1.json",
-      "bytes": 3097846,
-      "sha256": "853ae9c06c8615fc022ec1e7b9f9cc2372eea11b1cb2a1278ff3aefa2807ff0b",
+      "bytes": 3096053,
+      "sha256": "c263ade2a71e7e01b74d999e1b17769e85b0dac3052f3db6bb66be3324241665",
       "origin": "public/research.v1.json"
     },
     {
