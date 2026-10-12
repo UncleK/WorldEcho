@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T05:52:31.814Z",
+  "generatedAt": "2026-10-12T05:58:03.781Z",
   "scope": "Public frontend source and static runtime snapshot; not a production-release approval",
   "photoOrigin": "https://worldecho.beaverstudio.net",
   "sourceStable": true,
   "stats": {
-    "sourceFiles": 1833,
-    "exportedFiles": 1847,
-    "bytes": 214738679,
+    "sourceFiles": 1836,
+    "exportedFiles": 1850,
+    "bytes": 214894012,
     "registeredModels": 533,
     "publicModelCases": 533,
     "researchRecords": 554,
@@ -65,6 +65,24 @@
       "bytes": 1063,
       "sha256": "da69faa255055afab4c12a6d1985b42af6b14910e80077c743b3e63d1c4b57a9",
       "origin": "data/enrichment/archive-20261011/editorial-zh.json"
+    },
+    {
+      "path": "data/enrichment/draft-expansion-20261012/editorial-en.json",
+      "bytes": 47314,
+      "sha256": "3bd5bc5b310ef6855f38233def043dc347d288fc7c7c0e49e0b23719f0ee6326",
+      "origin": "data/enrichment/draft-expansion-20261012/editorial-en.json"
+    },
+    {
+      "path": "data/enrichment/draft-expansion-20261012/editorial-fr.json",
+      "bytes": 65246,
+      "sha256": "dfc2f3b57dc805814308f721e38dd97625805d7fd6032dd02bdd96950c3e1da8",
+      "origin": "data/enrichment/draft-expansion-20261012/editorial-fr.json"
+    },
+    {
+      "path": "data/enrichment/draft-expansion-20261012/editorial-zh.json",
+      "bytes": 42388,
+      "sha256": "a98125634fb52d76fb888c8db6f23e1ad6c5c22aa384651b8fb5dfacb6b2f673",
+      "origin": "data/enrichment/draft-expansion-20261012/editorial-zh.json"
     },
     {
       "path": "data/enrichment/expansion-20261008/editorial-en.json",
@@ -10742,8 +10760,8 @@
     },
     {
       "path": "src/i18n/editorial.ts",
-      "bytes": 3843,
-      "sha256": "0d0a8178526cd423efb3d25b94991f4f5bcfa9e91f7288352748d19704826dd2",
+      "bytes": 4228,
+      "sha256": "2c34024731ed745b9b82d1cc236f930258bddf4a3d6d5de88212249e8629e734",
       "origin": "src/i18n/editorial.ts"
     },
     {

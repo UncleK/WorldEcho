@@ -1,3 +1,6 @@
+import draftEnglish from '../../data/enrichment/draft-expansion-20261012/editorial-en.json';
+import draftFrench from '../../data/enrichment/draft-expansion-20261012/editorial-fr.json';
+import draftChinese from '../../data/enrichment/draft-expansion-20261012/editorial-zh.json';
 import fullEnglish from '../../data/enrichment/full-completion-20261011/editorial-en.json';
 import fullFrench from '../../data/enrichment/full-completion-20261011/editorial-fr.json';
 import fullChinese from '../../data/enrichment/full-completion-20261011/editorial-zh.json';
@@ -32,10 +35,10 @@ import type { Language } from './messages';
 import { mergeEnglishEditorial } from '../domain/editorial.mjs';
 const english=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(base,nameFixes), round8),round9),followup),mediaContext),jonworthEnglish),completionEnglish),remainingEnglish);
 const frenchComplete=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(french,jonworthFrench),completionFrench),remainingFrench);
-const expandedEnglish=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(english,expansionEnglish),archiveEnglish),batch02English),fullEnglish);
-const expandedFrench=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(frenchComplete,expansionFrench),archiveFrench),batch02French),fullFrench);
+const expandedEnglish=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(english,expansionEnglish),archiveEnglish),batch02English),fullEnglish),draftEnglish);
+const expandedFrench=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(frenchComplete,expansionFrench),archiveFrench),batch02French),fullFrench),draftFrench);
 export default expandedEnglish;
 export function getEditorial(language:Language){return language==='fr'?expandedFrench:expandedEnglish;}
 const chineseComplete=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(chinese,chineseUpdates),jonworthChinese),completionChinese),remainingChinese);
 
-export const chineseEditorial=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(chineseComplete,expansionChinese),archiveChinese),batch02Chinese),fullChinese);
+export const chineseEditorial=mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(mergeEnglishEditorial(chineseComplete,expansionChinese),archiveChinese),batch02Chinese),fullChinese),draftChinese);

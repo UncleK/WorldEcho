@@ -1,0 +1,503 @@
+{
+  "towers": {
+    "gb-brockham-eiffel-tower-brockham": {
+      "label": "Brockham",
+      "name": "Brockham planted Eiffel tower",
+      "summary": "A photograph taken on 12 August 2024 shows a slender planted Eiffel-shaped framework on Brockham village green, with red and white flowers, a French tricolour and a low white fence around it. The photograph documents that appearance, not its construction date, height, permanence or present-day status. The model keeps the open rods; hidden feet and rear structure use symmetry, and flowers represent the photographed decoration.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed.",
+      "currentUses": [],
+      "city": "Brockham",
+      "venue": ""
+    },
+    "ae-dubai-falconcity-of-wonders": {
+      "name": "Falconcity of Wonders, Dubai",
+      "label": "Dubai",
+      "city": "Dubai",
+      "venue": "Falconcity of Wonders",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "am-yerevan-club-parisian": {
+      "name": "Club Parisian, Yerevan",
+      "label": "Yerevan",
+      "city": "Yerevan",
+      "venue": "Club Parisian",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "at-zwingendorf-back-garden-tower-built-by-twin-brothers": {
+      "name": "Back garden tower built by twin brothers, Zwingendorf",
+      "label": "Zwingendorf",
+      "city": "Zwingendorf",
+      "venue": "Back garden tower built by twin brothers",
+      "summary": "Jon Worth's map records “Back garden tower built by twin brothers” in Zwingendorf. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nGolden four-legged lattice, two thin decks, dense cross bracing and an open domed crown.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed.",
+      "currentUses": []
+    },
+    "az-baku-eiffel-tower": {
+      "name": "Eiffel Tower, Baku",
+      "label": "Baku",
+      "city": "Baku",
+      "venue": "Eiffel Tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "az-nakhchivan-yl-nc-adas": {
+      "name": "Əyləncə Adası, Nakhchivan",
+      "label": "Nakhchivan",
+      "city": "Nakhchivan",
+      "venue": "Əyləncə Adası",
+      "summary": "Jon Worth's map records “Əyləncə Adası” in Nakhchivan. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "bo-sucre-parque-simon-bolivar": {
+      "name": "Torre Eiffel, Sucre",
+      "label": "Sucre",
+      "city": "Sucre",
+      "venue": "Parque Bolívar",
+      "summary": "Orange-red park tower with open arched feet, two viewing decks and an open cage crown; people provide only a broad scale reference.\n\nShown as related or similar architecture, hidden by default and available through its filter; not classified as a confirmed Eiffel replica."
+    },
+    "br-sao-paulo-rooftop-unresolved": {
+      "name": "Torre Eiffel, São Paulo",
+      "label": "São Paulo",
+      "city": "São Paulo",
+      "venue": "possible JK Iguatemi rooftop (unverified)",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "ca-terrebonne-solarium-international": {
+      "label": "Terrebonne, Quebec",
+      "name": "Solarium International Eiffel tower candidate, Terrebonne, Quebec",
+      "summary": "Discovery sources mention a tower at a solarium company, with conflicting heights and an unresolved venue. The large tower photographed at 2275 boulevard des Entreprises is recorded separately.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": [],
+      "city": "Terrebonne, Quebec",
+      "venue": "Solarium International near Autoroute640 (historical claim)"
+    },
+    "cn-zhurihe-chinese-army-tower": {
+      "name": "Eiffel replica at Zhurihe Training Base, Zhurihe",
+      "label": "Zhurihe",
+      "city": "Zhurihe",
+      "venue": "Zhurihe Training Base",
+      "summary": "A public video still shows grey lattice, wide decks and a tapering shaft; hidden lower and rear details are inferred.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed."
+    },
+    "de-ismaning-bavaria-ismaning-radio-tower": {
+      "name": "Ismaning Radio Tower, Ismaning , Bavaria",
+      "label": "Ismaning , Bavaria",
+      "city": "Ismaning , Bavaria",
+      "venue": "Ismaning Radio Tower",
+      "summary": "A line drawing of the former wooden transmitter, not a site photograph; broad feet, a long narrow shaft and crossed braces.\n\nThe historical wooden transmitter has a broad base, a long narrow shaft and horizontal bracing; shown as related architecture.\n\nShown as related or similar architecture, hidden by default and available through its filter; not classified as a confirmed Eiffel replica."
+    },
+    "de-meckenheim-rungis-express": {
+      "label": "Meckenheim",
+      "name": "Meckenheim Rungis rooftop tower lead",
+      "summary": "The Meckenheim Rungis rooftop tower remains a discovery lead without a matched photograph or tower-body position. The referenced image concerns another location, so its appearance, dates and dimensions cannot be transferred here. The investigation record is retained; unconfirmed existence does not mean nonexistence. It remains outside the verified current map pending evidence of this specific object.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": [],
+      "city": "Meckenheim",
+      "venue": "Rungis Express"
+    },
+    "dk-slagelse-wooden-tower-at-an-exhibition": {
+      "name": "Wooden tower at an exhibition, Slagelse",
+      "label": "Slagelse",
+      "city": "Slagelse",
+      "venue": "Wooden tower at an exhibition",
+      "summary": "Jon Worth's map records “Wooden tower at an exhibition” in Slagelse. It is classified as a derivative or resemblance and is shown only through the related-building filter. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade": {
+      "name": "Tower at shopping arcade, San Bartolomé de Tirajana, Canary Islands",
+      "label": "San Bartolomé de Tirajana, Canary Islands",
+      "city": "San Bartolomé de Tirajana, Canary Islands",
+      "venue": "Tower at shopping arcade",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "fr-biarritz-tower-on-a-house-roof": {
+      "name": "Tower on a house roof, Biarritz",
+      "label": "Biarritz",
+      "city": "Biarritz",
+      "venue": "Tower on a house roof",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "label": "Thézieu castle tower",
+      "name": "Thézieu castle tower in Ruy (formerly called Eiffel Tower)",
+      "summary": "The old photograph's Eiffel Tower name points to the Thézieu castle tower in Ruy, called Tour des Morts in local tourism material. The earlier Bourgoin-Jallieu location has been corrected. A shared name does not establish a replica relationship, so this record remains unclassified and outside the first globe and public replica-model collection.\n\nShown as related or similar architecture, hidden by default and available through its filter; not classified as a confirmed Eiffel replica.",
+      "currentUses": [],
+      "city": "Ruy-Montceau",
+      "venue": "Château de Thézieu, Avenue des Cantinières"
+    },
+    "fr-breil-rue-des-cedres": {
+      "name": "Tour Eiffel, Breil, Maine-et-Loire",
+      "label": "Breil, Maine-et-Loire",
+      "city": "Breil, Maine-et-Loire",
+      "venue": "Rue des Cèdres",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "fr-la-doree-tower-at-a-metal-worker-s-house": {
+      "name": "Tower at a metal worker's house, La Dorée",
+      "label": "La Dorée",
+      "city": "La Dorée",
+      "venue": "Tower at a metal worker's house",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "fr-menton-copy": {
+      "name": "Tour Eiffel, Menton",
+      "label": "Menton",
+      "city": "Menton",
+      "venue": "",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "fr-menton-tower-with-lemons": {
+      "name": "Tower with lemons, Menton",
+      "label": "Menton",
+      "city": "Menton",
+      "venue": "Tower with lemons",
+      "summary": "The 2012 citrus-festival photograph shows orange-yellow infill, dark diagonal bracing, projecting frame platforms and four arches.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed."
+    },
+    "fr-thieblemont-faremont-copy": {
+      "name": "Tour Eiffel, Thiéblemont-Farémont",
+      "label": "Thiéblemont-Farémont",
+      "city": "Thiéblemont-Farémont",
+      "venue": "",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "gb-belfast-la-bastille-restaurant": {
+      "name": "La Bastille Restaurant, Belfast",
+      "label": "Belfast",
+      "city": "Belfast",
+      "venue": "La Bastille Restaurant",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "gb-wembley-greater-london-watkin-s-tower": {
+      "name": "Watkin's Tower, Wembley , Greater London",
+      "label": "Wembley , Greater London",
+      "city": "Wembley , Greater London",
+      "venue": "Watkin's Tower",
+      "summary": "Winning-design illustration for Watkin Tower, with multiple platforms and a very long upper shaft; not a photograph of a completed tower.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "gr-heraklion-tower-in-a-garden-in-a-narrow-street": {
+      "name": "Tower in a garden in a narrow street, Heraklion",
+      "label": "Heraklion",
+      "city": "Heraklion",
+      "venue": "Tower in a garden in a narrow street",
+      "summary": "Small pale tower ornament behind a balcony railing; only the upper section and narrow crown are visible.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "id-lake-toba-world-heritage-mini-mini": {
+      "name": "World heritage mini mini, Lake Toba",
+      "label": "Lake Toba",
+      "city": "Lake Toba",
+      "venue": "World heritage mini mini",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "id-lembang-reddit-replica": {
+      "name": "Lembang, Lembang",
+      "label": "Lembang",
+      "city": "Lembang",
+      "venue": "",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "it-vergiate-corgeno-copy": {
+      "name": "Tour Eiffel Mario da Corgeno, Corgeno / Vergiate",
+      "label": "Corgeno / Vergiate",
+      "city": "Corgeno / Vergiate",
+      "venue": "",
+      "summary": "The photograph shows a pale fretwork craft tower on courtyard paving, with ornamental decks and a small crown. Permanent public-installation status and dimensions remain unverified; the old five-metre claim is not adopted.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "jp-nagoya-nagoya-tv-tower": {
+      "name": "Chubu Electric MIRAI TOWER / Nagoya TV Tower, Nagoya",
+      "label": "Nagoya",
+      "city": "Nagoya",
+      "venue": "Nagoya TV Tower",
+      "summary": "Pale television tower with a broad rectangular lower cabin, a slender square shaft, small upper cabin and antenna mast.\n\nShown as related or similar architecture, hidden by default and available through its filter; not classified as a confirmed Eiffel replica."
+    },
+    "kh-phnom-penh-eiffel-map-candidate": {
+      "name": "Eiffel Tower, Phnom Penh, Phnom Penh",
+      "label": "Phnom Penh",
+      "city": "Phnom Penh",
+      "venue": "Named map attraction; venue ownership unknown",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "kr-bucheon-aiins-world": {
+      "name": "Eiffel Tower at Aiins World, Bucheon",
+      "label": "Bucheon",
+      "city": "Bucheon",
+      "venue": "Aiins World",
+      "summary": "Dark-grey Eiffel-style model with curved legs, dense lattice, two decks and a compact crown.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed."
+    },
+    "kz-aktau-oil-company-tower": {
+      "name": "Oil Company Tower, Aktau",
+      "label": "Aktau",
+      "city": "Aktau",
+      "venue": "Oil Company Tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "lb-broummana-chez-alain": {
+      "name": "Chez Alain, Broummana",
+      "label": "Broummana",
+      "city": "Broummana",
+      "venue": "Chez Alain",
+      "summary": "Jon Worth's map records “Chez Alain” in Broummana. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "md-tiraspol-tower-in-front-of-a-store": {
+      "name": "Tower in front of a store, Tiraspol",
+      "label": "Tiraspol",
+      "city": "Tiraspol",
+      "venue": "Tower in front of a store",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "my-ayer-hitam-tropical-village": {
+      "name": "Eiffel Tower at Tropical Village, Ayer Hitam",
+      "label": "Ayer Hitam",
+      "city": "Ayer Hitam",
+      "venue": "Tropical Village, Batu Pahat, Johor",
+      "summary": "Grey open lattice, broad legs and two projecting decks; the cropped summit is explicitly reconstructed.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed."
+    },
+    "nl-grootebroek-tower-in-the-grounds-of-a-college": {
+      "name": "Tower in the grounds of a college, Grootebroek",
+      "label": "Grootebroek",
+      "city": "Grootebroek",
+      "venue": "Tower in the grounds of a college",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "nl-toldijk-achterhoeks-planetarium": {
+      "name": "Achterhoeks Planetarium, Toldijk",
+      "label": "Toldijk",
+      "city": "Toldijk",
+      "venue": "Achterhoeks Planetarium",
+      "summary": "A pale miniature tower stands at the left of the site photograph, with arched legs and a tapering shaft; plants hide some feet.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed."
+    },
+    "nz-dunedin-new-zealand-and-south-seas-exhibition-1889": {
+      "name": "New Zealand and South Seas Exhibition (1889), Dunedin",
+      "label": "Dunedin",
+      "city": "Dunedin",
+      "venue": "New Zealand and South Seas Exhibition (1889)",
+      "summary": "Jon Worth's map records “New Zealand and South Seas Exhibition (1889)” in Dunedin. It is classified as a derivative or resemblance and is shown only through the related-building filter. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ph-dipolog-city-dipolog": {
+      "name": "Dipolog, Dipolog City",
+      "label": "Dipolog City",
+      "city": "Dipolog City",
+      "venue": "Dipolog",
+      "summary": "Jon Worth's map records “Dipolog” in Dipolog City. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ph-megamall-temporary-display": {
+      "name": "Eiffel model at Megamall",
+      "label": "Location unconfirmed",
+      "city": "",
+      "venue": "Megamall",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "rs-lozovik-tower-in-a-garden": {
+      "name": "Tower in a garden, Lozovik",
+      "label": "Lozovik",
+      "city": "Lozovik",
+      "venue": "Tower in a garden",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "ru-ekaterinoslavka-edge-of-town": {
+      "name": "Edge of town, Ekaterinoslavka",
+      "label": "Ekaterinoslavka",
+      "city": "Ekaterinoslavka",
+      "venue": "Edge of town",
+      "summary": "Jon Worth's map records “Edge of town” in Ekaterinoslavka. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ru-irkutsk-small-tower": {
+      "name": "Small tower, Irkutsk",
+      "label": "Irkutsk",
+      "city": "Irkutsk",
+      "venue": "Small tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower": {
+      "name": "The Mini Eiffel Tower, Mokhsogollokh, Sakha Republic",
+      "label": "Mokhsogollokh, Sakha Republic",
+      "city": "Mokhsogollokh, Sakha Republic",
+      "venue": "The Mini Eiffel Tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "sv-san-salvador-inti-tower": {
+      "name": "INTI Tower, San Salvador",
+      "label": "San Salvador",
+      "city": "San Salvador",
+      "venue": "INTI Tower",
+      "summary": "Jon Worth's map records “INTI Tower” in San Salvador. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "tw-taipei-shopping-street": {
+      "name": "Shopping Street, Taipei",
+      "label": "Taipei",
+      "city": "Taipei",
+      "venue": "Shopping Street",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "ua-hertsa-notary-office": {
+      "name": "Notary Office, Hertsa",
+      "label": "Hertsa",
+      "city": "Hertsa",
+      "venue": "Notary Office",
+      "summary": "Jon Worth's map records “Notary Office” in Hertsa. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ua-kamyanets-podilskyi-margaret-pizzeria": {
+      "name": "\"Margaret\" pizzeria, Kamyanets-Podilskyi",
+      "label": "Kamyanets-Podilskyi",
+      "city": "Kamyanets-Podilskyi",
+      "venue": "\"Margaret\" pizzeria",
+      "summary": "Jon Worth's map records “\"Margaret\" pizzeria” in Kamyanets-Podilskyi. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ua-kostyantynikka-euro-city-restaurant": {
+      "name": "'Euro-city' restaurant, Kostyantynikka",
+      "label": "Kostyantynikka",
+      "city": "Kostyantynikka",
+      "venue": "'Euro-city' restaurant",
+      "summary": "Jon Worth's map records “'Euro-city' restaurant” in Kostyantynikka. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nBrown slender lattice tower with curved legs, two thin platforms, a long tapering shaft and a small open crown.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed.",
+      "currentUses": []
+    },
+    "ua-mariupol-paris-cafe": {
+      "name": "'Paris' cafe, Mariupol",
+      "label": "Mariupol",
+      "city": "Mariupol",
+      "venue": "'Paris' cafe",
+      "summary": "Jon Worth's map records “'Paris' cafe” in Mariupol. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ua-melitopol-on-the-roof-of-a-pharmacy": {
+      "name": "On the roof of a pharmacy, Melitopol",
+      "label": "Melitopol",
+      "city": "Melitopol",
+      "venue": "On the roof of a pharmacy",
+      "summary": "Jon Worth's map records “On the roof of a pharmacy” in Melitopol. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ua-rivne-small-coffee-shop": {
+      "name": "small coffee shop, Rivne",
+      "label": "Rivne",
+      "city": "Rivne",
+      "venue": "small coffee shop",
+      "summary": "Jon Worth's map records “small coffee shop” in Rivne. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ua-sevastopol-tower-near-a-cafe": {
+      "name": "Tower near a cafe, Sevastopol",
+      "label": "Sevastopol",
+      "city": "Sevastopol",
+      "venue": "Tower near a cafe",
+      "summary": "Jon Worth's map records “Tower near a cafe” in Sevastopol. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ua-severodonetsk-tower-in-the-yard-of-impuls-institute": {
+      "name": "Tower in the yard of Impuls Institute, Severodonetsk",
+      "label": "Severodonetsk",
+      "city": "Severodonetsk",
+      "venue": "Tower in the yard of Impuls Institute",
+      "summary": "Jon Worth's map records “Tower in the yard of Impuls Institute” in Severodonetsk. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ua-strilkivtsi-ozirna-cave": {
+      "name": "'Ozirna' cave, Strilkivtsi",
+      "label": "Strilkivtsi",
+      "city": "Strilkivtsi",
+      "venue": "'Ozirna' cave",
+      "summary": "Jon Worth's map records “'Ozirna' cave” in Strilkivtsi. The object and its current status still need corroboration. Dimensions and current status still require separate evidence.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "ua-uman-uman-eiffel-tower": {
+      "name": "Uman Eiffel Tower, Uman",
+      "label": "Uman",
+      "city": "Uman",
+      "venue": "Uman Eiffel Tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "us-abington-ma-back-yard-tower": {
+      "name": "Back Yard Tower, Abington, MA",
+      "label": "Abington, MA",
+      "city": "Abington, MA",
+      "venue": "Back Yard Tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "us-bemidji-lac-du-bois": {
+      "name": "Concordia Language Villages, Lac du Bois, Bemidji, Minnesota",
+      "label": "Bemidji, Minnesota",
+      "city": "Bemidji, Minnesota",
+      "venue": "Concordia Language Villages, Lac du Bois",
+      "summary": "A rusty-brown rod model in a forest clearing, with two square platforms, splayed legs and a small crown; the base is visible.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "us-columbus-oh-liberty-street-tower": {
+      "name": "Liberty Street Tower, Columbus, OH",
+      "label": "Columbus, OH",
+      "city": "Columbus, OH",
+      "venue": "Liberty Street Tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "us-fountain-valley-ca-mini-golf-eiffel-tower": {
+      "name": "Mini golf Eiffel Tower, Fountain Valley, CA",
+      "label": "Fountain Valley, CA",
+      "city": "Fountain Valley, CA",
+      "venue": "Mini golf Eiffel Tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "us-lacrosse-wi-mini-golf-eiffel-tower": {
+      "name": "Mini golf Eiffel Tower, Lacrosse, WI",
+      "label": "Lacrosse, WI",
+      "city": "Lacrosse, WI",
+      "venue": "Mini golf Eiffel Tower",
+      "summary": "A blue-grey tower-shaped mini-golf obstacle with arched feet and open lattice, topped by a wind wheel.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed."
+    },
+    "us-leonia-nj-tower-in-a-garden": {
+      "name": "Tower in a garden, Leonia, NJ",
+      "label": "Leonia, NJ",
+      "city": "Leonia, NJ",
+      "venue": "Tower in a garden",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "us-mount-clemens-michigan-harper-metro-mini-golf": {
+      "name": "Harper Metro Mini Golf, Mount Clemens, Michigan",
+      "label": "Mount Clemens, Michigan",
+      "city": "Mount Clemens, Michigan",
+      "venue": "Harper Metro Mini Golf",
+      "summary": "Jon Worth's map records “Harper Metro Mini Golf” in Mount Clemens, Michigan. It is listed as removed or never built; the precise status and dates still need corroboration. Dimensions and current status still require separate evidence.\n\nThe 1986 photograph shows blue panel arches, a slender mesh-sided shaft and a silver vent cap, a simplified recreational model.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed.",
+      "currentUses": []
+    },
+    "us-napa-napa-county-courthouse": {
+      "name": "Eiffel Tower, Napa, California",
+      "label": "Napa, California",
+      "city": "Napa, California",
+      "venue": "Superior Courthouse grounds",
+      "summary": "Courthouse grounds: narrow dark lattice flag mast with spread feet and one small lower cross plate, no observation decks or Eiffel crown. Trees obscure part of the shaft. Unresolved classification retained.\n\nShown as related or similar architecture, hidden by default and available through its filter; not classified as a confirmed Eiffel replica."
+    },
+    "us-roanoke-front-yard-tower": {
+      "name": "Front Yard Tower, Roanoke",
+      "label": "Roanoke",
+      "city": "Roanoke",
+      "venue": "Front Yard Tower",
+      "summary": "The historical news photograph shows silver-white four-legged lattice, thin frame platforms, a long shaft and an open polygonal crown.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed."
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "name": "Vinson’s Miniature Golf, Taylor, Michigan",
+      "label": "Taylor, Michigan",
+      "city": "Taylor, Michigan",
+      "venue": "Vinson’s Miniature Golf",
+      "summary": "The Library of Congress holds John Margolies's 1986 photograph of the Eiffel Tower hole at Vinson's miniature golf in Taylor, Michigan. The archive establishes historical existence. An exact removal date and a current tower location have not been established.\n\nAvailable material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter.",
+      "currentUses": []
+    },
+    "us-wellfleet-comment-replica": {
+      "name": "Wellfleet Eiffel-model installation proposal",
+      "label": "Wellfleet model",
+      "city": "Wellfleet, Massachusetts",
+      "venue": "",
+      "summary": "A 2023 article distinguishes a stored 21-foot model, a rejected 2020 proposal of nearly 28 feet including its base, and an approved 2023 proposal of 21 feet 3 inches. Installation still required a building-inspector permit. The sources do not establish installation at the proposed site.\n\nThe owner-supplied photograph shows red legs and first deck, a white middle section, a dark-blue shaft and a two-tier open crown.\n\nPhotographs have been inspected for visible appearance; hidden and occluded parts are explicitly inferred. Height, coordinates and current status remain independently sourced or unconfirmed."
+    },
+    "vn-da-lat-viettel-telecommunication-tower": {
+      "name": "Viettel telecommunication tower, Da Lat",
+      "label": "Da Lat",
+      "city": "Da Lat",
+      "venue": "Viettel telecommunication tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    },
+    "vn-dalat-post-office-unresolved": {
+      "name": "Da Lat Post Office tower, Da Lat",
+      "label": "Da Lat",
+      "city": "Da Lat",
+      "venue": "VNPT telecommunications tower",
+      "summary": "Available material provides textual leads but does not establish this object’s appearance. The concept draft uses hypothetical proportions and details; current status remains subject to named evidence.\n\nUnconfirmed illustration: available evidence does not establish appearance or entity identity. Its proportions and details are illustrative; hidden by default and available through the unconfirmed-model filter."
+    }
+  }
+}

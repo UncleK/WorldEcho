@@ -1,0 +1,548 @@
+{
+  "towers": {
+    "gb-brockham-eiffel-tower-brockham": {
+      "name": "Tour Eiffel végétalisée de Brockham",
+      "label": "Brockham",
+      "city": "Brockham",
+      "venue": "",
+      "summary": "Une photographie du 12 août 2024 montre sur le terrain communal de Brockham une fine structure végétalisée en forme de tour Eiffel, avec des fleurs rouges et blanches, un drapeau français et une clôture blanche basse. Elle documente cet aspect, sans établir la date de construction, la hauteur, la permanence ni l’état actuel. Le modèle conserve les tiges ajourées ; les pieds masqués et l’arrière sont déduits par symétrie, et les fleurs évoquent la décoration photographiée.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "ae-dubai-falconcity-of-wonders": {
+      "name": "Tour à identifier — Dubai · Falconcity of Wonders (fiche de recherche)",
+      "label": "Dubai",
+      "city": "Dubai",
+      "venue": "Falconcity of Wonders",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "am-yerevan-club-parisian": {
+      "name": "Tour Eiffel — Yerevan · Club Parisian (fiche de recherche)",
+      "label": "Yerevan",
+      "city": "Yerevan",
+      "venue": "Club Parisian",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "at-zwingendorf-back-garden-tower-built-by-twin-brothers": {
+      "name": "Tour de jardin construite par deux frères jumeaux — Zwingendorf",
+      "label": "Zwingendorf",
+      "city": "Zwingendorf",
+      "venue": "Tour de jardin construite par deux frères jumeaux",
+      "summary": "La carte de Jon Worth signale « Back garden tower built by twin brothers » à Zwingendorf. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nTreillis doré à quatre pieds, deux plateformes fines, croisillons serrés et couronnement ajouré.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "az-baku-eiffel-tower": {
+      "name": "Tour Eiffel — Baku · Tour Eiffel (fiche de recherche)",
+      "label": "Baku",
+      "city": "Baku",
+      "venue": "Tour Eiffel",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "az-nakhchivan-yl-nc-adas": {
+      "name": "Tour de l’île des loisirs — Nakhchivan",
+      "label": "Nakhchivan",
+      "city": "Nakhchivan",
+      "venue": "Tour de l’île des loisirs",
+      "summary": "La carte de Jon Worth signale « Əyləncə Adası » à Nakhchivan. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "bo-sucre-parque-simon-bolivar": {
+      "name": "Tour à identifier — Sucre · Parque Bolívar (fiche de recherche)",
+      "label": "Sucre",
+      "city": "Sucre",
+      "venue": "Parque Bolívar",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nPetite tour orange-rouge dans un parc, larges arcs, deux plateformes panoramiques et sommet en cage ouverte ; personnes utilisables seulement comme repère approximatif.\n\nArchitecture apparentée ou ressemblante, masquée par défaut et accessible par son filtre ; sans être classée comme réplique Eiffel confirmée.",
+      "currentUses": []
+    },
+    "br-sao-paulo-rooftop-unresolved": {
+      "name": "Tour à identifier — São Paulo · possible JK Iguatemi rooftop (unverified) (fiche de recherche)",
+      "label": "São Paulo",
+      "city": "São Paulo",
+      "venue": "possible JK Iguatemi rooftop (unverified)",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ca-terrebonne-solarium-international": {
+      "name": "Tour Eiffel — Terrebonne, Quebec · Solarium International near Autoroute640 (historical claim) (fiche de recherche)",
+      "label": "Terrebonne, Quebec",
+      "city": "Terrebonne, Quebec",
+      "venue": "Solarium International near Autoroute640 (historical claim)",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "cn-zhurihe-chinese-army-tower": {
+      "name": "Tour Eiffel — Zhurihe · Zhurihe Training Base (fiche de recherche)",
+      "label": "Zhurihe",
+      "city": "Zhurihe",
+      "venue": "Zhurihe Training Base",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nUne image vidéo publique montre un treillis gris, de larges plateformes et un fût effilé ; parties cachées déduites.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "de-ismaning-bavaria-ismaning-radio-tower": {
+      "name": "Tour inspirée — Ismaning , Bavaria · Ismaning Radio Tower (fiche de recherche)",
+      "label": "Ismaning , Bavaria",
+      "city": "Ismaning , Bavaria",
+      "venue": "Ismaning Radio Tower",
+      "summary": "Cette fiche de recherche concerne une architecture inspirée de la silhouette Eiffel, distincte des répliques retenues pour le globe. Les faits, les sources et le statut du lieu restent ceux de la fiche d’origine.\n\nDessin de l’ancienne tour radio en bois, avec large base, longue partie haute étroite et croisillons ; ce n’est pas une photographie du site.\n\nLa tour émettrice historique en bois possède une base large, un long fût étroit et des traverses ; architecture apparentée.\n\nArchitecture apparentée ou ressemblante, masquée par défaut et accessible par son filtre ; sans être classée comme réplique Eiffel confirmée.",
+      "currentUses": []
+    },
+    "de-meckenheim-rungis-express": {
+      "name": "Piste de tour sur le toit de Rungis, Meckenheim",
+      "label": "Meckenheim",
+      "city": "Meckenheim",
+      "venue": "Toiture attribuée à Rungis, objet précis à confirmer",
+      "summary": "La tour attribuée au toit de Rungis à Meckenheim reste une piste de découverte, sans photographie correspondante ni position du corps de la tour. L’image citée concerne un autre lieu ; son apparence, ses dates et ses dimensions ne peuvent donc pas être transférées ici. La fiche de recherche est conservée : une existence non confirmée ne signifie pas une inexistence. Cette piste reste hors de la carte actuelle vérifiée en attendant des preuves de cet objet précis.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "dk-slagelse-wooden-tower-at-an-exhibition": {
+      "name": "Tour en bois d’une exposition — Slagelse",
+      "label": "Slagelse",
+      "city": "Slagelse",
+      "venue": "Tour en bois d’une exposition",
+      "summary": "La carte de Jon Worth signale « Wooden tower at an exhibition » à Slagelse. Cet objet dérivé ou ressemblant est présenté par son filtre optionnel. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "es-san-bartolome-de-tirajana-canary-islands-tower-at-shopping-arcade": {
+      "name": "Tour Eiffel — San Bartolomé de Tirajana, Canary Islands · Galerie marchande (fiche de recherche)",
+      "label": "San Bartolomé de Tirajana, Canary Islands",
+      "city": "San Bartolomé de Tirajana, Canary Islands",
+      "venue": "Galerie marchande",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "fr-biarritz-tower-on-a-house-roof": {
+      "name": "Tour Eiffel — Biarritz · Toit d’une maison (fiche de recherche)",
+      "label": "Biarritz",
+      "city": "Biarritz",
+      "venue": "Toit d’une maison",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "fr-bourgoin-jallieu-copie-de-la-tour-eiffel": {
+      "name": "Tour du château de Thézieu à Ruy (ancienne appellation Eiffel)",
+      "label": "Tour du château de Thézieu",
+      "city": "Ruy-Montceau",
+      "venue": "Château de Thézieu, Avenue des Cantinières",
+      "summary": "Le nom Eiffel de l'ancienne photographie renvoie à la tour du château de Thézieu à Ruy, appelée Tour des Morts dans les documents touristiques locaux. L'ancienne localisation à Bourgoin-Jallieu est corrigée. Un nom commun ne prouve pas une réplique : la relation reste à vérifier, hors du premier globe et des modèles publics de répliques.\n\nCarte postale historique d’une tour locale à niveaux étagés et sommet décoré ; ne prouve pas une présence actuelle.\n\nArchitecture apparentée ou ressemblante, masquée par défaut et accessible par son filtre ; sans être classée comme réplique Eiffel confirmée.",
+      "currentUses": []
+    },
+    "fr-breil-rue-des-cedres": {
+      "name": "Tour Eiffel — Breil, Maine-et-Loire · Rue des Cèdres (fiche de recherche)",
+      "label": "Breil, Maine-et-Loire",
+      "city": "Breil, Maine-et-Loire",
+      "venue": "Rue des Cèdres",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "fr-la-doree-tower-at-a-metal-worker-s-house": {
+      "name": "Tour Eiffel — La Dorée · Maison d’un artisan du métal (fiche de recherche)",
+      "label": "La Dorée",
+      "city": "La Dorée",
+      "venue": "Maison d’un artisan du métal",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "fr-menton-copy": {
+      "name": "Tour à identifier — Menton (fiche de recherche)",
+      "label": "Menton",
+      "city": "Menton",
+      "venue": "",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "fr-menton-tower-with-lemons": {
+      "name": "Tour Eiffel — Menton · Tour décorée de citrons (fiche de recherche)",
+      "label": "Menton",
+      "city": "Menton",
+      "venue": "Tour décorée de citrons",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLa photo de la fête des agrumes 2012 montre un remplissage jaune-orangé, des diagonales sombres, des plateformes en cadre et quatre arcs.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "fr-thieblemont-faremont-copy": {
+      "name": "Tour Eiffel — Thiéblemont-Farémont (fiche de recherche)",
+      "label": "Thiéblemont-Farémont",
+      "city": "Thiéblemont-Farémont",
+      "venue": "",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "gb-belfast-la-bastille-restaurant": {
+      "name": "Tour Eiffel — Belfast · La Bastille Restaurant (fiche de recherche)",
+      "label": "Belfast",
+      "city": "Belfast",
+      "venue": "La Bastille Restaurant",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "gb-wembley-greater-london-watkin-s-tower": {
+      "name": "Tour inspirée — Wembley , Greater London · Watkin's Tower (fiche de recherche)",
+      "label": "Wembley , Greater London",
+      "city": "Wembley , Greater London",
+      "venue": "Watkin's Tower",
+      "summary": "Cette fiche de recherche concerne une architecture inspirée de la silhouette Eiffel, distincte des répliques retenues pour le globe. Les faits, les sources et le statut du lieu restent ceux de la fiche d’origine.\n\nDessin du projet retenu pour la tour Watkin, à plusieurs plateformes et longue partie haute ; il ne montre pas une tour entièrement construite.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "gr-heraklion-tower-in-a-garden-in-a-narrow-street": {
+      "name": "Tour à identifier — Heraklion · Jardin dans une ruelle (fiche de recherche)",
+      "label": "Heraklion",
+      "city": "Heraklion",
+      "venue": "Jardin dans une ruelle",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nPetit ornement clair derrière un balcon ; seuls la partie haute et le sommet fin sont visibles, base cachée par la balustrade.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "id-lake-toba-world-heritage-mini-mini": {
+      "name": "Tour Eiffel — Lake Toba · World heritage mini mini (fiche de recherche)",
+      "label": "Lake Toba",
+      "city": "Lake Toba",
+      "venue": "World heritage mini mini",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "id-lembang-reddit-replica": {
+      "name": "Tour à identifier — Lembang (fiche de recherche)",
+      "label": "Lembang",
+      "city": "Lembang",
+      "venue": "",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "it-vergiate-corgeno-copy": {
+      "name": "Tour Eiffel — Corgeno / Vergiate (fiche de recherche)",
+      "label": "Corgeno / Vergiate",
+      "city": "Corgeno / Vergiate",
+      "venue": "",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLa photo montre une tour artisanale claire et ajourée sur le dallage d’une cour, avec plateformes décoratives et petite couronne. Son statut d’installation publique permanente et ses dimensions restent à vérifier ; les cinq mètres anciennement indiqués ne sont pas retenus.\n\nTour ajourée claire photographiée dans une cour, plateformes décorées et petit sommet ; caractère permanent et dimensions non confirmés.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "jp-nagoya-nagoya-tv-tower": {
+      "name": "Tour à identifier — Nagoya · Nagoya TV Tower (fiche de recherche)",
+      "label": "Nagoya",
+      "city": "Nagoya",
+      "venue": "Nagoya TV Tower",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nTour claire, large cabine rectangulaire basse, longue ossature à quatre angles, petite cabine supérieure et antenne continue.\n\nArchitecture apparentée ou ressemblante, masquée par défaut et accessible par son filtre ; sans être classée comme réplique Eiffel confirmée.",
+      "currentUses": []
+    },
+    "kh-phnom-penh-eiffel-map-candidate": {
+      "name": "Tour à identifier — Phnom Penh · Attraction cartographique nommée, attribution du site inconnue (fiche de recherche)",
+      "label": "Phnom Penh",
+      "city": "Phnom Penh",
+      "venue": "Attraction cartographique nommée, attribution du site inconnue",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "kr-bucheon-aiins-world": {
+      "name": "Tour Eiffel — Bucheon · Aiins World (fiche de recherche)",
+      "label": "Bucheon",
+      "city": "Bucheon",
+      "venue": "Aiins World",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nModèle de type Eiffel gris foncé, pieds courbes, treillis dense, deux plateformes et sommet compact.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "kz-aktau-oil-company-tower": {
+      "name": "Tour Eiffel — Aktau · Tour d’une société pétrolière (fiche de recherche)",
+      "label": "Aktau",
+      "city": "Aktau",
+      "venue": "Tour d’une société pétrolière",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "lb-broummana-chez-alain": {
+      "name": "Chez Alain — Broummana",
+      "label": "Broummana",
+      "city": "Broummana",
+      "venue": "Chez Alain",
+      "summary": "La carte de Jon Worth signale « Chez Alain » à Broummana. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "md-tiraspol-tower-in-front-of-a-store": {
+      "name": "Tour Eiffel — Tiraspol · Devant un magasin (fiche de recherche)",
+      "label": "Tiraspol",
+      "city": "Tiraspol",
+      "venue": "Devant un magasin",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "my-ayer-hitam-tropical-village": {
+      "name": "Tour Eiffel — Ayer Hitam · Tropical Village, Batu Pahat, Johor (fiche de recherche)",
+      "label": "Ayer Hitam",
+      "city": "Ayer Hitam",
+      "venue": "Tropical Village, Batu Pahat, Johor",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nTreillis gris ouvert, pieds larges et deux plateformes saillantes ; sommet hors cadre explicitement reconstitué.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "nl-grootebroek-tower-in-the-grounds-of-a-college": {
+      "name": "Tour Eiffel — Grootebroek · Terrain d’un établissement d’enseignement (fiche de recherche)",
+      "label": "Grootebroek",
+      "city": "Grootebroek",
+      "venue": "Terrain d’un établissement d’enseignement",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "nl-toldijk-achterhoeks-planetarium": {
+      "name": "Tour Eiffel — Toldijk · Achterhoeks Planetarium (fiche de recherche)",
+      "label": "Toldijk",
+      "city": "Toldijk",
+      "venue": "Achterhoeks Planetarium",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nUne tour miniature claire apparaît à gauche de la photo du site, avec pieds arqués et fût effilé ; végétation devant les pieds.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "nz-dunedin-new-zealand-and-south-seas-exhibition-1889": {
+      "name": "New Zealand and South Seas Exhibition (1889) — Dunedin",
+      "label": "Dunedin",
+      "city": "Dunedin",
+      "venue": "New Zealand and South Seas Exhibition (1889)",
+      "summary": "La carte de Jon Worth signale « New Zealand and South Seas Exhibition (1889) » à Dunedin. Cet objet dérivé ou ressemblant est présenté par son filtre optionnel. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ph-dipolog-city-dipolog": {
+      "name": "Dipolog — Dipolog City",
+      "label": "Dipolog City",
+      "city": "Dipolog City",
+      "venue": "Dipolog",
+      "summary": "La carte de Jon Worth signale « Dipolog » à Dipolog City. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ph-megamall-temporary-display": {
+      "name": "Tour Eiffel — Localisation à confirmer · Megamall (fiche de recherche)",
+      "label": "Localisation à confirmer",
+      "city": "Localisation à confirmer",
+      "venue": "Megamall",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "rs-lozovik-tower-in-a-garden": {
+      "name": "Tour Eiffel — Lozovik · Dans un jardin (fiche de recherche)",
+      "label": "Lozovik",
+      "city": "Lozovik",
+      "venue": "Dans un jardin",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ru-ekaterinoslavka-edge-of-town": {
+      "name": "Tour en périphérie de la ville — Ekaterinoslavka",
+      "label": "Ekaterinoslavka",
+      "city": "Ekaterinoslavka",
+      "venue": "Tour en périphérie de la ville",
+      "summary": "La carte de Jon Worth signale « Edge of town » à Ekaterinoslavka. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ru-irkutsk-small-tower": {
+      "name": "Tour Eiffel — Irkutsk · Petite tour (fiche de recherche)",
+      "label": "Irkutsk",
+      "city": "Irkutsk",
+      "venue": "Petite tour",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ru-mokhsogollokh-sakha-republic-the-mini-eiffel-tower": {
+      "name": "Tour Eiffel — Mokhsogollokh, Sakha Republic · Petite tour Eiffel (fiche de recherche)",
+      "label": "Mokhsogollokh, Sakha Republic",
+      "city": "Mokhsogollokh, Sakha Republic",
+      "venue": "Petite tour Eiffel",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "sv-san-salvador-inti-tower": {
+      "name": "INTI Tower — San Salvador",
+      "label": "San Salvador",
+      "city": "San Salvador",
+      "venue": "INTI Tower",
+      "summary": "La carte de Jon Worth signale « INTI Tower » à San Salvador. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "tw-taipei-shopping-street": {
+      "name": "Tour Eiffel — Taipei · Rue commerçante (fiche de recherche)",
+      "label": "Taipei",
+      "city": "Taipei",
+      "venue": "Rue commerçante",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-hertsa-notary-office": {
+      "name": "Notary Office — Hertsa",
+      "label": "Hertsa",
+      "city": "Hertsa",
+      "venue": "Notary Office",
+      "summary": "La carte de Jon Worth signale « Notary Office » à Hertsa. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-kamyanets-podilskyi-margaret-pizzeria": {
+      "name": "\"Margaret\" pizzeria — Kamyanets-Podilskyi",
+      "label": "Kamyanets-Podilskyi",
+      "city": "Kamyanets-Podilskyi",
+      "venue": "\"Margaret\" pizzeria",
+      "summary": "La carte de Jon Worth signale « \"Margaret\" pizzeria » à Kamyanets-Podilskyi. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-kostyantynikka-euro-city-restaurant": {
+      "name": "'Euro-city' restaurant — Kostyantynikka",
+      "label": "Kostyantynikka",
+      "city": "Kostyantynikka",
+      "venue": "'Euro-city' restaurant",
+      "summary": "La carte de Jon Worth signale « 'Euro-city' restaurant » à Kostyantynikka. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nTour brune à treillis fin, pieds courbes, deux plateformes minces, long fût effilé et petit sommet ouvert.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "ua-mariupol-paris-cafe": {
+      "name": "'Paris' cafe — Mariupol",
+      "label": "Mariupol",
+      "city": "Mariupol",
+      "venue": "'Paris' cafe",
+      "summary": "La carte de Jon Worth signale « 'Paris' cafe » à Mariupol. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-melitopol-on-the-roof-of-a-pharmacy": {
+      "name": "Tour sur le toit d’une pharmacie — Melitopol",
+      "label": "Melitopol",
+      "city": "Melitopol",
+      "venue": "Tour sur le toit d’une pharmacie",
+      "summary": "La carte de Jon Worth signale « On the roof of a pharmacy » à Melitopol. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-rivne-small-coffee-shop": {
+      "name": "Tour d’un petit café — Rivne",
+      "label": "Rivne",
+      "city": "Rivne",
+      "venue": "Tour d’un petit café",
+      "summary": "La carte de Jon Worth signale « small coffee shop » à Rivne. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-sevastopol-tower-near-a-cafe": {
+      "name": "Tour près d’un café — Sevastopol",
+      "label": "Sevastopol",
+      "city": "Sevastopol",
+      "venue": "Tour près d’un café",
+      "summary": "La carte de Jon Worth signale « Tower near a cafe » à Sevastopol. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-severodonetsk-tower-in-the-yard-of-impuls-institute": {
+      "name": "Tour dans la cour de l’institut Impuls — Severodonetsk",
+      "label": "Severodonetsk",
+      "city": "Severodonetsk",
+      "venue": "Tour dans la cour de l’institut Impuls",
+      "summary": "La carte de Jon Worth signale « Tower in the yard of Impuls Institute » à Severodonetsk. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-strilkivtsi-ozirna-cave": {
+      "name": "'Ozirna' cave — Strilkivtsi",
+      "label": "Strilkivtsi",
+      "city": "Strilkivtsi",
+      "venue": "'Ozirna' cave",
+      "summary": "La carte de Jon Worth signale « 'Ozirna' cave » à Strilkivtsi. Son identité et son état actuel restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "ua-uman-uman-eiffel-tower": {
+      "name": "Tour Eiffel — Uman · Uman Eiffel Tower (fiche de recherche)",
+      "label": "Uman",
+      "city": "Uman",
+      "venue": "Uman Eiffel Tower",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "us-abington-ma-back-yard-tower": {
+      "name": "Tour Eiffel — Abington, MA · Tour dans une arrière-cour (fiche de recherche)",
+      "label": "Abington, MA",
+      "city": "Abington, MA",
+      "venue": "Tour dans une arrière-cour",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "us-bemidji-lac-du-bois": {
+      "name": "Tour à identifier — Bemidji, Minnesota · Concordia Language Villages, Lac du Bois (fiche de recherche)",
+      "label": "Bemidji, Minnesota",
+      "city": "Bemidji, Minnesota",
+      "venue": "Concordia Language Villages, Lac du Bois",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nFine réplique brun rouille dans une clairière, deux cadres carrés, quatre pieds écartés et petit couronnement ; base dégagée.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "us-columbus-oh-liberty-street-tower": {
+      "name": "Tour Eiffel — Columbus, OH · Liberty Street Tower (fiche de recherche)",
+      "label": "Columbus, OH",
+      "city": "Columbus, OH",
+      "venue": "Liberty Street Tower",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "us-fountain-valley-ca-mini-golf-eiffel-tower": {
+      "name": "Tour Eiffel — Fountain Valley, CA · Tour Eiffel de minigolf (fiche de recherche)",
+      "label": "Fountain Valley, CA",
+      "city": "Fountain Valley, CA",
+      "venue": "Tour Eiffel de minigolf",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "us-lacrosse-wi-mini-golf-eiffel-tower": {
+      "name": "Tour Eiffel — Lacrosse, WI · Tour Eiffel de minigolf (fiche de recherche)",
+      "label": "Lacrosse, WI",
+      "city": "Lacrosse, WI",
+      "venue": "Tour Eiffel de minigolf",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nObstacle de minigolf en forme de tour bleu-gris, pieds arqués et treillis ouvert, surmonté d’une roue à vent.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "us-leonia-nj-tower-in-a-garden": {
+      "name": "Tour Eiffel — Leonia, NJ · Dans un jardin (fiche de recherche)",
+      "label": "Leonia, NJ",
+      "city": "Leonia, NJ",
+      "venue": "Dans un jardin",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "us-mount-clemens-michigan-harper-metro-mini-golf": {
+      "name": "Harper Metro Mini Golf — Mount Clemens, Michigan",
+      "label": "Mount Clemens, Michigan",
+      "city": "Mount Clemens, Michigan",
+      "venue": "Harper Metro Mini Golf",
+      "summary": "La carte de Jon Worth signale « Harper Metro Mini Golf » à Mount Clemens, Michigan. La source le classe comme retiré ou jamais construit ; l’état et les dates restent à confirmer. Les dimensions et l’état actuel restent à confirmer séparément.\n\nLa photo de 1986 montre des arcs en panneaux bleus, un fût mince grillagé et un chapeau argenté, modèle de loisir simplifié.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "us-napa-napa-county-courthouse": {
+      "name": "Tour à identifier — Napa, California · Terrain du tribunal supérieur (fiche de recherche)",
+      "label": "Napa, California",
+      "city": "Napa, California",
+      "venue": "Terrain du tribunal supérieur",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nMât de drapeau sombre et élancé devant le tribunal, pieds écartés et plaque transversale basse, sans plateforme panoramique ni sommet de type Eiffel ; classification non résolue.\n\nArchitecture apparentée ou ressemblante, masquée par défaut et accessible par son filtre ; sans être classée comme réplique Eiffel confirmée.",
+      "currentUses": []
+    },
+    "us-roanoke-front-yard-tower": {
+      "name": "Tour Eiffel — Roanoke · Tour dans un jardin de façade (fiche de recherche)",
+      "label": "Roanoke",
+      "city": "Roanoke",
+      "venue": "Tour dans un jardin de façade",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLa photographie de presse historique montre un treillis blanc argenté à quatre pieds, des plateformes fines et un sommet polygonal ouvert.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "us-taylor-michigan-vinson-s-miniature-golf": {
+      "name": "Vinson’s Miniature Golf — Taylor, Michigan",
+      "label": "Taylor, Michigan",
+      "city": "Taylor, Michigan",
+      "venue": "Vinson’s Miniature Golf",
+      "summary": "La Bibliothèque du Congrès conserve la photographie de 1986 de John Margolies montrant le trou de golf miniature en forme de tour Eiffel chez Vinson, à Taylor dans le Michigan. L'archive établit une existence historique. La date précise de retrait et l'emplacement actuel ne sont pas établis.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "us-wellfleet-comment-replica": {
+      "name": "Projet d'installation du modèle Eiffel de Wellfleet",
+      "label": "Modèle de Wellfleet",
+      "city": "Wellfleet, Massachusetts",
+      "venue": "",
+      "summary": "Un article de 2023 distingue le modèle entreposé de 21 pieds, le projet refusé de 2020 de près de 28 pieds avec socle et le projet approuvé de 2023 de 21 pieds et 3 pouces. L'installation nécessitait encore une autorisation de l'inspecteur ; sa réalisation à l'emplacement prévu n'est pas établie.\n\nLa photo fournie par le propriétaire montre des pieds et une première plateforme rouges, une section blanche, un fût bleu foncé et un sommet ouvert à deux niveaux.\n\nPhotographies examinées pour l’apparence visible ; parties cachées explicitement déduites. Hauteur, coordonnées et situation actuelle restent documentées séparément ou non confirmées.",
+      "currentUses": []
+    },
+    "vn-da-lat-viettel-telecommunication-tower": {
+      "name": "Tour inspirée — Da Lat · Tour de télécommunications Viettel (fiche de recherche)",
+      "label": "Da Lat",
+      "city": "Da Lat",
+      "venue": "Tour de télécommunications Viettel",
+      "summary": "Cette fiche de recherche concerne une architecture inspirée de la silhouette Eiffel, distincte des répliques retenues pour le globe. Les faits, les sources et le statut du lieu restent ceux de la fiche d’origine.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    },
+    "vn-dalat-post-office-unresolved": {
+      "name": "Tour à identifier — Da Lat · Tour de télécommunications VNPT (fiche de recherche)",
+      "label": "Da Lat",
+      "city": "Da Lat",
+      "venue": "Tour de télécommunications VNPT",
+      "summary": "Cette piste documentaire est conservée dans les archives. L’identité précise, l’origine ou l’état actuel nécessitent encore les vérifications indiquées dans la fiche ; aucune date, dimension ni possibilité de visite n’est déduite du seul nom.\n\nLes documents disponibles donnent des pistes textuelles sans établir l’apparence de cet objet. Les proportions et détails de l’ébauche sont hypothétiques ; la situation actuelle reste à confirmer par des sources identifiées.\n\nModèle illustratif non confirmé : les preuves disponibles ne confirment pas l’apparence ou l’identité. Proportions et détails illustratifs ; masqué par défaut, accessible par le filtre des modèles non confirmés.",
+      "currentUses": []
+    }
+  }
+}
