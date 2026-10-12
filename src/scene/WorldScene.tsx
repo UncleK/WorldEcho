@@ -1138,6 +1138,7 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   const revealPlay = useCallback(() => {
     if (latestProps.current.viewMode !== 'globe') return;
     controls.current?.zoomTo(1,false);
+    globeZoomLevel.current=1;
     const normal = globeCamera.position.clone().normalize();
     const radius = globalViewDistance();
     playRevealAge.current = playRuntime.age;
@@ -1183,12 +1184,12 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
   const applyGlobeZoom=useCallback((next:number,animate:boolean)=>{
     const control=controls.current;if(!control)return;
     const level=Math.max(MIN_GLOBE_ZOOM,Math.min(MAX_GLOBE_ZOOM,next));
-    const pose=globeZoomPose(globeZoomLevel.current,level,control.getSpherical(new Spherical(),true).radius,EARTH_RADIUS);
+    const pose=globeZoomPose(globeZoomLevel.current,level,control.getSpherical(new Spherical(),true).radius,EARTH_RADIUS,globalViewDistance());
     globeZoomLevel.current=level;
     control.dollyTo(Math.min(40,pose.distance),animate);
     control.zoomTo(pose.zoom,animate);
     invalidate();
-  },[invalidate]);
+  },[globalViewDistance,invalidate]);
 
   useImperativeHandle(ref, () => ({
     previewScale: (value) => {
@@ -1315,6 +1316,8 @@ const SceneContents = forwardRef<WorldSceneHandle, WorldSceneProps & { mobile: b
     const returningFromComparison = previousViewMode.current === 'comparison' && viewMode === 'globe';
     previousViewMode.current = viewMode;
     if (returningFromComparison) {
+      control.zoomTo(1,false);
+      globeZoomLevel.current=1;
       cameraMode.current = 'overview';
       globeCamera.up.copy(GLOBAL_UP);
       control.updateCameraUp();

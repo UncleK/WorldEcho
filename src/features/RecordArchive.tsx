@@ -18,7 +18,7 @@ export default function RecordArchive({row,sources,comparisonAction}:{row:Resear
       <RecordModelPreview key={row.id} row={row}/>
     </div>}
     <div className="record-introduction-grid">
-      <section className="record-introduction"><h3>{t('概述')}</h3><ResearchRecordOverview row={row} sources={sources} showLocation={false} showModel={false} showAliasNotice={false}/></section>
+      <section className="record-introduction"><h3>{t('概述')}</h3><ResearchRecordOverview key={row.id} row={row} sources={sources} showLocation={false} showModel={false} showAliasNotice={false} compact/></section>
       <div><ResearchRecordLocation row={row} sources={sources}/>
         <RecordActions className="cat-detail-actions">
           {comparisonAction??(row.globeAvailable&&<a href={`/?tower=${encodeURIComponent(row.aliasOf??row.id)}${row.modelKey?'':'&unmodeled=1'}${row.modelCollection==='provisional'?'&provisional=1':''}${row.modelCollection==='related'||row.classification==='inspired'?'&related=1':''}`}><Globe2 size={15}/>{t('在地球上查看')}</a>)}

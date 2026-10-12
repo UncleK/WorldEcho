@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T05:58:03.781Z",
+  "generatedAt": "2026-10-12T08:17:16.579Z",
   "scope": "Public frontend source and static runtime snapshot; not a production-release approval",
   "photoOrigin": "https://worldecho.beaverstudio.net",
   "sourceStable": true,
   "stats": {
     "sourceFiles": 1836,
     "exportedFiles": 1850,
-    "bytes": 214894012,
+    "bytes": 214898293,
     "registeredModels": 533,
     "publicModelCases": 533,
     "researchRecords": 554,
@@ -10334,8 +10334,8 @@
     },
     {
       "path": "src/catalog/RecordEvidence.tsx",
-      "bytes": 6258,
-      "sha256": "0633ae4cde336c0135088175543c5d8119e33877cd2110ded0fbdaa9c99aa9f8",
+      "bytes": 6448,
+      "sha256": "7b958afe8a77247f5e0fbf60605850424276cdba0df0664fa2fe4975d748d3d4",
       "origin": "src/catalog/RecordEvidence.tsx"
     },
     {
@@ -10502,8 +10502,8 @@
     },
     {
       "path": "src/features/DisplayHeightEvidence.tsx",
-      "bytes": 1217,
-      "sha256": "d63339b82bcc0dec70371b33458e30cdc4687a3fc64b967646a3a64eaf4e4aea",
+      "bytes": 1289,
+      "sha256": "7e4faeb64c187d946f55e5b03948e6772192129b76cc4eec1e28b426ae7ac031",
       "origin": "src/features/DisplayHeightEvidence.tsx"
     },
     {
@@ -10628,8 +10628,8 @@
     },
     {
       "path": "src/features/record-archive.css",
-      "bytes": 2415,
-      "sha256": "174c1575261132754e5292348b125c517487b8a57508489e8a314ea7fccbda02",
+      "bytes": 2762,
+      "sha256": "d9b2594a91880ec67929253302cb0b55c0ed9d6210436e0e6a6a4a66c3e21b85",
       "origin": "src/features/record-archive.css"
     },
     {
@@ -10646,14 +10646,14 @@
     },
     {
       "path": "src/features/RecordArchive.tsx",
-      "bytes": 2292,
-      "sha256": "6f219f644ab0d77f9e2fd6143aece70c222340fd59543bac8b4e60fa16f7bad3",
+      "bytes": 2313,
+      "sha256": "7c3e360b5b717939551f19f9e9972933c3085368d96704fd155615c0907cac2b",
       "origin": "src/features/RecordArchive.tsx"
     },
     {
       "path": "src/features/RecordModelPreview.tsx",
-      "bytes": 1805,
-      "sha256": "654dfd43a36a3fc422df6678ef55ed449fe72aac0fbfae82ebf217f989f6071c",
+      "bytes": 1424,
+      "sha256": "a5480c919746fbc138ead44feda1b7bc8f3f82d77a30887159b926bb98e1f8a0",
       "origin": "src/features/RecordModelPreview.tsx"
     },
     {
@@ -10682,8 +10682,8 @@
     },
     {
       "path": "src/features/ResearchRecordOverview.tsx",
-      "bytes": 2802,
-      "sha256": "10f6704bde504c9f8b77b46e6b2bdf2fca4ee43c735a914bb32d84f942b56509",
+      "bytes": 3733,
+      "sha256": "4cba9f812751cdc16121be65fc908c6d4f8a65509fd7be3373a8360e0bb4d51d",
       "origin": "src/features/ResearchRecordOverview.tsx"
     },
     {
@@ -10712,8 +10712,8 @@
     },
     {
       "path": "src/features/tower-filters.css",
-      "bytes": 3396,
-      "sha256": "90fdfaa91edeec06ec13ef57f952b8e214eab12d539e06ce30417e38f698d65d",
+      "bytes": 4263,
+      "sha256": "ce4be0854dad47ed9f6a62862eb389e9fe1edd146d2fca7c377ae4e52ebbd7ee",
       "origin": "src/features/tower-filters.css"
     },
     {
@@ -10724,8 +10724,8 @@
     },
     {
       "path": "src/features/TowerFilterFields.tsx",
-      "bytes": 3793,
-      "sha256": "6e04fca4eaecd3dd7e3beebc8903c4be913c09df87f080444af4a13f3dc478b0",
+      "bytes": 3657,
+      "sha256": "55ae57292b8d9d3cd16dc8b2cef6adc86b7b5c545ec5e0605039f6735e490137",
       "origin": "src/features/TowerFilterFields.tsx"
     },
     {
@@ -10766,8 +10766,8 @@
     },
     {
       "path": "src/i18n/en.json",
-      "bytes": 52550,
-      "sha256": "aad75048112dae1bc499b52481b5df01455113f42ba1d4220a1653a00e8283de",
+      "bytes": 53375,
+      "sha256": "33775150ca72131f53702751e93f815b5fc4a4973efbb81e20f62a444d09c297",
       "origin": "src/i18n/en.json"
     },
     {
@@ -10778,8 +10778,8 @@
     },
     {
       "path": "src/i18n/fr.json",
-      "bytes": 58665,
-      "sha256": "c214f18867e61b999cbeed99ce405291b1e8b29203f5c457235ed56fc2b2928f",
+      "bytes": 59592,
+      "sha256": "ed8b9d5b22d0020fe78c49dbc79058591a9acd2f4d50a06b598fc8ea73f10d1f",
       "origin": "src/i18n/fr.json"
     },
     {
@@ -10928,14 +10928,14 @@
     },
     {
       "path": "src/scene/globe-camera.test.mjs",
-      "bytes": 1768,
-      "sha256": "87c86137c3eefb6a290b4bd05ad7c84c433efed42283d18a79ef39d7b7583ad3",
+      "bytes": 2093,
+      "sha256": "3e42b35a5a26298abeb6d3f1a192734e19a57fd72884452b5d5f7e4641b78b19",
       "origin": "src/scene/globe-camera.test.mjs"
     },
     {
       "path": "src/scene/globe-camera.ts",
-      "bytes": 740,
-      "sha256": "842dd1e698b5522e35bbfb684b67b61c4a2f37487ef94b07925264808f0531fc",
+      "bytes": 900,
+      "sha256": "4d600c469c964aab05254933414af2f90cad073ca1cb02822a7588e0f25ad070",
       "origin": "src/scene/globe-camera.ts"
     },
     {
@@ -11066,8 +11066,8 @@
     },
     {
       "path": "src/scene/WorldScene.tsx",
-      "bytes": 108901,
-      "sha256": "db760cdba143791220d3a2db6987530550d4a4764cd172e39ad9bf208d8983c1",
+      "bytes": 109034,
+      "sha256": "97dfcac10385c2853a8f09159a7368bd4a825603cbbbdae73f8e08d8a4712dd9",
       "origin": "src/scene/WorldScene.tsx"
     },
     {

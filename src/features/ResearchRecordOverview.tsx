@@ -1,3 +1,4 @@
+import { useEffect, useId, useRef, useState } from 'react';
 import { EvidenceSources } from '../catalog/RecordEvidence';
 import { CLASS_LABELS, STATUS_LABELS } from '../catalog/research';
 import type { ResearchRow, ResearchSource } from '../catalog/research';
@@ -18,7 +19,16 @@ export function ResearchRecordLocation({ row, sources }: { row: ResearchRow; sou
   </section>;
 }
 
-export default function ResearchRecordOverview({ row, sources, showLocation=true, showModel=true, showAliasNotice=true }: { row: ResearchRow; sources: Map<string, ResearchSource>; showLocation?:boolean;showModel?:boolean;showAliasNotice?:boolean }) {
+export default function ResearchRecordOverview({ row, sources, showLocation=true, showModel=true, showAliasNotice=true, compact=false }: { row: ResearchRow; sources: Map<string, ResearchSource>; showLocation?:boolean;showModel?:boolean;showAliasNotice?:boolean;compact?:boolean }) {
+  const storyRef=useRef<HTMLParagraphElement>(null),storyId=useId();
+  const [expanded,setExpanded]=useState(false),[hasMore,setHasMore]=useState(false);
+  useEffect(()=>{setExpanded(false);},[row.id]);
+  useEffect(()=>{
+    const story=storyRef.current;if(!story||!compact||expanded)return;
+    const measure=()=>setHasMore(story.scrollHeight>story.clientHeight+1);
+    const observer=new ResizeObserver(measure);observer.observe(story);measure();
+    return()=>observer.disconnect();
+  },[compact,expanded,row.id,row.summary]);
   return <div className="research-record-summary" data-research-record={row.id}>
     {showAliasNotice&&row.aliasOf && <p className="cat-alias-notice">{t('这是一条已合并的别名记录。')} <a href={`/catalog.html?entry=${encodeURIComponent(row.aliasOf)}`}>{t('打开合并后的档案')}</a></p>}
     <div className="research-record-badges">
@@ -26,9 +36,10 @@ export default function ResearchRecordOverview({ row, sources, showLocation=true
       <span>{t(STATUS_LABELS[row.status] || row.status)}</span>
       <span>{row.coverage}{t('/5 基础字段')}</span>
     </div>
-    <p className="research-record-story">{row.summary ? metricCopy(row.summary, getLanguage()) : t('目前保留为可追溯的调查记录；建造缘由、使用情况或现状仍需继续补证。')}</p>
+    <p ref={storyRef} id={storyId} className={`research-record-story${compact&&!expanded?' is-collapsed':''}`}>{row.summary ? metricCopy(row.summary, getLanguage()) : t('目前保留为可追溯的调查记录；建造缘由、使用情况或现状仍需继续补证。')}</p>
+    {compact&&hasMore&&<button className="record-story-toggle" type="button" aria-expanded={expanded} aria-controls={storyId} onClick={()=>setExpanded(value=>!value)}>{t(expanded?'收起概述':'展开完整概述')}</button>}
     {row.summary && <EvidenceSources ids={row.summarySourceIds} sources={sources} />}
-    <DisplayHeightEvidence id={row.aliasOf??row.id} heightM={row.heightM}/>
+    {!compact&&<DisplayHeightEvidence id={row.aliasOf??row.id} heightM={row.heightM}/>}
     {row.uses.length > 0 && <p className="research-record-uses">{t('来源记录用途：')}{row.uses.join(' · ')}</p>}
     {showLocation&&<ResearchRecordLocation row={row} sources={sources}/>}
     {showModel&&<ModelEvidence row={row}/>}

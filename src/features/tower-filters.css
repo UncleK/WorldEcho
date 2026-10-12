@@ -1,6 +1,9 @@
 .tower-filter-popover{position:absolute;bottom:44px;right:0;width:270px;max-width:calc(100vw - 32px);padding:14px;border:1px solid #637e9250;border-radius:13px;background:#102334f5;box-shadow:0 8px 26px #0007;white-space:normal;color:#c4d4df}
 .tower-filter-popover>strong{display:block;font-size:12px;margin-bottom:13px;font-weight:500}
 .tower-filter-fields{display:grid;gap:12px;font-size:11px;text-align:left;color:inherit}
+.tower-filter-select{display:grid;gap:7px}.tower-filter-select select{width:100%;min-width:0;min-height:36px;border:1px solid #526b7c80;border-radius:7px;background:#0b1826;padding:6px 8px;color:inherit;font:inherit;font-size:12px}
+.tower-filter-more{border-top:1px solid #637e9240;padding-top:10px}.tower-filter-more>summary{cursor:pointer;display:flex;align-items:center;gap:8px;min-height:28px}.tower-filter-more>summary:after{content:'+';margin-left:auto}.tower-filter-more[open]>summary:after{content:'−'}.tower-filter-more>summary>span{font-size:10px;border-radius:12px;background:#43596880;padding:1px 6px}.tower-filter-extra-fields{display:grid;gap:10px;padding-top:10px}.tower-filter-active{margin:0;font-size:10px;line-height:1.7;color:inherit;opacity:.8}
+[data-theme=light] .tower-filter-select select{background:#fff;color:#3d5361;border-color:#b4c1c8}
 .tower-filter-fields .tower-filter-check{display:flex;align-items:center;gap:9px;min-height:24px;line-height:1.5;cursor:pointer}
 .tower-filter-check input{width:16px;height:16px;flex:none;margin:0;accent-color:#c6a479}
 .tower-filter-height{display:grid;gap:7px}.tower-filter-height>div{display:flex;align-items:center;gap:8px}.tower-filter-height input{width:100%;min-width:0;height:34px;background:#0b1826;border:1px solid #526b7c80;border-radius:7px;padding:6px 8px;color:inherit;font-size:13px;font-variant-numeric:tabular-nums}
